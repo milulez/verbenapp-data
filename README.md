@@ -3,7 +3,7 @@
 Directorio de verbenas de Galicia (verano 2026). Este repo regenera **`verbenas.json`** (~4.850 fiestas, calendario real con orquesta + hora + recinto + servicios) y **`orquestas.json`** (246 bandas con foto/ranking/redes), scrapeando orquestasdegalicia.es.
 
 ## Auto-refresco (GitHub Actions)
-`.github/workflows/refresh.yml` corre el pipeline **cada lunes** (y a mano con *Run workflow*), regenera los JSON y los commitea. La app los lee por CDN, así que se actualizan solos sin redeploy.
+`.github/workflows/refresh.yml` corre el pipeline **cada día** (05:00 UTC, y a mano con *Run workflow*), regenera los JSON y los commitea. Cachea las páginas de detalle/formación entre runs, así a diario solo baja los bolos nuevos (no machaca ODG). La app los lee por CDN, así que se actualizan solos sin redeploy.
 
 ## La app lee el JSON por jsDelivr (CDN global, CORS abierto)
 ```

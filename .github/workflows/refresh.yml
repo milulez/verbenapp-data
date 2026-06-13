@@ -2,7 +2,7 @@ name: Refrescar verbenas (scrape ODG)
 
 on:
   schedule:
-    - cron: '0 5 * * 1'      # cada lunes 05:00 UTC (07:00 Madrid verano)
+    - cron: '0 5 * * *'      # cada día 05:00 UTC (07:00 Madrid verano)
   workflow_dispatch: {}        # botón manual "Run workflow"
 
 permissions:
@@ -26,6 +26,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
+      # cachea las páginas de detalle/formación (caras: ~2300). Los fetchers saltan las ya bajadas
+      # -> a diario solo descarga los bolos NUEVOS. Las ventanas de actuaciones se rebajan siempre frescas.
+      - name: Restaurar caché ODG
+        uses: actions/cache@v4
+        with:
+          path: |
+            /tmp/odg_det
+            /tmp/odg_form
+          key: odg-cache-${{ github.run_id }}
+          restore-keys: odg-cache-
 
       - name: Ejecutar pipeline
         env:
