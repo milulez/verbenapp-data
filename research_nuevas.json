@@ -1,1 +1,230 @@
-[]
+[
+ {
+  "parroquia": "Soutomerille",
+  "nombre": "Festa parroquial de San Salvador de Soutomerille",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Soutomerille es una pequeña parroquia de Castroverde célebre por su iglesia de San Salvador, de origen prerrománico (reformada en 1619), uno de los rincones patrimoniales del concello. No se ha localizado información publicada sobre fecha ni programa de su fiesta parroquial.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Patrimonio: iglesia prerrománica de San Salvador de Soutomerille (reformada en 1619), de interés turístico. Sin datos publicados de la fiesta.",
+  "programa": null,
+  "fuentes": [
+   "https://www.turismo.gal/recurso/-/detalle/5321/igrexa-parroquial-de-san-salvador-de-soutomerille",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-castroverde-107.html"
+  ],
+  "concello": "Castroverde",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Bullán",
+  "nombre": "Festa parroquial de Bullán",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Bullán es una parroquia rural de Castroverde. No se ha localizado información publicada (fecha, patrón ni programa) sobre su fiesta de verano; zona de montaña con escasa presencia en fuentes online.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-castroverde-107.html"
+  ],
+  "concello": "Castroverde",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Melide (concello)",
+  "nombre": "Feira do Ovo",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "2025-09-06 a 2025-09-07"
+  },
+  "fundacion": null,
+  "historiaCorta": "Feira gastronómica y solidaria de comienzos de septiembre que pone el huevo y los productos locales en el centro de la jornada.",
+  "historiaLarga": null,
+  "tradicion": "Cita gastronómica de carácter solidario que cierra el calendario festivo del verano en Melide.",
+  "gastronomia": [
+   "Productos a base de huevo y producto local"
+  ],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-melide-47.html"
+  ],
+  "concello": "Melide",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fonmiñá (A Pastoriza)",
+  "nombre": "Festas da Portería de Fonmiñá",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "30-31 de agosto",
+   "2025": null
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiestas del lugar de Fonmiñá (Portería), a finales de agosto. Verbenas con orquestas junto a la laguna de Fonmiñá, una de las mayores de Galicia.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Se celebran cerca de la laguna de Fonmiñá, nacimiento del río Miño y enclave natural destacado del concello.",
+  "programa": "Verbenas con orquestas y grupos musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pastoriza-136.html",
+   "https://www.orquestasdegalicia.es/lugar/lugo/fonmi%C3%B1a-pastoriza"
+  ],
+  "concello": "A Pastoriza",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "A Gasalla (Baleira)",
+  "nombre": "Festas Patronais de San Ramón de A Gasalla",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-30",
+  "fechaFin2026": "2026-08-31",
+  "fechasPrevias": {
+   "2025": "30-31 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de la parroquia de A Gasalla en honor a San Ramón, a finales de agosto. Churrascada popular, misa solemne, procesión y verbena con varias orquestas cierran el verano festivo de Baleira.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrascada popular (sábado 22:00)",
+   "Sesión vermú"
+  ],
+  "servicios": [],
+  "tradicion": "Procesión acompañada por el grupo Toxo Queimado.",
+  "programa": "Sábado 30: churrascada popular (22:00) y verbena (en 2025, dúo Tropical). Domingo 31: misa solemne (13:30) y procesión, sesión vermú (dúo Os Trasnos) y verbena nocturna (en 2025, Pili Pampín, grupo Fussion y Adolfo Valiño).",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-ramon-de-a-gasalla-baleira-3023.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-baleira-98.html"
+  ],
+  "concello": "Baleira",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Baleira (concello)",
+  "nombre": "Festa Foliada do Emigrante",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-02",
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "2 de agosto (I edición)"
+  },
+  "fundacion": "I edición en 2025",
+  "historiaCorta": "Foliada (fiesta de música y baile tradicional gallego) dedicada al emigrante, estrenada en Baleira en 2025. Pone en valor el folclore y a quienes mantienen el vínculo con la tierra desde fuera.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Foliada de música tradicional gallega; homenaje a los emigrantes del concello.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-baleira-98.html"
+  ],
+  "concello": "Baleira",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Rabal",
+  "nombre": "Nosa Señora da Armada",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-09-06",
+  "fechaFin2026": "2026-09-09",
+  "fundacion": null,
+  "fechasPrevias": {
+   "2023": "7-9 septiembre",
+   "2024": "7-9 septiembre",
+   "2025": "alrededor del 6-9 septiembre"
+  },
+  "historiaCorta": "Romería mariana de gran arraigo en el santuario de Armada, parroquia de Rabal. Cada septiembre los devotos renuevan sus votos a la Virxe da Armada con misas, procesión y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cena popular: empanada, costilla, pollo a la moda portuguesa, criollo y bica (en 2025, 20 euros)",
+   "Pulpería",
+   "Raciones de callos (ediciones anteriores)",
+   "Taberna"
+  ],
+  "tradicion": "Devoción mariana de renovación de votos. Misas cada media hora desde las 8:00 de la mañana en el día grande.",
+  "programa": "Sábado: cena popular, proyección de vídeos de fiestas antiguas y guateque con DJ. Domingo: charanga (BCB). Día grande (lunes): misas cada media hora desde las 8:00, procesión con la Banda de Música de Celanova y misa solemne al aire libre hacia las 12:15, y verbena nocturna (en 2024 con las orquestas Solara y Saudade).",
+  "servicios": [
+   "Servicio de pulpería",
+   "Taberna"
+  ],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/nosa-se%C3%B1ora-da-armada-de-rabal-celanova-1761.html",
+   "https://www.ourense.com/local/eventos/romeria-y-fiesta-de-la-armada-2024-en-rabal-celanova-del-7-al-9-de-septiembre/",
+   "https://www.laregion.es/comarca-de-celanova/devocion-mariana-renovo-votos-virxe-da-armada-celanova_1_20240910-3288788.html"
+  ],
+  "concello": "Celanova",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Forxa e Fontemoura (San Martiño de Porqueira)",
+  "nombre": "Festa de San Bieito (San Benito) de Forxa e Fontemoura",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "2023-08-04",
+   "2025": "2025-08-01"
+  },
+  "fundacion": null,
+  "historiaCorta": "Los lugares de Forxa y Fontemoura celebran a San Bieito el primer fin de semana de agosto. Es una de las citas más animadas del verano de Porqueira, con cena popular, verbena y procesión.",
+  "historiaLarga": "Las Grandes Festas en Honor a San Bieito (San Benito) reúnen a los vecinos de Forxa y Fontemoura, en la parroquia de San Martiño de Porqueira, durante el primer fin de semana de agosto. La fiesta combina la parte religiosa, con alborada, procesión y misa el domingo, y la parte lúdica, con cena popular el sábado, sorteo entre los comensales y dos noches de orquesta y verbena. En 2023 se celebró del 4 al 6 de agosto y en 2025 en torno al 1-3 de agosto.",
+  "tradicion": "Fiesta de los lugares de Forxa y Fontemoura; mantiene el formato clásico de cena popular con sorteo de los números de los tickets de la cena.",
+  "programa": "Viernes: apertura del bar (23:00 h). Sábado: cena popular (21:00 h) con orquesta (Royal Espectáculo y DJ) y sorteo. Domingo: alborada (09:00 h), procesión (11:30 h), misa (12:00 h) y verbena de tarde-noche (20:00-00:00 h).",
+  "gastronomia": [
+   "Cena popular (empanada, porco ó espeto, pan, bebida, bica y chocolate)",
+   "Empanada",
+   "Porco ó espeto (cerdo al espeto)",
+   "Bica"
+  ],
+  "servicios": [
+   "Bar de fiesta",
+   "Cena popular con menú (~15 €)",
+   "Sorteo entre comensales",
+   "Verbena con orquesta y DJ"
+  ],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-benito-de-forxa-e-fontemoura-porqueira-33359.html",
+   "https://www.galiciafiestas.es/ourense/porqueira/",
+   "https://www.orquestasdegalicia.es/lugar/ourense/forxa-porqueira"
+  ],
+  "concello": "Porqueira",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Martiño de Porqueira",
+  "nombre": "Festas de San Martiño en honor ao Corpus Christi",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {
+   "2024": "2024-06-01"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de San Martiño celebra unas fiestas vinculadas al Corpus Christi a comienzos del verano. En 2024 se fijaron los días 1 y 2 de junio.",
+  "historiaLarga": null,
+  "tradicion": "Fiesta de raíz religiosa ligada al Corpus Christi, fecha móvil que ronda finales de mayo o comienzos de junio.",
+  "programa": "Actos religiosos del Corpus y celebración popular en la parroquia.",
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/porqueira/"
+  ],
+  "concello": "Porqueira",
+  "provincia": "Ourense"
+ }
+]
