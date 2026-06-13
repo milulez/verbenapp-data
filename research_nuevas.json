@@ -1567,5 +1567,162 @@
   ],
   "concello": "Arzúa",
   "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Santa Locaia (Becín)",
+  "nombre": "San Ramón e San Xulián de Becín",
+  "fecha2026": "2026-08-29",
+  "fechaFin2026": "2026-08-31",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "fechasPrevias": {},
+  "historiaCorta": "San Ramón y San Xulián es la fiesta del lugar de Becín, a finales de agosto. Patronal de aldea con verbena que cierra el calendario festivo del verano en el concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbena"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/lugo/guitiriz/"
+  ],
+  "concello": "Guitiriz",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Nespereira",
+  "nombre": "Festas de San Cibrao de Nespereira",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de San Cibrao de Nespereira celebra a su patrón a finales de verano (San Cibrao, en torno al 16 de septiembre). Fiesta pequeña de carácter rural en el concello de Portomarín.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://concellodeportomarin.es/parroquias/"
+  ],
+  "concello": "Portomarín",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "A Pobra de San Xiao",
+  "nombre": "Festa da Xuventude e da Troita",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2022": "agosto",
+   "2025": "15 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta organizada por el Concello de Láncara que celebra la trucha del río Neira, uno de los productos estrella de la zona, combinada con una gran fiesta de la juventud. Se celebra a mediados de agosto, normalmente el día 15, en A Pobra de San Xiao. En 2022 se sirvieron más de 200 kilos de trucha en los bares.",
+  "historiaLarga": "La Festa da Xuventude e da Troita pone en valor la trucha del Neira a través de una degustación gratuita por los bares de la villa, acompañada de actividades pensadas para todos los públicos y una gran verbena juvenil. En 2025 (15 de agosto) hubo fiesta de la espuma en la playa fluvial (17:00), ruta de los bares con degustación gratuita de trucha (20:00), hinchables gratuitos en la Praza dos Labradores y la Gran Festa da Xuventude desde las 23:00 con DJ Min, Marcos Peón, Paolo Dumore y Disco Móvil Alto Voltaje.",
+  "gastronomia": [
+   "Degustación gratuita de trucha del río Neira en los bares (más de 200 kg servidos en 2022)"
+  ],
+  "servicios": [
+   "Degustación de trucha gratuita",
+   "Fiesta de la espuma en la playa fluvial (gratis)",
+   "Hinchables gratuitos en la Praza dos Labradores",
+   "Verbena/discoteca con DJ y disco móvil"
+  ],
+  "tradicion": "Reivindica la trucha del Neira como producto identitario de Láncara y une la tradición gastronómica con el ocio juvenil.",
+  "programa": "Tarde: fiesta de la espuma en la playa fluvial e hinchables. Noche: ruta de bares con degustación de trucha (20:00) y Gran Festa da Xuventude desde las 23:00 con DJs y disco móvil.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-da-xuventude-e-da-troita-da-pobra-de-san-xiao-lancara-25035.html",
+   "https://sarriaxa.com/es/news/lancara-se-prepara-para-su-festa-da-xuventude-e-da-troita-del-proximo-15-de-agosto/102053/",
+   "https://www.elprogreso.es/articulo/sarria/festa-da-troita-sirvio-mas-200-kilos-bares-pobra-san-xiao/202208151538351594770.html"
+  ],
+  "concello": "Láncara",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "A Pobra de San Xiao",
+  "nombre": "Feira Degustación da Tenreira Galega",
+  "fecha2026": "2026-05-01",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "30 de abril y 1 de mayo (XXVI ed.)",
+   "2026": "1 de mayo (XXVII ed.)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Feria gastronómica de larga tradición (XXVI edición en 2025, XXVII en 2026) que ensalza la ternera gallega en A Pobra de San Xiao. Está declarada Festa de Interese Turístico de Galicia. Se celebra a finales de abril y el 1 de mayo, fuera del verano, pero es la cita gastronómica más importante del concello.",
+  "historiaLarga": "La Feira da Tenreira Galega de Láncara es la gran feria gastronómica del concello, declarada de Interese Turístico de Galicia. En la edición de 2025 (XXVI) se sirvieron 550 kilos de carne suprema. Incluye degustaciones gratuitas de quesos artesanos, sidra ecológica y empanada de ternera gallega, puestos de pulpo, el Festival dos Maiores, desfile de grupos de folk y espectáculos como el ecuestre 'Pura Vida'. Es una fiesta de primavera (no de verano), pero por su relevancia se incluye aquí.",
+  "gastronomia": [
+   "Ternera gallega (550 kg servidos en 2025)",
+   "Degustación de quesos artesanos",
+   "Sidra ecológica",
+   "Empanada de ternera gallega",
+   "Puestos de pulpo"
+  ],
+  "servicios": [
+   "Degustaciones gratuitas",
+   "Festival dos Maiores",
+   "Desfile de grupos de folk",
+   "Espectáculo ecuestre"
+  ],
+  "tradicion": "Festa de Interese Turístico de Galicia centrada en la ternera gallega como emblema de calidad y tradición de la comarca.",
+  "programa": "Jornada del jueves con Festival dos Maiores (12:30) y jornada del 1 de mayo con apertura (10:00), desfile de folk (11:30), degustaciones y espectáculos.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/feira-degustacion-da-tenreira-galega-lancara-813.html",
+   "https://www.elprogreso.es/articulo/sarria/feira-da-tenreira-galega-serviu-lancara-550-quilos-carne-suprema/202505012113471873169.html",
+   "https://www.elprogreso.es/articulo/sarria/tenreira-galega-emblema-calidade-cita-centos-persoas-lancara/202605012240391966856.html"
+  ],
+  "concello": "Láncara",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Samos",
+  "nombre": "Feira de Produtos Artesáns de Samos",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "2025-08-10"
+  },
+  "fundacion": "Edición XXV en 2025",
+  "historiaCorta": "Feria de productos artesanos de Samos que en 2025 alcanzó su XXV edición, celebrada en agosto junto al monasterio. Combina puestos de artesanía y productos locales con música tradicional y talleres. Es una cita ya consolidada del verano cultural del concello.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Productos locales y artesanos"
+  ],
+  "servicios": [
+   "Talleres",
+   "Música tradicional"
+  ],
+  "tradicion": "Feria con un cuarto de siglo de recorrido (XXV edición en 2025), referente de la artesanía de la comarca.",
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/lugo/samos/"
+  ],
+  "concello": "Samos",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Piñeira",
+  "nombre": "San Miguel de Piñeira",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta parroquial de San Miguel en Piñeira, celebrada a finales de julio. Celebración de verano de carácter local en el concello de Sarria.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/lugo/sarria/"
+  ],
+  "concello": "Sarria",
+  "provincia": "Lugo"
  }
 ]
