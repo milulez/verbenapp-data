@@ -1,0 +1,16 @@
+const fs=require('fs');const cp=require('child_process');
+const tid=process.argv[2];
+cp.execSync(`node /tmp/merge_parroquias.js ${tid}`,{stdio:'inherit'});
+const DIR='/private/tmp/claude-501/-Users-milulez/e047f94c-7af2-4a74-b327-806e446c95e1/tasks/';
+const o=JSON.parse(fs.readFileSync(DIR+tid+'.output','utf8'));
+const justDone=((o.result||o).concellos||[]).map(c=>c.concello);
+const all=JSON.parse(fs.readFileSync('/tmp/all_concellos.json','utf8'));
+let done=JSON.parse(fs.readFileSync('/tmp/deepened.json','utf8'));
+done=[...new Set([...done,...justDone])];
+fs.writeFileSync('/tmp/deepened.json',JSON.stringify(done));
+const next=all.filter(c=>!done.includes(c.concello)).slice(0,6);
+fs.writeFileSync('/tmp/nextbatch.json',JSON.stringify(next));
+const total=cp.execSync('grep -h estado: concellos-*.ts|wc -l').toString().trim();
+console.log(`\nHECHOS: ${done.length}/313 · FIESTAS: ${total}`);
+console.log('NEXT:',JSON.stringify(next.map(c=>c.concello)));
+console.log('ARGS='+JSON.stringify(next));
