@@ -28,8 +28,10 @@ curl -sL -A "Mozilla/5.0" "https://www.orquestasdegalicia.es/rankings" -o /tmp/r
 bash _fetch-formaciones.sh
 echo "== 7/8 parse formaciones -> orquestas.json =="
 python3 _parse-formaciones.py
-echo "== 8/8 boost orquestas (foto+tiron+cobertura) =="
+echo "== 8/9 boost orquestas (foto+tiron+cobertura) =="
 python3 _boost-orquestas.py
+echo "== 9/9 indice de busqueda (orquesta/churrasco/atracciones en lenguaje natural) =="
+python3 _searchindex.py
 
 # --- guarda de validación: no commitear basura si el scrape falló ---
 python3 - <<'PY'
