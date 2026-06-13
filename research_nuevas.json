@@ -1,5 +1,214 @@
 [
  {
+  "parroquia": "Moeche (San Xoán / Castelo de Moeche)",
+  "nombre": "Trail dos Irmandiños",
+  "fecha2026": "2026-08-22",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "V edición en 2026",
+  "fechasPrevias": {},
+  "historiaCorta": "Carrera de montaña vinculada al Festival Irmandiño, con salida y meta en el entorno del Castelo de Moeche. En 2026 celebra su V edición, integrada en el fin de semana grande del festival (sábado 22 de agosto).",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Prueba deportiva por categorías",
+   "Recorrido por el entorno rural del concello"
+  ],
+  "tradicion": "Une deporte de montaña y memoria histórica irmandiña en el mismo fin de semana del festival.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-moeche-50.html"
+  ],
+  "concello": "Moeche",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mogor (O Barqueiro)",
+  "nombre": "Martelazo Rock",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "14 de agosto"
+  },
+  "historiaCorta": "Festival de música rock en O Barqueiro que reúne a varias bandas en una noche de agosto. Apuesta cultural diferente dentro del calendario festivo del concello.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Concierto con varias bandas de rock.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ma%C3%B1on-45.html"
+  ],
+  "concello": "Mañón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Os Muíños",
+  "nombre": "Festa patronal de Os Muíños",
+  "fechaConfianza": "no encontrada",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "El lugar de Os Muíños (parroquia de Muxía) cuenta con su fiesta de verano dentro del rosario de celebraciones parroquiales del concello, si bien no se localizó fecha ni programa concretos.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://concellomuxia.com/en/item/outras-festas/"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Touriñán",
+  "nombre": "Festa patronal de Touriñán",
+  "fechaConfianza": "no encontrada",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Touriñán (San Martiño de Touriñán), junto al cabo del mismo nombre, celebra su fiesta de verano, aunque no se ha localizado fecha ni programa detallado en las fuentes consultadas.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://concellomuxia.com/en/item/outras-festas/"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Vilacoba",
+  "nombre": "Festas de San Bieito e San Finx",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "verano (San Bieito, 11 de julio)"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Santa Eulalia de Vilacoba celebra sus fiestas en honor a San Bieito (San Benito) y San Finx. San Bieito suele caer en torno al 11 de julio, en plena temporada de romerías de verano del concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Procesión",
+   "Verbena"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.concellodelousame.gal/index.php/gl/turismo/festas-e-romarias",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-lousame-43.html"
+  ],
+  "concello": "Lousame",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Brión",
+  "nombre": "Festas Patronais de Brión",
+  "fecha2026": "2026-08-01",
+  "fechaFin2026": "2026-08-03",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de la parroquia de Brión, que se celebran a comienzos de agosto. Reúnen actos religiosos y verbena durante tres jornadas.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Misa y procesión más verbena popular durante los tres días.",
+  "fuentes": [
+   "https://www.concellodebrion.gal/es/fiestas"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Brión",
+  "nombre": "Feira Labrega",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {
+   "2024": "2024-09-22",
+   "2025": "2025-09-21"
+  },
+  "fundacion": null,
+  "historiaCorta": "Feria de carácter agrario que se celebra en septiembre en torno a la carballeira de Santa Minia y la Praza das Polbeiras, en paralelo a la romería. Pone en valor los productos del campo y la tradición labrega del concello.",
+  "historiaLarga": null,
+  "tradicion": "Recuperación y puesta en valor del mundo rural y agrario de la comarca, con productos de la tierra y oficios tradicionales.",
+  "gastronomia": [
+   "Productos agrarios y de la tierra de la comarca"
+  ],
+  "servicios": [
+   "Puestos de productos del campo"
+  ],
+  "programa": "Feria agraria con exposición y venta de productos locales, ligada al entorno de la Romaría de Santa Minia.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/bri%C3%B3n/",
+   "https://www.concellodebrion.gal/es/fiestas"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Malvarez (San Estevo)",
+  "nombre": "Festa de San Estevo de Malvarez",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {
+   "2025": "principios de agosto (en torno al 3-6 de agosto)"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Estevo de Malvarez celebra su fiesta parroquial a principios de agosto. Es una romería de verano con su verbena nocturna. En 2025 actuó el grupo Zona Zero.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "verbena nocturna (en 2025 a las 21:00)",
+   "música en directo"
+  ],
+  "tradicion": "Devoción a San Estevo.",
+  "programa": "Fiesta de principios de agosto con verbena nocturna; en 2025 amenizó el grupo Zona Zero.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-estevo-de-malvarez-val-do-dubra-25071.html",
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/val-do-dubra/"
+  ],
+  "concello": "Val do Dubra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Santa Comba",
+  "nombre": "Gran Cocido O Son do Castro",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-03-07",
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Evento gastronómico arredor do cocido galego no Restaurante Tío Paco (As Travesas), Santa Comba. Combina a degustación do cocido cun baile animado. Celébrase en marzo, fóra do verán.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cocido galego"
+  ],
+  "servicios": [
+   "Comida con baile / festa"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/gran-cocido-o-son-do-castro-santa-comba-28643.html"
+  ],
+  "concello": "Santa Comba",
+  "provincia": "A Coruña"
+ },
+ {
   "parroquia": "O Viso (Campo da Feira)",
   "nombre": "A Moura Fest",
   "fecha2026": "2026-09-05",

@@ -1,0 +1,4206 @@
+[
+ {
+  "parroquia": "Folgoso",
+  "nombre": "Festas de Folgoso",
+  "fecha2026": "2026-06-19",
+  "fechaFin2026": "2026-06-21",
+  "fechaConfianza": "confirmada-web",
+  "fechasPrevias": {
+   "2024": "2024-06-14",
+   "2025": "2025-06-20"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las fiestas de la parroquia de Folgoso reúnen cada junio a los vecinos en torno a una gran churrascada y la verbena. Es una romería de pueblo clásica que cierra el domingo con misa solemne y la sesión vermú.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrascada popular",
+   "Sesión vermú del domingo"
+  ],
+  "servicios": [
+   "Verbena con orquesta y DJ",
+   "Apertura de la piscina de Beche el sábado",
+   "Sesión tardeo a las 17:00h"
+  ],
+  "tradicion": "El programa combina la fiesta nocturna del viernes con un sábado de tardeo y la piscina de Beche, y remata el domingo con la misa y el vermú.",
+  "programa": "Viernes 19: gran churrascada y verbena con orquesta Fuego y DJ Maikstyle. Sábado 20: tardeo (17:00h) con Aixa Romay y apertura de la piscina de Beche. Domingo 21: misa solemne (13:00h) y sesión vermú con el dúo Primera Fila.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-de-folgoso-abegondo-7815.html"
+  ],
+  "concello": "Abegondo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Crendes",
+  "nombre": "San Pedro de Crendes",
+  "fecha2026": "2026-06-27",
+  "fechaFin2026": "2026-06-29",
+  "fechaConfianza": "confirmada-web",
+  "fechasPrevias": {
+   "2023": "2023-06-29",
+   "2024": "2024-06-29",
+   "2025": "2025-06-28"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Pedro de Crendes honra al patrón San Pedro y al Santísimo Sacramento a finales de junio. Es una de las fiestas más grandes del concello, con varios días de verbenas, orquestas y actos religiosos.",
+  "historiaLarga": "La parroquia de Crendes celebra sus fiestas patronales en honor a San Pedro y al Santísimo Sacramento, combinando los actos litúrgicos tradicionales (dianas, alboradas, misa solemne y procesión) con un programa festivo de gran tirón: sesiones vermú con orquesta, verbenas nocturnas, actividades infantiles y sorteos de premios.",
+  "gastronomia": [
+   "Churrascada con sardinas y pimientos",
+   "Callos en la sesión vermú",
+   "Mejillones y café"
+  ],
+  "servicios": [
+   "Verbenas con orquestas (Manhattan, Dilema, Tokio)",
+   "Juegos infantiles, hinchables y fiesta de la espuma",
+   "DJ y discoteca nocturna",
+   "Cerca del Encoro de Abegondo-Cecebre"
+  ],
+  "tradicion": "En ediciones previas se ha hecho sorteo de premios (hasta 300€) durante las verbenas finales. Dianas y alboradas matutinas anuncian la fiesta.",
+  "programa": "Dianas y alboradas, misa solemne en honor a San Pedro y procesión, sesiones vermú con orquesta, verbenas nocturnas, y el domingo juegos infantiles, hinchables y fiesta de la espuma.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-pedro-de-crendes-abegondo-3880.html"
+  ],
+  "concello": "Abegondo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cos",
+  "nombre": "Virxe da Consolación de Cos",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "2024-08-31",
+   "2025": "2025-09-06"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Cos celebra a principios de septiembre la fiesta en honor a la Virxe da Consolación. Es una fiesta de raíz religiosa con misa solemne y sesiones de vermú amenizadas con música en directo.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Sesiones de vermú con actuaciones musicales"
+  ],
+  "tradicion": "Estructura clásica de fiesta gallega: misa solemne al mediodía y vermú con dúos en directo (en 2024 actuaron La Hora Bruja y Charada).",
+  "programa": "Misas solemnes (sobre las 12:00-13:00h) seguidas de sesiones de vermú con música en directo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/virxe-da-consolacion-de-cos-abegondo-33567.html"
+  ],
+  "concello": "Abegondo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Limiñón",
+  "nombre": "San Salvador de Limiñón",
+  "fecha2026": "2026-08-01",
+  "fechaFin2026": "2026-08-03",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "2023-08-02"
+  },
+  "fundacion": null,
+  "historiaCorta": "El primer fin de semana de agosto, Limiñón celebra a su patrón San Salvador con tres días de música, misa, juegos tradicionales y la popular Festa da Cervexa. Arranca el viernes con la cerveza en el Bar Camionero.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Festa da Cervexa (viernes, Bar Camionero)",
+   "Churrascada",
+   "Polbada (pulpada)"
+  ],
+  "servicios": [
+   "Verbena con orquesta (Galaxia)",
+   "Juegos tradicionales desde las 18:00h",
+   "Sesión vermú",
+   "Teléfono Concello: 981 647 996"
+  ],
+  "tradicion": "La Festa da Cervexa del viernes es el sello propio de Limiñón, junto con los xogos tradicionais del sábado.",
+  "programa": "Viernes 1: Festa da Cervexa en el Bar Camionero. Sábado 2: dianas/alboradas, misa (13:30h), juegos tradicionales (18:00h), sesión vermú y verbena con orquesta Galaxia. Domingo 3: misa (13:30h) y sesión vermú con el dúo Maracuya.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-salvador-de-limi%C3%B1on-abegondo-7850.html",
+   "https://www.elespanol.com/quincemil/servicios/agenda/evento/fiestas-de-san-salvador-de-liminon-2025-en-abegondo-programa-cartel-y-agenda-completa/58745"
+  ],
+  "concello": "Abegondo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Vizoño",
+  "nombre": "San Pedro de Vizoño",
+  "fecha2026": "2026-06-12",
+  "fechaFin2026": "2026-06-14",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Vizoño honra a su patrón San Pedro a mediados de junio. Fiesta de pueblo con churrascada, actos religiosos y verbenas.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrascada"
+  ],
+  "servicios": [
+   "Verbenas"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos en honor al patrón, churrascada y verbenas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-abegondo-1.html"
+  ],
+  "concello": "Abegondo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Vilacoba",
+  "nombre": "San Paio - Romaría das Cereixas de Vilacoba",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2019": "2019-07-06",
+   "2023": "2023-07-01",
+   "2025": "2025-07-05"
+  },
+  "fundacion": null,
+  "historiaCorta": "La Romaría das Cereixas de Vilacoba (San Paio) celebra a primeros de julio la cosecha local de cerezas. Su gran reclamo es la sesión vermú infinita en la que se reparten cerezas gratis a todos los presentes.",
+  "historiaLarga": "Esta romería en honor a San Paio une la tradición religiosa con la celebración de la cosecha de cerezas de la zona, de ahí su nombre. Es una fiesta gastronómico-religiosa con tirón regional, conocida por la sesión vermú infinita con cerezas gratis y por la concentración de coches clásicos del domingo.",
+  "gastronomia": [
+   "Cerezas (cereixas) gratis en la sesión vermú infinita",
+   "Pulpo",
+   "Churrasco"
+  ],
+  "servicios": [
+   "Verbena nocturna",
+   "Concentración de coches clásicos (domingo)",
+   "Cerca del Encoro de Abegondo-Cecebre para observación de aves"
+  ],
+  "tradicion": "El reparto de cerezas gratis durante la sesión vermú es la seña de identidad de la romería; el domingo se suma una concentración de coches clásicos.",
+  "programa": "Sábado: misa solemne (13:00h) y verbena nocturna. Domingo: misas rezadas (9:00h), misa solemne (13:00h), sesión vermú con cerezas gratis y música en directo, y concentración de coches clásicos.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-paio-romaria-das-cereixas-de-vilacoba-abegondo-2071.html"
+  ],
+  "concello": "Abegondo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cabanas",
+  "nombre": "San Antonio de Cabanas",
+  "fecha2026": "2026-06-05",
+  "fechaFin2026": "2026-06-07",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "El lugar de Cabanas celebra a San Antonio a comienzos de junio. Fiesta que arranca con churrascada y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrascada"
+  ],
+  "servicios": [
+   "Verbena"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos en honor a San Antonio, churrascada y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-antonio-de-cabanas-abegondo-3876.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-abegondo-1.html"
+  ],
+  "concello": "Abegondo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Meangos",
+  "nombre": "Santiago Apóstol de Meangos",
+  "fecha2026": "2026-07-19",
+  "fechaFin2026": "2026-07-21",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Meangos honra a Santiago Apóstol en torno al 25 de julio. Fiesta con actos religiosos, churrascada y música.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrascada"
+  ],
+  "servicios": [
+   "Verbenas / actuaciones musicales"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos, churrascada y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-abegondo-1.html"
+  ],
+  "concello": "Abegondo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Orto",
+  "nombre": "Santa Margarita de Orto",
+  "fecha2026": "2026-07-19",
+  "fechaFin2026": "2026-07-21",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Orto celebra a Santa Margarita a finales de julio. Destacan las sardinadas y las carnes a la brasa junto a los actos religiosos.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardinas",
+   "Carnes a la brasa / churrasco"
+  ],
+  "servicios": [
+   "Verbenas"
+  ],
+  "tradicion": null,
+  "programa": "Ceremonias religiosas acompañadas de sardinada y churrasco, con música.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-abegondo-1.html"
+  ],
+  "concello": "Abegondo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Montouto",
+  "nombre": "Santa Cristina de Montouto",
+  "fecha2026": "2026-07-24",
+  "fechaFin2026": "2026-07-26",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Montouto celebra a Santa Cristina a finales de julio, con actos religiosos y grandes verbenas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Grandes verbenas con orquestas"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos y verbenas nocturnas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-abegondo-1.html"
+  ],
+  "concello": "Abegondo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Viós",
+  "nombre": "Divino Salvador de Viós",
+  "fecha2026": "2026-08-24",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Viós celebra al Divino Salvador a finales de agosto, con la habitual misa solemne y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbena"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos y entretenimiento musical.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-abegondo-1.html"
+  ],
+  "concello": "Abegondo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Abegondo",
+  "nombre": "San Andrés",
+  "fecha2026": "2026-08-30",
+  "fechaFin2026": "2026-08-31",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "A finales de agosto se celebra San Andrés, con dianas y alboradas desde las 9:00 de la mañana, misa solemne y verbena por la noche.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbena nocturna",
+   "Dianas y alboradas (9:00h)"
+  ],
+  "tradicion": "Las dianas y alboradas matutinas abren la jornada festiva.",
+  "programa": "Dianas y alboradas (9:00h), misa solemne y verbena nocturna.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-andres-abegondo-3007.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-abegondo-1.html"
+  ],
+  "concello": "Abegondo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Presedo",
+  "nombre": "Fiestas de la Saleta de Presedo",
+  "fecha2026": "2026-09-19",
+  "fechaFin2026": "2026-09-21",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Presedo honra a la Virgen de la Saleta a mediados de septiembre, con actos religiosos, música y churrascada tradicional.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrascada"
+  ],
+  "servicios": [
+   "Música / verbenas"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos en honor a la Virgen, música y churrascada.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-abegondo-1.html"
+  ],
+  "concello": "Abegondo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Abegondo",
+  "nombre": "San Tirso (patrón de Abegondo)",
+  "fecha2026": "2026-01-31",
+  "fechaFin2026": "2026-02-01",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "2024-01-27",
+   "2025": "2025-01-25"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Tirso es el patrón de Abegondo y su fiesta se celebra a finales de enero (fuera de la temporada de verano). Incluye misa solemne, sesiones de vermú y verbenas con orquesta.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Sesiones vermú con música",
+   "Verbenas nocturnas con orquesta"
+  ],
+  "tradicion": "Es la fiesta patronal de la localidad, aunque cae en invierno (enero-febrero), no en verano.",
+  "programa": "Misa solemne (13:00h) + sesión vermú; verbenas nocturnas con orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-tirso-abegondo-10901.html"
+  ],
+  "concello": "Abegondo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sada",
+  "nombre": "Festas Patronais de Sada (Santa María, San Roque e San Mamede)",
+  "fecha2026": "2026-08-09",
+  "fechaFin2026": "2026-08-18",
+  "fechaConfianza": "confirmada-web",
+  "fechasPrevias": {
+   "2023": "12-18 agosto",
+   "2024": "7-18 agosto",
+   "2025": "6-18 agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las fiestas grandes de Sada se celebran cada agosto en honor a Santa María, San Roque y San Mamede, y atraen a cientos de visitantes a la villa marinera. Su momento estrella es la Gran Sardiñada Popular, declarada de Interés Turístico Nacional.",
+  "historiaLarga": "Las Festas Patronais de Sada son el gran acontecimiento del verano en esta localidad coruñesa. Honran a tres patronos -Santa María, San Roque y San Mamede- y combinan los actos religiosos de siempre con un programa festivo de casi dos semanas. El broche de oro es la Gran Sardiñada Popular en el área recreativa de O Curruncho, una degustación masiva de sardinas asadas que ha alcanzado ya más de sesenta ediciones (LXIV en 2024, LXV en 2025) y que está reconocida como Fiesta de Interés Turístico Nacional.",
+  "gastronomia": [
+   "Gran Sardiñada Popular: sardinas asadas a precios populares y degustación",
+   "Pan de millo",
+   "Vino del país"
+  ],
+  "servicios": [
+   "Sardiñada en el área recreativa de O Curruncho",
+   "Amplia oferta de bares, restaurantes y asadores en la villa",
+   "Hoteles, pensiones, campings y apartamentos turísticos",
+   "Cerca de playas, club náutico y el Camiño Mariñán"
+  ],
+  "tradicion": "La Gran Sardiñada Popular está declarada de Interés Turístico Nacional; durante las Perseidas se organiza además observación astronómica.",
+  "programa": "Alboradas matutinas con agrupaciones folclóricas, misa cantada en la Igrexa Nova y procesiones; conciertos y verbenas con orquestas (Los Satélites, París de Noia, Kubo, La Banda de Ayer), festa infantil con hinchables, fiestas temáticas (Holi, espuma), torneos deportivos (fútbol playa, gaélico, vóley) y, como cierre, la Gran Sardiñada Popular en O Curruncho.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-patronais-sada-5820.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sada-76.html"
+  ],
+  "concello": "Sada",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sada",
+  "nombre": "San Xoán de Sada",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": "2026-06-24",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Sada celebra la noche mágica de San Xoán, la más corta del año, con hogueras, sardiñada y fuegos artificiales lanzados desde la ría. Es una de las grandes citas del solsticio en la comarca, con raíces en ritos paganos celtas.",
+  "historiaLarga": "La noche del 23 al 24 de junio Sada se vuelca con San Xoán en el área recreativa de O Curruncho. Tras la medianoche se encienden las hogueras -hay quien salta nueve veces para tener suerte y protección durante el año- y la ría se ilumina con fuegos artificiales. La fiesta enlaza con antiguos ritos del solsticio (el Beltane celta) y con la creencia de que esa noche se comunican el más allá y el más acá.",
+  "gastronomia": [
+   "Sardiñada popular (sardinas asadas)",
+   "Queimada"
+  ],
+  "servicios": [
+   "Celebración en el área recreativa de O Curruncho",
+   "Música en directo",
+   "Fuegos artificiales desde la ría"
+  ],
+  "tradicion": "Noche mágica del solsticio: hogueras, salto de la hoguera para tener suerte y vínculo con ritos paganos celtas (Beltane). Refrán local: 'Por San Xoán a sardiña molla o pan'.",
+  "programa": "Sardiñada popular con música en directo al atardecer, hogueras encendidas tras la medianoche, queimada y fuegos artificiales lanzados desde la ría.",
+  "fuentes": [
+   "https://turismodesada.gal/eventos-y-fiestas/san-xoan/",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sada-76.html"
+  ],
+  "concello": "Sada",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sada",
+  "nombre": "O Carme (Virxe do Carme)",
+  "fecha2026": "2026-07-16",
+  "fechaFin2026": "2026-07-18",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Sada honra a la Virxe do Carme, patrona de los marineros, con la tradicional procesión marítima por la ría. Es la fiesta del mar de la villa, en torno al 16 de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Procesión marítima por la ría",
+   "Actuaciones musicales y actividades festivas"
+  ],
+  "tradicion": "La imagen de la Virgen del Carmen recorre la ría en procesión marítima sobre embarcaciones engalanadas, en honor a los marineros.",
+  "programa": "Misa solemne en honor a la Virgen, procesión marítima tradicional, actuaciones musicales y actividades festivas. Suele celebrarse del 16 al 18 de julio.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/o-carme-sada-1434.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sada-76.html"
+  ],
+  "concello": "Sada",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sada",
+  "nombre": "Feira Modernista",
+  "fecha2026": "2026-08-01",
+  "fechaFin2026": "2026-08-03",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Sada viaja a finales del siglo XIX con su Feira Modernista, que recrea el ambiente de la época con pasacalles y actuaciones por la villa. Una cita cultural y temática de comienzos de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Pasacalles",
+   "Rutas didácticas por la villa"
+  ],
+  "tradicion": "Recreación de la atmósfera modernista de finales del siglo XIX, ligada al patrimonio de Sada (la villa conserva referencias modernistas como A Terraza).",
+  "programa": "Actuaciones musicales, pasacalles y rutas didácticas ambientadas en la época modernista.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sada-76.html"
+  ],
+  "concello": "Sada",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mosteirón",
+  "nombre": "San Benito de Mosteirón",
+  "fecha2026": "2026-07-09",
+  "fechaFin2026": "2026-07-12",
+  "fechaConfianza": "confirmada-web",
+  "fechasPrevias": {
+   "2023": "5-9 julio",
+   "2024": "11-14 julio",
+   "2025": "10-13 julio"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Mosteirón celebra cada julio a San Benito, una fiesta tradicional de larga trayectoria que mezcla actos religiosos con churrascada, pulpada y verbenas. Es de las romerías más arraigadas del concello.",
+  "historiaLarga": "San Benito de Mosteirón es una fiesta tradicional gallega de larga trayectoria que combina la devoción religiosa con la fiesta popular. Arranca con la Festa dos Maiores y se prolonga varios días con dianas y alboradas de gaitas, misa solemne cantada por el coro Lugar da Lua, sesión vermú con música en directo y grandes verbenas. La gastronomía -churrasco, pulpo, callos- es parte central del encuentro vecinal.",
+  "gastronomia": [
+   "Churrascada (churrasco)",
+   "Pulpada (pulpo)",
+   "Callos"
+  ],
+  "servicios": [
+   "Sesión vermú con música en directo",
+   "Verbenas con orquestas locales"
+  ],
+  "tradicion": "Lanzamiento de globo de papel a medianoche, dianas y alboradas con gaitas.",
+  "programa": "Apertura con la Festa dos Maiores (sobre las 20:30 h), dianas y alboradas, misa solemne cantada, churrascada y pulpada, sesión vermú con música, verbenas con orquestas y globo de papel a medianoche.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-benito-de-mosteiron-sada-7022.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sada-76.html"
+  ],
+  "concello": "Sada",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Carnoedo",
+  "nombre": "San Mamede de Carnoedo",
+  "fecha2026": "2026-08-08",
+  "fechaFin2026": "2026-08-17",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Carnoedo celebra a San Mamede a mediados de agosto, una fiesta patronal rural con verbenas y actos religiosos. Coincide en fechas con el gran agosto festivo del concello de Sada.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sada-76.html"
+  ],
+  "concello": "Sada",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Meirás",
+  "nombre": "O Santísimo de Meirás",
+  "fecha2026": "2026-08-29",
+  "fechaFin2026": "2026-08-31",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Meirás celebra la fiesta del Santísimo a finales de agosto, una cita patronal de la parroquia con sus actos religiosos y verbena. Fiesta rural de pequeño formato dentro del concello de Sada.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sada-76.html"
+  ],
+  "concello": "Sada",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Osedo",
+  "nombre": "Festas de O Castro (Osedo)",
+  "fecha2026": "2026-08-29",
+  "fechaFin2026": "2026-08-31",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "El lugar de O Castro, en la parroquia de Osedo, celebra sus fiestas a finales de agosto con verbenas y ambiente vecinal. Es una de las fiestas de barrio del concello de Sada.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-de-o-castro-sada-5932.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sada-76.html"
+  ],
+  "concello": "Sada",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mondego",
+  "nombre": "Festas Patronais de Mondego",
+  "fecha2026": "2026-09-05",
+  "fechaFin2026": "2026-09-07",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Mondego cierra el verano festivo con sus fiestas patronales a comienzos de septiembre. Cita rural con actos religiosos y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sada-76.html"
+  ],
+  "concello": "Sada",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sada",
+  "nombre": "San Antonio de Riobao",
+  "fecha2026": "2026-06-13",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "El lugar de Riobao honra a San Antonio el 13 de junio, abriendo el calendario festivo del verano en el concello de Sada. Fiesta local de pequeño formato.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sada-76.html"
+  ],
+  "concello": "Sada",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Vilasantar",
+  "nombre": "Festas de Santiago Apóstol e a Virxe do Carme",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2023": "21-25 julio",
+   "2024": "25-28 julio",
+   "2025": "25-27 julio (orientativa)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Es la fiesta patronal de la parroquia de Vilasantar, en honor a Santiago Apóstol y a la Virxe do Carme. Se celebra a finales de julio combinando los actos religiosos con varias jornadas de música y verbena.",
+  "historiaLarga": null,
+  "tradicion": "En el concello hay puntos de interés como el Santuario da Laxe y el Pazo de Présaras.",
+  "programa": "Misas solemnes en honor al Apóstol y a la Virxe do Carme, sesións vermú con grupos musicales, pasacalles, bandas de música y verbenas nocturnas con orquestas.",
+  "gastronomia": [],
+  "servicios": [
+   "Bares y restaurantes en el concello",
+   "Asador",
+   "Alojamiento rural y hoteles en la zona"
+  ],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-de-santiago-apostol-vilasantar-1500.html"
+  ],
+  "concello": "Vilasantar",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Barbeito",
+  "nombre": "San Bartolomé de Barbeito",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2020": "19-21 agosto",
+   "2023": "18-20 agosto",
+   "2025": "23-24 agosto (orientativa)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta religiosa en honor a San Bartolomé en la parroquia de Barbeito, organizada por los vecinos a finales de agosto. Destaca por su gran churrascada popular y varias jornadas de música.",
+  "historiaLarga": null,
+  "tradicion": "Celebración de hasta tres jornadas consecutivas que combina actos religiosos, gastronomía local y entretenimiento musical.",
+  "programa": "Misa solemne (13:00), sesión vermú con grupos musicales, baile de mediodía y verbena nocturna con DJ y orquestas.",
+  "gastronomia": [
+   "Churrascada popular (plato principal)",
+   "Menú con langostinos, churrasco, postre y bebida (en torno a 25€ adultos, 5€ menores de 12)"
+  ],
+  "servicios": [
+   "Menú popular con precio para adultos y reducido para niños",
+   "Restaurantes, asadores y bares en el concello",
+   "Alojamiento rural y hoteles"
+  ],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-bartolome-de-barbeito-vilasantar-13432.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vilasantar-92.html"
+  ],
+  "concello": "Vilasantar",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Barbeito",
+  "nombre": "San Antonio de Barbeito",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "inicios de julio"
+  },
+  "fundacion": null,
+  "historiaCorta": "Pequeña fiesta de la parroquia de Barbeito en honor a San Antonio, celebrada a comienzos de julio. Es una de las celebraciones menores del concello, con misa y romería vecinal.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": null,
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vilasantar-92.html"
+  ],
+  "concello": "Vilasantar",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Armental",
+  "nombre": "Romería Nova de Armental",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "8-10 agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "Romería de la parroquia de Armental celebrada a mediados de agosto. Es conocida por su churrascada popular y por reunir varias actuaciones musicales a lo largo de la fiesta.",
+  "historiaLarga": null,
+  "tradicion": "Romería con ambiente popular en torno a la churrascada y la música en directo.",
+  "programa": "Romería con churrascada popular y variadas actuaciones musicales.",
+  "gastronomia": [
+   "Churrascada popular"
+  ],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vilasantar-92.html"
+  ],
+  "concello": "Vilasantar",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Vicenzo de Curtis",
+  "nombre": "San Roque de San Vicente",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2023": "16-17 agosto",
+   "2024": "17-18 agosto",
+   "2025": "16-17 agosto (orientativa)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta religiosa en honor a San Roque (y en algunas ediciones también a San Vicente) en la parroquia de San Vicenzo de Curtis, a mediados de agosto. Combina los actos litúrgicos con sesión vermú y verbena.",
+  "historiaLarga": null,
+  "tradicion": "En algunas ediciones se han sumado actividades como partido amistoso de fútbol y pasarrúas con charanga.",
+  "programa": "Misas solemnes a mediodía (en torno a las 13:30), sesións vermú con actuaciones musicales y verbenas nocturnas con orquestas y dúos.",
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-roque-de-san-vicente-vilasantar-7911.html"
+  ],
+  "concello": "Vilasantar",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mezonzo",
+  "nombre": "Santa María de Mezonzo",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "7-8 septiembre"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta religiosa de la parroquia de Mezonzo en honor a Santa María, celebrada a comienzos de septiembre. Se vincula al entorno del histórico monasterio de Mezonzo y combina los oficios religiosos con música en directo.",
+  "historiaLarga": null,
+  "tradicion": "La parroquia es conocida por el monasterio de Santa María de Mezonzo, uno de los conjuntos monásticos medievales de referencia en la comarca.",
+  "programa": "Oficios religiosos y actuaciones musicales en directo.",
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vilasantar-92.html"
+  ],
+  "concello": "Vilasantar",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Présaras",
+  "nombre": "San Miguel de Présaras",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "27-28 septiembre"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la parroquia de Présaras en honor a San Miguel, ya a finales de septiembre. Mantiene el esquema clásico de actos litúrgicos seguidos de actuaciones musicales.",
+  "historiaLarga": null,
+  "tradicion": "En Présaras se encuentra el Pazo de Présaras, uno de los puntos de interés del concello.",
+  "programa": "Actos litúrgicos y actuaciones musicales.",
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-miguel-de-presaras-vilasantar-8149.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vilasantar-92.html"
+  ],
+  "concello": "Vilasantar",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Présaras",
+  "nombre": "San Antonio, San Pedro e Corpus Christi",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "27-28 junio"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la parroquia de Présaras a finales de junio que reúne en una misma celebración a San Antonio, San Pedro y el Corpus Christi. Incluye verbenas con orquestas.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": "Actos religiosos y verbenas con orquestas.",
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vilasantar-92.html"
+  ],
+  "concello": "Vilasantar",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Vilasantar",
+  "nombre": "Festa de Maiores",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "19 junio"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta del concello dedicada a los mayores de Vilasantar, celebrada hacia mediados de junio. Es un acto social de carácter local más que una romería.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": null,
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vilasantar-92.html"
+  ],
+  "concello": "Vilasantar",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Vilasantar",
+  "nombre": "Xantar de San Xoán",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "20 junio"
+  },
+  "fundacion": null,
+  "historiaCorta": "Comida popular de San Xoán en Vilasantar, celebrada en el Local Social en torno al solsticio de verano. Es una cita gastronómica y social del concello.",
+  "historiaLarga": null,
+  "tradicion": "Se enmarca en las tradiciones de San Xoán (noche del fuego y el solsticio).",
+  "programa": "Comida popular en el Local Social.",
+  "gastronomia": [
+   "Comida popular de San Xoán"
+  ],
+  "servicios": [
+   "Se celebra en el Local Social"
+  ],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vilasantar-92.html"
+  ],
+  "concello": "Vilasantar",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Vilariño",
+  "nombre": "Santa María de Vilariño",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "mediados de julio"
+  },
+  "fundacion": null,
+  "historiaCorta": "Pequeña fiesta parroquial de Vilariño en honor a Santa María, hacia mediados de julio. Es una de las celebraciones de verano menores del concello.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": null,
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vilasantar-92.html"
+  ],
+  "concello": "Vilasantar",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Esmelle",
+  "nombre": "San Xoán de Esmelle",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": "2026-06-24",
+  "fechaConfianza": "confirmada-web",
+  "fechasPrevias": {
+   "2025": "2025-06-23 a 2025-06-25"
+  },
+  "fundacion": null,
+  "historiaCorta": "El San Xoán de Esmelle es una de las citas más vivas del rural ferrolano en la noche meiga: hoguera, sardiñada y un festival folk-rock que llena la parroquia. Combina la liturgia (misa y procesión el día 24) con la fiesta laica de la víspera junto al fuego.",
+  "historiaLarga": "Esmelle celebra San Xoán fusionando la tradición de la luminaria con un cartel musical potente. La noche del 23 gira en torno a la sesión vermú del mediodía y un festival folk-rock con grupos como Lidia India, Lenda Ártabra, Trío Somoza, Anxo Lorenzo Band o América de Vigo, mientras se reparten churrasco y sardinas hasta que a medianoche prende la hoguera. El día 24, festividad de San Xoán, se centra en la misa y procesión del mediodía, el vermú de tarde y la verbena de noche.",
+  "gastronomia": [
+   "Sardiñada (sardinas a la brasa)",
+   "Churrasco",
+   "Sesión vermú"
+  ],
+  "servicios": [
+   "Verbena con orquesta (Orquesta New York el día 24)",
+   "Hoguera encendida a medianoche el 23",
+   "Festival folk-rock gratuito en la parroquia"
+  ],
+  "tradicion": "Noche de San Xoán o noite meiga: la hoguera con saltos sobre el fuego y rituales de purificación, una de las tradiciones más arraigadas de la comarca de Ferrolterra.",
+  "programa": "Martes 23: vermú 14:30, festival folk-rock por la tarde-noche con churrasco y sardinas, encendido de la hoguera a medianoche. Miércoles 24: misa y procesión 13:00, vermú de tarde, verbena de noche con Orquesta New York.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ferrol-37.html",
+   "https://ferrol360.es/guia-del-san-xoan-2026-en-ferrolterra-hogueras-verbenas-y-citas-gastronomicas/"
+  ],
+  "concello": "Ferrol",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Filgueira",
+  "nombre": "San Xoán de Filgueira",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": "2026-06-25",
+  "fechaConfianza": "confirmada-web",
+  "fechasPrevias": {
+   "2025": "2025-06-23 a 2025-06-25"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las fiestas de San Xoán de Filgueira mantienen viva la luminaria de San Xoán en este barrio de Ferrol, con tres días de música, pasacalles de gaitas y churrascada. Un San Xoán de barrio, familiar y muy participativo.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrasco (12 euros)"
+  ],
+  "servicios": [
+   "Verbenas con orquestas",
+   "Pasacalles de gaiteiros",
+   "Día del niño (jueves 25)"
+  ],
+  "tradicion": "Desfile de la Bruja y los Cabezudos y procesión con gaiteiros, dentro de la tradición de la noche de San Xoán.",
+  "programa": "Martes 23: música desde las 15:00 con Grupo Pasión, desfile de la Bruxa e Cabezudos a las 20:00, churrasco. Miércoles 24: procesión con gaiteiros 9:00, actuación especial y actividades de tarde, churrasco. Jueves 25: Día del Niño.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-xoan-de-filgueira-ferrol-6990.html",
+   "https://ferrol360.es/guia-del-san-xoan-2026-en-ferrolterra-hogueras-verbenas-y-citas-gastronomicas/"
+  ],
+  "concello": "Ferrol",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Doniños",
+  "nombre": "San Xoán de Doniños",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "2025-06-23"
+  },
+  "fundacion": null,
+  "historiaCorta": "Doniños celebra la noche de San Xoán en el local de la Xunta Veciñal con una gran sardiñada y la hoguera tradicional. Una cita vecinal sencilla donde el fuego y las sardinas son los protagonistas.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Gran sardiñada",
+   "Sardinas a la brasa"
+  ],
+  "servicios": [
+   "Hoguera de San Xoán",
+   "Organiza la Asociación de Veciños / Xunta Veciñal de Doniños"
+  ],
+  "tradicion": "Hoguera de la noche meiga de San Xoán, con la sardiñada popular como núcleo de la reunión vecinal.",
+  "programa": "Noche del 23 de junio: sardiñada popular y encendido de la hoguera en el local vecinal.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ferrol-37.html"
+  ],
+  "concello": "Ferrol",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Doniños",
+  "nombre": "San Román de Doniños",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "2024-08-08 a 2024-08-10",
+   "2025": "agosto (en torno al 8-10)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las fiestas patronales de San Román de Doniños se celebran a comienzos de agosto con actividades para todas las edades y, en los últimos años, un nuevo festival musical que ha dado más tirón a la parroquia. Fiesta de la Galicia rural costera, cerca de la playa de Doniños.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbenas",
+   "Festival musical de nueva incorporación",
+   "Actividades para todas las edades"
+  ],
+  "tradicion": "Patronales en honor a San Román, con misa y procesión propias del calendario festivo del rural ferrolano.",
+  "programa": "Patronales de inicios de agosto: actos religiosos (misa y procesión), actuaciones musicales y verbenas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ferrol-37.html",
+   "https://www.elespanol.com/quincemil/vivir/fiestas/20250806/fiestas-san-roman-doninos-ferrol-suma-nuevo-festival-musical/1003743875906_0.html"
+  ],
+  "concello": "Ferrol",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Caranza",
+  "nombre": "Fiestas de Caranza (Santa María de Caranza)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2014": "2014-08-22 a 2014-08-24",
+   "2024": "2024-08-09 a 2024-08-12",
+   "2025": "2025-08-22 a 2025-08-26"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las fiestas del barrio de Caranza son unas patronales urbanas dedicadas a Santa María, con churrascada, sesiones vermú y verbenas para todas las edades. Un clásico del agosto ferrolano con mucho ambiente de barrio.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrascada",
+   "Paella popular",
+   "Pulpo (pulpeiro)",
+   "Xantares comunitarios"
+  ],
+  "servicios": [
+   "Verbenas y bailes",
+   "Fuegos artificiales",
+   "Festivales rock",
+   "Fiestas infantiles con hinchables",
+   "Cucañas"
+  ],
+  "tradicion": "Desfiles de gaitas y cabezudos y carácter patronal en honor a Santa María de Caranza.",
+  "programa": "Arranque con la Festa do Neno y la Festa dos Maiores, gaitas y cabezudos, sesiones vermú con música, cucañas, churrascada, verbenas y fuegos artificiales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-de-caranza-ferrol-5865.html"
+  ],
+  "concello": "Ferrol",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ferrol Vello",
+  "nombre": "Festas de A Parrocheira (Virxe da Parrocheira)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2022": "2022-09-09 a 2022-09-11",
+   "2023": "2023-09-08 a 2023-09-10",
+   "2024": "2024-09-06 a 2024-09-08"
+  },
+  "fundacion": null,
+  "historiaCorta": "A Parrocheira es la fiesta del barrio marinero más antiguo de Ferrol, Ferrol Vello, en honor a la Virxe da Parrocheira (parroquia de Nuestra Señora del Socorro). Mezcla devoción mariana, mar y cocina de parrocha, el pescado que da nombre a la fiesta.",
+  "historiaLarga": "Las Festas de A Parrocheira se celebran en septiembre en Ferrol Vello, el núcleo marinero originario de la ciudad. Giran en torno a la Virxe da Parrocheira, venerada en la iglesia de Nuestra Señora del Socorro, y reivindican la identidad pesquera del barrio con encuentros de embarcaciones tradicionales, regatas, cucaña marítima y xantares populares de cocina de mar. El nombre alude a la parrocha, la sardina pequeña que se fríe como plato emblema.",
+  "gastronomia": [
+   "Parrochas fritas",
+   "Vieira al albariño",
+   "Arroz marinero/caldoso",
+   "Marmitako de bonito",
+   "Escabeche de marisco",
+   "Churrasco"
+  ],
+  "servicios": [
+   "Verbenas nocturnas",
+   "Encuentro de embarcaciones tradicionales",
+   "Regatas de vela y de embarcaciones tradicionales",
+   "Cucaña marítima",
+   "Fiesta infantil"
+  ],
+  "tradicion": "Procesión con la Virxe da Parrocheira y fuerte componente marinero (regatas y embarcaciones tradicionales) en el barrio histórico de Ferrol Vello.",
+  "programa": "Viernes: pregón, música y verbena. Sábado: pasacalles, encuentro de embarcaciones tradicionales, cucaña marítima, regata, fiesta infantil y verbena. Domingo: regata de cruceros, pasacalles, eucaristía y procesión con la Virgen.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-de-a-parrocheira-de-ferrol-vello-8088.html"
+  ],
+  "concello": "Ferrol",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ferrol centro",
+  "nombre": "Festas do Verán de Ferrol (San Ramón)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "2023-08-20 a 2023-08-31",
+   "2024": "2024-08-17 a 2024-08-31",
+   "2025": "2025-08-22 a 2025-08-31"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las Festas do Verán son las fiestas grandes de la ciudad de Ferrol, repartidas por toda la urbe durante la segunda quincena de agosto. Cierran con los tradicionales fuegos de San Ramón, su patrón, a finales de mes.",
+  "historiaLarga": "Las Festas do Verán de Ferrol concentran en agosto la programación festiva de la ciudad: conciertos en la Praza de Armas, teatro, circo, títeres, magia, deporte y verbenas que se extienden por los distintos barrios. El patrón es San Ramón, cuya festividad pone el broche con los conocidos fuegos de San Ramón, espectáculo pirotécnico (acompañado en los últimos años por shows de drones) que despide las fiestas a finales de agosto.",
+  "gastronomia": [],
+  "servicios": [
+   "Conciertos en la Praza de Armas",
+   "Teatro, circo y magia",
+   "Actividades infantiles (hinchables, fiesta de espuma, karts)",
+   "Verbenas con orquestas",
+   "Fuegos artificiales y espectáculo de drones",
+   "Concello 981 944 000 / Cultura 981 944 180"
+  ],
+  "tradicion": "Fuegos de San Ramón como cierre tradicional de las fiestas, patrón de la ciudad.",
+  "programa": "Programación de la segunda quincena de agosto por barrios: conciertos, teatro y circo, deporte (triatlón, rallye, fútbol), actividades infantiles, verbenas y, como colofón, los fuegos de San Ramón.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-do-veran-ferrol-3109.html"
+  ],
+  "concello": "Ferrol",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Serantes",
+  "nombre": "San Salvador de Serantes",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "en torno al 6-7 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Salvador de Serantes son las patronales de esta parroquia ferrolana a comienzos de agosto, con actos religiosos y actuaciones musicales. Fiesta tradicional de parroquia rural.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones musicales",
+   "Verbenas"
+  ],
+  "tradicion": "Patronales en honor a San Salvador, con misa y procesión.",
+  "programa": "Patronales de inicios de agosto: actos religiosos y actuaciones musicales variadas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ferrol-37.html"
+  ],
+  "concello": "Ferrol",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Brión",
+  "nombre": "Brión Folk Festival",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "2025-08-22 a 2025-08-24"
+  },
+  "fundacion": null,
+  "historiaCorta": "El Brión Folk Festival lleva la música folk y la cultura tradicional gallega a la parroquia de Brión a finales de agosto. Una cita de folclore al aire libre dentro del calendario veraniego ferrolano.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Conciertos de folk",
+   "Actividades de cultura tradicional"
+  ],
+  "tradicion": "Festival centrado en la música folk y el folclore gallego.",
+  "programa": "Tres días de finales de agosto con conciertos de folk y actividades tradicionales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/brion-folk-festival-ferrol-47464.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ferrol-37.html"
+  ],
+  "concello": "Ferrol",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Esmelle",
+  "nombre": "Romaría Castrexa de Esmelle",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "en torno al 23 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "La Romaría Castrexa de Esmelle recrea el ambiente de un poblado castrexo con puestos de artesanía, comida y música tradicional. Una propuesta de turismo cultural que une etnografía y fiesta en el rural de Ferrol.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida tradicional en puestos",
+   "Productos de artesanía gastronómica"
+  ],
+  "servicios": [
+   "Puestos de artesanía",
+   "Música tradicional"
+  ],
+  "tradicion": "Ambientación castrexa (cultura castreña gallega) con artesanía y música tradicional.",
+  "programa": "Jornada de agosto con puestos de artesanía y comida y música tradicional al estilo castrexo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ferrol-37.html"
+  ],
+  "concello": "Ferrol",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Santa Mariña do Vilar",
+  "nombre": "Santa Mariña do Vilar",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "en torno al 16-19 de julio"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las fiestas de Santa Mariña do Vilar son las patronales de esta parroquia ferrolana a mediados de julio, con actos religiosos y actuaciones musicales. Fiesta de parroquia tradicional.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones musicales",
+   "Verbenas"
+  ],
+  "tradicion": "Patronales en honor a Santa Mariña, con misa y procesión.",
+  "programa": "Mediados de julio: actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ferrol-37.html"
+  ],
+  "concello": "Ferrol",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Covas",
+  "nombre": "Feira da Cervexa Artesá",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "en torno al 7-10 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "La Feira da Cervexa Artesá de Ferrol reúne en agosto degustaciones de cervezas artesanas con conciertos y obradoiros. Una cita gastronómica del verano ferrolano.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Degustación de cervezas artesanas",
+   "Comida de feria"
+  ],
+  "servicios": [
+   "Conciertos",
+   "Obradoiros (talleres)"
+  ],
+  "tradicion": "Feria gastronómica dedicada a la cerveza artesana.",
+  "programa": "Varios días de agosto con degustación de cervezas artesanas, conciertos y talleres.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ferrol-37.html"
+  ],
+  "concello": "Ferrol",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Esmelle",
+  "nombre": "Gadis Surf Festival",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "en torno al 24-28 de junio"
+  },
+  "fundacion": null,
+  "historiaCorta": "El Gadis Surf Festival combina un campeonato internacional de surf en las playas de Esmelle y A Fragata con conciertos, bautismos de surf y skate. Cita deportiva y festiva de finales de junio en el litoral ferrolano.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Campeonato internacional de surf",
+   "Conciertos",
+   "Bautismos de surf",
+   "Skate",
+   "Gratuito / playas de Esmelle y A Fragata"
+  ],
+  "tradicion": "Evento deportivo-cultural de surf en el litoral de Ferrol.",
+  "programa": "Finales de junio: pruebas del campeonato de surf, bautismos, skate y conciertos en la playa.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ferrol-37.html"
+  ],
+  "concello": "Ferrol",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Caranza",
+  "nombre": "Festa do Voluntariado de Caranza",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "en torno al 17 de septiembre"
+  },
+  "fundacion": null,
+  "historiaCorta": "La Festa do Voluntariado de Caranza es una jornada festiva de septiembre que pone en valor el tejido asociativo y voluntario del barrio. Cierra el calendario festivo del verano en Caranza.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actividades lúdicas comunitarias"
+  ],
+  "tradicion": null,
+  "programa": "Jornada de septiembre con actividades festivas en torno al voluntariado del barrio.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ferrol-37.html"
+  ],
+  "concello": "Ferrol",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Xoán",
+  "nombre": "San Xoán",
+  "fecha2026": "2026-06-24",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La fiesta patronal de la parroquia de San Xoán de Moeche, en honor a San Juan Bautista. Celebración religiosa de noche de San Juan, en torno al 24 de junio, con la tradicional hoguera y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Coincide con la noche de San Juan: hogueras, sardiñada y conjuros para espantar las meigas.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-moeche-50.html"
+  ],
+  "concello": "Moeche",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Xoán",
+  "nombre": "San Ramón",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta de verano de la parroquia de San Xoán de Moeche en honor a San Ramón, celebrada habitualmente en agosto. Romería parroquial de tono familiar, con misa, procesión y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-moeche-50.html"
+  ],
+  "concello": "Moeche",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Labacengos",
+  "nombre": "Gran Churrascada de Labacengos",
+  "fecha2026": "2026-06-27",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta gastronómica del churrasco en la parroquia de Labacengos, en el campo de O Ventoeiro, organizada por la asociación local. Una de las grandes citas del verano moechense en torno a la parrilla, con sesión vermú y comida popular.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrasco",
+   "Liscos",
+   "Criollos (chorizo criollo)",
+   "Cachelos",
+   "Postre y helado",
+   "Café de pota",
+   "Chupito",
+   "Vino, agua y refrescos"
+  ],
+  "servicios": [
+   "Sesión vermú a mediodía (en torno a las 14:00) con DJ/animación",
+   "Churrascada hacia las 14:30",
+   "Comida popular por tique: socios 18 euros, no socios 22 euros; niños hasta 10 años gratis; de 10 a 14 años 10 euros"
+  ],
+  "tradicion": "Fiesta del churrasco, una de las modalidades gastronómicas más arraigadas del verano gallego: parrilla compartida, sobremesa larga y verbena.",
+  "programa": "Sesión vermú al mediodía con animación, seguida de la churrascada con menú completo (churrasco, liscos, criollos, cachelos, bebida, postre, helado, café de pota y chupito) y verbena por la tarde-noche.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/gran-churrascada-de-labacengos-moeche-23858.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-moeche-50.html"
+  ],
+  "concello": "Moeche",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Labacengos",
+  "nombre": "Santa María",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "fechasPrevias": {},
+  "historiaCorta": "Fiesta patronal de la parroquia de Labacengos en honor a Santa María, celebrada habitualmente en agosto. Romería parroquial con misa, procesión y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-moeche-50.html"
+  ],
+  "concello": "Moeche",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Santa Cruz",
+  "nombre": "Festa do Carme",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "fechasPrevias": {},
+  "historiaCorta": "Fiesta de la Virgen del Carmen en la parroquia de Santa Cruz de Moeche, celebrada en julio. Romería parroquial veraniega con misa, procesión y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "El Carmen es una de las advocaciones más populares del verano gallego, con procesión y fiesta de barrio.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-moeche-50.html"
+  ],
+  "concello": "Moeche",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Santa Cruz",
+  "nombre": "San Cibrao",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "fechasPrevias": {},
+  "historiaCorta": "Fiesta de San Cibrao (San Cipriano) en la parroquia de Santa Cruz de Moeche, celebrada habitualmente en septiembre. Romería parroquial de fin de verano con misa, procesión y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-moeche-50.html"
+  ],
+  "concello": "Moeche",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Abade",
+  "nombre": "Santiago Apóstol",
+  "fecha2026": "2026-07-25",
+  "fechaFin2026": "2026-07-26",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "fechasPrevias": {},
+  "historiaCorta": "Fiesta patronal de la parroquia de Abade (San Xiao de Moeche) en honor a Santiago Apóstol, celebrada en torno al 25-26 de julio. Romería parroquial con oficio religioso, procesión y actuaciones musicales.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbena con orquesta"
+  ],
+  "tradicion": null,
+  "programa": "Misa solemne y procesión el día de Santiago, con sesión vermú y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-moeche-50.html"
+  ],
+  "concello": "Moeche",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Abade",
+  "nombre": "Virxe de Guadalupe",
+  "fecha2026": "2026-09-19",
+  "fechaFin2026": "2026-09-20",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "fechasPrevias": {},
+  "historiaCorta": "Fiesta en honor a la Virgen de Guadalupe en la parroquia de Abade, celebrada en torno al 19-20 de septiembre. Romería de fin de verano con actos litúrgicos, procesión y música.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-moeche-50.html"
+  ],
+  "concello": "Moeche",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Xurxo",
+  "nombre": "Virxe dos Dores",
+  "fecha2026": "2026-09-28",
+  "fechaFin2026": "2026-09-29",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "fechasPrevias": {},
+  "historiaCorta": "Fiesta en honor a la Virgen de los Dolores en la parroquia de San Xurxo de Moeche, celebrada en torno al 28-29 de septiembre. Romería de fin de verano con actos religiosos, procesión y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-moeche-50.html"
+  ],
+  "concello": "Moeche",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Moeche (San Xoán / Castelo de Moeche)",
+  "nombre": "Festival Irmandiño",
+  "fecha2026": "2026-08-21",
+  "fechaFin2026": "2026-08-23",
+  "fechaConfianza": "confirmada-web",
+  "fundacion": "1980 (nació como festival de música celta; XLVII edición en 2026)",
+  "fechasPrevias": {
+   "2025": "2025-08-22 a 2025-08-24"
+  },
+  "historiaCorta": "El gran festival del verano de Moeche: una recreación histórica y festival folk en torno al Castelo de Moeche que rememora la revuelta irmandiña de 1431, cuando los campesinos liderados por el Rei Xordo asaltaron la fortaleza de Nuño Freire de Andrade. Nacido en 1980 como festival de música celta, en 2026 alcanza su XLVII edición los días 21, 22 y 23 de agosto.",
+  "historiaLarga": "El Festival Irmandiño conmemora el movimiento irmandiño de 1431, una de las primeras grandes revueltas populares de Europa, en la que los campesinos gallegos se levantaron contra los abusos feudales de los Andrade y tomaron el Castelo de Moeche. El festival arrancó en 1980 con vocación de festival de música celta y fue ganando un fuerte carácter histórico y cultural hasta convertirse en una de las citas folk de referencia de Galicia. El acto central es el asalto al castillo: los participantes, armados con fachos (antorchas), parten del campo del festival hacia la fortaleza, donde se lee la proclama irmandiña y se 'quema' el Castelo con un espectáculo de fuegos artificiales. En 2026, en su XLVII edición, abren el cartel Os d'Abaixo y el proyecto de Xosé Lois Romero & Aliboria, con novedades como un taller de baile a cargo de Nel Villanueva.",
+  "gastronomia": [
+   "Comida campestre popular por tique (en ediciones recientes en torno a 10 euros)",
+   "Cocina tradicional gallega",
+   "Sesión vermú"
+  ],
+  "servicios": [
+   "Tres días de programación (viernes a domingo)",
+   "Sesiones vermú sábado y domingo",
+   "Mercado/feira de artesanía y exposición en el castillo",
+   "Juegos populares y actividades infantiles (asalto infantil al castillo)",
+   "Conciertos folk nocturnos y verbena",
+   "Espectáculo pirotécnico con la quema del castillo"
+  ],
+  "tradicion": "Recreación histórica del asalto irmandiño al Castelo de Moeche con antorchas y fuegos artificiales; uno de los festivales folk y de memoria histórica más singulares de Galicia, muy atractivo turísticamente. Por él han pasado grupos como Tanxugueiras y Vimbio.",
+  "programa": "Viernes: 'repichoca' (foliada) popular nocturna. Sábado: apertura del castillo con exposición, sesión vermú, juegos y asalto infantil, taller de baile, actuaciones folk al atardecer, lectura de la proclama y asalto nocturno al castillo con fuegos, y conciertos hasta la madrugada. Domingo: sesión vermú, comida campestre y actuaciones de tarde.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festival-irmandi%C3%B1o-moeche-1884.html",
+   "https://xn--festivalirmandio-lub.gal/",
+   "https://diariodeferrol.elidealgallego.com/ferrolterra/moeche/2026-05-24/o-festival-irmandino-de-moeche-xa-ten-datas-grupos-e-xente-con-ganas-857608.html",
+   "https://www.elespanol.com/quincemil/servicios/agenda/evento/festival-irmandino-2026-en-moeche-programacion-cartel-y-agenda-completa/63942"
+  ],
+  "concello": "Moeche",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Moeche (San Xoán / Castelo de Moeche)",
+  "nombre": "Trail dos Irmandiños",
+  "fecha2026": "2026-08-22",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "V edición en 2026",
+  "fechasPrevias": {},
+  "historiaCorta": "Carrera de montaña vinculada al Festival Irmandiño, con salida y meta en el entorno del Castelo de Moeche. En 2026 celebra su V edición, integrada en el fin de semana grande del festival (sábado 22 de agosto).",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Prueba deportiva por categorías",
+   "Recorrido por el entorno rural del concello"
+  ],
+  "tradicion": "Une deporte de montaña y memoria histórica irmandiña en el mismo fin de semana del festival.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-moeche-50.html"
+  ],
+  "concello": "Moeche",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ferreira",
+  "nombre": "San Paio de Ferreira",
+  "fecha2026": "2026-06-27",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de la parroquia de Ferreira en honor a San Paio. Combina la parte religiosa con un gran xantar popular que reúne a vecinos y visitantes en pleno verano.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Xantar popular (comida campestre multitudinaria)"
+  ],
+  "servicios": [],
+  "tradicion": "Romería de tono familiar y vecinal, con la comida comunitaria como eje del día.",
+  "programa": "Actos religiosos (misa), música y un gran xantar popular.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-san-sadurni%C3%B1o-77.html"
+  ],
+  "concello": "San Sadurniño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Narahío",
+  "nombre": "Festival do Río Castro de Narahío",
+  "fecha2026": "2026-07-04",
+  "fechaFin2026": null,
+  "fechaConfianza": "confirmada-web",
+  "fechasPrevias": {
+   "2024": "2024-07-06"
+  },
+  "fundacion": "1994 (XXXI edición en 2026)",
+  "historiaCorta": "Festival de música al aire libre que nació en agosto de 1994 junto al río Castro, en Naraío. Surgió con la intención de reivindicar la conservación del río a través de la música y las actividades al aire libre, y se ha convertido en una de las citas culturales más arraigadas de Ferrolterra.",
+  "historiaLarga": "El Festival do Río Castro celebra en 2026 su trigésimo primera edición. Nació en 1994 de la mano de la asociación vecinal O Castelo de Narahío con un doble objetivo: dinamizar la parroquia con música en vivo y reivindicar la conservación del río Castro y su entorno. Se ha celebrado de forma ininterrumpida salvo en los años de pandemia (2020 y 2021). En 2026 el Concello de San Sadurniño y la AVV O Castelo de Narahío sellaron un convenio de colaboración para sacar adelante la cita, que se desarrolla en el paraje de Bóla.",
+  "gastronomia": [],
+  "servicios": [
+   "Acceso gratuito",
+   "Celebración al aire libre junto al río"
+  ],
+  "tradicion": "Festival con marcado componente ecologista y reivindicativo de la conservación del río Castro; punto de encuentro generacional de la comarca.",
+  "programa": "Conciertos y actuaciones musicales durante la jornada, con actividades para todos los públicos en el entorno fluvial.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-san-sadurni%C3%B1o-77.html",
+   "https://sansadurnino.gal/naraio-celebra-este-sabado-trinta-riocastros/",
+   "https://diariodeferrol.elidealgallego.com/ferrolterra/san-sadurnino/2026-03-08/concello-y-avv-o-castelo-de-narahio-sellan-su-colaboracion-para-el-festival-rio-castro-841415.html"
+  ],
+  "concello": "San Sadurniño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Silvalonga",
+  "nombre": "O Santiago de Silvalonga",
+  "fecha2026": "2026-07-27",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta del lugar de Silvalonga en honor a Santiago Apóstol, en torno a la fecha del 25 de julio. Celebración de barrio con actos para todos los públicos.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-san-sadurni%C3%B1o-77.html"
+  ],
+  "concello": "San Sadurniño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Narahío",
+  "nombre": "San Roque de Narahío",
+  "fecha2026": "2026-08-08",
+  "fechaFin2026": "2026-08-10",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "2023-08-11 a 2023-08-13",
+   "2025": "2025-08-08 a 2025-08-10"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal en honor a San Roque en la parroquia de Narahío, una de las grandes citas de agosto del concello. Mezcla la tradición religiosa con sesión vermú, pulpeira y verbenas con orquestas.",
+  "historiaLarga": "San Roque de Narahío es una festividad religiosa que se celebra en agosto en la parroquia de Narahío. Mantiene el esquema clásico de las fiestas patronales gallegas: misa solemne, procesión, sesión vermú y verbena nocturna con orquestas y grupos del momento. En torno a las fiestas se disputa también la Cronoescalada SanRockeira, una prueba ciclista de subida que añade ambiente deportivo a la celebración.",
+  "gastronomia": [
+   "Pulpo á feira (pulpeira)",
+   "Pinchos y tapas",
+   "Sesión vermú"
+  ],
+  "servicios": [
+   "Bares, restaurantes, asadores y turismo rural en San Sadurniño",
+   "Teléfono Concello: 981 490 027"
+  ],
+  "tradicion": "Combina la devoción a San Roque con la Cronoescalada SanRockeira (ciclismo en ruta y montaña) y grandes actuaciones musicales.",
+  "programa": "Misas solemnes (13:00 h), procesión, sesión vermú con música, pulpeira y pinchos, y verbena nocturna con orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-roque-de-narahio-san-sadurni%C3%B1o-7870.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-san-sadurni%C3%B1o-77.html"
+  ],
+  "concello": "San Sadurniño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Sadurniño",
+  "nombre": "XVI Feira Rural (Feira do Medio Rural)",
+  "fecha2026": "2026-08-30",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": "XVI edición",
+  "historiaCorta": "Feria dedicada al medio rural de San Sadurniño que se celebra a finales de agosto. Reúne actividades lúdicas, concursos y degustaciones de productos del campo.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Degustaciones de productos del campo y de la huerta local"
+  ],
+  "servicios": [],
+  "tradicion": "Escaparate del mundo agrario y ganadero de la zona, con concursos y muestras de productos locales.",
+  "programa": "Actividades lúdicas, concursos y degustaciones de productos del campo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-san-sadurni%C3%B1o-77.html"
+  ],
+  "concello": "San Sadurniño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Sadurniño",
+  "nombre": "Romaría da Cortiña",
+  "fecha2026": "2026-08-31",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Romería que se celebra en la Finca da Cortiña (paseo fluvial de Xubia), en la villa de San Sadurniño, a finales de agosto. Jornada de encuentro vecinal con música en directo durante todo el día.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Celebrada en el paseo fluvial / Finca da Cortiña"
+  ],
+  "tradicion": null,
+  "programa": "Actuaciones musicales a lo largo de la jornada.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-san-sadurni%C3%B1o-77.html"
+  ],
+  "concello": "San Sadurniño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Bardaos",
+  "nombre": "Santa María de Bardaos e San Pipote",
+  "fecha2026": "2026-09-11",
+  "fechaFin2026": "2026-09-13",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2019": "2019-09-05 a 2019-09-07",
+   "2022": "2022-09-08 a 2022-09-10",
+   "2023": "2023-09-07 a 2023-09-09",
+   "2024": "2024-09-05 a 2024-09-07"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de la parroquia de Bardaos en honor a Santa María, famosa por la singular procesión de San Pipote, que sale de madrugada (sobre la 01:30 h). Es una de las celebraciones más curiosas y entrañables del concello.",
+  "historiaLarga": "Las fiestas de Santa María de Bardaos se celebran a comienzos de septiembre y se conocen popularmente como Santa María de Bardaos e San Pipote. Su seña de identidad es la procesión de San Pipote, que se realiza de madrugada (en torno a la 01:30 h del sábado), un rito festivo singular dentro de la comarca. El programa se reparte en tres días e incluye misas solemnes, sesiones vermú, pasacalles con gaiteiros, las Olimpiadas Parroquiais y verbenas nocturnas con grupos musicales.",
+  "gastronomia": [
+   "Aperitivo nocturno",
+   "Sesión vermú"
+  ],
+  "servicios": [
+   "Zona de acampada",
+   "Carpas",
+   "Zona de meriendas y baños"
+  ],
+  "tradicion": "La procesión de San Pipote de madrugada (~01:30 h) y las Olimpiadas Parroquiais son las grandes curiosidades de la fiesta.",
+  "programa": "Jueves: aperitivo nocturno con música en el local social. Viernes: misa solemne (13:30 h), sesión vermú y verbena. Sábado: misa matutina, sesión vermú, pasacalles con gaiteiros, Olimpiadas Parroquiais, verbena y procesión de San Pipote a la 01:30 de la madrugada.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/santa-maria-de-bardaos-e-san-pipote-san-sadurni%C3%B1o-2707.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-san-sadurni%C3%B1o-77.html"
+  ],
+  "concello": "San Sadurniño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Sadurniño",
+  "nombre": "Nosa Señora de Biscordel",
+  "fecha2026": "2026-09-20",
+  "fechaFin2026": "2026-09-21",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta del lugar de Biscordel en honor a la Nosa Señora, ya a las puertas del otoño. Celebración religiosa con verbena y orquestas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y actuaciones de orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-san-sadurni%C3%B1o-77.html"
+  ],
+  "concello": "San Sadurniño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Bares (Porto de Bares)",
+  "nombre": "San Pedro de Porto de Bares",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "27-28 de junio"
+  },
+  "historiaCorta": "Fiesta patronal del pintoresco puerto de Bares, el punto más septentrional de la península Ibérica. Honra a San Pedro, patrón de pescadores, con actos religiosos y música en este enclave marinero único de la costa norte gallega.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Porto de Bares es el punto más al norte de la península Ibérica, con un puerto natural de origen fenicio. Atractivo turístico de primer orden por su entorno y por el cercano Estaca de Bares.",
+  "programa": "Actos religiosos en honor a San Pedro y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ma%C3%B1on-45.html"
+  ],
+  "concello": "Mañón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Bares (Porto de Bares)",
+  "nombre": "Fiesta del Verano del Puerto de Bares",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "20 de julio"
+  },
+  "historiaCorta": "Celebración estival del puerto de Bares, una jornada de ambiente festivo en pleno verano en uno de los rincones más singulares de la costa coruñesa.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ma%C3%B1on-45.html"
+  ],
+  "concello": "Mañón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mañón",
+  "nombre": "San Pedro de Mañón",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "28 de junio"
+  },
+  "historiaCorta": "Fiesta patronal de la parroquia de Mañón en honor a San Pedro. Combina los actos religiosos con música y una churrascada popular que reúne a la vecindad.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [
+   "Churrascada popular"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos, música y churrascada popular.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ma%C3%B1on-45.html"
+  ],
+  "concello": "Mañón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mogor (O Barqueiro)",
+  "nombre": "Virxe do Carme de O Barqueiro",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "11-13 de julio"
+  },
+  "historiaCorta": "Fiesta marinera de O Barqueiro en honor a la Virxe do Carme, patrona de los marineros. La procesión baja la imagen hasta el puerto acompañada por la banda, en un pueblo cuyo nombre recuerda a los barqueros que cruzaban la ría antes del puente de 1901.",
+  "historiaLarga": "O Barqueiro debe su nombre a los barqueros que transportaban personas y mercancías de una orilla a otra de la ría del Sor antes de la construcción del puente en 1901. La fiesta de la Virxe do Carme refleja el carácter marinero del lugar, con los actos centrados en el puerto y la lonja.",
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [
+   "Restaurantes (9) y cafeterías (8) en el concello",
+   "Alojamientos: hoteles, turismo rural y alquiler vacacional"
+  ],
+  "tradicion": "El nombre del pueblo procede de los barqueros que cruzaban la ría del Sor antes del puente de 1901. Entorno turístico con faro, playas y rutas de senderismo.",
+  "programa": "Viernes: misa solemne (19:00) y procesión de la imagen hasta el puerto con la banda local; verbena nocturna. Sábado: misa en la lonja y procesión; sesión vermú con orquesta y verbena nocturna. Domingo: misa por los marineros y mariscadores fallecidos y sesión vermú vespertina.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/virxe-do-carme-de-o-barqueiro-ma%C3%B1on-24194.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ma%C3%B1on-45.html"
+  ],
+  "concello": "Mañón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ribeiras do Sor",
+  "nombre": "Festa da Romaxe de Ponte Segade",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "11-12 de julio"
+  },
+  "historiaCorta": "Romería campestre en el área recreativa de Ponte Segade, a orillas del río Sor. Mezcla actuaciones musicales, xira campestre y un concurso de pesca en un entorno natural de ribera.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [
+   "Xira campestre (comida popular al aire libre)"
+  ],
+  "servicios": [
+   "Área recreativa de Ponte Segade junto al río Sor"
+  ],
+  "tradicion": "Se celebra en plena naturaleza, en el área recreativa fluvial de Ponte Segade, frontera natural entre A Coruña y Lugo.",
+  "programa": "Actuaciones musicales, xira campestre y concurso de pesca.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ma%C3%B1on-45.html",
+   "https://www.paxinasgalegas.es/fiestas/area-recreativa-de-ponte-segade-ma%C3%B1on-24763.html"
+  ],
+  "concello": "Mañón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ribeiras do Sor",
+  "nombre": "San Cristóbal de Ribeiras do Sor",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "2-3 de agosto"
+  },
+  "historiaCorta": "Fiesta de Ribeiras do Sor en honor a San Cristóbal, con actos religiosos y grandes actuaciones musicales que llenan las noches de verano de la parroquia.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y grandes actuaciones musicales (verbenas).",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ma%C3%B1on-45.html"
+  ],
+  "concello": "Mañón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mogor (O Barqueiro)",
+  "nombre": "Romaría Santa Rosa de O Barqueiro",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "7-9 de agosto"
+  },
+  "historiaCorta": "Romería de tres días en O Barqueiro en honor a Santa Rosa, con misa en su capilla, pasacalles, sesiones vermú y verbenas. Una de las citas grandes del verano barqueirés.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [
+   "Merienda popular"
+  ],
+  "servicios": [
+   "Restaurantes y cafeterías en el concello",
+   "Alojamientos variados"
+  ],
+  "tradicion": "Romería con fuerte raigambre: misa en la capilla de Santa Rosa, actuaciones de gaitas y juegos populares.",
+  "programa": "Viernes: verbena con orquestas y disco móvil. Sábado: pasacalles (11:00), misa solemne (13:30), gaitas y sesión vermú con grupos, y verbena nocturna. Domingo: misa en la capilla de Santa Rosa, sesión vermú con música en directo, gaitas y juegos populares.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/romaria-santa-rosa-de-o-barqueiro-ma%C3%B1on-2513.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ma%C3%B1on-45.html"
+  ],
+  "concello": "Mañón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mogor (O Barqueiro)",
+  "nombre": "Martelazo Rock",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "14 de agosto"
+  },
+  "historiaCorta": "Festival de música rock en O Barqueiro que reúne a varias bandas en una noche de agosto. Apuesta cultural diferente dentro del calendario festivo del concello.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Concierto con varias bandas de rock.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ma%C3%B1on-45.html"
+  ],
+  "concello": "Mañón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mogor (O Barqueiro)",
+  "nombre": "Festas Patronais do Barqueiro (Noite Meiga)",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "5-7 de septiembre"
+  },
+  "historiaCorta": "Las fiestas patronales de O Barqueiro tienen como acto estrella la Noite Meiga, una escenificación nocturna con queimada que cumple más de tres décadas. Tres días de procesión, sesiones vermú y verbenas con orquestas gallegas.",
+  "historiaLarga": "La Noite Meiga es el acto emblemático de las fiestas patronales del Barqueiro y se celebra desde hace más de tres décadas (XXXIV edición en 2025). Es una escenificación tradicional nocturna que parte del puerto y recorre las calles hasta la Praza do Mesón, acompañada por el grupo O Son do Sor, con degustación de queimada.",
+  "fundacion": "Noite Meiga: 34ª edición en 2025 (origen hacia 1991)",
+  "gastronomia": [
+   "Queimada (degustación durante la Noite Meiga)"
+  ],
+  "servicios": [
+   "Restaurantes (9) y cafeterías (8) en el concello",
+   "Alojamientos: hoteles, albergues y alquiler vacacional"
+  ],
+  "tradicion": "La Noite Meiga, con queimada y desfile nocturno desde el puerto, es la seña de identidad de las fiestas. Más de tres décadas de tradición.",
+  "programa": "Viernes: Noite Meiga (22:00) desde el puerto hasta la Praza do Mesón con O Son do Sor y degustación de queimada; verbena con orquesta. Sábado: pasacalles (12:30) con banda, misa solemne (13:30) y procesión, sesión vermú con orquesta y verbena nocturna. Domingo: sesión vermú con grupo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-patronais-do-barqueiro-ma%C3%B1on-2892.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ma%C3%B1on-45.html"
+  ],
+  "concello": "Mañón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cesullas",
+  "nombre": "Romaría de San Fins do Castro",
+  "fecha2026": "2026-08-01",
+  "fechaFin2026": "2026-08-02",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "2023-08-01",
+   "2025": "2025-08-01"
+  },
+  "fundacion": null,
+  "historiaCorta": "La gran romería de Cabana de Bergantiños, declarada Festa de Interese Turístico de Galicia. Cada 1 de agosto miles de fieles suben al castro de San Fins, en la parroquia de Cesullas, para una de las romaxes más multitudinarias de la Costa da Morte.",
+  "historiaLarga": "La Romaría de San Fins do Castro se celebra desde tiempo inmemorial en el entorno del castro de Cesullas y atrae a romeros de toda la provincia de A Coruña. Está declarada Fiesta de Interés Turístico de Galicia por su arraigo y por ritos únicos como el Berro Seco. El primer día se honra a San Fins y el segundo a Nosa Señora dos Remedios.",
+  "gastronomia": [
+   "meriendas y comidas campestres en el monte",
+   "sesión vermú"
+  ],
+  "servicios": [
+   "misas desde las 09:00 y misa solemne a las 13:00",
+   "música de gaitas, orquestas y grupos folk durante todo el día"
+  ],
+  "tradicion": "Destacan dos ritos: el 'Berro Seco' (los romeros se ponen en cuclillas y se incorporan tres veces dando un grito al unísono tras el himno a San Fins) y la 'quema do Santo da Pólvora', una rueda de fuegos. Ameniza el grupo de gaitas O Son do Castro y la banda Eduardo Pondal de Ponteceso.",
+  "programa": "Diana y alborada con gaiteiros, misas matinales y misa solemne cantada por el coro de Cesullas a las 13:00, himno a San Fins, Berro Seco y quema do Santo da Pólvora; sesión vermú con orquesta, comida campestre con folk y verbena nocturna (en ediciones recientes con orquestas Alianza y Los Players).",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/romaria-de-san-fins-do-castro-cabana-de-berganti%C3%B1os-1107.html",
+   "https://diariodebergantinos.elidealgallego.com/articulo/cabana-de-bergantinos/llega-popular-romeria-san-fins-do-castro-martes-1-agosto-4390149",
+   "https://www.guiarepsol.com/es/fichas/fiesta/romeria-de-san-fins-do-castro-184694/"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cesullas",
+  "nombre": "VIII Foliada Farrapeira de San Fins do Castro",
+  "fecha2026": "2026-07-25",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": "VIII edición",
+  "historiaCorta": "Cita de música tradicional gallega en el entorno de San Fins do Castro (Cesullas), como antesala folk de la gran romería de agosto. En 2026 alcanzaría su VIII edición.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Foliada de folclore enxebre con gaitas, pandeiretas y baile tradicional.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cesullas",
+  "nombre": "O Carme de Cesullas",
+  "fecha2026": "2026-08-08",
+  "fechaFin2026": "2026-08-09",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de la parroquia de Cesullas en honor a la Virxe do Carme, a principios de agosto, con actos litúrgicos y lúdicos.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos (misa y procesión) combinados con actos lúdicos y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Canduas",
+  "nombre": "Festas do Carme de Cánduas",
+  "fecha2026": "2026-08-23",
+  "fechaFin2026": "2026-08-29",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Las fiestas patronales de Canduas en honor a la Virxe do Carme y San Antonio, a finales de agosto, con casi una semana de actos religiosos y musicales.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "actuaciones musicales y verbenas a lo largo de varios días"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos en honor a la Virxe do Carme y San Antonio con procesión, y actuaciones musicales y verbenas durante la semana.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-do-carme-de-canduas-cabana-de-berganti%C3%B1os-7202.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Corcoesto",
+  "nombre": "San Pedro e Sacramento de Corcoesto",
+  "fecha2026": "2026-06-27",
+  "fechaFin2026": "2026-06-28",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Pedro y del Sacramento en la parroquia de Corcoesto, a finales de junio, con actos religiosos y verbenas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos (misa y procesión) y verbenas nocturnas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Corcoesto",
+  "nombre": "Santa Margarida de Baneira e Santa Mariña do Remuímo",
+  "fecha2026": "2026-07-11",
+  "fechaFin2026": "2026-07-18",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Ciclo de fiestas de Santa Margarida de Baneira y Santa Mariña do Remuímo en la parroquia de Corcoesto, en julio, con actos religiosos y verbenas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y verbenas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Corcoesto",
+  "nombre": "Santa Mariña Pequena de Corcoesto",
+  "fecha2026": "2026-09-21",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Romería de Santa Mariña Pequena en Corcoesto, a finales de septiembre, conocida por su xantar con pulpeiro.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "pulpo á feira (xantar con pulpeiro)"
+  ],
+  "servicios": [],
+  "tradicion": "El xantar con pulpeiro es la seña gastronómica de esta romería.",
+  "programa": "Actos religiosos y comida popular con pulpeiro.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Nantón",
+  "nombre": "San Pedro de Nantón",
+  "fecha2026": "2026-06-27",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta popular de San Pedro en la parroquia de Nantón, a finales de junio, con actos religiosos y actuaciones musicales.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "actuaciones musicales"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos y actuaciones musicales / verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Nantón",
+  "nombre": "Virxe do Carme de Nantón",
+  "fecha2026": "2026-08-30",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la Virxe do Carme en la parroquia de Nantón, a finales de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Neaño",
+  "nombre": "Virxe do Carme e San Antonio de Neaño",
+  "fecha2026": "2026-07-04",
+  "fechaFin2026": "2026-07-06",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de Neaño en honor a la Virxe do Carme y San Antonio, a primeros de julio, con actos religiosos y verbenas con orquestas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "verbenas con orquestas"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos (misa y procesión) y verbenas con orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "O Esto",
+  "nombre": "San Xoán de O Esto",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": "2026-06-25",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Xoán en el lugar de O Esto, en torno a la noche de San Juan, con churrascada popular y música.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "churrascada popular"
+  ],
+  "servicios": [
+   "actuaciones musicales"
+  ],
+  "tradicion": "Combina la verbena con la tradicional churrascada y el ambiente de la noche de San Juan.",
+  "programa": "Actos litúrgicos, churrascada popular y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "O Esto",
+  "nombre": "San Ramón de O Esto",
+  "fecha2026": "2026-09-05",
+  "fechaFin2026": "2026-09-07",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Ramón en O Esto, a primeros de septiembre, con actos religiosos y actuaciones musicales.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "actuaciones musicales"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Borneiro",
+  "nombre": "O Castro Animado",
+  "fecha2026": "2026-07-12",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Evento de animación cultural en el entorno del castro de Borneiro (uno de los castros más visitados de Galicia), con actividades para todos los públicos en julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Se desarrolla en torno al Castro de Borneiro (A Cibdá), yacimiento arqueológico de gran interés turístico junto al Dolmen de Dombate.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Borneiro",
+  "nombre": "XVI Unha Noite no Medievo",
+  "fecha2026": "2026-08-09",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": "XVI edición",
+  "historiaCorta": "Recreación medieval en el entorno del Castro de Borneiro, con paseos a caballo, juegos tradicionales y teatro. En 2026 alcanzaría su XVI edición.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Ambientación de época con caballos, juegos tradicionales y teatro en un escenario arqueológico singular.",
+  "programa": "Paseos a caballo, juegos tradicionales y teatro de recreación medieval.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cabana",
+  "nombre": "O Carme do Briño",
+  "fecha2026": "2026-07-17",
+  "fechaFin2026": "2026-07-18",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la Virxe do Carme en el lugar do Briño, a mediados de julio, con oficios religiosos y actuaciones musicales.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "actuaciones musicales"
+  ],
+  "tradicion": null,
+  "programa": "Oficios religiosos y actuaciones musicales / verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cabana",
+  "nombre": "II Foliada Enxebre",
+  "fecha2026": "2026-09-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": "II edición",
+  "historiaCorta": "Encuentro de música tradicional gallega a finales de septiembre en Cabana de Bergantiños. En 2026 sería su II edición.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Foliada de folclore enxebre con gaitas y baile tradicional.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cabana-de-berganti%c3%b1os-14.html"
+  ],
+  "concello": "Cabana de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fisterra",
+  "nombre": "Festas Patronais e do Carme",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2022": "8-10 de septiembre",
+   "2023": "8-10 de septiembre",
+   "2024": "6-8 de septiembre",
+   "2025": "6-8 de septiembre"
+  },
+  "fundacion": null,
+  "numeroEdicion": null,
+  "historiaCorta": "Son las fiestas grandes de la villa de Fisterra, que honran a tres figuras a la vez: San Roque, la Virgen del Carmen (patrona de los marineros) y Santa María das Areas, patrona de la villa. Se celebran a principios de septiembre y mezclan la devoción marinera con tres días de verbena.",
+  "historiaLarga": "Las Festas Patronais e do Carme concentran en un mismo programa de tres días la devoción a San Roque, a Nosa Señora do Carme y a Santa María das Areas, patrona de Fisterra y cuya imagen se venera en la iglesia gótica de Santa María das Areas. El día dedicado al Carme es el más emotivo: la procesión sale al mar (procesión marítima) y se rinde homenaje a los marineros fallecidos con la tradicional Salve Mariñeira, un canto cargado de simbolismo en un pueblo tan ligado a la pesca. Las fechas se han movido en los últimos años, del 8-10 de septiembre (2022 y 2023) al 6-8 de septiembre (2024 y 2025).",
+  "gastronomia": [],
+  "servicios": [
+   "Acceso gratuito a los actos en la villa"
+  ],
+  "tradicion": "La procesión marítima de la Virgen del Carmen y la Salve Mariñeira en homenaje a los marineros fallecidos son el momento más emocionante. Llama la atención el Campeonato Internacional de Futbolín Alexandre Fisterra, que se incluye en el programa.",
+  "programa": "Tres días con misas solemnes, procesiones por las calles y procesión marítima el día del Carme, ofrenda a los marineros fallecidos y Salve Mariñeira. En lo festivo: sesiones de vermú con orquesta, verbenas nocturnas, pasacalles de charangas, juegos infantiles y festival infantil, y gran traca de fuegos.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-patronais-e-do-carme-fisterra-8031.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fisterra-38.html"
+  ],
+  "concello": "Fisterra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fisterra",
+  "nombre": "Noite de San Xoán (sardiñada e lumarada do Varadero)",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": "2026-06-24",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "numeroEdicion": null,
+  "historiaCorta": "La villa marinera de Fisterra celebra la noche más mágica del año con su gran sardiñada y la lumarada (hoguera) en la explanada del Varadero. Música, sardinas a la brasa y la hoguera frente al mar marcan la entrada del verano.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardiñada (sardinas a la brasa)",
+   "Pan y vino de la tierra"
+  ],
+  "servicios": [
+   "Acceso gratuito",
+   "Sardiñada popular en la explanada del Varadero"
+  ],
+  "tradicion": "La lumarada (hoguera) de San Xoán frente al mar, en la que es tradición saltar las llamas para ahuyentar los males, en uno de los enclaves más emblemáticos del Fin del Mundo.",
+  "programa": "Programa por distintos puntos de la villa con la gran sardiñada y la lumarada (hoguera) en la explanada del Varadero como acto central, acompañadas de música.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fisterra-38.html"
+  ],
+  "concello": "Fisterra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sardiñeiro",
+  "nombre": "Festas de San Xoán Bautista de Sardiñeiro",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": "2026-06-24",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "23-24 de junio"
+  },
+  "fundacion": null,
+  "numeroEdicion": null,
+  "historiaCorta": "La parroquia de Sardiñeiro honra a su patrón San Xoán Bautista coincidiendo con la noche de San Juan. Es una fiesta religiosa y popular que combina misa, verbena y sardiñada junto a la playa.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardiñada"
+  ],
+  "servicios": [
+   "Acceso gratuito",
+   "Verbena con orquesta"
+  ],
+  "tradicion": "El patrón San Xoán Bautista coincide con la noche de San Juan, así que la fiesta de Sardiñeiro suma la devoción al santo y los ritos del solsticio (hoguera y sardiñada).",
+  "programa": "Misas en honor al patrón, procesión, verbenas nocturnas y sardiñada popular.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-de-san-xoan-bautista-de-sardi%C3%B1eiro-fisterra-6981.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fisterra-38.html"
+  ],
+  "concello": "Fisterra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Vicente de Duio",
+  "nombre": "Comida Campestre de Duio (San Vicente)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "25 de julio"
+  },
+  "fundacion": null,
+  "numeroEdicion": null,
+  "historiaCorta": "La parroquia de San Vicente de Duio celebra a su patrón con una comida campestre a finales de julio. Es una romería de carácter rural, de reunión vecinal al aire libre.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida campestre al aire libre"
+  ],
+  "servicios": [],
+  "tradicion": "Romería campestre en honor a San Vicente, de marcado carácter vecinal en una de las parroquias rurales del concello.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fisterra-38.html"
+  ],
+  "concello": "Fisterra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fisterra",
+  "nombre": "Festa Gastronómica do Longueirón e Encontro Pirata",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "2-3 de agosto (XXXII edición / X Encontro Pirata)"
+  },
+  "fundacion": "1992",
+  "numeroEdicion": "XXXII edición en 2025",
+  "historiaCorta": "Una de las grandes citas gastronómicas de la Costa da Morte, dedicada al longueirón (navaja de mar) y celebrada el primer fin de semana de agosto desde 1992. Se acompaña del Encontro Pirata, con desembarco y ambiente corsario por toda la villa.",
+  "historiaLarga": "La Festa do Longueirón nació en 1992 para poner en valor el longueirón (la navaja de mar, un molusco muy ligado al marisqueo local) y se ha consolidado como una de las fiestas gastronómicas de referencia de la Costa da Morte. Se celebra en la zona de la playa de A Ribeira, junto a la lonja, con puestos de degustación a precios populares. Desde hace años va de la mano del Encontro Pirata, que llena Fisterra de ambiente corsario con desembarco pirata y feria, sumando un atractivo turístico-festivo a la parte gastronómica. En 2025 se celebró la XXXII edición de la fiesta y el X Encontro Pirata.",
+  "gastronomia": [
+   "Longueirón (navaja de mar) a la plancha",
+   "Empanada de longueirón",
+   "Tortilla de longueirón"
+  ],
+  "servicios": [
+   "Degustación a precios populares",
+   "Puestos junto a la lonja en la playa de A Ribeira",
+   "Programación lúdica y musical los dos días"
+  ],
+  "tradicion": "El longueirón, marisco emblemático de Fisterra, es el protagonista. El maridaje con el Encontro Pirata (desembarco pirata y feria) convierte la fiesta en un reclamo turístico que va más allá de la mesa.",
+  "programa": "Dos días de degustación de longueirón junto a la lonja, pasacalles de charangas (O Rumbo de Sardiñeiro, Latexo, O Son da Tripulasión), desembarco y feria pirata del Encontro Pirata, y programación musical.",
+  "fuentes": [
+   "https://turismo.dacoruna.gal/es/actualidade/festas-gastronomicas/festa-gastronomica-do-longueiron",
+   "https://www.paxinasgalegas.es/fiestas/festa-do-longueiron-encontro-pirata-fisterra-1621.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fisterra-38.html"
+  ],
+  "concello": "Fisterra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fisterra",
+  "nombre": "Fisterra Experience",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "finales de junio (26-28 jun)"
+  },
+  "fundacion": null,
+  "numeroEdicion": null,
+  "historiaCorta": "Festival que combina música, territorio y naturaleza en el entorno del Fin del Mundo. Se celebra a finales de junio en Fisterra.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Apuesta por unir música y paisaje en uno de los enclaves más simbólicos de Galicia, el cabo Fisterra.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fisterra-experience-38662.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fisterra-38.html"
+  ],
+  "concello": "Fisterra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fisterra",
+  "nombre": "Entroido de Verán (Carnaval de Verano)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "julio"
+  },
+  "fundacion": null,
+  "numeroEdicion": null,
+  "historiaCorta": "Fisterra recupera el espíritu del carnaval en pleno verano, en julio, con un gran desfile de disfraces y comparsas y actuaciones musicales. Una manera desenfadada de animar la temporada alta.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso gratuito"
+  ],
+  "tradicion": "Curiosidad local: trasladar el entroido al verano, con desfile de disfraces y comparsas que recorren la villa.",
+  "programa": "Pasacalles y gran desfile de disfraces y comparsas, con actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/entroido-de-veran-fisterra-24134.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fisterra-38.html"
+  ],
+  "concello": "Fisterra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fisterra",
+  "nombre": "Festa Folk na Fin do Camiño",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "24 de agosto (XXII edición)"
+  },
+  "fundacion": null,
+  "numeroEdicion": "XXII edición en 2025",
+  "historiaCorta": "Festival de música folk celebrado a finales de agosto en el entorno del Fin del Camino de Santiago. Reúne música tradicional gallega, productos del país y una queimada gigante.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Productos tradicionales gallegos",
+   "Queimada gigante"
+  ],
+  "servicios": [],
+  "tradicion": "La queimada gigante y la música folk en el punto final del Camino de Santiago dan un sello muy local a este festival, ya veterano (XXII edición en 2025).",
+  "programa": "Conciertos de música folk tradicional, degustación de productos gallegos y queimada gigante.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fisterra-38.html"
+  ],
+  "concello": "Fisterra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Muxía",
+  "nombre": "Romería da Nosa Señora da Barca",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "12-15 de septiembre"
+  },
+  "fundacion": "Declarada Fiesta de Interés Turístico Nacional desde 1989",
+  "historiaCorta": "Es la gran romería de Muxía y una de las más importantes y antiguas de Galicia. Se celebra en torno al santuario de la Virxe da Barca, en pleno cabo, con las famosas piedras sagradas a sus pies. Mezcla fervor religioso, leyenda jacobea y una de las verbenas más multitudinarias de la Costa da Morte.",
+  "historiaLarga": "Según la leyenda, el apóstol Santiago, desanimado por la poca acogida de su predicación entre los pueblos paganos del noroeste, recibió aquí el aliento de la Virgen María, que descendió a la costa de Muxía en una barca de piedra escoltada por ángeles para animarle a seguir evangelizando Galicia. De aquella embarcación quedaron las piedras sagradas que rodean el santuario: la Pedra de Abalar (el casco del barco, una gran losa triangular que se mueve con el empuje de varias personas y a la que se atribuía valor de oráculo), la Pedra dos Cadrís (la vela, con forma de riñón, a la que se atribuyen propiedades curativas para riñones y reuma pasando nueve veces por debajo) y la Pedra do Timón. El santuario actual data del siglo XVIII y se levanta sobre un lugar de culto precristiano. La fiesta aspira a obtener la declaración de Interés Turístico Internacional.",
+  "tradicion": "El ritual de pasar nueve veces bajo la Pedra dos Cadrís para curar dolores de riñón y reuma, y mover la Pedra de Abalar, son parte imprescindible de la visita. Interés Turístico Nacional desde 1989.",
+  "gastronomia": [],
+  "servicios": [
+   "Verbenas con grandes orquestas (Los Satélites, París de Noia, Alianza, Galaxia, Kubo)",
+   "Fuegos artificiales a medianoche desde el puerto",
+   "La mayor traca de bombas de palenque de toda Galicia el domingo"
+  ],
+  "programa": "La programación litúrgica arranca a primeros de septiembre con la tradicional Novena da Barca. La romería se celebra de viernes a lunes en torno al segundo domingo de septiembre: arranca con 21 bombas de palenque al mediodía, pasacalles, sesiones vermú, misas y procesión en el santuario, verbenas nocturnas con grandes orquestas, fuegos desde el puerto y la gran traca final el domingo.",
+  "fuentes": [
+   "https://www.elespanol.com/quincemil/servicios/agenda/evento/romeria-virxe-da-barca-de-muxia-2025-programa-cartel-y-agenda-completa/59212",
+   "https://www.adiantegalicia.es/costa-da-morte/2025/08/13/muxia-presenta-el-programa-de-la-romeria-de-la-virxe-da-barca-2025.html",
+   "https://xacopedia.com/Virxe_da_Barca_santuario_de_A",
+   "https://www.turismo.gal/recurso/-/detalle/4943/santuario-da-virxe-da-barca-e-pedras-da-barca"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Muxía",
+  "nombre": "Festa do Carme de Muxía",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "30-31 de julio (aprox.)"
+  },
+  "fundacion": null,
+  "historiaCorta": "La villa de Muxía, pueblo marinero, honra a la Virxe do Carme, patrona de la gente del mar, a finales de julio. Tiene el carácter típico de fiesta costera con procesión y verbena.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://concellomuxia.com/en/item/outras-festas/"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Moraime",
+  "nombre": "Festas do Carme de Moraime",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "18-20 de julio"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Moraime celebra a mediados de julio sus tradicionales Festas do Carme, con una mezcla muy lograda de churrasco popular, sesiones vermú y verbena. Es de las romerías de verano más animadas del rural de Muxía.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [
+   "Gran churrascada popular el viernes"
+  ],
+  "servicios": [
+   "Verbenas con orquesta (Los Españoles, DJ Kike Varela)",
+   "Sesiones vermú con grupos folk y dúos",
+   "Disco Móvil CDC"
+  ],
+  "programa": "Viernes: gran churrascada popular y verbena con disco móvil CDC. Sábado: misa solemne al mediodía, sesión vermú y verbena nocturna con orquesta. Domingo: misa tradicional y sesión vermú de cierre con grupo folk.",
+  "fuentes": [
+   "https://www.elespanol.com/quincemil/servicios/agenda/evento/fiestas-del-carmen-de-moraime-2025-en-muxia-programa-cartel-y-agenda-completa/58540",
+   "https://visitacostadamorte.com/agenda/fiestas-del-carmen-de-moraime-2025"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Moraime",
+  "nombre": "Festa de San Roque de Moraime",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "20-21 de agosto (aprox.)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Moraime celebra también a San Roque a finales de agosto, prolongando el calendario festivo del verano en esta parroquia con el románico de San Xulián de Moraime como telón de fondo.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://concellomuxia.com/en/item/outras-festas/"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Leis",
+  "nombre": "Festa de San Pedro de Leis",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "29-30 de junio"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Leis celebra a su patrón San Pedro a finales de junio, en torno a la festividad del santo. Es una fiesta patronal de carácter local con misa, procesión y verbena.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://concellomuxia.com/en/item/outras-festas/"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Coucieiro",
+  "nombre": "Festas do Socorro de Coucieiro",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "julio"
+  },
+  "fundacion": null,
+  "historiaCorta": "En la parroquia de Coucieiro se celebran en julio las fiestas religiosas en honor a la Virxe do Socorro, una de las advocaciones más extendidas del rural muxián.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-do-socorro-de-coucieiro-muxia-2170.html"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Frixe",
+  "nombre": "Festa patronal de Frixe",
+  "fechaConfianza": "no encontrada",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Frixe (Santa Leocadia de Frixe) celebra su fiesta patronal en verano, dentro del calendario festivo del concello, aunque no se ha localizado la fecha concreta ni programa detallado.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://concellomuxia.com/en/item/outras-festas/"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Os Muíños",
+  "nombre": "Festa patronal de Os Muíños",
+  "fechaConfianza": "no encontrada",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "El lugar de Os Muíños (parroquia de Muxía) cuenta con su fiesta de verano dentro del rosario de celebraciones parroquiales del concello, si bien no se localizó fecha ni programa concretos.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://concellomuxia.com/en/item/outras-festas/"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Touriñán",
+  "nombre": "Festa patronal de Touriñán",
+  "fechaConfianza": "no encontrada",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Touriñán (San Martiño de Touriñán), junto al cabo del mismo nombre, celebra su fiesta de verano, aunque no se ha localizado fecha ni programa detallado en las fuentes consultadas.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://concellomuxia.com/en/item/outras-festas/"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Vilastose (Senande)",
+  "nombre": "Festas do Socorro de Senande",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "julio"
+  },
+  "fundacion": null,
+  "historiaCorta": "En el lugar de Senande (parroquia de Vilastose) se celebran en julio las fiestas en honor a la Virxe do Socorro, fiesta religiosa muy arraigada en esta zona del concello.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-do-socorro-de-senande-muxia-3443.html"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ozón (Quintáns)",
+  "nombre": "Festa de San Isidro Labrador de Quintáns",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "1-3 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "El lugar de Quintáns celebra a comienzos de agosto la Gran Festa de San Isidro Labrador, con una sardiñada multitudinaria como gran reclamo gastronómico. Es una de las citas con más tirón del verano rural de Muxía.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [
+   "Gran sardiñada con sardina fresca",
+   "Pementos de Padrón",
+   "Pan de millo (broa)"
+  ],
+  "servicios": [
+   "Verbena al aire libre con Dúo D'Festa",
+   "Charanga (Santa Compaña)",
+   "Disco móvil CDC"
+  ],
+  "programa": "Viernes: gran sardiñada con sardina fresca, pementos de Padrón y pan de millo, amenizada por charanga, seguida de verbena al aire libre con dúo y disco móvil. Fin de semana con misa, procesión y verbenas.",
+  "fuentes": [
+   "https://visitacostadamorte.com/en/diary/san-isidro-festival-2025-in-quintans",
+   "https://concellomuxia.com/en/item/outras-festas/"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Suxo",
+  "nombre": "Festa da Virxe do Pilar de Suxo",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "17-19 de junio"
+  },
+  "fundacion": null,
+  "historiaCorta": "El lugar de Suxo celebra en junio a la Virxe do Pilar, una fiesta de verano temprana dentro del calendario festivo de las parroquias de Muxía.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://concellomuxia.com/en/item/outras-festas/"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Bardullas",
+  "nombre": "Festa de San Xoán de Bardullas",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "24 de junio"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Bardullas celebra a San Xoán el 24 de junio, coincidiendo con la noche mágica de las hogueras del solsticio de verano.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://concellomuxia.com/en/item/outras-festas/"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Morquintián",
+  "nombre": "Festa da Virxe da Xunqueira de Morquintián",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "13-15 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Morquintián celebra a mediados de agosto, en torno a la festividad de la Asunción, a la Virxe da Xunqueira. Coincide con los días grandes del verano y reúne a la diáspora local.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://concellomuxia.com/en/item/outras-festas/"
+  ],
+  "concello": "Muxía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Camariñas",
+  "nombre": "Festas do Carme de Camariñas",
+  "fechaConfianza": "confirmada-web",
+  "fecha2026": "2026-07-15",
+  "fechaFin2026": "2026-07-19",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Las fiestas grandes de la villa marinera de Camariñas, en honor a la Virxe do Carme, patrona de los marineros. Cinco días de mar, tradición y fe, con la emblemática procesión marítima y la histórica Danza de Arcos como seña de identidad.",
+  "historiaLarga": "La Virxe do Carme es la patrona de la gente del mar, y en una villa volcada en la pesca como Camariñas sus fiestas son las más importantes del año. El programa de 2026 va bajo el lema 'Mar, tradición e fe que nos unen', cinco jornadas que combinan devoción, música y vida en la calle. El elemento más singular es la Danza de Arcos, baile tradicional que acompaña a la procesión.",
+  "gastronomia": [
+   "Sardiñada popular en la plaza",
+   "Sesión de vermú con música en directo"
+  ],
+  "servicios": [
+   "Verbenas con orquestas",
+   "Fuegos artificiales",
+   "Pasarúas con cantos de taberna",
+   "Música en directo (Tania Veiras y Los Cumbiapop, entre otros)"
+  ],
+  "tradicion": "La Danza de Arcos, baile tradicional de la villa, abre las fiestas con su versión infantil (Mini Danza de Arcos) y acompaña la procesión. También se entrega el premio Camariñán/a do Ano.",
+  "programa": "Miércoles 15: Mini Danza de Arcos y entrega del premio Camariñán do Ano, pasarúas vespertinos con cantos de taberna. Jueves 16: Danza de Arcos y bandas por la mañana, procesión marítima tras la misa del mediodía, verbena con orquestas y fuegos a las 00:30. Viernes 17: procesión con la imagen al mediodía, música por la noche. Sábado 18: sardiñada en la plaza con música folk, baile en el paseo marítimo. Domingo 19: sesión vermú prolongada con música en directo.",
+  "fuentes": [
+   "https://www.diariodegalicia.com/fiestas/camarinas-celebra-las-festas-do-carme-2026-del-15-al-19-de-julio/",
+   "https://www.paxinasgalegas.es/fiestas/virxe-do-carme-camari%C3%B1as-1126.html"
+  ],
+  "concello": "Camariñas",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Camariñas",
+  "nombre": "Lumarea de San Xoán (Lumarea da Vila)",
+  "fechaConfianza": "confirmada-web",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "2025-06-23"
+  },
+  "fundacion": null,
+  "historiaCorta": "La noche de San Xoán en Camariñas, con la que dicen ser la mayor hoguera (lumarea) de Galicia ardiendo en la playa de Area da Vila. Sardiñada gratuita, música y un espectáculo pirotécnico para recibir el solsticio de verano.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardiñada gratuita con cachelos y broa"
+  ],
+  "servicios": [
+   "Gratis",
+   "Hinchables acuáticos gratuitos en la playa (17:00)",
+   "Música en directo (Louband, Mekanika Rolling Band, 20:00)",
+   "Encendido de la hoguera y pirotecnia a medianoche"
+  ],
+  "tradicion": "Presumen de levantar la mayor fogueira de San Xoán de Galicia en la playa de Area da Vila, seguida de fuegos artificiales.",
+  "programa": "17:00 hinchables acuáticos gratis para familias; 19:00 sardiñada gratuita con cachelos y broa; 20:00 música; medianoche encendido de la lumarea con espectáculo pirotécnico y queima.",
+  "fuentes": [
+   "https://visitacostadamorte.com/en/diary/lumarea-da-vila-2026-in-camarinas",
+   "https://www.elespanol.com/quincemil/servicios/agenda/evento/lumarea-de-san-xoan-de-camarinas-2025-programa-cartel-y-agenda-completa/58108"
+  ],
+  "concello": "Camariñas",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Camelle",
+  "nombre": "Festas do Carme de Camelle",
+  "fechaConfianza": "confirmada-web",
+  "fecha2026": "2026-08-01",
+  "fechaFin2026": "2026-08-03",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La villa marinera de Camelle celebra su fiesta patronal el primer fin de semana de agosto, en honor a la Virxe do Carme y la Virxe dos Remedios. Procesión marítima, gran churrascada y la Danza de Arcos propia de Camelle.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Gran churrascada (parrillada) con acompañamiento musical"
+  ],
+  "servicios": [
+   "Verbena con orquestas",
+   "Música en directo"
+  ],
+  "tradicion": "La Danza de Arcos de Camelle, acompañada por el grupo de gaitas Gholpe de Mar, y la procesión marítima de las imágenes.",
+  "programa": "Misa solemne, procesión marítima, gran churrascada con música y la Danza de Arcos de Camelle con el grupo de gaitas Gholpe de Mar.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-do-carme-de-camelle-camari%C3%B1as-3054.html",
+   "https://www.festivalesdeespana.com/festival/festas-do-carme-de-camelle-camarinas"
+  ],
+  "concello": "Camariñas",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Camelle",
+  "nombre": "Espíritu Santo de Camelle",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta religiosa de Camelle dedicada al Espíritu Santo, con ceremonias religiosas que se alternan con grandes churrascadas y sesiones de baile vermú a lo largo de los días de fiesta.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Grandes churrascadas (parrilladas)"
+  ],
+  "servicios": [
+   "Sesiones de baile vermú"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/espiritu-santo-de-camelle-camari%C3%B1as-3053.html"
+  ],
+  "concello": "Camariñas",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Camelle",
+  "nombre": "San Bartolomé e Nosa Señora da Inmaculada de Arou",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiestas religiosas del núcleo costero de Arou, perteneciente a la parroquia de Camelle, en honor a San Bartolomé y a Nosa Señora da Inmaculada. Celebración de aldea marinera, tradicionalmente en torno a finales de agosto (San Bartolomé, 24 de agosto).",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-camari%c3%b1as-16.html"
+  ],
+  "concello": "Camariñas",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ponte do Porto",
+  "nombre": "Festas patronais de Ponte do Porto (San Pedro, San Antonio, O Socorro e Santísimo Sacramento)",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-06-27",
+  "fechaFin2026": "2026-07-06",
+  "fechasPrevias": {
+   "2025": "2025-06-27"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las fiestas grandes de Ponte do Porto se prolongan más de una semana, a caballo entre finales de junio y primeros de julio, en honor a San Pedro, San Antonio, O Socorro y el Santísimo Sacramento. Romería de interior con ceremonias religiosas y actuaciones musicales.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones musicales",
+   "Ceremonias religiosas"
+  ],
+  "tradicion": null,
+  "programa": "Ciclo largo de fiestas patronales con misas, procesiones y verbenas dedicadas a varios patrones (San Pedro, San Antonio, O Socorro, Santísimo Sacramento).",
+  "fuentes": [
+   "https://www.elespanol.com/quincemil/servicios/agenda/evento/fiestas-de-san-pedro-de-ponte-do-porto-2025-en-camarinas-programa-cartel-y-agenda-completa/58077",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-camari%c3%b1as-16.html"
+  ],
+  "concello": "Camariñas",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Xaviña",
+  "nombre": "Festa do Sacramento de Xaviña",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-07-26",
+  "fechaFin2026": "2026-07-27",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la parroquia de Xaviña en honor al Santísimo Sacramento, celebrada a finales de julio. Romería rural de la zona interior del concello de Camariñas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-do-sacramento-de-xavi%C3%B1a-camari%C3%B1as-3200.html"
+  ],
+  "concello": "Camariñas",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Xaviña",
+  "nombre": "Nosa Señora e San Roque de Xaviña",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-15",
+  "fechaFin2026": "2026-08-16",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiestas de Xaviña en torno al 15 y 16 de agosto, en honor a Nosa Señora y San Roque. Celebración de verano de la parroquia, con la festividad de la Virgen el día 15 y San Roque el 16.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-camari%c3%b1as-16.html"
+  ],
+  "concello": "Camariñas",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Camariñas",
+  "nombre": "San Ramón",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": null
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta religiosa popular de Camariñas en honor a San Ramón, con misa solemne, procesión y fuegos artificiales. Celebración tradicional de la villa (San Ramón Nonato, 31 de agosto).",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Fuegos artificiales"
+  ],
+  "tradicion": null,
+  "programa": "Misa solemne, procesión y fuegos artificiales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-ramon-camari%C3%B1as-3046.html"
+  ],
+  "concello": "Camariñas",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Camboño",
+  "nombre": "Festa da Gorgosa (Nosa Señora de A Gorgosa)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "9 de mayo (xoves da Ascensión)",
+   "2025": "29 de mayo (xoves da Ascensión)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Romería del lugar de Naval (San Xoán de Camboño) en honor a Nosa Señora de A Gorgosa, también vinculada a Santa Mariña. Se celebra tradicionalmente el jueves de la Ascensión, así que la fecha baila cada año según el calendario litúrgico.",
+  "historiaLarga": "La Gorgosa es una de las romerías más arraigadas de Camboño. Por la mañana hay alboradas y pasacalles a cargo del grupo Canlebó y misas cantadas a cada hora, con la misa solemne sobre la una del mediodía acompañada de música y sesión vermú. Por la tarde, juegos populares, actividades infantiles y un concurso de calleiro (marisco) que es de las señas más reconocibles de la fiesta. Al caer ser tira de orquesta para la verbena.",
+  "gastronomia": [
+   "Calleiro (concurso de marisco)",
+   "Vermú popular tras la misa solemne"
+  ],
+  "servicios": [
+   "Misas cada hora desde la mañana",
+   "Sesión vermú al mediodía",
+   "Verbena con orquesta (Finisterre y otras han tocado aquí)"
+  ],
+  "tradicion": "Está ligada al jueves de la Ascensión, una fecha móvil; el concurso de calleiro de marisco le da carácter propio dentro del Barbanza.",
+  "programa": "Alboradas y pasacalles matinales (grupo Canlebó), misas cantadas cada hora, misa solemne hacia las 13:00 con música y vermú, juegos populares y actividades infantiles por la tarde, concurso de calleiro y verbena de orquesta.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-da-gorgosa-de-cambo%C3%B1o-lousame-7787.html",
+   "http://www.concellodelousame.gal/index.php/gl/turismo/festas-e-romarias/37-turismo/festas-e-romarias/135-parroquia-de-san-xoan-de-cambono",
+   "https://www.guiarepsol.com/es/fichas/fiesta/fiesta-de-nuestra-senora-de-a-gorgosa-en-lousame-san-juan-185277/",
+   "https://www.instagram.com/festadagorgosac/"
+  ],
+  "concello": "Lousame",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Lousame",
+  "nombre": "Festa de San Xoán",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "24-28 de junio"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las fiestas patronales de la parroquia de San Xoán de Lousame se celebran a finales de junio, en torno al 24-28, en honor a San Juan, el Santísimo Sacramento, O Carmen, As Dores y la Virxen do Leite. Romería parroquial clásica con actos religiosos y música.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actos religiosos",
+   "Verbena"
+  ],
+  "tradicion": "Acumula varias advocaciones (San Xoán, O Carmen, As Dores, Virxen do Leite) en unos mismos días de fiesta parroquial.",
+  "programa": null,
+  "fuentes": [
+   "http://www.concellodelousame.gal/index.php/gl/turismo/festas-e-romarias/37-turismo/festas-e-romarias/137-parroquia-de-san-xoan-de-lousame",
+   "https://www.xenealoxiasdobarbanza.es/festas-e-romaxes-do-barbanza-6.html"
+  ],
+  "concello": "Lousame",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Lousame",
+  "nombre": "Festa de San Cristovo e San Xoán",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "segundo domingo de julio y el lunes siguiente"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de San Xoán de Lousame celebra a San Cristovo el segundo domingo de julio y el lunes siguiente. Es una de las citas de verano de la cabecera del concello, con procesión y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Procesión",
+   "Verbena"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "http://www.concellodelousame.gal/index.php/gl/turismo/festas-e-romarias/37-turismo/festas-e-romarias/137-parroquia-de-san-xoan-de-lousame",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-lousame-43.html"
+  ],
+  "concello": "Lousame",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Lousame",
+  "nombre": "Festas de Servia (San Cristovo e Virxe de Loreto de Ces)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "9 y 10 de julio (Ces)"
+  },
+  "fundacion": null,
+  "historiaCorta": "En el lugar de Servia/Ces (San Xoán de Lousame) se celebra una gran fiesta en honor a San Cristovo y a la Virxe de Loreto, en torno al 9 y 10 de julio. Destaca por una degustación gastronómica gratuita para todos los asistentes.",
+  "historiaLarga": "Las Festas de Servia tienen fama de generosas: se reparten gratis empanada, mejillones y orejas para todos los que se acercan, acompañado de actuaciones musicales y verbena. Es de las romerías de verano más concurridas de la parroquia.",
+  "gastronomia": [
+   "Empanada gratis",
+   "Mejillones gratis",
+   "Orejas (orellas) gratis"
+  ],
+  "servicios": [
+   "Degustación gratuita",
+   "Actuaciones musicales y verbena"
+  ],
+  "tradicion": "El reparto gratuito de empanada, mejillones y orejas a todos los asistentes es el sello de la fiesta.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-de-servia-lousame-7286.html",
+   "https://www.paxinasgalegas.es/fiestas/san-cristovo-e-virxe-de-loreto-de-ces-lousame-1282.html"
+  ],
+  "concello": "Lousame",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Tállara",
+  "nombre": "Festas de San Roquiño",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "último domingo de septiembre y los cinco días siguientes"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Roquiño de Tállara está considerada la fiesta grande del concello de Lousame. Se celebra el último domingo de septiembre y los días siguientes, en los lugares de San Roquiño y Sanguñal, con una rica simbología tradicional.",
+  "historiaLarga": "Las fiestas de San Roquiño son las más destacadas del año en Lousame. Se prolongan varios días a partir del último domingo de septiembre entre los núcleos de San Roquiño y Sanguñal, en San Pedro de Tállara, y conservan una simbología popular muy arraigada en el imaginario de la comarca del Barbanza.",
+  "gastronomia": [],
+  "servicios": [
+   "Procesión",
+   "Verbena con orquestas",
+   "Varios días de programa"
+  ],
+  "tradicion": "Es la celebración de referencia del municipio; en torno a San Roquiño se conserva una rica simbología de tradición popular.",
+  "programa": null,
+  "fuentes": [
+   "https://www.facebook.com/pedro.g.losada/posts/10214323110387509",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-lousame-43.html"
+  ],
+  "concello": "Lousame",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Tállara",
+  "nombre": "Festa de San Pedro",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "finales de junio (~29 de junio, San Pedro)"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Pedro de Tállara celebra a su patrón a finales de junio, en torno al día de San Pedro (29 de junio). Es la fiesta de verano de la parroquia junto con San Roquiño en septiembre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Procesión",
+   "Verbena"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.concellodelousame.gal/index.php/gl/turismo/festas-e-romarias"
+  ],
+  "concello": "Lousame",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Toxosoutos",
+  "nombre": "Festa dos Santos Xusto e Pastor",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "agosto (San Xusto y San Pastor, 6 de agosto)"
+  },
+  "fundacion": "Vinculada al Monasterio de Toxosoutos, ermita del s. XII convertida en monasterio en 1132",
+  "historiaCorta": "La parroquia de San Xusto de Toxosoutos celebra en agosto a los Santos Xusto e Pastor, junto al histórico monasterio de Toxosoutos. El cenobio nació como ermita dedicada a estos santos en el siglo XII y se transformó en monasterio en 1132.",
+  "historiaLarga": "La fiesta toma su nombre de los mártires Xusto y Pastor, advocación original de la ermita que dio origen al Monasterio de Santa María de Toxosoutos, fundado como cenobio en 1132. El entorno monástico y el río Vilacoba hacen de esta romería de agosto una cita con fuerte componente patrimonial y natural.",
+  "gastronomia": [],
+  "servicios": [
+   "Procesión",
+   "Verbena"
+  ],
+  "tradicion": "Se celebra en el entorno del Monasterio de Toxosoutos, uno de los conjuntos monásticos medievales más relevantes del Barbanza, lo que le da interés turístico y patrimonial.",
+  "programa": null,
+  "fuentes": [
+   "https://www.concellodelousame.gal/index.php/gl/turismo/festas-e-romarias/37-turismo/festas-e-romarias/139-parroquia-de-san-xusto-de-toxosoutos",
+   "https://www.paxinasgalegas.es/fiestas/monasterio-de-toxosoutos-lousame-6145.html"
+  ],
+  "concello": "Lousame",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fruíme",
+  "nombre": "Festas de Nosa Señora das Cabezas e San Martiño (As Cabesas de Fruíme)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "septiembre"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Martiño de Fruíme celebra en septiembre sus fiestas en honor a la Virxe das Dores, Santa María das Cabezas (As Cabesas) y San Antonio, con actos religiosos tradicionales y variadas actuaciones musicales. Fruíme es conocida por ser la parroquia del poeta-cura Diego Cernadas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actos religiosos",
+   "Actuaciones musicales",
+   "Verbena"
+  ],
+  "tradicion": "Fruíme está históricamente ligada al cura y poeta Diego Antonio Cernadas y Castro, el 'Cura de Fruíme', figura del Barbanza del siglo XVIII.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/as-cabesas-de-fruime-lousame-1280.html",
+   "https://www.concellodelousame.gal/index.php/gl/turismo/festas-e-romarias"
+  ],
+  "concello": "Lousame",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Vilacoba",
+  "nombre": "Festas de San Bieito e San Finx",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "verano (San Bieito, 11 de julio)"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Santa Eulalia de Vilacoba celebra sus fiestas en honor a San Bieito (San Benito) y San Finx. San Bieito suele caer en torno al 11 de julio, en plena temporada de romerías de verano del concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Procesión",
+   "Verbena"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.concellodelousame.gal/index.php/gl/turismo/festas-e-romarias",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-lousame-43.html"
+  ],
+  "concello": "Lousame",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Lesende",
+  "nombre": "Festa de San Martiño e da Peregrina",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "A Peregrina en agosto (15 ago); San Martiño en noviembre, fuera de verano"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Martiño de Lesende celebra sus fiestas en honor a San Martiño y a la Virxe Peregrina. La parte estival corresponde a A Peregrina, en torno a mediados de agosto, mientras que San Martiño se celebra en noviembre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Procesión",
+   "Verbena"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.concellodelousame.gal/index.php/gl/turismo/festas-e-romarias"
+  ],
+  "concello": "Lousame",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Brión (Pedrouzos)",
+  "nombre": "Romaría de Santa Minia",
+  "fecha2026": "2026-09-26",
+  "fechaFin2026": "2026-09-27",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "2024-09-26 a 2024-09-29",
+   "2025": "2025-09-26 a 2025-09-28"
+  },
+  "fundacion": "1848 (llegada de las reliquias a Brión)",
+  "historiaCorta": "Es la fiesta más emblemática y multitudinaria de Brión: una romería que cada finales de septiembre lleva al lugar de Pedrouzos a miles de devotos de toda Galicia. Se venera el cuerpo de Santa Minia, una niña mártir romana del siglo IV cuyas reliquias llegaron al concello en 1848.",
+  "historiaLarga": "Minia fue, según la tradición, una niña romana martirizada hacia el año 362, en tiempos del emperador Juliano el Apóstata, por proclamar su fe cristiana. Su cuerpo se halló en las catacumbas romanas y, tras pasar por una capilla de Cádiz, fue donado a Luis Tobío, natural de Brión, que lo trasladó por mar hasta Vigo y de ahí por tierra hasta Brión, donde llegó el 1 de agosto de 1848. De la santa solo se conservaba el esqueleto, con los huesos recubiertos de cera imitando el cuerpo, tal y como se expone aún hoy en el relicario. Los vecinos levantaron una capilla en su honor en Pedrouzos, capitalidad del concello, y desde entonces cada 26 y 27 de septiembre se celebra esta peregrinación, una de las romerías de devoción popular más seguidas de Galicia.",
+  "tradicion": "Devoción muy arraigada: los romeros acuden a pedir la intercesión de la santa y a cumplir promesas, con ofrendas tradicionales de figuras y exvotos de cera. El cuerpo incorrupto recubierto de cera es una de las grandes curiosidades del santuario. En 2024 hubo polémica por la nueva imagen de la santa. Es una cita de fuerte interés turístico y etnográfico.",
+  "gastronomia": [
+   "Pulpo á feira en las pulperías instaladas en la carballeira",
+   "Productos de feria y puestos de comida"
+  ],
+  "servicios": [
+   "Atracciones de feria",
+   "Puestos y pulperías",
+   "Actuaciones de orquestas gallegas",
+   "Música tradicional y gaitas",
+   "Espectáculo de luz y sonido"
+  ],
+  "programa": "Varios días de fiesta combinando los actos religiosos (misas y procesión con la imagen de Santa Minia) con amplio programa lúdico: pulperías y puestos en la carballeira, atracciones de feria, música tradicional, gaitas y verbenas con algunas de las mejores orquestas de Galicia.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/romaria-de-santa-minia-brion-1594.html",
+   "https://www.concellodebrion.gal/es/fiestas",
+   "https://www.mundiario.com/articulo/sociedad/historia-nina-romana-galicia/20150909124635033476.html",
+   "https://es.wikipedia.org/wiki/Minia_de_Bri%C3%B3n",
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/bri%C3%B3n/"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Viceso",
+  "nombre": "San Xoán de Viceso",
+  "fecha2026": "2026-06-24",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "2024-06-22 a 2024-06-24",
+   "2025": "2025-06-20, 23 e 24"
+  },
+  "fundacion": null,
+  "historiaCorta": "La fiesta de San Xoán de la parroquia de Viceso es una de las celebraciones de inicio del verano en Brión, ligada a la noche de San Juan y a las tradicionales fogueiras. Se celebra en torno al 24 de junio.",
+  "historiaLarga": null,
+  "tradicion": "Mantiene los ritos típicos de la noche de San Xoán en Galicia: fogueiras (hogueras), luminarias y festejos populares al aire libre.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Celebración religiosa en honor a San Xoán acompañada de fogueira y verbena en las noches previas y del propio día.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-xoan-de-viceso-brion-1081.html",
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/bri%C3%B3n/",
+   "https://www.concellodebrion.gal/es/fiestas"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Os Ánxeles",
+  "nombre": "San Xoán de Os Ánxeles",
+  "fecha2026": "2026-06-24",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Celebración de San Xoán en la parroquia de Os Ánxeles, con las tradicionales fogueiras y luminarias de la noche de San Juan. Es una de las fiestas que abren el verano en Brión.",
+  "historiaLarga": null,
+  "tradicion": "Fogueiras, luminarias y festejos populares propios de la noche de San Xoán.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Acto religioso y fogueira con verbena popular.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-xoan-de-os-anxeles-brion-15946.html"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Brión",
+  "nombre": "Festas Patronais de Brión",
+  "fecha2026": "2026-08-01",
+  "fechaFin2026": "2026-08-03",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de la parroquia de Brión, que se celebran a comienzos de agosto. Reúnen actos religiosos y verbena durante tres jornadas.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Misa y procesión más verbena popular durante los tres días.",
+  "fuentes": [
+   "https://www.concellodebrion.gal/es/fiestas"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Bastavales (San Salvador)",
+  "nombre": "Festas Patronais de San Salvador",
+  "fecha2026": "2026-08-05",
+  "fechaFin2026": "2026-08-06",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de San Salvador, en la parroquia de Bastavales, a primeros de agosto. Bastavales es conocida por sus campanas, inmortalizadas por Rosalía de Castro.",
+  "historiaLarga": null,
+  "tradicion": "Bastavales es célebre por las campanas de su iglesia, evocadas por Rosalía de Castro en su poema \"Campanas de Bastavales\", un fuerte atractivo cultural de la zona.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y verbena durante dos jornadas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-salvador-de-bastavales-brion-33361.html",
+   "https://www.concellodebrion.gal/es/fiestas"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Luaña",
+  "nombre": "San Xulián de Luaña",
+  "fecha2026": "2026-08-11",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de San Xulián en la parroquia de Luaña, a mediados de agosto. Es una de las celebraciones religiosas del verano briones.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Misa, procesión y verbena.",
+  "fuentes": [
+   "https://www.concellodebrion.gal/es/fiestas"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Luaña",
+  "nombre": "Festa do Carmen de Luaña",
+  "fecha2026": "2026-07-16",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la Virxe do Carme en la parroquia de Luaña, en torno al 16 de julio. Celebración religiosa de verano del concello de Brión.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Acto religioso en honor a la Virgen del Carmen y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-do-carmen-de-lua%C3%B1a-brion-38966.html"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Luaña",
+  "nombre": "San Isidro de Luaña",
+  "fecha2026": "2026-05-15",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "2024-05-16"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Isidro Labrador en la parroquia de Luaña, hacia mediados de mayo. Aunque cae justo antes del verano, es una de las romerías de raíz agraria del concello.",
+  "historiaLarga": null,
+  "tradicion": "Patrón de los labradores, vinculado a la bendición del campo y de raíz rural.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Misa, procesión y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-isidro-de-lua%C3%B1a-brion-14154.html",
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/bri%C3%B3n/"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Os Ánxeles",
+  "nombre": "Festas Patronais de Os Ánxeles",
+  "fecha2026": "2026-08-15",
+  "fechaFin2026": "2026-08-18",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de la parroquia de Os Ánxeles, en torno a la festividad de la Asunción, del 15 al 18 de agosto. Es una de las grandes citas de verano del concello.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Varios días con actos religiosos (misa y procesión) y verbenas.",
+  "fuentes": [
+   "https://www.concellodebrion.gal/es/fiestas"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Bastavales",
+  "nombre": "Santo Anxo / Santo Arandel de Bastavales",
+  "fecha2026": "2026-08-15",
+  "fechaFin2026": "2026-08-18",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta del Santo Anxo (Santo Arandel) en la parroquia de Bastavales, coincidiendo con el periodo del 15 al 18 de agosto. Celebración religiosa estival de Brión.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y verbena.",
+  "fuentes": [
+   "https://www.concellodebrion.gal/es/fiestas"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cornanda",
+  "nombre": "Virxe do Rosario de Cornanda",
+  "fecha2026": "2026-08-15",
+  "fechaFin2026": "2026-08-18",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la Virxe do Rosario en la parroquia de Cornanda, en el entorno del 15 al 18 de agosto. Una de las patronales de verano del concello de Brión.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Misa, procesión y verbena.",
+  "fuentes": [
+   "https://www.concellodebrion.gal/es/fiestas"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Os Ánxeles (O Tremo)",
+  "nombre": "San Ramón do Tremo",
+  "fecha2026": "2026-08-30",
+  "fechaFin2026": "2026-08-31",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Ramón en el lugar de O Tremo, parroquia de Os Ánxeles, a finales de agosto. Cierra el calendario de patronales estivales de Brión.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Acto religioso y verbena durante dos días.",
+  "fuentes": [
+   "https://www.concellodebrion.gal/es/fiestas"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Bastavales",
+  "nombre": "Nosa Señora dos Milagres de Bastavales",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la Nosa Señora dos Milagres en la parroquia de Bastavales, celebrada en septiembre. Forma parte de las romerías de fin de verano del concello.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://www.concellodebrion.gal/es/fiestas"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Santa María de Ons",
+  "nombre": "Santa Eufemia de Ons",
+  "fecha2026": "2026-09-16",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta de Santa Eufemia en la parroquia de Ons (Santa María de Ons), hacia el 16 de septiembre. Celebración religiosa de comienzos de otoño en Brión.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Misa, procesión y verbena.",
+  "fuentes": [
+   "https://www.concellodebrion.gal/es/fiestas"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Brión",
+  "nombre": "Feira Labrega",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {
+   "2024": "2024-09-22",
+   "2025": "2025-09-21"
+  },
+  "fundacion": null,
+  "historiaCorta": "Feria de carácter agrario que se celebra en septiembre en torno a la carballeira de Santa Minia y la Praza das Polbeiras, en paralelo a la romería. Pone en valor los productos del campo y la tradición labrega del concello.",
+  "historiaLarga": null,
+  "tradicion": "Recuperación y puesta en valor del mundo rural y agrario de la comarca, con productos de la tierra y oficios tradicionales.",
+  "gastronomia": [
+   "Productos agrarios y de la tierra de la comarca"
+  ],
+  "servicios": [
+   "Puestos de productos del campo"
+  ],
+  "programa": "Feria agraria con exposición y venta de productos locales, ligada al entorno de la Romaría de Santa Minia.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/bri%C3%B3n/",
+   "https://www.concellodebrion.gal/es/fiestas"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Boullón",
+  "nombre": "Festas Patronais de Boullón (San Miguel)",
+  "fecha2026": "2026-09-29",
+  "fechaFin2026": "2026-09-30",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "2025-10-03 a 2025-10-05"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de Boullón, en torno a San Miguel, a finales de septiembre o primeros de octubre. Cierran el ciclo festivo de Brión.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y verbena.",
+  "fuentes": [
+   "https://www.concellodebrion.gal/es/fiestas",
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/bri%C3%B3n/"
+  ],
+  "concello": "Brión",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Bembibre",
+  "nombre": "Festas de Bembibre (Santísimo Sacramento e Virxe do Carme)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "2025-08-29 a 2025-08-31"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las fiestas patronales de Bembibre se celebran a finales de agosto en honor al Santísimo Sacramento y a la Virxe do Carme. Son de las fiestas grandes del concello, con verbenas a cargo de orquestas reconocidas. Combinan los actos religiosos con torneos y música en directo durante el fin de semana.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "verbena con orquesta",
+   "torneos de petanca y ajedrez"
+  ],
+  "tradicion": "Devoción al Santísimo Sacramento y a la Virxe do Carme; ambiente de fin de semana con torneos vecinales.",
+  "programa": "Fin de semana de finales de agosto (sábado y domingo) con torneos de petanca y ajedrez, actos religiosos y verbena. En 2025 amenizó la orquesta Finisterre.",
+  "fuentes": [
+   "https://www.elcorreogallego.es/concellos/2025/08/30/san-ramon-de-bealo-festa-do-pichorro-boiro-carballo-val-do-dubra-festas-de-bembibre-festas-de-buxan-121063042.html",
+   "https://www.elespanol.com/quincemil/servicios/agenda/evento/fiestas-de-bembibre-2025-en-val-do-dubra-programa-cartel-y-agenda-completa/59247",
+   "https://www.paxinasgalegas.es/fiestas/festas-de-bembibre-val-do-dubra-3477.html"
+  ],
+  "concello": "Val do Dubra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Buxán",
+  "nombre": "Festas de verán de Buxán",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "2025-08-28 a 2025-08-31"
+  },
+  "fundacion": null,
+  "historiaCorta": "Buxán celebra sus fiestas de verano a finales de agosto, con cuatro días de programación. Son fiestas muy animadas que apuestan fuerte por las verbenas con orquestas de primera línea de Galicia. Coinciden en fechas con las vecinas de Bembibre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "verbena con orquesta"
+  ],
+  "tradicion": null,
+  "programa": "Del jueves al domingo de finales de agosto. En 2025 el primer día contó con las orquestas Dilema y Los Satélites en la verbena.",
+  "fuentes": [
+   "https://www.elcorreogallego.es/concellos/2025/08/30/san-ramon-de-bealo-festa-do-pichorro-boiro-carballo-val-do-dubra-festas-de-bembibre-festas-de-buxan-121063042.html"
+  ],
+  "concello": "Val do Dubra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Niveiro",
+  "nombre": "Festa da Nosa Señora da Saleta",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Niveiro celebra en verano la festa da Nosa Señora da Saleta, una romería de carácter religioso con actos litúrgicos y música. Es una de las celebraciones de parroquia más típicas del concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "actos religiosos",
+   "verbena con música"
+  ],
+  "tradicion": "Devoción a la Nosa Señora da Saleta.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-val-do-dubra-88.html"
+  ],
+  "concello": "Val do Dubra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Portomeiro",
+  "nombre": "Festa da Virxe do Carme",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Portomeiro honra a la Virxe do Carme en pleno verano con su fiesta parroquial. Tiene los actos religiosos habituales y verbena con música variada.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "actos religiosos",
+   "verbena con música"
+  ],
+  "tradicion": "Devoción a la Virxe do Carme, festividad de mediados de julio.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-val-do-dubra-88.html"
+  ],
+  "concello": "Val do Dubra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Portomouro",
+  "nombre": "Festas de San Cristovo e do Santísimo Sacramento (e Virxe do Carme)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Portomouro celebra en verano sus fiestas en honor a San Cristovo y al Santísimo Sacramento, con la Virxe do Carme también muy presente. Mezclan procesión y actos religiosos con verbenas. San Cristovo, patrón de conductores, suele traer la tradicional bendición de vehículos.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "actos religiosos",
+   "verbena con música"
+  ],
+  "tradicion": "Devoción a San Cristovo (patrón de los conductores) y al Santísimo Sacramento; típica bendición de vehículos asociada a San Cristovo.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-cristobal-y-santisimo-sacramento-de-portomouro-val-do-dubra-1880.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-val-do-dubra-88.html"
+  ],
+  "concello": "Val do Dubra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Arabexo",
+  "nombre": "Festa da Virxe do Carme",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Arabexo celebra a mediados de julio su fiesta en honor a la Virxe do Carme. Es una romería parroquial con sus actos religiosos y su verbena correspondiente.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "actos religiosos",
+   "verbena con música"
+  ],
+  "tradicion": "Devoción a la Virxe do Carme.",
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/val-do-dubra/",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-val-do-dubra-88.html"
+  ],
+  "concello": "Val do Dubra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Rial (San Vicente de Rial)",
+  "nombre": "Festas de San Cristovo e do Carme de Rial",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "2025-07-13"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de San Vicente de Rial celebra en julio sus fiestas en honor a San Cristovo y a la Virxe do Carme. Es una festividad religiosa con sus actos litúrgicos y música. San Cristovo, patrón de los conductores, marca el carácter de la celebración.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "actos religiosos",
+   "música en directo"
+  ],
+  "tradicion": "Doble advocación a San Cristovo (patrón de los conductores) y a la Virxe do Carme.",
+  "programa": "Celebración de un domingo de julio (en 2025, domingo 13 de julio) con actos religiosos y música.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-de-san-cristovo-e-do-carme-de-rial-val-do-dubra-24687.html"
+  ],
+  "concello": "Val do Dubra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Bembibre (capital do concello)",
+  "nombre": "Festa do Emigrante e XXXVII Festa da Cervexa",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "finais de xullo / inicios de agosto",
+   "2025": "2025-07-31 a 2025-08-02"
+  },
+  "fundacion": "Festa da Cervexa con más de 30 años de historia (XXXVII edición en 2025)",
+  "historiaCorta": "Es la gran fiesta del concello: la Festa do Emigrante, en homenaje a los vecinos que tuvieron que marchar a buscar futuro fuera, hermanada con la veterana Festa da Cervexa, que en 2025 cumplió 37 ediciones. Tres días a finales de julio con música, juegos populares y mucho ambiente. La organiza la AC Emigrante con apoyo municipal.",
+  "historiaLarga": "La Festa do Emigrante nació como recuerdo y homenaje a los vecinos de Val do Dubra que emigraron en busca de mejores oportunidades económicas, y se ha consolidado como la cita estival de referencia del concello. Va de la mano de la Festa da Cervexa, una exaltación cervecera con más de tres décadas de recorrido (XXXVII edición en 2025). Está impulsada por la Asociación Cultural Emigrante con el respaldo del Concello, y combina la parte solemne (misa y pregón ante el Concello) con un programa lúdico muy participativo, donde destaca el clásico Jran Prix, un juego colectivo de equipos vecinales con mucho humor.",
+  "gastronomia": [
+   "degustación de cerveza (Festa da Cervexa)",
+   "sardiñada popular"
+  ],
+  "servicios": [
+   "verbena con orquestas",
+   "actuaciones de grupos y DJ",
+   "juegos populares (Jran Prix)",
+   "torneos de petanca y ajedrez",
+   "partido de fútbol",
+   "espectáculo de magia",
+   "charanga",
+   "gratis (fiesta popular de calle)"
+  ],
+  "tradicion": "Homenaje a la emigración local; el Jran Prix (competición de equipos vecinales) y la exaltación de la cerveza son las señas de identidad. Interés como una de las fiestas de cerveza más longevas de la comarca.",
+  "programa": "Tres días a finales de julio. Jueves: apertura de la Festa da Cervexa con actuaciones (en 2025, Leite con Jalletas, Dos Hombres y Un Tercio y DJ Mr. Vieito). Viernes: misa solemne, pregón ante el Concello con grupo de regueifa y el clásico Jran Prix. Sábado (día grande): torneos de petanca y ajedrez, sardiñada popular, charanga (A Santa Compaña), magia (Dani García), partido de fútbol y verbena de noche con varias orquestas (en 2025, Finisterre, Monoulious DOP y Disco EME Music).",
+  "fuentes": [
+   "https://www.elcorreogallego.es/concellos/2025/07/25/bd-val-do-dubra-celebra-sua-120062747.html",
+   "https://www.elcorreogallego.es/concellos/2024/07/24/exaltacion-cerveza-jran-prix-abriran-105987668.html",
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/val-do-dubra/"
+  ],
+  "concello": "Val do Dubra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Malvarez (San Estevo)",
+  "nombre": "Festa de San Estevo de Malvarez",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {
+   "2025": "principios de agosto (en torno al 3-6 de agosto)"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Estevo de Malvarez celebra su fiesta parroquial a principios de agosto. Es una romería de verano con su verbena nocturna. En 2025 actuó el grupo Zona Zero.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "verbena nocturna (en 2025 a las 21:00)",
+   "música en directo"
+  ],
+  "tradicion": "Devoción a San Estevo.",
+  "programa": "Fiesta de principios de agosto con verbena nocturna; en 2025 amenizó el grupo Zona Zero.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-estevo-de-malvarez-val-do-dubra-25071.html",
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/val-do-dubra/"
+  ],
+  "concello": "Val do Dubra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Santa Comba",
+  "nombre": "Festas de San Pedro, San Antonio e Virxe do Carme (e Corpus)",
+  "fechaConfianza": "confirmada-web",
+  "fecha2026": "2026-06-26",
+  "fechaFin2026": "2026-06-30",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Son as grandes festas patronais da vila de Santa Comba, capital da comarca do Xallas. Combinan o Corpus, San Pedro (29 de xuño), San Antonio (30) e a Virxe do Carme nun programa que se estira case unha semana, con misas, procesións e algunhas das orquestras máis potentes de Galicia.",
+  "historiaLarga": "Santa Comba reúne nestas datas a súa identidade de capital do Xallas. O programa de 2026 abre o domingo 7 de xuño coa procesión do Corpus ás 12:15 e os Gaiteiros da Baña, e remata o 30 de xuño coa festividade de San Antonio. Polo medio pasan La Fórmula, Panorama City, Los Españoles e a Orquestra Finisterre, ademais de charangas, foliadas e pasarrúas de cabezudos. É unha festa de vila grande, con forte mobilización veciñal e o engadido de eventos paralelos como o partido do Xallas F.C. contra as Leyendas del Real Madrid.",
+  "gastronomia": [
+   "Sardiñada popular (noite do 23 de xuño, San Xoán)"
+  ],
+  "servicios": [
+   "Sesións vermú diarias",
+   "Verbenas nocturnas con orquestras",
+   "Misas e procesións"
+  ],
+  "tradicion": "Pasarrúas dos Cabezudos Papamoscas e o grupo Santa Combers; pregón de Gandeirías do Xallas; partido benéfico Xallas F.C. vs. Leyendas del Real Madrid en honor a Doro.",
+  "programa": "7 xuño (Corpus): Gaiteiros da Baña, procesión 12:15, vermú (Laura Añón, JJ Compota, Ángel Sevilla) e verbena (Disco Móbil Full, DJ Expósito). 23 xuño: sardiñada 21:00 e Disco Móbil CDC. 26 xuño: foliada de Axio Mouro, pregón 22:30 e verbena (La Fórmula, Macro CDC). 27 xuño: charanga Os Celtas, vermú (Os Celtas, Fuego) e verbena (Fuego, Panorama City, Disco Móbil CDC); partido Xallas F.C. vs. Leyendas do Real Madrid ás 18:00 en Fontenla. 28 xuño: misa, pasarrúas Cabezudos Papamoscas e Santa Combers, vermú e verbena (Los Españoles, Disco Móbil Impacto). 29 xuño (San Pedro): Santa Combers, misa e procesión 13:00, vermú (M3 Show) e verbena (Orquestra Finisterre). 30 xuño (San Antonio): misa 13:00 e vermú (Trío Alborada).",
+  "fuentes": [
+   "https://www.elcorreogallego.es/concellos/2026/05/31/fiestas-san-pedro-san-antonio-corpus-panorama-city-la-formula-los-espanoles-finisterre-capital-del-xallas-130838621.html",
+   "https://www.paxinasgalegas.es/fiestas/san-pedro-san-antonio-e-virxe-do-carme-santa-comba-15910.html"
+  ],
+  "concello": "Santa Comba",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Alón",
+  "nombre": "Festas Patronais de Alón (Santísimo Sacramento e Santa María)",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2024": "2024-08-14"
+  },
+  "fundacion": null,
+  "historiaCorta": "A parroquia de Santa María de Alón celebra as súas festas patronais a mediados de agosto, en honra do Santísimo Sacramento e de Santa María. É unha festa rural de raíz relixiosa con misa, procesión e verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Misa e procesión",
+   "Verbena"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-patronales-de-alon-santa-comba-2531.html",
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/santa-comba/"
+  ],
+  "concello": "Santa Comba",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Castriz",
+  "nombre": "Festa do Cocido de Castriz",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-02-28",
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": "X edición en 2026",
+  "historiaCorta": "Castriz celebra a súa Festa do Cocido, xa na X edición, unha cita gastronómica arredor do cocido galego. Aínda que se programa a finais de febreiro (fóra do verán), é un dos eventos con máis sona da parroquia.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cocido galego (degustación popular)"
+  ],
+  "servicios": [
+   "Baile / sobremesa festiva"
+  ],
+  "tradicion": "Festa gastronómica xa consolidada coa súa décima edición.",
+  "programa": null,
+  "fuentes": [
+   "https://www.viralagenda.com/es/events/1754622/x-fiesta-do-cocido-de-castriz-2026",
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/santa-comba/"
+  ],
+  "concello": "Santa Comba",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fontecada",
+  "nombre": "San Antonio de Fontecada",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "2025-06-15"
+  },
+  "fundacion": null,
+  "historiaCorta": "A parroquia de Fontecada celebra a San Antonio a mediados de xuño. É unha romería rural cos actos habituais de misa, procesión e festa.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Misa e procesión",
+   "Verbena"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-antonio-de-fontecada-santa-comba-4071.html",
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/santa-comba/"
+  ],
+  "concello": "Santa Comba",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Freixeiro",
+  "nombre": "San Adrián / San Félix e San Roque de Freixeiro",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025-SanAdrian": "2025-06-21",
+   "2025-SanFelixSanRoque": "2025-08-02"
+  },
+  "fundacion": null,
+  "historiaCorta": "Freixeiro ten dúas citas no verán: San Adrián a finais de xuño e as festas de San Félix e San Roque a comezos de agosto. Son romerías parroquiais con misa, procesión e verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Misa e procesión",
+   "Verbena"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/santa-comba/"
+  ],
+  "concello": "Santa Comba",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Grixoa",
+  "nombre": "San Xoán e Nosa Señora do Portal de Grixoa",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Grixoa celebra no verán a festa de San Xoán e a de Nosa Señora do Portal, con actos relixiosos e actuacións musicais para veciños e visitantes. Son festas de parroquia, de ambiente familiar e rural.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actos relixiosos",
+   "Música / verbena"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/santa-comba/"
+  ],
+  "concello": "Santa Comba",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Xallas de Castriz",
+  "nombre": "San Pedro de Xallas de Castriz",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "06-28"
+  },
+  "fundacion": null,
+  "historiaCorta": "A parroquia de San Pedro de Xallas de Castriz celebra ao seu patrón arredor do 28-29 de xuño. A igrexa de San Pedro de Xallas é un dos elementos patrimoniais salientables do concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Misa e procesión",
+   "Verbena"
+  ],
+  "tradicion": "A igrexa de San Pedro de Xallas figura no patrimonio artístico do concello de Santa Comba.",
+  "programa": null,
+  "fuentes": [
+   "https://explora.santacomba.es/es/patrimonio/resource/san-pedro-de-xallas-de-castriz",
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/santa-comba/"
+  ],
+  "concello": "Santa Comba",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Salvador",
+  "nombre": "Festas de San Salvador (Santísimo Sacramento, San Antonio e San Roque) e Romería dos Remedios",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "OsRemedios-recurrente": "09-28"
+  },
+  "fundacion": null,
+  "historiaCorta": "A parroquia de San Salvador celebra no verán as súas festas en honra do Santísimo Sacramento, San Antonio e San Roque, e pecha a tempada coa romería dos Remedios a finais de setembro. A romería conta con varias misas pola mañá e festa pola tarde.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Varias misas (10:00, 11:00, 12:00)",
+   "Sesión vermú",
+   "Verbena"
+  ],
+  "tradicion": "A romería dos Remedios é unha das citas relixiosas de peche do verán no concello.",
+  "programa": "Misas pola mañá, misa solemne, sesión vermú e verbena nocturna (esquema habitual da romería dos Remedios).",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/os-remedios-de-san-salvador-santa-comba-7384.html",
+   "https://www.paxinasgalegas.es/fiestas/festas-de-san-salvador-santa-comba-7855.html"
+  ],
+  "concello": "Santa Comba",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Santa Comba",
+  "nombre": "Gran Cocido O Son do Castro",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-03-07",
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Evento gastronómico arredor do cocido galego no Restaurante Tío Paco (As Travesas), Santa Comba. Combina a degustación do cocido cun baile animado. Celébrase en marzo, fóra do verán.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cocido galego"
+  ],
+  "servicios": [
+   "Comida con baile / festa"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/gran-cocido-o-son-do-castro-santa-comba-28643.html"
+  ],
+  "concello": "Santa Comba",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Santa Sabiña",
+  "nombre": "Festa do Rural / San Lois",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-06-13",
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "SanLois-2025": "2025-08-19"
+  },
+  "fundacion": null,
+  "historiaCorta": "A parroquia de Santa Sabiña acolle a Festa do Rural en xuño, cunha ruta a cabalo, desfile de bertolinas e comida popular, ademais da celebración de San Lois en agosto. É unha festa de marcado carácter agrario e tradicional.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida popular (xantar ás 14:30)"
+  ],
+  "servicios": [
+   "Ruta a cabalo (11:00)",
+   "Desfile de bertolinas (12:00)"
+  ],
+  "tradicion": "Ruta ecuestre e desfile de bertolinas que reivindica o mundo rural do Xallas.",
+  "programa": "11:00 ruta a cabalo; 12:00 desfile de bertolinas; 14:30 xantar popular.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-do-rural-santa-comba-13141.html",
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/santa-comba/"
+  ],
+  "concello": "Santa Comba",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "A Pereira",
+  "nombre": "Festa da Xuventude A Pereira",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": "III edición en 2026",
+  "historiaCorta": "A Pereira celebra a súa Festa da Xuventude, xa na terceira edición. É un evento de ambiente novo organizado pola comunidade local dentro do calendario festivo de Santa Comba.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbena / música"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-da-xuventude-a-pereira-santa-comba-36375.html"
+  ],
+  "concello": "Santa Comba",
+  "provincia": "A Coruña"
+ }
+]
