@@ -52,5 +52,6 @@ jobs:
             echo "Sin cambios."
           else
             git commit -m "data: refresco automático $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash origin main || true
             git push
           fi
