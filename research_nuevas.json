@@ -1,5 +1,351 @@
 [
  {
+  "parroquia": "O Viso (Campo da Feira)",
+  "nombre": "A Moura Fest",
+  "fecha2026": "2026-09-05",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Festival de música con sesiones de DJ en el Campo da Feira do Viso, a principios de septiembre. Una propuesta joven y festivalera dentro del calendario del concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Música DJ",
+   "Recinto al aire libre en el Campo da Feira do Viso"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ramiras-226.html"
+  ],
+  "concello": "Ramirás",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Corredoira",
+  "nombre": "San Miguel de A Corredoira",
+  "fecha2026": "2026-09-26",
+  "fechaFin2026": "2026-09-28",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "El lugar de A Corredoira celebra a San Miguel a finales de septiembre, cerrando el verano festivo del concello. Combina actos religiosos, actuaciones musicales y actos lúdicos.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actos religiosos",
+   "Actuaciones musicales",
+   "Actos lúdicos"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ramiras-226.html"
+  ],
+  "concello": "Ramirás",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Albite",
+  "nombre": "Festas de Albite",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "2025-08-02"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal del lugar de Albite a comienzos de agosto, de carácter religioso. Cita local con misa, procesión y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa, procesión y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mui%c3%b1os-209.html"
+  ],
+  "concello": "Muíños",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "O Irixo",
+  "nombre": "Festa do Cabalo e Feira do Tellado",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "16 de julio",
+   "2025": "3 de agosto (domingo)"
+  },
+  "fundacion": "Recuperada en 2022 tras años sin celebrarse",
+  "historiaCorta": "La fiesta equina por excelencia de O Irixo, recuperada en 2022 por el concello junto con Inorde. Combina la tradición caballar de la zona con una jornada de campo en la carballeira de O Tellado: ruta a caballo por la mañana, comida popular y concursos por la tarde.",
+  "historiaLarga": "La Festa do Cabalo es la cita equina veraniega del concello, celebrada en la carballeira de O Tellado. Tras unos años sin celebrarse, el Concello de O Irixo la recuperó en 2022 en colaboración con el Inorde (Instituto Ourensano de Desenvolvemento Económico). Reúne a aficionados al caballo de toda la comarca del Carballiño y mantiene un ambiente intergeneracional con puestos de productos locales y música durante todo el día.",
+  "gastronomia": [
+   "Empanada",
+   "Pulpo",
+   "Carne guisada (caldeirada/cocido de carne)",
+   "Postre, café y bebida en la comida popular"
+  ],
+  "servicios": [
+   "Celebración al aire libre en la carballeira de O Tellado",
+   "Puestos de productos locales",
+   "Música ambiente durante toda la jornada",
+   "Comida popular al mediodía (sobre las 14:00)"
+  ],
+  "tradicion": "Concursos de trote, andadura chapeada y andadura serrada por la tarde (desde las 17:00), con premios de 100, 75 y 50 euros a los tres primeros y entrega de premios a las 19:30. Por la mañana se hace una ruta a caballo por los montes del municipio.",
+  "programa": "Mañana: ruta a caballo por los montes del concello. Mediodía (14:00): comida popular. Tarde (desde 17:00): concursos de trote y andadura. 19:30: entrega de premios.",
+  "fuentes": [
+   "https://www.laregion.es/o-irixo/irixo-disfruto-trote-fiesta-cabalar_1_20250804-3941249.html",
+   "https://www.laregion.es/carballino/festa-do-cabalo-irixo-ruta-comida-popular-concursos_1_20230714-2392956.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-irixo-195.html"
+  ],
+  "concello": "O Irixo",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "O Irixo",
+  "nombre": "Xuntanza de Clásicos",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "27 de junio (IV edición)"
+  },
+  "fundacion": "Primera edición hacia 2022/2023; en 2025 fue la IV edición",
+  "historiaCorta": "Concentración de coches y vehículos clásicos que se ha consolidado como cita lúdica del verano en O Irixo, ligada a las celebraciones de la zona. En 2025 alcanzó su IV edición y ha llegado a reunir unos 150 participantes.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Concentración de vehículos clásicos abierta al público"
+  ],
+  "tradicion": "Combina patrimonio cultural y motor; nacida hace pocos años, atrae a aficionados de toda la comarca.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/xuntanza-de-clasicos-o-irixo-37780.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-irixo-195.html"
+  ],
+  "concello": "O Irixo",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Tomiño",
+  "nombre": "Makrofesta",
+  "fecha2026": "2026-06-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Macrofiesta del verano en la villa de Tomiño, con música y ambiente para el público joven. Una de las citas de arranque de la temporada festiva.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-tomi%C3%B1o-307.html"
+  ],
+  "concello": "Tomiño",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Santa María de Bemil (Nodar)",
+  "nombre": "Festa da Penadauga de Nodar",
+  "fecha2026": "2026-07-06",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta del lugar de Nodar con actos religiosos, actuaciones musicales y una gran mejillonada. Una buena excusa para juntarse en torno al marisco en pleno julio.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Gran mejillonada"
+  ],
+  "servicios": [
+   "Actuaciones musicales",
+   "Actos religiosos"
+  ],
+  "tradicion": "La gran mejillonada es el reclamo gastronómico de la fiesta.",
+  "programa": "Actos religiosos, actuaciones musicales y mejillonada popular.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-caldas-de-reis-259.html"
+  ],
+  "concello": "Caldas de Reis",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Trabanca Badiña",
+  "nombre": "Serán de Trabanca Badiña",
+  "fecha2026": "2026-06-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Trabanca Badiña celebra su serán de verano con empanada, pulpo y animación musical.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Empanada",
+   "Pulpo"
+  ],
+  "servicios": [
+   "Animación musical"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vilagarcia-de-arousa-313.html"
+  ],
+  "concello": "Vilagarcía de Arousa",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Trabanca Sardiñeira",
+  "nombre": "Nosa Señora dos Anxos de Trabanca Sardiñeira",
+  "fecha2026": "2026-08-01",
+  "fechaFin2026": "2026-08-04",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Trabanca Sardiñeira honra a Nosa Señora dos Anxos a comienzos de agosto con su fiesta patronal.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vilagarcia-de-arousa-313.html"
+  ],
+  "concello": "Vilagarcía de Arousa",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Vilagarcía",
+  "nombre": "Festaclown",
+  "fecha2026": "2026-08-18",
+  "fechaFin2026": "2026-08-23",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Festaclown es un festival de circo y artes escénicas que llena de espectáculos las calles de Vilagarcía a finales de agosto, coincidiendo con las fiestas de San Roque.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Festival de circo y artes escénicas.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vilagarcia-de-arousa-313.html"
+  ],
+  "concello": "Vilagarcía de Arousa",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Pontevedra centro",
+  "nombre": "Feira Franca",
+  "fecha2026": "2026-09-04",
+  "fechaFin2026": "2026-09-05",
+  "fechaConfianza": "confirmada-web",
+  "fechasPrevias": {
+   "2024": "primer fin de semana de septiembre",
+   "2025": "primer fin de semana de septiembre"
+  },
+  "fundacion": "2000",
+  "historiaCorta": "Recreación medieval que llena de mercado, gremios y tabernas la zona monumental el primer fin de semana de septiembre. Nació en el año 2000 y en 2026 celebra su XXV edición, con declaración de Fiesta de Interés Turístico de Galicia desde 2013.",
+  "historiaLarga": "La Feira Franca rememora el privilegio que en el siglo XV permitía a Pontevedra celebrar una feria libre de impuestos durante un mes, en una época de gran esplendor comercial de la villa. Cada año vecinos y visitantes se visten de época, se instalan gremios, tabernas y mercado artesanal, y el casco histórico se convierte en una gran recreación medieval. Es una de las citas más multitudinarias del calendario pontevedrés.",
+  "gastronomia": [
+   "Tabernas medievales con comida y bebida de época",
+   "Puestos de productos artesanos y gastronómicos"
+  ],
+  "servicios": [
+   "Acceso libre",
+   "Zona monumental peatonal",
+   "Mercado y tabernas durante todo el fin de semana"
+  ],
+  "tradicion": "Fiesta de Interés Turístico de Galicia (2013); recrea el privilegio de feria franca medieval del siglo XV.",
+  "programa": "Mercado y campamento medieval, gremios, tabernas, pasacalles, recreaciones históricas y animación de calle por todo el centro.",
+  "fuentes": [
+   "https://feirafranca.pontevedra.gal/",
+   "https://feirafranca.pontevedra.gal/programa",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontevedra-295.html"
+  ],
+  "concello": "Pontevedra",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Pontevedra centro",
+  "nombre": "XXXV Feira do Mel",
+  "fecha2026": "2026-08-11",
+  "fechaFin2026": "2026-08-14",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Feria de la miel gallega que coincide con las fiestas de la Peregrina, ya en su 35ª edición. Escaparate de mieles y productos de la colmena con degustaciones y venta directa.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Miel gallega",
+   "Productos derivados de la colmena"
+  ],
+  "servicios": [
+   "Venta directa de productores",
+   "Acceso libre"
+  ],
+  "tradicion": "Promoción y degustación de la miel de Galicia.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontevedra-295.html"
+  ],
+  "concello": "Pontevedra",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Vigo centro (Berbés)",
+  "nombre": "Festa do Marisco - Vigomar",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "10-13 septiembre"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta gastronómica del marisco en el puerto del Berbés, corazón marinero de Vigo, a mediados de septiembre. Degustaciones de marisco y producto de la ría.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Marisco de la ría",
+   "Producto del mar"
+  ],
+  "servicios": [
+   "En la zona del puerto del Berbés"
+  ],
+  "tradicion": "El Berbés, barrio marinero histórico de Vigo, como escenario.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vigo-310.html"
+  ],
+  "concello": "Vigo",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Bembrive",
+  "nombre": "Festas de Santiago Apóstol de Bembrive",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "22-25 julio"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de Bembrive en honor a Santiago Apóstol, de carácter religioso, a finales de julio con misa, procesión y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vigo-310.html"
+  ],
+  "concello": "Vigo",
+  "provincia": "Pontevedra"
+ },
+ {
   "parroquia": "Soutomerille",
   "nombre": "Festa parroquial de San Salvador de Soutomerille",
   "fecha2026": null,
