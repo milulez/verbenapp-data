@@ -226,5 +226,162 @@
   ],
   "concello": "Porqueira",
   "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Vidán",
+  "nombre": "Festas de Vidán",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Vidán es una parroquia de la periferia compostelana con vida vecinal propia en torno al Parque da Mestra Victoria Míguez, donde se celebran actos comunitarios. No se han localizado fuentes con fechas ni programa de fiestas patronales de verano para 2026.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.parqueagrariodesantiago.org/es/parroquia-de-villestro/"
+  ],
+  "concello": "Santiago de Compostela",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Figueiras",
+  "nombre": "Grandes Festas de Santa María de Figueiras",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "2023-08-15"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Figueiras, en la zona rural del Xiro da Rocha, celebra sus Grandes Festas de Santa María a mediados de agosto. Una cita vecinal con la asociación cultural O Castro de Figueiras muy implicada en la vida local.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Parroquia del Parque Agrario de Santiago, en el ámbito rural del Xiro da Rocha; la AC O Castro de Figueiras anima la vida cultural local.",
+  "programa": "Misas solemnes, pasacalles, sesión vermú y verbenas con orquestas (programa habitual de fiestas patronales gallegas).",
+  "fuentes": [
+   "https://www.parqueagrariodesantiago.org/es/parroquia-de-figueiras/",
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/santiago-de-compostela/"
+  ],
+  "concello": "Santiago de Compostela",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Marrozos",
+  "nombre": "Festas de Marrozos",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "2023-08-15"
+  },
+  "fundacion": null,
+  "historiaCorta": "Marrozos, parroquia rural del Xiro da Rocha, celebra sus fiestas a mediados de agosto. La asociación cultural Pena Maior de Marrozos participa activamente en la vida festiva del lugar.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Parroquia del ámbito rural del Xiro da Rocha; la AC Pena Maior de Marrozos anima la vida cultural local.",
+  "programa": "Misas solemnes, pasacalles, sesión vermú y verbenas con orquestas (programa habitual de fiestas patronales gallegas).",
+  "fuentes": [
+   "https://www.galiciafiestas.es/a-coru%C3%B1a/santiago-de-compostela/"
+  ],
+  "concello": "Santiago de Compostela",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Villestro",
+  "nombre": "Fiestas del Carmen de Villestro",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia rural de Villestro, en el Xiro da Rocha, celebra sus fiestas del Carmen en verano. No se han localizado fechas ni programa detallado para 2026; la festividad del Carmen suele ubicarse en torno al 16 de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Parroquia rural integrada en el Parque Agrario de Santiago, dentro del Xiro da Rocha.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-del-carmen-de-villestro-santiago-de-compostela-24445.html",
+   "https://www.parqueagrariodesantiago.org/es/parroquia-de-villestro/"
+  ],
+  "concello": "Santiago de Compostela",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Montoxo (Serra da Capelada)",
+  "nombre": "Rapa das Bestas da Capelada",
+  "fechaConfianza": "confirmada-web",
+  "fecha2026": "2026-05-30",
+  "fechaFin2026": "2026-05-31",
+  "fechasPrevias": {
+   "2025": "2025-06-31/2025-07-01"
+  },
+  "fundacion": "1974 (la edición de 2026 fue la LII)",
+  "historiaCorta": "Es la rapa de las bestas de la Serra da Capelada, en el curro de Montoxo, una de las grandes tradiciones de Cedeira. Aloitadores inmovilizan a los caballos salvajes para cortarles las crines. En 2026 celebró su LII edición, con la bajada el domingo 31 de mayo.",
+  "historiaLarga": "La Rapa das Bestas da Capelada se celebra en la Serra da Capelada desde 1974 y es una de las citas tradicionales más singulares de Cedeira y de toda la comarca. Ganaderos y aloitadores reúnen y bajan a los caballos salvajes que viven en libertad en el monte para inmovilizarlos a mano en el curro, cortarles las crines y marcar con chip a los nuevos potros, manteniendo así el control sanitario de los animales. El acto central es la gran bajada de las bestas el domingo por la mañana. En 2026 reunió a unos 370 caballos salvajes ante una multitud de visitantes. La jornada se completa con ambiente festivo, música y rifas, y una carpa con comida y bebida.",
+  "tradicion": "Ritual ancestral en el que los aloitadores inmovilizan a mano a los caballos salvajes (bestas) de la Serra da Capelada para raparles las crines y marcar a los potros; gran atractivo turístico y etnográfico.",
+  "gastronomia": [
+   "Carpa con comida y bebida"
+  ],
+  "servicios": [
+   "Carpa de comida y bebida",
+   "Juegos infantiles",
+   "Música y rifas por la tarde"
+  ],
+  "programa": "Sábado: recuento, registro y tratamiento antiparasitario de los caballos. Domingo a las 10:00: gran bajada de las bestas y posterior cierre del curro (acto central); por la tarde, música y rifas.",
+  "fuentes": [
+   "https://www.cope.es/emisoras/galicia/a-coruna-provincia/ferrol/noticias/rapa-das-bestas-da-capelada-celebrara-edicion-2026-bajada-domingo-31-mayo-20260518_3366335.html",
+   "https://www.paxinasgalegas.es/fiestas/curro-da-capelada-cedeira-2809.html",
+   "https://diariodeferrol.elidealgallego.com/ferrolterra/cedeira/2026-05-31/una-multitud-visito-a-capelada-donde-370-caballos-salvajes-protagonizaron-la-rapa-das-bestas-859107.html"
+  ],
+  "concello": "Cedeira",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Burres",
+  "nombre": "Corpus Christi de Burres",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Burres (San Vicenzo) celebra el Corpus Christi a mediados de septiembre, con actos religiosos y actuaciones musicales.",
+  "historiaLarga": null,
+  "tradicion": "Celebración del Corpus en la parroquia.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/corpus-christi-de-burres-arzua-47771.html"
+  ],
+  "concello": "Arzúa",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Burres",
+  "nombre": "San Paio de Preguntoño",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "El lugar de Preguntoño, en la parroquia de Burres, celebra a San Paio a finales de junio, con misa matinal y una gran verbena nocturna.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Misa matinal en honor a San Paio y verbena nocturna.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-arzua-6.html",
+   "https://arzua.gal/turismo/festas-feiras-e-romarias/"
+  ],
+  "concello": "Arzúa",
+  "provincia": "A Coruña"
  }
 ]
