@@ -209,6 +209,89 @@
   "provincia": "A Coruña"
  },
  {
+  "parroquia": "Barro (Monte de Chan de Agudelo)",
+  "nombre": "Romaría de San Breixo",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "2025-10-03 a 2025-10-05"
+  },
+  "fundacion": null,
+  "historiaCorta": "Romería en honor a San Breixo, considerado protector contra el reumatismo, en el Monte de Chan de Agudelo. Es una de las citas religiosas y festivas más arraigadas de Barro, aunque cae ya en octubre, fuera del verano. La organiza la Asociación Cultural San Breixo de Barro.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Festivo local en el concello (en torno al 2-3 de octubre)"
+  ],
+  "tradicion": "San Breixo es venerado como protector contra el reumatismo; los fieles acuden al monte a honrar al santo.",
+  "programa": "Tres días con actos religiosos, procesión, fuegos artificiales, bandas de música y orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/romaria-de-san-breixo-barro-33.html",
+   "https://www.galiciafiestas.es/pontevedra/barro/"
+  ],
+  "concello": "Barro",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Burgueira (Torroña)",
+  "nombre": "Festa de Degustación da Carne de Potro da Serra da Groba",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2024": "14 julio 2024 (XVI edición)",
+   "2025": "13 julio 2025 (XVII edición)"
+  },
+  "fundacion": "XVII edición en 2025 (origen aproximado 2008)",
+  "historiaCorta": "Fiesta gastronómica de Torroña dedicada a la carne de potro de la Serra da Groba, los caballos salvajes que pastan en el monte de Oia. En 2025 llegó a su XVII edición. Una jornada de mesa larga, churrasco y charanga que pone en valor un producto autóctono ligado a los curros de la zona.",
+  "historiaLarga": "La fiesta nace para reivindicar la carne de potro de la Serra da Groba, vinculada a la cabaña de caballos salvajes (bestas) que da sentido a los curros del concello. Con el tiempo se ha consolidado como una de las citas gastronómicas de referencia del Baixo Miño en pleno julio. En 2025 celebró su XVII edición el domingo 13 de julio.",
+  "gastronomia": [
+   "Carne de potro de la Serra da Groba",
+   "Opción de jamón asado",
+   "Pan, postre, café y bebida (menú a 25 euros; menú reducido a 18 euros en 2025)"
+  ],
+  "servicios": [
+   "Comida en el campo de la fiesta con mesas",
+   "Menú de pago por reserva",
+   "Charanga (Nova Cubana en 2025)"
+  ],
+  "tradicion": "Producto autóctono y singular, la carne de potro de los caballos salvajes de la Groba, que conecta la fiesta con la tradición de la rapa das bestas.",
+  "programa": "Comida popular hacia las 13:30 con degustación de carne de potro o jamón asado, amenizada por charanga durante la sobremesa.",
+  "fuentes": [
+   "https://telemarinas.com/xvii-fiesta-de-degustacion-de-carne-de-potro-de-la-serra-da-groba-en-torrona/",
+   "https://www.infominho.com/celebra-la-xvi-degustacion-de-carne-de-potro-en-torrona-este-14-de-julio-54137.html",
+   "https://metropolitano.gal/que-hacer/oia-volvera-a-disfrutar-de-una-jornada-gastronomica-centrada-en-la-carne-de-potro/"
+  ],
+  "concello": "Oia",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Oia (Santa María de Oia)",
+  "nombre": "Baixada de Carrilanas e Mosteiro Summer Fest",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2026": "II Baixada de Carrilanas anunciada para 2026"
+  },
+  "fundacion": "II edición (2026)",
+  "historiaCorta": "Baixada de carrilanas (carros-tobogán sin motor) organizada por la Comisión de Festas de Santa María de Oia, con categorías de uno y dos ocupantes. La jornada se remata con el Mosteiro Summer Fest, sesión con DJs destacados junto al monasterio. Cita joven y reciente, con su II edición prevista para 2026.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Entrada libre",
+   "Sesión de DJs (Mosteiro Summer Fest)"
+  ],
+  "tradicion": "Carrera de carrilanas, vehículos artesanales sin motor que bajan por gravedad, una modalidad festiva muy popular en el rural gallego.",
+  "programa": "Bajada de carrilanas en dos categorías (individual y doble) seguida del Mosteiro Summer Fest con DJs.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/baixada-de-carrilanas-oia-46417.html"
+  ],
+  "concello": "Oia",
+  "provincia": "Pontevedra"
+ },
+ {
   "parroquia": "O Viso (Campo da Feira)",
   "nombre": "A Moura Fest",
   "fecha2026": "2026-09-05",
