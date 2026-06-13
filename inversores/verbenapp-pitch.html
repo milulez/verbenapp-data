@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VerbenApp · Dossier para inversores</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+:root{
+  --noche:#0B1026; --noche2:#121a3a; --noche3:#0a1740;
+  --ambar:#FFC24B; --magenta:#FF3D81; --lima:#C6FF4A;
+  --txt:#EAF0FF; --txt2:#9FB0D8; --linea:rgba(159,176,216,.18);
+  --card:rgba(255,255,255,.035); --card2:rgba(255,255,255,.06);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--noche);color:var(--txt);font-family:'Archivo',system-ui,sans-serif;line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+.display{font-family:'Anton',sans-serif;font-weight:400;letter-spacing:.5px;line-height:.98;text-transform:uppercase}
+a{color:var(--lima);text-decoration:none}
+section{max-width:1080px;margin:0 auto;padding:84px 28px;border-bottom:1px solid var(--linea)}
+.eyebrow{font-size:13px;letter-spacing:3px;text-transform:uppercase;color:var(--ambar);font-weight:700;margin-bottom:14px}
+h2.sec{font-family:'Anton',sans-serif;font-size:clamp(34px,5vw,58px);text-transform:uppercase;line-height:.98;margin-bottom:8px}
+.lead{font-size:19px;color:var(--txt2);max-width:760px;margin-bottom:38px}
+.grid{display:grid;gap:18px}
+.g2{grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
+.g3{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.g4{grid-template-columns:repeat(auto-fit,minmax(165px,1fr))}
+.card{background:var(--card);border:1px solid var(--linea);border-radius:16px;padding:24px}
+.card h3{font-size:18px;font-weight:700;margin-bottom:8px}
+.card p{font-size:15px;color:var(--txt2)}
+.stat{font-family:'Anton',sans-serif;font-size:clamp(40px,6vw,62px);line-height:1;background:linear-gradient(90deg,var(--ambar),var(--magenta));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.stat.lima{background:linear-gradient(90deg,var(--lima),var(--ambar));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.statlbl{font-size:14px;color:var(--txt2);margin-top:6px;line-height:1.35}
+.pill{display:inline-block;font-size:12px;font-weight:700;letter-spacing:1px;text-transform:uppercase;padding:5px 12px;border-radius:999px;border:1px solid var(--linea)}
+.pill.am{color:var(--ambar);border-color:rgba(255,194,75,.4)}
+.pill.mg{color:var(--magenta);border-color:rgba(255,61,129,.4)}
+.pill.li{color:var(--lima);border-color:rgba(198,255,74,.4)}
+table{width:100%;border-collapse:collapse;font-size:14.5px}
+th,td{text-align:left;padding:12px 14px;border-bottom:1px solid var(--linea);vertical-align:top}
+th{color:var(--ambar);font-weight:700;font-size:12.5px;letter-spacing:1px;text-transform:uppercase}
+td strong{color:var(--txt)}
+.muted{color:var(--txt2)}
+.bar-row{display:flex;align-items:center;gap:14px;margin:10px 0}
+.bar-row .bl{width:130px;font-size:14px;color:var(--txt2);flex-shrink:0}
+.bar-track{flex:1;height:26px;background:rgba(255,255,255,.05);border-radius:8px;overflow:hidden}
+.bar-fill{height:100%;border-radius:8px;display:flex;align-items:center;padding-left:10px;font-size:13px;font-weight:700;color:var(--noche);white-space:nowrap}
+.note{font-size:13px;color:var(--txt2);font-style:italic;margin-top:14px}
+.src{font-size:11.5px;color:rgba(159,176,216,.6)}
+.tag{display:inline-block;font-size:11px;font-weight:700;padding:3px 9px;border-radius:6px;margin:2px 0}
+.tag.win{background:rgba(198,255,74,.14);color:var(--lima)}
+.tag.warn{background:rgba(255,61,129,.14);color:var(--magenta)}
+.tline{position:relative;padding-left:34px;margin-top:10px}
+.tline:before{content:'';position:absolute;left:9px;top:6px;bottom:-22px;width:2px;background:linear-gradient(var(--ambar),var(--magenta))}
+.tstep{position:relative;margin-bottom:30px}
+.tstep:last-child{margin-bottom:0}
+.tstep .dot{position:absolute;left:-34px;top:2px;width:20px;height:20px;border-radius:50%;background:var(--ambar);border:3px solid var(--noche);box-shadow:0 0 0 2px var(--ambar)}
+.tstep .when{font-family:'Anton';font-size:15px;color:var(--ambar);letter-spacing:1px}
+.tstep h4{font-size:17px;font-weight:700;margin:2px 0 4px}
+.tstep p{font-size:14.5px;color:var(--txt2)}
+.bulbs{display:flex;gap:0;justify-content:center;overflow:hidden;height:26px;align-items:flex-start}
+.bulbs i{width:8px;height:14px;border-radius:0 0 50% 50%;margin:0 13px;position:relative;display:block}
+.bulbs i:nth-child(3n){background:var(--ambar);box-shadow:0 0 12px var(--ambar)}
+.bulbs i:nth-child(3n+1){background:var(--magenta);box-shadow:0 0 12px var(--magenta)}
+.bulbs i:nth-child(3n+2){background:var(--lima);box-shadow:0 0 12px var(--lima)}
+.bulbs:before{content:'';position:absolute;left:0;right:0;height:2px;background:var(--linea);margin-top:0}
+nav.toc{position:sticky;top:0;z-index:50;background:rgba(11,16,38,.9);backdrop-filter:blur(10px);border-bottom:1px solid var(--linea);display:flex;gap:8px;padding:12px 20px;overflow-x:auto;font-size:13px}
+nav.toc a{color:var(--txt2);white-space:nowrap;padding:5px 11px;border-radius:8px;font-weight:600}
+nav.toc a:hover{background:var(--card2);color:var(--ambar)}
+.hero{min-height:88vh;display:flex;flex-direction:column;justify-content:center;border-bottom:1px solid var(--linea);text-align:center;padding:60px 28px;position:relative}
+.hero h1{font-family:'Anton';font-size:clamp(64px,14vw,150px);line-height:.86;text-transform:uppercase}
+.hero h1 .g{background:linear-gradient(90deg,var(--ambar),var(--magenta),var(--lima));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.hero .sub{font-size:clamp(18px,2.4vw,26px);color:var(--txt2);margin-top:22px;max-width:720px;margin-left:auto;margin-right:auto}
+.herometa{display:flex;gap:26px;justify-content:center;flex-wrap:wrap;margin-top:40px}
+.herometa div{text-align:center}
+.herometa .n{font-family:'Anton';font-size:34px;color:var(--ambar)}
+.herometa .l{font-size:12.5px;color:var(--txt2);letter-spacing:1px;text-transform:uppercase}
+.callout{background:linear-gradient(135deg,rgba(255,61,129,.12),rgba(255,194,75,.08));border:1px solid rgba(255,194,75,.3);border-radius:16px;padding:26px 28px;margin-top:8px}
+.callout .big{font-family:'Anton';font-size:clamp(24px,3.4vw,36px);line-height:1.05;margin-bottom:8px}
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px}
+.foot{text-align:center;padding:60px 28px;color:var(--txt2);font-size:14px}
+.kbox{border-left:3px solid var(--lima);padding:4px 0 4px 18px;margin:16px 0}
+.kbox.mg{border-color:var(--magenta)}
+.kbox.am{border-color:var(--ambar)}
+@media(max-width:600px){section{padding:60px 20px}.bar-row .bl{width:92px;font-size:12.5px}}
+</style>
+</head>
+<body>
+
+<div class="bulbs"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+
+<nav class="toc">
+  <a href="#oportunidad">Oportunidad</a>
+  <a href="#producto">Producto</a>
+  <a href="#mercado">Mercado</a>
+  <a href="#competencia">Competencia</a>
+  <a href="#internacional">Internacional</a>
+  <a href="#odg">Caso ODG</a>
+  <a href="#tam">TAM/SAM/SOM</a>
+  <a href="#monetizacion">Monetización</a>
+  <a href="#proyeccion">Proyección</a>
+  <a href="#plan">Plan de lanzamiento</a>
+  <a href="#ask">El ask</a>
+</nav>
+
+<header class="hero">
+  <div class="pill am" style="margin:0 auto 24px">Dossier confidencial para inversores · Junio 2026</div>
+  <h1>El <span class="g">Bandsintown</span><br>de las verbenas</h1>
+  <p class="sub">El directorio definitivo de las fiestas populares de Galicia. Empezamos por un mercado de <strong style="color:var(--txt)">40 millones de euros</strong> que hoy se gestiona por WhatsApp y boca a boca.</p>
+  <div class="herometa">
+    <div><div class="n">4.854</div><div class="l">verbenas catalogadas</div></div>
+    <div><div class="n">246</div><div class="l">orquestas con ficha</div></div>
+    <div><div class="n">313/313</div><div class="l">concellos de Galicia</div></div>
+    <div><div class="n">~4.000</div><div class="l">fiestas/año en Galicia</div></div>
+  </div>
+</header>
+
+<!-- OPORTUNIDAD -->
+<section id="oportunidad">
+  <div class="eyebrow">La oportunidad</div>
+  <h2 class="sec">Una industria de 40M€<br>sin infraestructura digital</h2>
+  <p class="lead">Las verbenas gallegas son un fenómeno económico y cultural masivo. Pero no existe ningún producto digital moderno que las agregue de forma fiable. El dato está roto, disperso en carteles de papel, grupos de WhatsApp y webs de hace quince años.</p>
+  <div class="grid g3" style="margin-bottom:34px">
+    <div class="card"><div class="stat">26–40M€</div><div class="statlbl">facturación anual del sector de orquestas en Galicia <span class="src">(USC «Do palco ó escenario» · Infobae 2025)</span></div></div>
+    <div class="card"><div class="stat">70%</div><div class="statlbl">del mercado nacional de orquestas se concentra en Galicia <span class="src">(El Español / Quincemil)</span></div></div>
+    <div class="card"><div class="stat">~4.000</div><div class="statlbl">empleos directos: músicos, técnicos, agentes, montaje <span class="src">(CaixaBank Research)</span></div></div>
+  </div>
+  <div class="two">
+    <div class="card">
+      <h3 style="color:var(--magenta)">El problema</h3>
+      <p>Para el público: ¿qué verbena hay este finde cerca de mí? ¿Qué orquesta toca? ¿A qué hora? ¿Hay churrasco, aparcamiento, fuegos? Hoy la respuesta vive en un cartel pegado en la panadería del pueblo.</p>
+      <p style="margin-top:12px">Para la oferta (orquestas, comisiones de fiestas, marcas): no hay un canal único para llegar a quien busca fiesta. Una industria de decenas de millones contrata por teléfono y se anuncia en papel.</p>
+    </div>
+    <div class="card">
+      <h3 style="color:var(--lima)">Nuestra respuesta</h3>
+      <p>VerbenApp ya ha catalogado <strong>4.854 verbenas de toda Galicia</strong> — parroquia a parroquia — con fecha verificada, orquestas, comida, mapa, fotos reales de las bandas e histórico de años anteriores.</p>
+      <p style="margin-top:12px">No vendemos entradas. Somos la <strong>capa de descubrimiento y datos</strong> de la fiesta popular: el activo es la audiencia y el dato; la monetización viene de quien quiere acceder a ellos.</p>
+    </div>
+  </div>
+</section>
+
+<!-- PRODUCTO -->
+<section id="producto">
+  <div class="eyebrow">El producto</div>
+  <h2 class="sec">Ya construido.<br>No es una idea, es un dato</h2>
+  <p class="lead">A diferencia de los competidores, no partimos de cero. El motor de datos está hecho, verificado y se autoactualiza cada semana mediante scraping automatizado de la fuente del sector.</p>
+  <div class="grid g4" style="margin-bottom:30px">
+    <div class="card"><div class="stat lima">4.854</div><div class="statlbl">verbenas con ficha completa</div></div>
+    <div class="card"><div class="stat lima">1.598</div><div class="statlbl">fechas confirmadas por cartel 2026</div></div>
+    <div class="card"><div class="stat lima">1.459</div><div class="statlbl">con foto real de su orquesta</div></div>
+    <div class="card"><div class="stat lima">34.116</div><div class="statlbl">actuaciones de histórico (2023–25)</div></div>
+  </div>
+  <div class="grid g3">
+    <div class="card"><h3><span style="color:var(--ambar)">◆</span> Fecha sin fallo</h3><p>Regla nº1 del producto: solo fechas verificadas por cartel o santo fijo. Pipeline de validación que detecta y corrige rangos rotos, días de semana imposibles y fuera de temporada.</p></div>
+    <div class="card"><h3><span style="color:var(--ambar)">◆</span> Mapa + cerca de mí</h3><p>Las 4.854 verbenas geolocalizadas (450 con coordenadas exactas de recinto). Filtros por estrellas, tipo, fecha, provincia, orquesta y «hay verbena esta noche».</p></div>
+    <div class="card"><h3><span style="color:var(--ambar)">◆</span> Sigue a tu orquesta</h3><p>246 orquestas con foto, redes, año de fundación y ranking. El usuario sigue a Panorama o París de Noia y sabe dónde tocan. Este es nuestro motor de retención (modelo Bandsintown).</p></div>
+    <div class="card"><h3><span style="color:var(--ambar)">◆</span> Datos que nadie tiene</h3><p>Hora exacta, servicios (aparcamiento, carpa, bocatería), tipo de terreno, sesiones (vermú/tarde/noche). Scraped de la fuente + el flujo «registra tu verbena».</p></div>
+    <div class="card"><h3><span style="color:var(--ambar)">◆</span> Autoactualizable</h3><p>Pipeline hermético con cron semanal (GitHub Actions). El calendario se rellena solo a medida que salen los carteles. Coste operativo marginal casi nulo.</p></div>
+    <div class="card"><h3><span style="color:var(--ambar)">◆</span> «Registra tu verbena»</h3><p>El diferencial: las comisiones de fiestas aportan lo que solo ellos saben — precio, horario, churrasco, servicios. Datos imposibles de scrapear = foso defensivo.</p></div>
+  </div>
+</section>
+
+<!-- MERCADO -->
+<section id="mercado">
+  <div class="eyebrow">El mercado · La economía de la verbena</div>
+  <h2 class="sec">El negocio millonario<br>que nadie ha digitalizado</h2>
+  <p class="lead">El sector de las orquestas gallegas es sorprendentemente grande y mueve dinero de verdad. Estos son los cachés reales por actuación — el dinero que circula en cada punto del calendario que ya tenemos mapeado.</p>
+
+  <div class="card" style="margin-bottom:30px">
+    <h3 style="margin-bottom:18px">Caché por bolo de las orquestas top (verano 2026)</h3>
+    <div class="bar-row"><div class="bl">Panorama</div><div class="bar-track"><div class="bar-fill" style="width:100%;background:var(--magenta)">hasta 35.000–45.000 € (sábado agosto)</div></div></div>
+    <div class="bar-row"><div class="bl">París de Noia</div><div class="bar-track"><div class="bar-fill" style="width:70%;background:var(--ambar)">15.000–30.000 €</div></div></div>
+    <div class="bar-row"><div class="bl">Los Satélites</div><div class="bar-track"><div class="bar-fill" style="width:40%;background:var(--lima)">8.000–16.000 €</div></div></div>
+    <div class="bar-row"><div class="bl">Olympus</div><div class="bar-track"><div class="bar-fill" style="width:30%;background:var(--lima)">~11.500 €</div></div></div>
+    <div class="bar-row"><div class="bl">Cinema</div><div class="bar-track"><div class="bar-fill" style="width:16%;background:var(--lima)">~5.500 €</div></div></div>
+    <p class="note">Una orquesta grande factura ~2M€/año. Panorama hizo 162 actuaciones de abril a octubre de 2022. Cachés subieron 15–30% respecto a 2024. Las top tienen fechas cerradas hasta 2029. <span class="src">Fuentes: El Español/Quincemil, Metropolitano.gal, CaixaBank, Infobae 2025.</span></p>
+  </div>
+
+  <div class="grid g3" style="margin-bottom:26px">
+    <div class="card"><div class="stat">~400</div><div class="statlbl">orquestas operando en Galicia</div></div>
+    <div class="card"><div class="stat">~80%</div><div class="statlbl">de los bolos salen de fiestas parroquiales — justo nuestro inventario</div></div>
+    <div class="card"><div class="stat">2.500+</div><div class="statlbl">fiestas patronales/año solo en Galicia</div></div>
+  </div>
+
+  <div class="callout">
+    <div class="big" style="color:var(--ambar)">Estamos sentados sobre el dato estructurado de una industria de decenas de millones</div>
+    <p class="muted">El 99,9% de las fiestas se financian «de la barra»; las orquestas se contratan por teléfono con años de antelación. No hay capa digital. VerbenApp es esa capa.</p>
+  </div>
+  <p class="note">Matiz honesto para el inversor: la verbena «pura» se ha reducido a la mitad en 10 años (de ~150 a &lt;60 orquestas dedicadas) frente al auge de los festivales. El sector se consolida y profesionaliza — más razón para que exista una capa de datos moderna. <span class="src">(La Región 2024.)</span></p>
+</section>
+
+<!-- COMPETENCIA -->
+<section id="competencia">
+  <div class="eyebrow">Competencia en España</div>
+  <h2 class="sec">El hueco es real<br>y está vacío</h2>
+  <p class="lead">El mercado se parte en dos mundos que no se tocan: las plataformas de venta de entradas (que ignoran la fiesta gratuita porque no hay nada que vender) y los directorios de fiestas populares (anticuados, sin verificar o hiperlocales). Nadie ocupa el centro.</p>
+  <table>
+    <thead><tr><th>Competidor</th><th>Qué es</th><th>Modelo</th><th>Solape / debilidad</th></tr></thead>
+    <tbody>
+      <tr><td><strong>festigaleiros.com</strong></td><td>Directorio gratuito de fiestas de Galicia, mapa + calendario</td><td>Publicidad</td><td><span class="tag warn">Rival directo</span> Mismo territorio. Batalla en exhaustividad de datos y UX — donde ya ganamos (4.854 vs catálogo parcial).</td></tr>
+      <tr><td><strong>Orquestas de Galicia</strong> (app)</td><td>App de orquestas + calendario de actuaciones</td><td>AdSense</td><td><span class="tag warn">Solape alto</span> Su ángulo es la orquesta, no el plan. Es nuestra fuente de datos, no nuestro producto. <a href="#odg">Gana ~15–45k€/año →</a></td></tr>
+      <tr><td><strong>portalfiestas.com</strong></td><td>Directorio nacional, 16.859 fiestas</td><td>Listados empresa</td><td>HTML antiguo. <strong>Admite que no puede verificar los datos</strong> — justo nuestra regla nº1.</td></tr>
+      <tr><td><strong>Fever</strong></td><td>Descubrimiento + venta de experiencias</td><td>Comisión + media</td><td><span class="tag win">Techo de mercado</span> Unicornio 1.800M$. No toca la fiesta popular gratuita. El exit soñado.</td></tr>
+      <tr><td><strong>Wegow</strong></td><td>Social ticketing de conciertos</td><td>Comisión + float</td><td><span class="tag warn">Preconcurso 2025</span> Lección: el modelo de float de entradas es frágil. Nosotros no lo tocamos.</td></tr>
+      <tr><td class="muted">Atrápalo · Eventbrite · Time Out · esMadrid</td><td class="muted">Ocio urbano de pago / agendas culturales</td><td class="muted">Comisión / ads</td><td class="muted">Foco urbano-cultural. Ninguno cubre verbenas y romerías de pueblo.</td></tr>
+    </tbody>
+  </table>
+  <div class="kbox" style="margin-top:26px"><strong style="color:var(--lima)">Conclusión:</strong> <span class="muted">no existe un directorio nacional, gratuito, bien diseñado, mobile-first y con datos verificados de fiestas populares. Ese es el espacio. Lo tomamos primero en Galicia, donde el competidor más serio (festigaleiros) ya tiene menos cobertura que nosotros.</span></div>
+</section>
+
+<!-- INTERNACIONAL -->
+<section id="internacional">
+  <div class="eyebrow">Referentes internacionales</div>
+  <h2 class="sec">Se monetiza sin<br>vender una sola entrada</h2>
+  <p class="lead">Los casos de éxito globales demuestran la tesis: el directorio gratuito es el activo, y la monetización viene de quien quiere acceder a esa audiencia. Y los fracasos enseñan exactamente qué evitar.</p>
+  <div class="grid g2" style="margin-bottom:24px">
+    <div class="card">
+      <span class="pill li">El espejo directo</span>
+      <h3 style="margin-top:14px">Bandsintown — «sigue a tu artista»</h3>
+      <p><strong>100M de usuarios</strong> registrados sin vender entradas. Monetiza con afiliación (20M clics/mes a ticketeras), promoción pagada a artistas/promotores y marcas. Cada «follow» es inventario.</p>
+      <p style="margin-top:10px;color:var(--lima)">→ Nuestras 246 orquestas con «sigue a tu orquesta» son esto exacto a escala gallega.</p>
+    </div>
+    <div class="card">
+      <span class="pill li">El modelo media</span>
+      <h3 style="margin-top:14px">Time Out + Fever Secret Media</h3>
+      <p>Time Out: <strong>184M usuarios/mes</strong>, monetiza con publicidad y partnerships de marca/turismo. Fever opera Secret Media Network (60M users/mes) que vende solo publicidad a marcas.</p>
+      <p style="margin-top:10px;color:var(--lima)">→ VerbenApp = el media local de las fiestas gallegas para marcas y turismo.</p>
+    </div>
+  </div>
+  <div class="grid g2">
+    <div class="card">
+      <h3>Las lecciones de los que cayeron</h3>
+      <p style="margin-bottom:10px"><span class="tag warn">Festicket · quiebra 2022</span> Quemó ~30M$ con un modelo transaccional intensivo en caja, manejando dinero de terceros. <strong>Nosotros somos asset-light, no tocamos tesorería.</strong></p>
+      <p><span class="tag warn">Songkick · cierre 2017</span> Murió por depender de Ticketmaster. <strong>Una capa de descubrimiento neutral que alimenta (no compite con) la venta es inmune a ese riesgo.</strong></p>
+    </div>
+    <div class="card">
+      <h3>El benchmark cotizado</h3>
+      <p><strong>Eventbrite</strong> (325M$ ingresos, comprada por ~500M$ en 2025) migró de «comisión por entrada» hacia <strong>marketplace + publicidad/destacados</strong> porque tienen mejor margen.</p>
+      <p style="margin-top:10px;color:var(--ambar)">→ Capturamos directamente esa capa de listados destacados, sin tocar el ticketing ni su margen bajo.</p>
+    </div>
+  </div>
+  <div class="kbox am" style="margin-top:26px"><strong style="color:var(--ambar)">La narrativa:</strong> <span class="muted">VerbenApp es estructuralmente un <strong style="color:var(--txt)">Bandsintown + Time Out</strong> a escala regional gallega — activo de audiencia y datos de coste marginal casi nulo, sin riesgo de tesorería, con cuatro palancas de monetización ya probadas internacionalmente.</span></div>
+</section>
+
+<!-- ODG -->
+<section id="odg">
+  <div class="eyebrow">Caso de estudio · ¿Cuánto gana orquestasdegalicia.es?</div>
+  <h2 class="sec">Tienen la audiencia.<br>Monetizan la palanca más débil</h2>
+  <p class="lead">orquestasdegalicia.es es la web de referencia del sector (y nuestra fuente de scraping). Analizamos exactamente cómo gana dinero. El resultado es la mejor prueba del hueco de mercado.</p>
+  <div class="grid g3" style="margin-bottom:28px">
+    <div class="card"><div class="stat">282.500</div><div class="statlbl">visitas/mes en mayo 2026 (+52% mensual, arranque de temporada)</div></div>
+    <div class="card"><div class="stat">#43</div><div class="statlbl">en Arts &amp; Entertainment · Music España. Rebote solo 18,7%</div></div>
+    <div class="card"><div class="stat">14 años</div><div class="statlbl">operando (desde 2012), web + app iOS/Android</div></div>
+  </div>
+  <div class="two">
+    <div class="card">
+      <h3 style="color:var(--magenta)">Estimación de ingresos</h3>
+      <div class="stat" style="font-size:48px">15–45k€</div>
+      <div class="statlbl" style="margin-bottom:14px">al año. Caso central ~25–30k€</div>
+      <p>Método: páginas vistas anuales (~6,8M) × RPM AdSense nicho España (2–5€/mil) + un patrocinio directo. <strong>Es publicidad display pura</strong> — sin listados premium, sin comisión, sin suscripción. La web se define como «meramente informativa».</p>
+      <p class="note">Estimación fundamentada, no cifra confirmada. <span class="src">SimilarWeb + análisis del sitio.</span></p>
+    </div>
+    <div class="card">
+      <h3 style="color:var(--lima)">Lo que esto nos dice</h3>
+      <p>Un operador pequeño, con la audiencia y los datos del sector, captura <strong>0% del flujo de 40M€</strong> que documenta. Vive de AdSense.</p>
+      <div class="kbox" style="margin-top:14px">El upside está exactamente en ese gap: tienen la audiencia pero monetizan con la palanca más floja. Nosotros llegamos con mejor producto (mapa, fotos, histórico, «sigue a tu orquesta»), datos más ricos y <strong>cuatro palancas de monetización adicionales</strong>.</div>
+    </div>
+  </div>
+</section>
+
+<!-- TAM -->
+<section id="tam">
+  <div class="eyebrow">Dimensión del mercado</div>
+  <h2 class="sec">TAM · SAM · SOM</h2>
+  <p class="lead">Construimos el mercado como gasto anual capturable alrededor de las fiestas locales — publicidad local, promoción turística/municipal, patrocinio de marca y futuro ticketing — no como valoración del mercado global de eventos. Supuestos conservadores.</p>
+  <div class="grid g3" style="margin-bottom:26px">
+    <div class="card" style="border-color:rgba(255,194,75,.3)">
+      <span class="pill am">TAM</span>
+      <div class="stat" style="margin-top:12px">~1.000M€</div>
+      <div class="statlbl">España entera/año. Publicidad local de ocio (~560–840M€) + ticketing de fiestas (~150–250M€) + presupuestos públicos de turismo/festejos (~200–400M€).</div>
+    </div>
+    <div class="card" style="border-color:rgba(255,61,129,.3)">
+      <span class="pill mg">SAM</span>
+      <div class="stat" style="margin-top:12px">450–500M€</div>
+      <div class="statlbl">5 CCAA más festivas (Galicia, Asturias, Castilla y León, Andalucía, C. Valenciana) = ~41% de población × intensidad festiva 1,2.</div>
+    </div>
+    <div class="card" style="border-color:rgba(198,255,74,.3)">
+      <span class="pill li">SOM</span>
+      <div class="stat lima" style="margin-top:12px">~8–9M€</div>
+      <div class="statlbl">acumulado a 3 años. Run-rate ~5–6M€/año al final del año 3, con captura conservadora del 1,2% del SAM.</div>
+    </div>
+  </div>
+  <div class="card">
+    <h3 style="margin-bottom:16px">El inventario es real</h3>
+    <div class="grid g4">
+      <div><div class="stat" style="font-size:40px">~50–65k</div><div class="statlbl">fiestas locales/año en España (estimación conservadora 6–8/municipio)</div></div>
+      <div><div class="stat" style="font-size:40px">48,9M</div><div class="statlbl">habitantes en España · 8.132 municipios</div></div>
+      <div><div class="stat" style="font-size:40px">93,8M</div><div class="statlbl">turistas internacionales/año (usuarios estacionales)</div></div>
+      <div><div class="stat" style="font-size:40px">96%</div><div class="statlbl">penetración de smartphone — sin barrera de adopción</div></div>
+    </div>
+  </div>
+  <p class="note">Precedente probado: Fever pasó de 3 ciudades españolas a líder global valorado en 1.800M$. Atacamos el long tail rural/popular que Fever no cubre. <span class="src">Fuentes: INE, Mintur/FRONTUR, Statista, IAB Spain, Xunta.</span></p>
+</section>
+
+<!-- MONETIZACION -->
+<section id="monetizacion">
+  <div class="eyebrow">Cómo ganamos dinero</div>
+  <h2 class="sec">Ocho palancas.<br>Tres dan caja desde el día uno</h2>
+  <p class="lead">No vendemos entradas (eso hundió a Festicket y Wegow). Monetizamos el acceso a una audiencia local de alta intención y a un dato que solo nosotros tenemos. Priorizado por facilidad × ingreso.</p>
+  <table>
+    <thead><tr><th>Modelo</th><th>Facilidad</th><th>Potencial/año</th><th>Cuándo</th></tr></thead>
+    <tbody>
+      <tr><td><strong>1. Patrocinio</strong> (Estrella Galicia, Abanca, Xunta/Turismo)</td><td>Media</td><td><strong style="color:var(--ambar)">25–50k€</strong></td><td>Ya</td></tr>
+      <tr><td><strong>2. Listados destacados</strong> (orquestas, agencias, locales)</td><td><span class="tag win">Alta</span></td><td><strong>~37k€</strong></td><td>Ya</td></tr>
+      <tr><td><strong>3. Lead-gen B2B</strong> ⭐ (orquestas, food trucks, sonido)</td><td>Media</td><td><strong style="color:var(--lima)">60–80k€</strong></td><td>Mes 6–12</td></tr>
+      <tr><td><strong>4. Display / programática</strong></td><td><span class="tag win">Muy alta</span></td><td>10–20k€</td><td>Ya</td></tr>
+      <tr><td><strong>5. Afiliación</strong> (Booking, TheFork, Civitatis)</td><td>Alta</td><td>5–20k€</td><td>Mes 3–6</td></tr>
+      <tr><td><strong>6. Datos / insights</strong> a marcas y administraciones</td><td>Baja</td><td>10–25k€</td><td>Año 2</td></tr>
+      <tr><td><strong>7. Premium</strong> para comisiones de fiestas</td><td>Baja</td><td>14–23k€</td><td>Año 2</td></tr>
+      <tr><td><strong>8. Marketplace de servicios</strong> (visión)</td><td>Muy baja</td><td><strong style="color:var(--magenta)">100–160k€+</strong></td><td>Año 3+</td></tr>
+    </tbody>
+  </table>
+  <div class="grid g2" style="margin-top:26px">
+    <div class="card">
+      <h3 style="color:var(--lima)">⭐ El activo diferencial: lead-gen B2B</h3>
+      <p>El flujo «registra tu verbena» captura la <strong>intención de compra antes que nadie</strong>: una comisión que va a gastar 5.000–35.000€ en orquesta. Vendemos ese lead cualificado a orquestas y proveedores. CPL de eventos en España ~50€; aquí dispara contratos de cinco cifras.</p>
+      <p style="margin-top:10px;color:var(--lima)">«El Thumbtack de las verbenas». Nadie más tiene este dato.</p>
+    </div>
+    <div class="card">
+      <h3 style="color:var(--ambar)">El comprador ya existe y ya gasta</h3>
+      <p>Estrella Galicia tiene el programa <strong>«A Nosa Verbena»</strong> (recuperó 21 verbenas desde 2022; +200 localidades se postularon). Buscan exactamente este canal. Abanca, Xunta/Turismo (146,5M€ de presupuesto 2025) y diputaciones son patrocinadores naturales.</p>
+    </div>
+  </div>
+</section>
+
+<!-- PROYECCION -->
+<section id="proyeccion">
+  <div class="eyebrow">Proyección de ingresos</div>
+  <h2 class="sec">De directorio gratis<br>a foso de datos</h2>
+  <p class="lead">El roadmap de monetización en tres fases: primero probamos que el tráfico y los anunciantes existen; luego activamos el foso de datos propietarios; finalmente, el marketplace transaccional.</p>
+  <div class="grid g3">
+    <div class="card">
+      <span class="pill am">Año 1 · Caja rápida</span>
+      <div class="stat" style="margin:14px 0 4px">40–80k€</div>
+      <div class="statlbl" style="margin-bottom:12px">Display + listados destacados + 1–2 patrocinios</div>
+      <p style="font-size:14px">Galicia consolidada. Prueba de que tráfico y anunciantes existen. SOM ~0,7M€ del mercado regional.</p>
+    </div>
+    <div class="card">
+      <span class="pill mg">Año 2 · El foso</span>
+      <div class="stat" style="margin:14px 0 4px">2,3M€</div>
+      <div class="statlbl" style="margin-bottom:12px">+ Asturias y Castilla y León</div>
+      <p style="font-size:14px">Lead-gen B2B + primeros informes de datos + premium. El relato pasa de «media local» a «datos propietarios de una industria de 40M€».</p>
+    </div>
+    <div class="card">
+      <span class="pill li">Año 3 · Escala</span>
+      <div class="stat lima" style="margin:14px 0 4px">5,5M€</div>
+      <div class="statlbl" style="margin-bottom:12px">+ Andalucía y C. Valenciana (5 CCAA)</div>
+      <p style="font-size:14px">Marketplace de servicios sobre el GMV del sector. Aquí está la valoración tipo marketplace. Run-rate ~5–6M€.</p>
+    </div>
+  </div>
+  <div class="callout" style="margin-top:26px">
+    <div class="big" style="color:var(--lima)">«Empezamos como el directorio gratuito definitivo de las +4.000 verbenas de Galicia; nos convertimos en la capa de datos y demanda de un mercado de 40M€ que hoy se gestiona por WhatsApp.»</div>
+  </div>
+  <p class="note">Cifras de SOM = estimaciones con supuestos explícitos (captura 0,15% → 1,2% del SAM), no proyecciones auditadas. El upside de ticketing por afiliación no está en el caso base.</p>
+</section>
+
+<!-- PLAN -->
+<section id="plan">
+  <div class="eyebrow">Plan de lanzamiento</div>
+  <h2 class="sec">Timeline</h2>
+  <p class="lead">El producto de datos está listo. La ejecución es secuencial y de bajo coste: lanzar en Galicia este verano, validar tráfico, monetizar, y replicar el playbook a la siguiente comunidad.</p>
+  <div class="tline">
+    <div class="tstep"><div class="dot"></div><div class="when">VERANO 2026 · AHORA</div><h4>Lanzamiento Galicia (v1)</h4><p>Web pública con las 4.854 verbenas: mapa, lista, filtros, buscador, «cerca de mí» y «sigue a tu orquesta». Gratis, sin login. Datos servidos vía CDN, autoactualizados semanalmente. Objetivo: capturar el pico de tráfico de la temporada (jun–sep).</p></div>
+    <div class="tstep"><div class="dot"></div><div class="when">T3 2026 · MESES 1–3</div><h4>Tráfico + primeras palancas</h4><p>Medir audiencia en plena temporada (el momento de máximo tráfico del año). Activar display y listados destacados. Abrir conversaciones de patrocinio con Estrella Galicia / Abanca / Turismo de Galicia. Lanzar el flujo «registra tu verbena».</p></div>
+    <div class="tstep"><div class="dot"></div><div class="when">T4 2026 – T1 2027 · MESES 4–9</div><h4>Foso de datos + lead-gen</h4><p>Acumular registros de comisiones de fiestas (datos exclusivos). Activar lead-gen B2B hacia orquestas y proveedores. App móvil nativa. Cerrar el primer patrocinio anual. Primeros informes de datos.</p></div>
+    <div class="tstep"><div class="dot"></div><div class="when">2027 · AÑO 2</div><h4>Expansión: Asturias + Castilla y León</h4><p>Replicar el playbook de scraping + verificación a las CCAA con más tradición festiva. El motor de datos ya está construido — escalar es repetir un proceso probado, no reinventarlo.</p></div>
+    <div class="tstep"><div class="dot"></div><div class="when">2028 · AÑO 3</div><h4>Nacional + marketplace</h4><p>Andalucía y C. Valenciana. Lanzar el marketplace de servicios para fiestas (take rate sobre GMV). Posición de líder de inventario nacional en fiestas populares.</p></div>
+  </div>
+</section>
+
+<!-- ASK -->
+<section id="ask" style="border-bottom:none">
+  <div class="eyebrow">El cierre</div>
+  <h2 class="sec">Por qué ahora,<br>por qué nosotros</h2>
+  <div class="grid g2">
+    <div class="card"><h3 style="color:var(--lima)">El producto ya existe</h3><p>4.854 verbenas verificadas, 246 orquestas, pipeline autoactualizable. No invertimos en construir el dato — invertimos en distribución y monetización de un activo ya construido.</p></div>
+    <div class="card"><h3 style="color:var(--ambar)">El mercado está desatendido</h3><p>40M€ de industria, 70% del mercado nacional en Galicia, y la web líder gana ~25k€/año con AdSense. El gap entre el dinero que mueve el sector y lo que captura el digital es la oportunidad.</p></div>
+    <div class="card"><h3 style="color:var(--magenta)">El modelo está probado</h3><p>Bandsintown (100M users) y Time Out (184M/mes) monetizan sin vender entradas. Fever validó que el descubrimiento de ocio local escala a unicornio desde España.</p></div>
+    <div class="card"><h3 style="color:var(--lima)">Riesgo asimétrico</h3><p>Asset-light, coste marginal casi nulo, sin tesorería de terceros. Downside acotado; upside = la capa de datos y demanda de un mercado nacional de 50.000+ fiestas/año.</p></div>
+  </div>
+  <div class="callout" style="margin-top:30px;text-align:center">
+    <div class="big" style="color:var(--ambar)">Buscamos socios para tomar Galicia este verano<br>y construir la versión de España entera</div>
+    <p class="muted">El calendario de fiestas no espera. La temporada empieza ahora.</p>
+  </div>
+</section>
+
+<div class="bulbs"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+
+<footer class="foot">
+  <strong style="color:var(--ambar);font-family:'Anton';font-size:22px;letter-spacing:1px">VERBENAPP</strong>
+  <p style="margin-top:10px">Dossier para inversores · Junio 2026 · Documento confidencial</p>
+  <p class="src" style="margin-top:14px;max-width:680px;margin-left:auto;margin-right:auto">Fuentes: Infobae, CaixaBank Research, El Español/Quincemil, La Región, USC «Do palco ó escenario», SimilarWeb, INE, Mintur/FRONTUR, Statista, IAB Spain, Xunta de Galicia, SEC filings (Eventbrite), Music Business Worldwide, Billboard. Las estimaciones de ingresos y de mercado se basan en benchmarks públicos con supuestos explícitos; no son cifras auditadas.</p>
+</footer>
+
+</body>
+</html>
