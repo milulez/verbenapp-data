@@ -1,0 +1,2666 @@
+[
+ {
+  "parroquia": "Melías (Santa María de Melías)",
+  "nombre": "Fiestas de San Bartolomeu (con Festa do Porco Bravo, Festa do Pulpo e Festa do Chuletón)",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2023": "agosto (Chuletón 14 ago, Porco Bravo 19 ago, Pulpo 24 ago, San Bartolomeu 24-27 ago)",
+   "2025": "21-25 de agosto (según galiciafiestas.es)"
+  },
+  "fundacion": "Edición XXVII da Festa do Porco Bravo e XXVII da Festa do Pulpo en 2023 (orixe arredor de finais dos anos 90)",
+  "historiaCorta": "Melías vive el agosto más intenso del concello: un mes encadenando fiestas gastronómicas y patronales en torno a San Bartolomeu. Las degustaciones de porco bravo, pulpo y chuletón llevan décadas siendo el reclamo de la parroquia. Lo organiza la asociación de vecinos con un programa larguísimo.",
+  "historiaLarga": "Santa María de Melías concentra en agosto el calendario festivo más cargado de O Pereiro de Aguiar. La parroquia encadena varias citas: la Festa da Xuventude, la Festa do Chuletón, la Festa do Porco Bravo, la Festa do Pulpo y las patronales de San Bartolomeu y San Roque. Las degustaciones gastronómicas (porco bravo y pulpo) alcanzaban en 2023 su XXVII edición, lo que sitúa su origen a finales de los años 90. Todo lo mueve la asociación de vecinos, que combina romería, deporte (rutas de senderismo de 6 y 14 km), comida popular y verbenas con orquestas.",
+  "gastronomia": [
+   "Festa do Porco Bravo (degustación de jabalí, con reserva anticipada)",
+   "Festa do Pulpo (raciones de pulpo)",
+   "Festa do Chuletón (menú 30 euros adultos / 12 euros niños)",
+   "carne cocida",
+   "comida popular tras la ruta de senderismo"
+  ],
+  "servicios": [
+   "entrada de pago en las degustaciones (chuletón con menú; porco bravo con reserva)",
+   "verbenas nocturnas a partir de las 21:00",
+   "ruta de senderismo popular de 6 y 14 km"
+  ],
+  "tradicion": "Pregón de la Festa do Chuletón a cargo del humorista Sergio Pazos en 2023. Pasacalles con charangas (Los Caliqueños), presentación del SD Melías y la inusual cadena de fiestas gastronómicas a lo largo de todo el mes.",
+  "programa": "Misa solemne y procesión en honor a San Bartolomeu (24-27 agosto), Festa do Pulpo, verbena, pasacalles con charanga, sesión vermú, torneos populares y orquestas (Tattoo, Los Caliqueños, Vaivén, Galia, Luces de Bohemia).",
+  "fuentes": [
+   "https://www.laregion.es/articulo/ourense/santa-maria-melias-agosto-actividades-verano/202308031246041236970.html",
+   "https://www.galiciafiestas.es/ourense/pereiro-de-aguiar-o/",
+   "https://www.paxinasgalegas.es/fiestas/san-bartolome-de-melias-o-pereiro-de-aguiar-2101.html"
+  ],
+  "concello": "O Pereiro de Aguiar",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Melías (Ventosela)",
+  "nombre": "Romería de San Mamede",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2023": "5-6 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "Romería del lugar de Ventosela, en la parroquia de Melías, a comienzos de agosto. Une devoción a San Mamede con una buena degustación gastronómica. Es de las primeras citas del mes festivo melienense.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Festa do Pulpo e da Carne Cocida (sábado por la noche)"
+  ],
+  "servicios": [
+   "sesión de DJ tras la cena",
+   "sesión vermú el domingo"
+  ],
+  "tradicion": "Torneo de subastado (juego de cartas) como complemento de la romería.",
+  "programa": "Sábado: Festa do Pulpo y de la Carne Cocida con DJ. Domingo: misa solemne (13:00), vermú y actuación del trío Vaivén.",
+  "fuentes": [
+   "https://www.laregion.es/articulo/ourense/santa-maria-melias-agosto-actividades-verano/202308031246041236970.html"
+  ],
+  "concello": "O Pereiro de Aguiar",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Pedraio",
+  "nombre": "Fiestas de Nuestra Señora del Perpetuo Socorro",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "22-23 de junio"
+  },
+  "fundacion": null,
+  "historiaCorta": "Pedraio celebra sus patronales en honor a la Virgen del Perpetuo Socorro a finales de junio. Es la fiesta de parroquia clásica, con misa, procesión y verbena. Una de las primeras citas del verano en el concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Programa habitual de fiesta patronal: misa solemne, procesión y verbena con orquesta.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/pereiro-de-aguiar-o/",
+   "https://www.orquestasdegalicia.es/fiestas/ourense/pedraio-pereiro-de-aguiar"
+  ],
+  "concello": "O Pereiro de Aguiar",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Vilariño",
+  "nombre": "Fiestas de Santa Cristina e Santa Mariña (y San Roque)",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "19-21 de julio"
+  },
+  "fundacion": null,
+  "historiaCorta": "Vilariño honra a Santa Cristina y Santa Mariña a finales de julio, y a San Roque más adelante. Fiestas de parroquia con actos religiosos y verbena con orquestas. Tradición rural típica del valle de Aguiar.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa, procesión y verbenas con orquestas; comida popular vecinal.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/pereiro-de-aguiar-o/",
+   "https://www.paxinasgalegas.es/fiestas/san-roque-de-vilari%C3%B1o-o-pereiro-de-aguiar-15229.html"
+  ],
+  "concello": "O Pereiro de Aguiar",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Benito da Veiga",
+  "nombre": "Fiesta de San Benito",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "principios de julio"
+  },
+  "fundacion": null,
+  "historiaCorta": "Pequeña fiesta de San Benito en el lugar de A Veiga, a comienzos de julio. Romería de devoción local con misa y verbena. Poca información disponible más allá de la cita recurrente.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa y verbena.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/pereiro-de-aguiar-o/",
+   "https://www.paxinasgalegas.es/fiestas/san-benito-da-veiga-o-pereiro-de-aguiar-2030.html"
+  ],
+  "concello": "O Pereiro de Aguiar",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Loñoá",
+  "nombre": "Festa Etnográfica de Loñoá",
+  "fechaConfianza": "confirmada-web",
+  "fecha2026": "2026-07-12",
+  "fechaFin2026": "2026-07-12",
+  "fechasPrevias": {
+   "2024": "V edición (julio 2024)"
+  },
+  "fundacion": "VII edición en 2026 (la I edición se celebró hacia 2018-2019)",
+  "historiaCorta": "Loñoá se convierte cada julio en escenario de su Festa Etnográfica, una jornada para poner en valor el legado cultural de la zona. Música, baile, oficios tradicionales, gastronomía y juegos populares en un mismo día. En 2026 alcanza su séptima edición, el domingo 12 de julio.",
+  "historiaLarga": "La Festa Etnográfica de Loñoá nació para reivindicar el patrimonio cultural y las costumbres del rural de O Pereiro de Aguiar. Está organizada por el Concello de Pereiro de Aguiar en colaboración con la Diputación de Ourense. En su VII edición (2026) se celebra el domingo 12 de julio. El programa habitual combina actuaciones musicales, baile, exhibiciones de oficios y artesanía tradicional, puestos de gastronomía y artesanía, actividades infantiles, juegos populares y sorteos. Loñoá mantiene además una feria mensual el primer domingo de cada mes con productos típicos de la tierra.",
+  "gastronomia": [
+   "puestos de gastronomía con productos típicos de la tierra",
+   "pulpo",
+   "carne ao caldeiro / carne asada",
+   "repostería y dulces locales"
+  ],
+  "servicios": [
+   "evento gratuito de carácter cultural",
+   "puestos de artesanía",
+   "actividades infantiles",
+   "sorteos"
+  ],
+  "tradicion": "Exhibiciones de oficios y artesanía tradicional, juegos populares y demostración de la cultura rural gallega. Interés turístico por su carácter etnográfico.",
+  "programa": "Actuaciones musicales, baile tradicional, exhibición de oficios, puestos de gastronomía y artesanía, actividades infantiles, juegos populares y sorteos a lo largo de la jornada.",
+  "fuentes": [
+   "https://pereiro.gal/12-07-festa-etnogrfica-looa-2026/",
+   "https://www.laregion.es/sociedad/pereiro-aguiar-presenta-v-festa-etnografica-que-tendra-musica-juegos-comida-sorteos_1_20240724-3280510.html",
+   "https://pereiro.gal/inscribete-como-artesa-na-vii-festa-etnografica/"
+  ],
+  "concello": "O Pereiro de Aguiar",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "O Pereiro de Aguiar (Os Gozos)",
+  "nombre": "Xoldra de Aguiar",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2024": "14 de septiembre (Os Gozos, a partir de las 18:30 h)"
+  },
+  "fundacion": null,
+  "historiaCorta": "La Xoldra de Aguiar es un festival que reivindica la cultura rural y la fiesta popular a través de la música, celebrado entre el santuario de Os Gozos y la residencia Os Gozos. Cierra el verano festivo del concello en septiembre. En 2024 se celebró el 14 de septiembre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "entrada anticipada por entradas.at / EntradasAtrapalo",
+   "ubicación en Os Gozos, a partir de las 18:30 h"
+  ],
+  "tradicion": "Festival que pone en valor la cultura rural y la fiesta popular gallega a través de la música.",
+  "programa": "Jornada de música y ambiente festivo desde la tarde en Os Gozos.",
+  "fuentes": [
+   "https://www.facebook.com/concellodopereirodeaguiar/posts/xoldra-de-aguiar-2024-14-de-setembro-os-gozos-a-partir-das-1830h",
+   "https://www.paxinasgalegas.es/fiestas/xoldra-de-aguiar-o-pereiro-de-aguiar-33173.html"
+  ],
+  "concello": "O Pereiro de Aguiar",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "O Pereiro de Aguiar (Zona Monterrei)",
+  "nombre": "Ruxido Fest",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "sábado 13 de junio (Zona Monterrei)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Festival musical organizado por el Concello en la Zona Monterrei, en colaboración con la Diputación de Ourense, Festivalya y Leitmotiv. Abre la temporada de eventos de verano a mediados de junio. Música en vivo en el complejo deportivo.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "ubicación en la Zona Monterrei / complejo deportivo"
+  ],
+  "tradicion": null,
+  "programa": "Festival de música en directo.",
+  "fuentes": [
+   "https://pereiro.gal/ruxido-fest-sabado-13-de-xuno/"
+  ],
+  "concello": "O Pereiro de Aguiar",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Covas (San Cibrao / San Ciprián de Covas)",
+  "nombre": "Fiesta de San Ciprián",
+  "fechaConfianza": "no encontrada",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Covas celebra a su patrón San Ciprián con actos religiosos y actuaciones musicales. Fiesta de parroquia con escasa información publicada. Tradicionalmente la festividad de San Cipriano cae a mediados de septiembre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa, procesión y verbena con orquesta.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-pereiro-de-aguiar-216.html"
+  ],
+  "concello": "O Pereiro de Aguiar",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Xurxo da Touza",
+  "nombre": "San Bartolomeu de San Xurxo da Touza",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "2025-08-24"
+  },
+  "fundacion": null,
+  "historiaCorta": "La fiesta patronal de San Bartolomeu se celebra en la parroquia de San Xurxo da Touza en torno al 24 de agosto, día del santo. Es una de las citas grandes del verano de Taboadela, con misa solemne, procesión y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Fiesta patronal de raíz religiosa muy arraigada en la parroquia.",
+  "programa": "El programa habitual arranca con un pasacalles de la Banda de Música y agrupación cultural, misa solemne y procesión, sesión vermú y verbena nocturna con orquesta.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-bartolomeu-de-san-xurxo-da-touza-taboadela-4404.html",
+   "http://www.queverengalicia.com/2015/01/que-ver-en-taboadela.html"
+  ],
+  "concello": "Taboadela",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Xurxo da Touza",
+  "nombre": "San Ramón de Torán",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "30 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Ramón se celebra a finales de agosto, en torno al día 30, en el entorno de Torán (parroquia de San Xurxo da Touza). Cierra el ciclo de fiestas grandes del verano taboadelense antes de septiembre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Romería de finales de verano vinculada a la zona de Torán, donde se conserva la histórica Torre de Torán.",
+  "programa": "Programa típico de romería: misa y procesión en honor al santo, música tradicional gallega de día y verbena por la noche.",
+  "fuentes": [
+   "http://www.queverengalicia.com/2015/01/que-ver-en-taboadela.html",
+   "https://www.paxinasgalegas.es/fiestas/la-torre-de-toran-taboadela-5731.html"
+  ],
+  "concello": "Taboadela",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Soutomaior",
+  "nombre": "Virxe da Saúde de Soutomaior",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "principios de septiembre"
+  },
+  "fundacion": null,
+  "historiaCorta": "La Virxe da Saúde es la fiesta de la parroquia de Soutomaior y se celebra a principios de septiembre. Es la última de las grandes citas del calendario estival del concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Festividad mariana parroquial que pone el broche al verano de Taboadela.",
+  "programa": "Misa solemne y procesión con la imagen de la Virxe da Saúde, completadas con música tradicional y verbena.",
+  "fuentes": [
+   "http://www.queverengalicia.com/2015/01/que-ver-en-taboadela.html"
+  ],
+  "concello": "Taboadela",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Taboadela",
+  "nombre": "San Xoán",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "24 de junio (víspera 23)"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Xoán es la fiesta que abre el verano en Taboadela, en torno al 24 de junio. Mantiene el carácter tradicional de la noche de San Juan en el rural ourensano.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Celebración de San Xoán con la tradición de la hoguera (cacharela) propia de la noche de San Juan.",
+  "programa": null,
+  "fuentes": [
+   "http://www.queverengalicia.com/2015/01/que-ver-en-taboadela.html"
+  ],
+  "concello": "Taboadela",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Pereiras",
+  "nombre": "Virxe das Neves de Pereiras",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "5 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "Pereiras celebra a la Virxe das Neves, advocación cuya festividad cae el 5 de agosto. Tiene su capilla propia, la Capela da Virxe das Neves, cerca del Monte Ladaíña.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Romería en torno a la capilla de la Virxe das Neves de Pereiras, en el entorno del Monte Ladaíña.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/capilla-de-la-virgen-de-las-nieves-de-pereiras-taboadela-42379.html"
+  ],
+  "concello": "Taboadela",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Taboadela",
+  "nombre": "Semana Cultural de Taboadela",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "verano"
+  },
+  "fundacion": null,
+  "historiaCorta": "La Semana Cultural de Taboadela es una cita laica de verano impulsada por el concello, con varias ediciones celebradas. Combina mercado artesanal en la Praza do Concello y una comida popular amenizada con música.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida popular (xantar popular)"
+  ],
+  "servicios": [
+   "Mercado artesanal en la Praza do Concello",
+   "Animación musical"
+  ],
+  "tradicion": "Semana de actividades culturales del concello, alternativa moderna a las romerías religiosas.",
+  "programa": "Mercado de artesanía en la Praza do Concello y comida popular con animación musical, entre otras actividades culturales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/semana-cultural-taboadela-17603.html"
+  ],
+  "concello": "Taboadela",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Cristoble",
+  "nombre": "Festas de San Manuel",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "6-7 de junio"
+  },
+  "fundacion": null,
+  "historiaCorta": "El lugar de Cristoble se engalana cada principios de junio para honrar a San Manuel, una de las primeras citas festivas del verano en Vilamarín. Es una fiesta de aldea, sencilla y muy de vecindario.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cea popular (cena popular vecinal)"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "El viernes arranca sobre las 21:00 con actuación musical (en una edición, el grupo BUSHIT) y a las 22:00 la cena popular. Continúa el sábado con los actos religiosos y la verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-de-cristoble-vilamarin-32694.html",
+   "https://www.galiciafiestas.es/ourense/vilamar%C3%ADn/"
+  ],
+  "concello": "Vilamarín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Reádegos",
+  "nombre": "Festas de San Pedro",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "finales de junio (en torno al 27-29)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Reádegos celebra a su patrón San Pedro a finales de junio, coincidiendo con el santoral del 29. Es la típica fiesta patronal de verano de aldea ourensana, con actos religiosos por la mañana y verbena por la noche.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa y procesión en honor a San Pedro, seguidas de sesión vermú y verbena nocturna.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/vilamar%C3%ADn/"
+  ],
+  "concello": "Vilamarín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Orbán",
+  "nombre": "Festa da Virxe do Carme de Orbán",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2017": "7-9 de julio",
+   "2022": "8-10 de julio",
+   "recurrente": "segundo fin de semana de julio"
+  },
+  "fundacion": null,
+  "historiaCorta": "Una de las romerías de verano más animadas de Vilamarín: la Virxe do Carme de Orbán reúne a los vecinos en julio con misa solemne, música y la popular pancetada. Suele celebrarse el segundo fin de semana de julio.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Pancetada (degustación de panceta a la brasa)",
+   "Pan y vino"
+  ],
+  "servicios": [],
+  "tradicion": "La pancetada es el sello gastronómico de la fiesta y uno de sus mayores reclamos populares.",
+  "programa": "Misa solemne y procesión en honor a la Virxe do Carme, sesión vermú con la pancetada y verbena con orquestas (en alguna edición, la Charleston Big Band).",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/virxe-do-carmen-de-orban-vilamarin-14294.html",
+   "https://www.galiciafiestas.es/ourense/vilamar%C3%ADn/"
+  ],
+  "concello": "Vilamarín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Pazos de Monte",
+  "nombre": "Festa da Carne de Tenreira Cachena de Pazos de Monte",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2016": "4 de junio (3ª edición)",
+   "2023": "junio (VII edición)",
+   "recurrente": "primer sábado de junio"
+  },
+  "fundacion": "Nació hacia 2008 (origen del proyecto ganadero); 3ª edición de la fiesta en 2016",
+  "historiaCorta": "La gran cita gastronómica del concello: una fiesta dedicada a la cachena, raza bovina autóctona gallega criada en los montes de Vilamarín. Surgió de un grupo de amigos que hace años apostó por recuperar esta raza, y hoy es la fiesta gastronómica de referencia, con cientos de comensales cada junio.",
+  "historiaLarga": "El evento nació de la iniciativa de un grupo de amigos que hacia 2008 apostó por la cría de la raza autóctona cachena en los montes de Vilamarín, como defensa de la ganadería local y tradicional. Se celebra en el campo de Pazos de Monte con la colaboración de la Asociación Agrogandeira Delvezón. En la 3ª edición (4 de junio de 2016) se sirvieron 300 kilos de carne procedentes de cinco becerros para más de 350 comensales, superando ediciones anteriores. La cocina corrió a cargo de la empresa Malé. La fiesta ha seguido creciendo, llegando a la VII edición en junio de 2023.",
+  "gastronomia": [
+   "Empanada de carne cachena",
+   "Carne cachena ó caldeiro",
+   "Richada",
+   "Pan, vino y postre"
+  ],
+  "servicios": [
+   "Hinchables para niños",
+   "Charanga que ameniza la sobremesa"
+  ],
+  "tradicion": "La cachena es una raza bovina autóctona gallega, pequeña y rústica, recuperada de la casi extinción; comerla es una experiencia gastronómica con interés para visitantes.",
+  "programa": "Comienza al mediodía (sobre las 14:00) con la comida; hinchables infantiles y charanga amenizan la jornada y la sobremesa.",
+  "fuentes": [
+   "https://www.laregion.es/articulo/ourense/vilamarin-presume-carne-cachena-fiesta-pazos-monte/20160605115939626438.html",
+   "https://www.laregion.es/comarca-de-ourense/vilamarin-degustara-300-kilos-ternera-cachena_1_20160602-2841346.html",
+   "https://www.galiciafiestas.es/ourense/vilamar%C3%ADn/"
+  ],
+  "concello": "Vilamarín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Pazos de Monte",
+  "nombre": "Festa de San Xosé Obreiro",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "30 de abril - 1 de mayo"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Xosé Obreiro se celebra en Pazos de Monte a primeros de mayo, coincidiendo con el Día del Trabajador. Es la fiesta que abre la temporada festiva en esta zona del concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa y procesión en honor a San Xosé Obreiro, con verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-xose-obreiro-de-pazos-de-monte-vilamarin-639.html",
+   "https://www.galiciafiestas.es/ourense/vilamar%C3%ADn/"
+  ],
+  "concello": "Vilamarín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Vilamarín",
+  "nombre": "Festa de San Antonio",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "mediados-finales de junio (santoral 13 de junio)"
+  },
+  "fundacion": null,
+  "historiaCorta": "A mediados de junio se celebra San Antonio en Vilamarín, con misas por la mañana y festejos por la tarde-noche. Una fiesta de verano discreta pero arraigada en el núcleo del concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misas matinales y celebración vespertina con verbena.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/vilamar%C3%ADn/"
+  ],
+  "concello": "Vilamarín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Tamallancos",
+  "nombre": "Festa da Virxe do Pilar",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2023": "12-13 de octubre",
+   "recurrente": "12 de octubre"
+  },
+  "fundacion": null,
+  "historiaCorta": "Tamallancos celebra a la Virxe do Pilar en octubre, ya fuera del verano, con música y actividades deportivas. La parroquia también es conocida por su magosto popular en el centro social.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "En el magosto: panceta, empanada, chorizos y castañas"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos en honor a la Virxe do Pilar, música y eventos deportivos. (Es fiesta de otoño, fuera del rango de verano.)",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/vilamar%C3%ADn/",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vilamarin-245.html"
+  ],
+  "concello": "Vilamarín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Montederramo",
+  "nombre": "Festas Patronais de San Roque e Nosa Señora da Asunción",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "14-16 agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "Son las fiestas grandes de la villa de Montederramo, en honor a la Nosa Señora da Asunción (15 de agosto) y a San Roque (16 de agosto). Se celebran tradicionalmente del 14 al 16 de agosto en el entorno y los claustros del histórico Monasterio cisterciense de Santa María, uno de los grandes monumentos renacentistas de Galicia.",
+  "historiaLarga": "La villa de Montederramo creció al amparo de su monasterio, fundado en 1124 cuando Doña Teresa de Portugal donó tierras al abad Arnaldo. Esa raíz monástica marca todavía hoy las fiestas patronales, que tienen como escenario el propio conjunto del Monasterio de Santa María. El componente religioso (misa solemne y procesiones por la Asunción y San Roque) se complementa cada año con un programa paralelo de folclore gallego y verbena nocturna que pone el broche a cada jornada.",
+  "gastronomia": [],
+  "servicios": [
+   "Verbena nocturna cada noche",
+   "Actuaciones de folclore gallego"
+  ],
+  "tradicion": "Se celebran en el entorno y los claustros del Monasterio de Santa María de Montederramo, uno de los conjuntos monásticos renacentistas más importantes de Galicia y referente de la Ribeira Sacra.",
+  "programa": "Misa solemne y procesión en honor a la Asunción y a San Roque, programa de folclore gallego y verbena nocturna que cierra cada jornada.",
+  "fuentes": [
+   "https://montederramo.es/festas/?lang=es",
+   "https://www.paxinasgalegas.es/fiestas/festas-patronais-montederramo-540.html",
+   "https://turismo.ribeirasacra.org/monasterio-santa-maria-de-montederramo"
+  ],
+  "concello": "Montederramo",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Marrubio",
+  "nombre": "San Antón de Marrubio",
+  "fecha2026": "2026-06-13",
+  "fechaFin2026": null,
+  "fechaConfianza": "confirmada-web",
+  "fechasPrevias": {
+   "2024": "2024-06-15",
+   "2025": "2025-06-14"
+  },
+  "fundacion": null,
+  "historiaCorta": "Los vecinos de la parroquia de Marrubio celebran su fiesta en honor a San Antón a mediados de junio, con actos religiosos, una cena popular muy arraigada y verbena. En 2026 está fijada para el 13 de junio.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cena popular (VII edición), por unos 20 euros"
+  ],
+  "servicios": [
+   "Cena popular hacia las 20:30 h (unos 20 euros)",
+   "Verbena desde la medianoche"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos en honor a San Antón, VII Cena Popular sobre las 20:30 h (en torno a 20 euros), fiesta a partir de las 21:30 h y verbena con el trío Millenial hacia las 00:30 h.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-anton-de-marrubio-montederramo-536.html",
+   "https://www.galiciafiestas.es/ourense/montederramo/"
+  ],
+  "concello": "Montederramo",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Gabín",
+  "nombre": "San Pedro de Gabín",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "29 junio"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Gabín celebra a su patrón San Pedro a finales de junio (en torno al 29 de junio), con una jornada festiva para todas las edades. Fiesta parroquial de tono familiar y rural.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/montederramo/",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-montederramo-207.html"
+  ],
+  "concello": "Montederramo",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Sas do Monte",
+  "nombre": "San Pedro de Sas do Monte",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "2024-06-29",
+   "recurrente": "29 junio"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Sas do Monte honra a San Pedro a finales de junio (29 de junio) con procesión y misa solemne. Celebración patronal de carácter local.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Procesión y misa solemne en honor a San Pedro.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-pedro-de-sas-do-monte-montederramo-538.html",
+   "https://www.galiciafiestas.es/ourense/montederramo/"
+  ],
+  "concello": "Montederramo",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Graña de Seoane",
+  "nombre": "San Víctor de A Graña de Seoane",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de A Graña de Seoane celebra a su patrón San Víctor con comida popular, competiciones y verbena. Es una fiesta parroquial de verano, aunque no se ha podido confirmar la fecha exacta.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida popular"
+  ],
+  "servicios": [
+   "Comida popular",
+   "Competiciones populares",
+   "Verbena nocturna"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos, comida popular, competiciones y verbena por la noche.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-victor-de-gra%C3%B1a-de-seoane-montederramo-541.html",
+   "https://montederramo.es/festas/?lang=es"
+  ],
+  "concello": "Montederramo",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "As Chás",
+  "nombre": "Festa parroquial de As Chás",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "As Chás cuenta con su propia fiesta patronal parroquial dentro del calendario festivo de Montederramo. No se ha encontrado información detallada ni fecha concreta en las fuentes consultadas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://montederramo.es/festas/?lang=es"
+  ],
+  "concello": "Montederramo",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Corrainzas",
+  "nombre": "Santa María Magdalena de Corrainzas",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "2024-07-27",
+   "recurrente": "22 julio"
+  },
+  "fundacion": null,
+  "historiaCorta": "El lugar de Corrainzas celebra a Santa María Magdalena en torno a su festividad del 22 de julio. Romería parroquial estival de carácter tradicional.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/montederramo/"
+  ],
+  "concello": "Montederramo",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Cosme",
+  "nombre": "San Cosme de Montederramo",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "27-28 septiembre",
+   "2025": "26-27 septiembre",
+   "recurrente": "26-27 septiembre"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Cosme de Montederramo celebra a sus patronos San Cosme (y San Damián) a finales de septiembre, con actos religiosos y actuaciones musicales. Cierra el calendario festivo del verano-otoño en la parroquia.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones musicales"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos (misa y procesión) y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-cosme-montederramo-15212.html",
+   "https://www.galiciafiestas.es/ourense/montederramo/"
+  ],
+  "concello": "Montederramo",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Santa Mariña de Parada do Sil",
+  "nombre": "Fiestas de San Ramón (San Ramón Nonato)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "23-31 de agosto de 2025 (día grande domingo 31)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las fiestas patronales de la villa de Parada de Sil se celebran a finales de agosto en honor a San Ramón Nonato. Combinan actos religiosos con varios días de verbenas, charangas y actividades para todas las edades, y son el gran evento del verano en el concello.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cena popular",
+   "Chocolatada"
+  ],
+  "servicios": [
+   "Acceso libre",
+   "Música en directo varios días (charanga, orquestas, DJ)",
+   "Colchonetas infantiles",
+   "Torneos deportivos y gincanas"
+  ],
+  "tradicion": "Programa de varios días con fiesta temática (edición 2025 con noche hawaiana), torneos de tute, bolos y subastado, gincanas y karaoke.",
+  "programa": "Edición 2025: jueves 28 fiesta temática hawaiana con DJ; viernes 29 cena popular y verbena con Grupo Euphoria; sábado 30 fiesta y verbena con Grupo La Noria y DJ; domingo 31 (día grande) alborada con Charanga BCB a las 9:00, procesión y misa solemne a las 12:00, vermú a las 13:00 y fiesta de tarde, todo con Charanga BCB.",
+  "fuentes": [
+   "https://www.elespanol.com/treintayseis/servicios/agenda/evento/fiestas-de-parada-de-sil-2025-programa-cartel-y-agenda-completa/59243",
+   "https://www.galiciafiestas.es/ourense/parada-de-sil/",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-parada-de-sil-215.html"
+  ],
+  "concello": "Parada de Sil",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Sacardebois (Mosteiro de Santa Cristina de Ribas de Sil)",
+  "nombre": "Romaría de San Bieito (San Benito), patrón de Europa",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "julio de 2023 (fecha en torno al 11 de julio)",
+   "2025": "13 de julio de 2025 (otras fuentes citan 11 de julio; 8 de julio en años previos)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Romería de gran arraigo que reúne a fieles y devotos en el entorno del monasterio prerrománico de Santa Cristina de Ribas de Sil, en plena Ribeira Sacra, para venerar a San Bieito (San Benito), patrón de Europa. Se celebra a mediados de julio con misa solemne y procesión.",
+  "historiaLarga": "El monasterio de Santa Cristina de Ribas de Sil, de origen prerrománico (data de en torno al siglo IX-XII), es uno de los grandes monumentos de la Ribeira Sacra y enmarca esta romería. La jornada arranca a media mañana con una misa solemne seguida de la procesión del santo alrededor del monasterio. Tras la ceremonia los asistentes se reúnen en la aldea de Castro, junto a la zona de camping, para continuar la fiesta con música y comida casera.",
+  "gastronomia": [
+   "Comida casera campestre",
+   "Productos locales de la zona"
+  ],
+  "servicios": [
+   "Acceso libre",
+   "Música tras la ceremonia",
+   "Zona de romería junto al camping de Castro"
+  ],
+  "tradicion": "Curiosidad distintiva de esta romería: la tradicional subasta de gallos (poxa de galos) que se celebra en todas las ediciones. El enclave, dentro de la Ribeira Sacra, es de gran interés turístico.",
+  "programa": "Misa solemne a media mañana, procesión del santo alrededor del monasterio, y posterior romería con música y comida casera en la aldea de Castro; subasta tradicional de gallos.",
+  "fuentes": [
+   "https://www.laregion.es/articulo/trives/romaria-honra-san-bieito-patron-europa-parada-sil/202307071739311232057.html",
+   "https://turismo.ribeirasacra.org/romeria-de-san-benito",
+   "https://www.galiciafiestas.es/ourense/parada-de-sil/"
+  ],
+  "concello": "Parada de Sil",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Santa Mariña de Parada do Sil",
+  "nombre": "Festa de San Xoán (na Nave da Castaña)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "22 de junio de 2024"
+  },
+  "fundacion": "1ª edición en 2024 (\"Primera Fiesta de San Xoán na Nave da Castaña\")",
+  "historiaCorta": "Fiesta de reciente creación en torno al solsticio de verano: la primera edición se celebró en junio de 2024 en la Nave da Castaña de Parada de Sil. Recupera la noche de San Xoán como cita festiva local.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre"
+  ],
+  "tradicion": "Celebración del solsticio de verano (noche de San Xoán) en la Nave da Castaña del concello.",
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/parada-de-sil/"
+  ],
+  "concello": "Parada de Sil",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Caxide",
+  "nombre": "Fiestas de Caxide",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Caxide figura como parroquia con fiestas propias en los directorios festivos, pero no se ha localizado información pública sobre fecha, patrón ni programa. Zona rural de poca documentación en internet.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.orquestasdegalicia.es/fiestas/ourense/caxide-parada-de-sil"
+  ],
+  "concello": "Parada de Sil",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Teixeira",
+  "nombre": "Festas patronais de Santa Catuxa (recelebración de verán)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "primeiro domingo de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "Santa Catuxa (Santa Catarina) es la patrona de A Teixeira y su día grande oficial cae el 25 de noviembre, pero el pueblo lo celebra también en verano, el primer domingo de agosto, cuando hay gente en la aldea. Es la fiesta mayor de la capital del concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "La fiesta gira en torno a los actos litúrgicos en honor a la patrona, con un programa paralelo de charanga, alborada y verbena de cierre a cargo de orquesta contratada por la comisión de fiestas.",
+  "programa": "Misa y procesión en honor a Santa Catuxa, charanga, sesión vermú y verbena nocturna.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/teixeira-a/",
+   "http://visita-teixeira.blogspot.com/p/cultura-e-ocio.html"
+  ],
+  "concello": "A Teixeira",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Abeleda",
+  "nombre": "Festas de Santa María (Nosa Señora da Asunción)",
+  "fecha2026": "2026-08-14",
+  "fechaFin2026": "2026-08-15",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2017": "13-15 de agosto",
+   "2023": "14-15 de agosto",
+   "recurrente": "14-15 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Abeleda celebra sus fiestas grandes en honor a Santa María, coincidiendo con la Asunción, los días 14 y 15 de agosto. Es una de las romerías de verano más arraigadas del concello, con un programa lleno de música y tradición para juntar a vecinos y visitantes.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Romería patronal del corazón del verano teixeirés, muy vinculada al regreso de emigrantes y veraneantes a la aldea.",
+  "programa": "Misa solemne y procesión de Nosa Señora da Asunción, alborada, sesión vermú y verbena con orquesta.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/santa-maria-de-abeleda-a-teixeira-14381.html",
+   "https://www.galiciafiestas.es/ourense/teixeira-a/"
+  ],
+  "concello": "A Teixeira",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Lumeares",
+  "nombre": "Festa de San Antón",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "terceira semana de xuño"
+  },
+  "fundacion": null,
+  "historiaCorta": "Lumeares celebra a San Antón en la tercera semana de junio, una de las primeras romerías de verano del concello. Fiesta parroquial de raíz devocional con verbena de cierre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Fiesta religiosa centrada en los actos litúrgicos a San Antón, con programa de música popular.",
+  "programa": "Misa y procesión a San Antón, charanga y verbena.",
+  "fuentes": [
+   "http://visita-teixeira.blogspot.com/p/cultura-e-ocio.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-teixeira-238.html"
+  ],
+  "concello": "A Teixeira",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Cristosende",
+  "nombre": "Festa de San Miguel",
+  "fecha2026": "2026-09-29",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "29 de setembro"
+  },
+  "fundacion": null,
+  "historiaCorta": "Cristosende honra a su patrón San Miguel el 29 de septiembre, cerrando el ciclo festivo del concello al final del verano. Cristosende destaca además por su mirador sobre los cañones del Sil, uno de los grandes atractivos turísticos de la Ribeira Sacra.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Patronal de San Miguel; la parroquia es conocida por su mirador panorámico sobre la Ribeira Sacra.",
+  "programa": "Misa y procesión de San Miguel, con sesión vermú y verbena.",
+  "fuentes": [
+   "http://visita-teixeira.blogspot.com/p/cultura-e-ocio.html",
+   "https://www.paxinasgalegas.es/fiestas/mirador-de-cristosende-a-teixeira-32740.html"
+  ],
+  "concello": "A Teixeira",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Teixeira",
+  "nombre": "Festa Furancheira de O Viso",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "25 de xullo (I edición)"
+  },
+  "fundacion": "2025 (I edición)",
+  "historiaCorta": "Fiesta gastronómica reciente del lugar de O Viso: en su primera edición (25 de julio de 2025) arrancó a las 19:00 con cata de vino de la zona y tapas caseras a precios populares. Una furancheira al aire libre para poner en valor el vino de la Ribeira Sacra del concello.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Vino de la zona (Ribeira Sacra)",
+   "Tapas caseras a precios populares"
+  ],
+  "servicios": [
+   "Inicio a las 19:00 h",
+   "Tapas y vino a precios populares"
+  ],
+  "tradicion": "Recupera el espíritu de las furanchos/furancheiras, locales donde se vendía el excedente de vino de cosecha propia con comida casera.",
+  "programa": "Cata de vino y degustación de tapas caseras a partir de las 19:00 h en O Viso.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-furancheira-a-teixeira-47232.html",
+   "https://www.galiciafiestas.es/ourense/teixeira-a/"
+  ],
+  "concello": "A Teixeira",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Teixeira",
+  "nombre": "Festa da Sardiña de O Viso",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "21 de xuño"
+  },
+  "fundacion": null,
+  "historiaCorta": "Sardiñada popular en el lugar de O Viso, celebrada en torno al solsticio de verano (en 2024 fue el 21 de junio). Degustación de sardina asada para abrir la temporada estival en el concello.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardina asada"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/teixeira-a/"
+  ],
+  "concello": "A Teixeira",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Teixeira",
+  "nombre": "Sons da Teixeira",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2022": "agosto (II edición, días 6, 12 e 17-18)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Ciclo de música de verano del concello (en 2022 celebró su II edición a lo largo de varias fechas de agosto). Lleva conciertos y actividades culturales a las aldeas en pleno mes festivo.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Conciertos y actuaciones musicales repartidos en varias jornadas de agosto.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/teixeira-a/"
+  ],
+  "concello": "A Teixeira",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Teixeira",
+  "nombre": "Festa do Viño Novo",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2022": "19 de novembro",
+   "2023": "25 de novembro",
+   "2025": "22 de novembro (XXIV ed.)"
+  },
+  "fundacion": "Ronda la XXIV edición en 2025",
+  "historiaCorta": "Es la fiesta gastronómica más conocida de A Teixeira, aunque cae en otoño (noviembre), no en verano. Celebra el vino nuevo de la Ribeira Sacra con aforo limitado y reserva previa; la incluyo como referencia por ser la cita grande del concello.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Vino nuevo de la Ribeira Sacra",
+   "Empanada",
+   "Chorizo",
+   "Pulpo á feira",
+   "Castañas asadas"
+  ],
+  "servicios": [
+   "Aforo limitado",
+   "Necesaria reserva previa",
+   "Mesas comunales",
+   "Casa do Concello da Teixeira"
+  ],
+  "tradicion": "Los vecinos se juntan a degustar los caldos del año, con bandas de folk, música y baile hasta la noche.",
+  "programa": "Degustación de vino nuevo con gastronomía local en mesas comunales, amenizada con música folk y baile.",
+  "fuentes": [
+   "https://www.depourense.gal/es/axenda/xxiv-festa-do-vino-novo-da-teixeira",
+   "https://festigaleiros.com/event/fiesta-del-vino-nuevo-a-teixeira/",
+   "https://www.paxinasgalegas.es/fiestas/festa-do-vi%C3%B1o-novo-a-teixeira-2017.html"
+  ],
+  "concello": "A Teixeira",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Pobra de Trives",
+  "nombre": "Festa da Bica",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "27-28 de julio (51ª edición)",
+   "2025": "26-27 de julio (52ª edición)"
+  },
+  "fundacion": "1972 (52ª edición en 2025)",
+  "historiaCorta": "La gran fiesta gastronómica de Trives, declarada de Interés Turístico de Galicia. Se celebra de forma ininterrumpida desde 1972, siempre el último fin de semana de julio, en torno a la bica, el dulce que identifica a toda la comarca.",
+  "historiaLarga": "Nació en 1972 y no ha faltado ni un año, lo que la convierte en una de las citas gastronómicas más veteranas de Ourense. En 2025 llegó a su 52ª edición. Está reconocida como Fiesta de Interés Turístico de Galicia y gira en torno a la bica de Trives, un bizcocho tradicional de harina, huevo, azúcar y manteca que se ha convertido en el emblema gastronómico y en parte de la identidad de la comarca de Terra de Trives, dentro de la Ribeira Sacra. Reúne cada verano a vecinos y visitantes en torno a este producto, elaborado de forma artesanal por panaderías y vecinos de la zona. La organiza el Concello da Pobra de Trives con apoyo de la Xunta e Inorde.",
+  "gastronomia": [
+   "Bica de Trives (postre estrella)",
+   "Salpicón",
+   "Costilla asada",
+   "Pan, bebida y café incluidos en el menú"
+  ],
+  "servicios": [
+   "Comida popular en la Praza do Reloxo",
+   "Menú 2025: 25 euros adultos, 15 euros mayores de 65, 10 euros menores de 12",
+   "Mostra Terra da Bica con artesanía y exposiciones",
+   "Actuaciones musicales para todos los públicos"
+  ],
+  "tradicion": "Fiesta de Interés Turístico de Galicia. La bica es el símbolo gastronómico de Trives; la jornada gira en torno a su degustación y a la Mostra Terra da Bica.",
+  "programa": "Mostra Terra da Bica con artesanía y exposiciones, degustación de bica artesanal, comida popular en la Praza do Reloxo (salpicón, costilla asada y bica de postre) y actuaciones musicales a lo largo del fin de semana.",
+  "fuentes": [
+   "https://www.laregion.es/eventos/52-edicion-festa-da-bica_21_20250725-3931592.html",
+   "https://ribeirasacraxa.com/es/news/trives-celebrara-su-52a-festa-da-bica-con-una-completa-agenda-cultural-y-gastronomica/102031/",
+   "https://www.guiarepsol.com/es/fichas/fiesta/fiesta-de-la-bica-14685/",
+   "https://www.cultura.gal/es/evento/93593/550/116683"
+  ],
+  "concello": "A Pobra de Trives",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Pobra de Trives",
+  "nombre": "San Lourenzo (fiestas patronales)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Las fiestas patronales más importantes de la villa de A Pobra de Trives, dedicadas a San Lourenzo en agosto. Son tres días de celebración con actos religiosos en honor al patrón, música tradicional y verbenas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Tres días de fiesta",
+   "Verbenas nocturnas",
+   "Música tradicional y bailes populares"
+  ],
+  "tradicion": "Fiestas grandes de la villa; combinan los actos religiosos al patrón con el programa festivo de música y baile.",
+  "programa": "Actos religiosos en honor a San Lourenzo, procesión, música tradicional, bailes populares y verbenas durante tres jornadas.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/pobra-de-trives-a/",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-pobra-de-trives-220.html"
+  ],
+  "concello": "A Pobra de Trives",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Pobra de Trives",
+  "nombre": "San Bartolomeu",
+  "fecha2026": "2026-08-24",
+  "fechaFin2026": null,
+  "fechaConfianza": "confirmada-web",
+  "fechasPrevias": {
+   "2025": "25 de agosto (festivo local)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Festividad religiosa de gran afluencia en la villa, en honor a San Bartolomeu. El 24 de agosto es festivo local en A Pobra de Trives para 2026, con misa en su honor y animación musical.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Festivo local del concello"
+  ],
+  "tradicion": "Una de las festividades religiosas de mayor afluencia del municipio.",
+  "programa": "Misa en honor a San Bartolomeu y animación musical.",
+  "fuentes": [
+   "https://www.cope.es/emisoras/galicia/noticias/calendario-laboral-galicia-son-festivos-nacionales-autonomicos-locales-2026-20251030_3242439.html",
+   "https://www.paxinasgalegas.es/fiestas/san-bartolomeu-a-pobra-de-trives-1730.html"
+  ],
+  "concello": "A Pobra de Trives",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Pobra de Trives",
+  "nombre": "Santo Cristo da Misericordia e A Dolorosa",
+  "fecha2026": "2026-09-14",
+  "fechaFin2026": "2026-09-20",
+  "fechaConfianza": "confirmada-web",
+  "fechasPrevias": {
+   "2024": "del 14 al fin de semana siguiente (septiembre)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de la villa en honor al Santo Cristo da Misericordia y A Dolorosa. Comienzan el 14 de septiembre (festivo local en 2026) con O Cristo y se cierran con A Dolorosa el domingo siguiente al patrón.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "14 de septiembre festivo local",
+   "Verbenas nocturnas que se alargan de madrugada"
+  ],
+  "tradicion": "Las fiestas comienzan con O Cristo el 14 de septiembre y concluyen con A Dolorosa, que siempre cae en el domingo siguiente al día del patrón.",
+  "programa": "Actos religiosos por la mañana y celebraciones de tarde-noche, con verbenas que se prolongan hasta la madrugada; arrancan con O Cristo (14 de septiembre) y rematan con A Dolorosa el domingo siguiente.",
+  "fuentes": [
+   "https://www.cope.es/emisoras/galicia/noticias/calendario-laboral-galicia-son-festivos-nacionales-autonomicos-locales-2026-20251030_3242439.html",
+   "https://www.laregion.es/articulo/trives/triveses-listos-jornadas-fiesta/202409051021201324578.html",
+   "https://www.paxinasgalegas.es/fiestas/santo-cristo-da-misericordia-e-a-dolorosa-a-pobra-de-trives-2692.html"
+  ],
+  "concello": "A Pobra de Trives",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Pobra de Trives",
+  "nombre": "San Mamede",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Festividad de verano que se celebra en torno al 7 de agosto en el concello de A Pobra de Trives.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/pobra-de-trives-a/"
+  ],
+  "concello": "A Pobra de Trives",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Pareisás",
+  "nombre": "San Vitorio",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Festividad religiosa en honor a San Vitorio que se celebra en la parroquia de Pareisás, en el concello de A Pobra de Trives. Fiesta de aldea con la misa y la procesión como ejes.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/pobra-de-trives-a/",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-pobra-de-trives-220.html"
+  ],
+  "concello": "A Pobra de Trives",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Piñeiro",
+  "nombre": "San Sebastián (con cea/cocido popular)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Festividad de San Sebastián en la parroquia de Piñeiro, que incluye una cena/cocido popular para los vecinos. Fiesta de aldea con marcado carácter gastronómico y comunitario.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cocido popular / cea popular"
+  ],
+  "servicios": [
+   "Cena/cocido popular para vecinos y visitantes"
+  ],
+  "tradicion": "El cocido o cena popular es el momento central que reúne a la parroquia.",
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/pobra-de-trives-a/"
+  ],
+  "concello": "A Pobra de Trives",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Cova",
+  "nombre": "Santa María (fiesta parroquial)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Cova figura como parroquia del concello con advocación a Santa María, pero no se ha localizado información detallada ni fecha concreta de su fiesta de verano. Zona rural con poca información publicada.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/pobra-de-trives-a/",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-pobra-de-trives-220.html"
+  ],
+  "concello": "A Pobra de Trives",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Sobrado de Trives",
+  "nombre": "Feira Medieval de Sobrado",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "XI edición (Feira Medieval)"
+  },
+  "fundacion": "XI edición en 2024",
+  "historiaCorta": "Feira Medieval que se celebra en Sobrado de Trives, con varias ediciones a sus espaldas (XI edición en 2024). Recrea el ambiente medieval con puestos de artesanía y animación.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Mercado y puestos de artesanía",
+   "Animación y recreación medieval"
+  ],
+  "tradicion": "Recreación medieval consolidada en la parroquia, con puestos de artesanía y actividades de ambientación.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/entroido-e-cocido-de-sobrado-a-pobra-de-trives-36010.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-pobra-de-trives-220.html"
+  ],
+  "concello": "A Pobra de Trives",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Lourenzo",
+  "nombre": "San Lourenzo (parroquia)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La parroquia de San Lourenzo comparte titular con el patrón de la villa, San Lourenzo, festividad de agosto. Su fiesta de aldea se enmarca en torno al 10 de agosto, día de San Lorenzo.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/pobra-de-trives-a/",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-pobra-de-trives-220.html"
+  ],
+  "concello": "A Pobra de Trives",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Petín",
+  "nombre": "Festas de Santiago Apóstol e Santa Ana",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "24-26 de julio (festivo local)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Son las fiestas patronales de la villa de Petín, en honor a Santiago Apóstol y a Santa Ana, y el plato fuerte del verano en el concello. Se celebran en torno al 25 de julio y los días 24 al 26 figuran como festivo local en Petín.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Patronal de la villa; concentra el mayor ambiente festivo del verano en el casco de Petín.",
+  "programa": "Programa habitual de patronal: actos religiosos en honor a Santiago Apóstol y Santa Ana, verbenas con orquestas y atracciones infantiles a lo largo de varios días.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/pet%C3%ADn/",
+   "https://www.paxinasgalegas.es/fiestas/santiago-apostol-y-santa-ana-petin-1681.html"
+  ],
+  "concello": "Petín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Portomourisco",
+  "nombre": "Festas de San Vitorio (A Portela)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "25-29 de agosto",
+   "2025": "fin de julio (San Víctor en Portomourisco, c. 27-28 de julio según otra fuente)"
+  },
+  "fundacion": null,
+  "historiaCorta": "El barrio de A Portela, en la parroquia de Portomourisco, celebra sus fiestas patronales en honor a San Vitorio, organizadas por la Asociación A Rabiosa. Son varias jornadas de finales de verano con cena popular, pasacalles, misa, procesión y orquestas.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cena popular con entradas previas (sábado)"
+  ],
+  "servicios": [],
+  "tradicion": "Fiesta vecinal mantenida por la Asociación A Rabiosa; mezcla los actos religiosos (misa solemne y procesión) con varios días de verbena.",
+  "programa": "Programa de la edición de 2023: viernes, actividades infantiles con colchonetas, fiesta de la espuma y DJ; sábado, cena popular y música con la discomóvil Apolo; domingo, pasacalles con el grupo Abertal, misa solemne y procesión, por la tarde campeonato de tute (17:00 h) y verbena con la orquesta Royal Espectáculo y DJ Poti; lunes, baile con la orquesta Saudade; martes, cierre con la discomóvil Apolo.",
+  "fuentes": [
+   "https://www.somoscomarca.es/articulo/petin/portela-petin-celebra-fiestas-patronales-honor/20230823190826157748.html",
+   "https://www.galiciafiestas.es/ourense/pet%C3%ADn/"
+  ],
+  "concello": "Petín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Petín",
+  "nombre": "Ruta das Adegas",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "26 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "Ruta gastronómica de finales de verano por las bodegas del concello de Petín, en plena zona vitivinícola de Valdeorras. Se cata vino acompañado de distintos aperitivos en las adegas locales.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cata de vino de Valdeorras en las bodegas locales",
+   "Aperitivos variados acompañando el vino"
+  ],
+  "servicios": [],
+  "tradicion": "Aprovecha la cultura del vino de Valdeorras (Petín está en esta denominación) para abrir las adegas del concello al público.",
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/pet%C3%ADn/"
+  ],
+  "concello": "Petín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Xoán de Cabanas",
+  "nombre": "Festas de San Xoán de Cabanas",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "San Xoán de Cabanas es una de las parroquias del concello de Petín. No se ha localizado en las fuentes consultadas información concreta sobre una fiesta de verano propia (fecha, programa ni gastronomía); por el nombre de la parroquia cabría esperar celebración en torno a San Xoán (24 de junio), pero no se ha podido confirmar.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-petin-218.html",
+   "https://www.galiciafiestas.es/ourense/pet%C3%ADn/"
+  ],
+  "concello": "Petín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Mones",
+  "nombre": "Festas de Mones",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {
+   "2025": "octubre (fuera de temporada de verano)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Mones, parroquia de Petín, celebra sus fiestas, pero según las fuentes consultadas tienen lugar en octubre, fuera del periodo estival; no se incluye programa detallado por quedar fuera del verano.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-de-mones-petin-48154.html"
+  ],
+  "concello": "Petín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Rúa de Valdeorras",
+  "nombre": "Festas do Verán / Verán na Rúa",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "Es la gran cita festiva del verano rúan, una de las agendas de ocio más potentes de toda la comarca de Valdeorras. Concentra conciertos, orquestas, teatro y espectáculos a comienzos de agosto, repartidos entre el centro de la villa y la zona recreativa de O Aguillón.",
+  "historiaLarga": "Bajo el paraguas de 'Verán na Rúa', el concello programa en agosto un calendario que fusiona música, vino, deporte y cultura. La actividad se distribuye en dos escenarios: el casco urbano (con la plaza de la Estación como epicentro) y el área recreativa de O Aguillón. En ediciones recientes han pasado tributos a los Rolling Stones, propuestas como La Misión y conciertos de orquestas, sumando una de las ofertas de ocio más dinámicas del valle.",
+  "gastronomia": [],
+  "servicios": [
+   "Conciertos y orquestas",
+   "Doble escenario: casco urbano y O Aguillón",
+   "Actividades deportivas y culturales"
+  ],
+  "tradicion": "Es la programación de verano de referencia de la villa, articulada en torno a la plaza de la Estación y O Aguillón.",
+  "programa": "Conciertos, orquestas, teatro, espectáculos, actividades deportivas y vino repartidos a lo largo de agosto.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-do-veran-a-rua-581.html",
+   "https://arua.es/es/fiestas/",
+   "https://www.laregion.es/articulo/valdeorras/rua-fusionara-musica-vino-deporte-agosto/202407271000021313921.html",
+   "https://www.valdeorrasdecerca.com/gran-verano-en-a-rua-vuelve-la-mision-habra-tributo-a-los-rolling-stone-y-mucha-musica/"
+  ],
+  "concello": "A Rúa",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Rúa de Valdeorras",
+  "nombre": "BacoFesta",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "8-10 agosto"
+  },
+  "fundacion": "2014 (X edición en 2025)",
+  "historiaCorta": "Feria romano-gastronómica que rinde homenaje a Baco, dios del vino, y a la huella romana que dejó su impronta en el valle de Valdeorras. Nacida en 2014, reúne a las bodegas de la D.O. Valdeorras con puestos de artesanía y gastronomía en la zona de O Aguillón.",
+  "historiaLarga": "La BacoFesta es una de las citas más originales del verano rúan: una fiesta romano-gastronómica que celebra el vino de Valdeorras y el pasado romano del valle. La edición de 2025 (la décima) reunió a 10 bodegas, 9 de la D.O. Valdeorras y una de la Ribeira Sacra. La fiesta arranca con un acto muy fotografiado en la Ponte da Cigarrosa, donde las autoridades de A Rúa y Petín, vestidas de romanos, protagonizan un encuentro tradicional, seguido de un pregón (en 2025 a cargo del actor y presentador Fran Nogueira).",
+  "gastronomia": [
+   "Vinos de la D.O. Valdeorras (catas y degustaciones)",
+   "Vino de la D.O. Ribeira Sacra",
+   "Puestos de gastronomía y food trucks"
+  ],
+  "servicios": [
+   "Recinto ferial en O Aguillón",
+   "Apertura a partir de las 20:30 h",
+   "Conciertos nocturnos",
+   "Espectáculos de magia y food trucks"
+  ],
+  "tradicion": "Desfile y encuentro de autoridades vestidas de romanos en la Ponte da Cigarrosa entre A Rúa y Petín; homenaje a la pegada romana del valle.",
+  "programa": "Encuentro romano en la Ponte da Cigarrosa y pregón inaugural; durante el fin de semana el recinto abre a las 20:30 h con conciertos (en 2025 Smoking Stones y Noite Guigurra), magia, food trucks y catas de las bodegas.",
+  "fuentes": [
+   "https://www.laregion.es/a-rua/bacofesta-reto-calor-honrando-dios_1_20250809-3945910.html",
+   "https://www.somoscomarca.es/articulo/arua/galeria-bacofesta-2025/20250809015804201433.html",
+   "https://festigaleiros.com/event/bacofesta/",
+   "https://arua.es/es/fiestas/"
+  ],
+  "concello": "A Rúa",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Rúa de Valdeorras",
+  "nombre": "San Xoán (paella popular)",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "La noche de San Xoán se celebra en A Rúa con una gran paella popular en el campo de San Roque. Es una cita vecinal de la noche más mágica del año, en torno a la hoguera y la comida compartida.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Gran paella popular"
+  ],
+  "servicios": [
+   "Campo de San Roque",
+   "Hoguera de San Xoán"
+  ],
+  "tradicion": "Hogueras y paella comunitaria en la noche de San Xoán (víspera del 24 de junio).",
+  "programa": "Hoguera y paella popular en el campo de San Roque la noche del 23 de junio.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-rua-230.html",
+   "https://arua.es/es/fiestas/"
+  ],
+  "concello": "A Rúa",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Rúa de Valdeorras",
+  "nombre": "San Roque",
+  "fecha2026": "2026-08-16",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "13-19 agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Roque es una de las fiestas patronales de la villa de A Rúa, celebrada a mediados de agosto en torno al campo y la zona de San Roque. Coincide con el periodo álgido de las fiestas de verano.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Patrón muy arraigado; su campo acoge además la paella de San Xoán y otros actos veraniegos.",
+  "programa": "Actos religiosos y verbena en torno al 16 de agosto, dentro del calendario de fiestas de verano.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-roque-a-rua-5867.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-rua-230.html"
+  ],
+  "concello": "A Rúa",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Rúa de Valdeorras",
+  "nombre": "San Lourenzo",
+  "fecha2026": "2026-08-10",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "10 agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Lourenzo figura entre las fiestas patronales del concello de A Rúa, celebrada el 10 de agosto. Forma parte del intenso calendario festivo de verano de la villa.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://arua.es/es/fiestas/",
+   "https://www.paxinasgalegas.es/fiestas/descubre-galicia/descubre-a-rua-230tay.html"
+  ],
+  "concello": "A Rúa",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Fontei",
+  "nombre": "San Antón de Fontei",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal en honor a San Antón en el barrio/parroquia de Fontei. Aunque San Antón se vincula tradicionalmente a enero, en A Rúa se cita también como cita veraniega; la fecha concreta de verano no está confirmada.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Patrón de Fontei, con actos religiosos y verbena vecinal.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/descubre-galicia/descubre-a-rua-230tay.html",
+   "https://arua.es/es/fiestas/"
+  ],
+  "concello": "A Rúa",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Vilela",
+  "nombre": "Virxe do Carme de Vilela",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "12-14 y 16 julio"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Vilela celebra a la Virxe do Carme en julio, junto a la festividad de San Blas, en una de las romerías más tradicionales del concello. Se celebra en torno al 12-16 de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Romería del Carmen en Vilela, con procesión y verbena; la parroquia también honra a San Blas.",
+  "programa": "Procesión de la Virxe do Carme y verbenas a mediados de julio.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/descubre-galicia/descubre-a-rua-230tay.html",
+   "https://arua.es/es/fiestas/",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-rua-230.html"
+  ],
+  "concello": "A Rúa",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Roblido",
+  "nombre": "San Xoán de Roblido",
+  "fecha2026": "2026-06-24",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Roblido es una de las parroquias del concello de A Rúa que tiene a San Xoán como advocación, celebrando su fiesta en torno al 24 de junio. Información concreta del programa es escasa, propia de núcleo rural.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Fiesta de San Xoán en la parroquia de Roblido.",
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/rua-de-pet%C3%ADn-a/",
+   "https://www.somoscomarca.es/articulo/arua/conoce-valdeorras-rua/20230813104324156768.html"
+  ],
+  "concello": "A Rúa",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Xulián",
+  "nombre": "San Xulián",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "San Xulián es una de las parroquias rurales del concello de A Rúa, con su propia fiesta patronal en honor al santo del mismo nombre. La información disponible es muy limitada, como suele ocurrir en los núcleos pequeños del valle.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.somoscomarca.es/articulo/arua/valdeorras-pueblo-pueblo-san-xulian-rua/20240324220427170584.html",
+   "https://www.paxinasgalegas.es/fiestas/descubre-galicia/descubre-a-rua-230tay.html"
+  ],
+  "concello": "A Rúa",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Quereño",
+  "nombre": "Viñotapeo de Quereño",
+  "fechaConfianza": "confirmada-web",
+  "fecha2026": "2026-05-23",
+  "fechaFin2026": "2026-05-24",
+  "fechasPrevias": {
+   "2024": null,
+   "2025": null
+  },
+  "fundacion": "X edición en 2026 (recurrente, finales de mayo / primeros de junio)",
+  "historiaCorta": "El Viñotapeo es la cita gastronómica que pone a Quereño en el mapa de Valdeorras: los vecinos abren las puertas de sus casas y bodegas improvisadas para servir vino casero y una tapa distinta en cada barrio. Una fiesta de pueblo que en 2026 celebró su décima edición y reunió a cerca de 400 personas. Más primaveral que de pleno verano, pero imprescindible para entender la zona.",
+  "historiaLarga": "Nacido como una ruta de tapas vecinal, el Viñotapeo de Quereño (Rubiá) se ha convertido en uno de los eventos más animados de la primavera en la comarca de Valdeorras. La fórmula es sencilla y comunitaria: cada barrio monta una bodega improvisada donde se sirve vino casero y se elabora un aperitivo diferente. En la X edición (24 de mayo de 2026) participaron diez barrios -Barrio do Regueiro, A Currela, O Quintairo I y II, As Cortiñas, A Teixeira y A Estación I a IV- y acudió gente de A Rúa, O Barco, Petín, Rubiá, Puente de Domingo Flórez y Ponferrada.",
+  "gastronomia": [
+   "Vino casero de la zona",
+   "Chorizo y salchichón caseros",
+   "Carne con patatas",
+   "Sopas de ajo",
+   "Atún con pimientos",
+   "Empanada",
+   "Mejillones",
+   "Lomo a la plancha",
+   "Postres caseros y café en la sobremesa"
+  ],
+  "servicios": [
+   "Entrada 12 euros con pañuelo y taza de barro tradicional incluidos",
+   "Ruta a pie por diez barrios del pueblo",
+   "Charanga (Bembybrass) acompañando de barrio en barrio",
+   "Disco móvil en la pista local tras la ruta"
+  ],
+  "tradicion": "Cada barrio compite montando su bodega y su tapa; los vecinos abren sus casas y locales. La taza de barro y el pañuelo se han vuelto seña de identidad de la fiesta.",
+  "programa": "Ruta gastronómica de tapas y vino por los barrios amenizada por charanga, seguida de café y postres caseros en la pista, y verbena/disco móvil hasta avanzada la noche.",
+  "fuentes": [
+   "https://www.somoscomarca.es/articulo/rubia/quereno-vuelca-x-vinotapeo-reune-cerca-400-personas-entre-tapas-vino-musica/20260524053400218068.html",
+   "https://www.somoscomarca.es/articulo/rubia/quereno-rubia-convierte-vino-tapas-ganas-fiesta-cita-imprescindible-valdeorras/20260520163530217826.html",
+   "https://www.paxinasgalegas.es/fiestas/vi%C3%B1otapeo-quere%C3%B1o-rubia-32752.html"
+  ],
+  "concello": "Rubiá",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Rubiá",
+  "nombre": "San Bartolomeu",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2024": null,
+   "2025": "2025-08-25"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Bartolomeu es una de las dos fiestas grandes del concello de Rubiá, patronal de finales de agosto. Es festivo local (en 2025 cayó el 25 de agosto, en torno al día de San Bartolomé, 24 de agosto). Romería patronal de villa con verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Festivo local de Rubiá junto con A Ascensión; cierra el verano festivo del concello.",
+  "programa": "Programa patronal habitual: misa y procesión en honor a San Bartolomeu, sesión vermú y verbena con orquesta.",
+  "fuentes": [
+   "https://www.ourense.com/local/eventos/fiestas-de-rubia-2025-en-honor-a-la-ascension/",
+   "https://www.galiciafiestas.es/ourense/rubi%C3%A1/"
+  ],
+  "concello": "Rubiá",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Vilardesilva",
+  "nombre": "Festas do Padre Eterno (Padre Eterno)",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2024": null,
+   "2025": "2025-08-09"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las Grandes Fiestas del Padre Eterno son la cita grande del verano en Vilardesilva, en pleno agosto. En 2025 se celebraron del 9 al 11 de agosto, con actos religiosos, cenas populares y verbena. Fiesta de pueblo de tres días en honor al Padre Eterno.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cenas populares vecinales"
+  ],
+  "servicios": [
+   "Verbena con música en directo"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos en honor al Padre Eterno, cenas populares y amenización musical/verbena a lo largo de tres días.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/rubi%C3%A1/",
+   "https://www.orquestasdegalicia.es/lugar/ourense/vilardesilva-rubia"
+  ],
+  "concello": "Rubiá",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Oulego",
+  "nombre": "Festas do Carme (Virxe do Carme)",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2024": null,
+   "2025": null
+  },
+  "fundacion": null,
+  "historiaCorta": "Oulego celebra sus fiestas en honor a la Virgen del Carmen, en torno al 16 de julio, con actos religiosos y verbena. Es la fiesta de verano de la parroquia, de carácter popular y vecinal.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones musicales / verbena"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos en honor a la Virgen del Carmen y amenización musical con orquesta o verbena.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/rubi%C3%A1/",
+   "https://www.orquestasdegalicia.es/lugar/ourense/oulego-rubia"
+  ],
+  "concello": "Rubiá",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "O Porto",
+  "nombre": "Festas do Corpus",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2024": null,
+   "2025": null
+  },
+  "fundacion": null,
+  "historiaCorta": "En el lugar de O Porto (Rubiá) se celebran fiestas en honor al Corpus, en torno al mes de junio. Fiesta local de inicio del verano vinculada a la festividad del Corpus Christi.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Procesión del Corpus y celebración popular.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/rubi%C3%A1/"
+  ],
+  "concello": "Rubiá",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Biobra",
+  "nombre": "Festas de verán de Biobra",
+  "fechaConfianza": "no encontrada",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2024": null,
+   "2025": null
+  },
+  "fundacion": null,
+  "historiaCorta": "Biobra es una de las parroquias de Rubiá y celebra sus fiestas patronales en verano, aunque no se ha encontrado fecha ni programa concretos en las fuentes consultadas. Zona rural con poca información publicada en internet.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/rubi%C3%A1/",
+   "https://viajargalicia.com/ourense/rubia"
+  ],
+  "concello": "Rubiá",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Robledo da Lastra",
+  "nombre": "Festas en honor a Santo Toribio",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2024": null,
+   "2025": null
+  },
+  "fundacion": null,
+  "historiaCorta": "Robledo (da Lastra) celebra sus fiestas en honor a Santo Toribio. La referencia documentada las sitúa en torno a abril (fuera del verano), por lo que no consta una fiesta estival propia en las fuentes consultadas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/rubi%C3%A1/"
+  ],
+  "concello": "Rubiá",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Merca",
+  "nombre": "Festas do Espírito Santo (Festas de A Merca)",
+  "fecha2026": "2026-06-14",
+  "fechaFin2026": "2026-06-15",
+  "fechaConfianza": "confirmada-web",
+  "fechasPrevias": {
+   "2024": "2024-05-25"
+  },
+  "fundacion": null,
+  "historiaCorta": "Es la fiesta patronal de la villa de A Merca, en honor al Espírito Santo. Combina los actos religiosos en la capilla con una de las verbenas más animadas del concello. El 16 de junio figura como festivo local por esta celebración.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cena popular (cea popular)"
+  ],
+  "servicios": [
+   "Verbena gratuita",
+   "Hinchables y pintacaras para niños la tarde del sábado"
+  ],
+  "tradicion": "Acompañan la cena popular las pandereteiras As Ferreñas da Merca, grupo tradicional local.",
+  "programa": "Sábado 14: fiesta infantil a las 17:00 (hinchables, pintacaras), misa en la capilla y cena popular a las 21:00 con As Ferreñas da Merca; verbena con la orquesta Solara. Domingo 15: alborada a cargo de la Banda BCB, misa solemne a las 13:00, sesión vermú y verbena a las 20:00 con el grupo Fussion.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-a-merca-32561.html",
+   "https://www.galiciafiestas.es/ourense/merca-a/"
+  ],
+  "concello": "A Merca",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Parderrubias",
+  "nombre": "Corpus Christi de Parderrubias",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "2024-05-31",
+   "2025": "2025-06-20"
+  },
+  "fundacion": null,
+  "historiaCorta": "El Corpus de Parderrubias es una de las celebraciones con más raíces del concello, con tradición parroquial documentada desde el siglo XVII y varias cofradías históricas. La procesión la abre el estandarte de los Sagrados Corazones de Jesús y María, que sale el domingo siguiente al jueves de Corpus.",
+  "historiaLarga": "La parroquia de Parderrubias conserva una rica tradición religiosa documentada desde el siglo XVII, con varias cofradías que participaban en las grandes celebraciones. El estandarte de los Sagrados Corazones de Jesús y María abre la procesión del Corpus y también se porta en la fiesta de la Virgen del Rosario (primer domingo de octubre), lo que señala al Corpus como una de las observancias mayores del pueblo.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Procesión encabezada por el estandarte de los Sagrados Corazones. Móvil según el calendario litúrgico del Corpus (finales de mayo / junio).",
+  "programa": "Misa solemne, procesión por las calles y sesión vermú con música en vivo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/corpus-de-parderrubias-a-merca-15975.html",
+   "https://parderrubias.com/category/fiestas/",
+   "https://www.galiciafiestas.es/ourense/merca-a/"
+  ],
+  "concello": "A Merca",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Pereira de Montes",
+  "nombre": "Virxe do Carme de Pereira de Montes",
+  "fecha2026": "2026-07-18",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la Virxe do Carme en la parroquia de Pereira de Montes, celebrada en torno al 16 de julio. Es una de las romerías de verano del concello, con misa, procesión y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa, procesión y verbena nocturna, programa habitual de las fiestas del Carmen.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/virxe-do-carme-de-pereira-de-montes-a-merca-2896.html",
+   "https://www.orquestasdegalicia.es/fiestas/ourense/pereira-de-montes-a-merca"
+  ],
+  "concello": "A Merca",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Pedro da Mezquita",
+  "nombre": "Virxe do Carme de San Pedro da Mezquita",
+  "fecha2026": "2026-07-17",
+  "fechaFin2026": "2026-07-21",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la Virxe do Carme en San Pedro da Mezquita, que se prolonga varios días a mediados de julio. Combina actos religiosos con cenas populares y actuaciones musicales.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cenas populares (ceas populares)"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos en honor a la Virxe do Carme, cenas populares y actuaciones musicales / verbenas durante varios días.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/virxe-do-carme-de-san-pedro-da-mezquita-a-merca-16056.html"
+  ],
+  "concello": "A Merca",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Zarracós",
+  "nombre": "Virxe das Neves de Zarracós (Fiestas de las Nieves)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "2024-08-02",
+   "2025": "2025-07-31"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las Festas das Neves de Zarracós son la gran cita de agosto del concello, en honor a la Virxe das Neves (5 de agosto). Se extienden varios días con procesión, sesión vermú y verbenas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbenas"
+  ],
+  "tradicion": "Patrona Virxe das Neves, festividad del 5 de agosto. En 2024 se celebró del 2 al 5 de agosto y en 2025 arrancó el 31 de julio.",
+  "programa": "Misa solemne y procesión en honor a la Virxe das Neves, sesión vermú y verbenas nocturnas a lo largo de varios días.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/merca-a/",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-merca-205.html"
+  ],
+  "concello": "A Merca",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Vilar de Paio Muñiz",
+  "nombre": "Festas da Virxe de Vilar de Paio Muñiz",
+  "fecha2026": "2026-08-14",
+  "fechaFin2026": "2026-08-15",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas en honor a la Virgen en la parroquia de Vilar de Paio Muñiz, en torno al 14-15 de agosto. La parroquia conserva la iglesia de Santa María, recurso de interés patrimonial del concello.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cenas populares"
+  ],
+  "servicios": [],
+  "tradicion": "Vinculada a la iglesia de Santa María de Vilar de Paio Muñiz, templo histórico de la parroquia.",
+  "programa": "Actuaciones musicales y cenas populares en torno al 14-15 de agosto.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-de-vilar-de-paio-mu%C3%B1iz-a-merca-33348.html",
+   "https://www.turismo.gal/recurso/-/detalle/24043/igrexa-de-santa-maria-de-vilar-de-paio-muniz"
+  ],
+  "concello": "A Merca",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Merca",
+  "nombre": "Exaltación do Porco ao Espeto (Cerdo al espeto)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "2024-09-14",
+   "2025": "2025-09-13"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta gastronómica del concello centrada en el cerdo asado al espeto, que se celebra a mediados de septiembre en el Pabellón Municipal. Es la principal cita gastronómica de final de verano en A Merca.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cerdo asado al espeto (porco ao espeto)",
+   "Degustación gastronómica"
+  ],
+  "servicios": [
+   "Se celebra en el Pabellón Municipal de A Merca"
+  ],
+  "tradicion": "Exaltación del producto del cerdo, muy arraigado en la zona; degustación popular en septiembre.",
+  "programa": "Degustación de cerdo al espeto en el Pabellón Municipal, con ambiente festivo y música.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/merca-a/"
+  ],
+  "concello": "A Merca",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Pontedeva",
+  "nombre": "Festas de San Bartolomeu",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "2025-08-22 a 2025-08-24 (con prólogo el 19 de agosto)"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Bartolomeu es la gran fiesta patronal de la villa de Pontedeva, el plato fuerte del verano en el concello. Combina la parte religiosa con procesión, banda y coral con el ambiente festivo de churrasco, verbena y vermú, repartido a lo largo de un fin de semana de finales de agosto.",
+  "historiaLarga": "San Bartolomeu (San Bartolomé, 24 de agosto) es el patrón de la villa de Pontedeva y su fiesta grande de verano. La celebración se reparte en varios días: arranca con un primer traslado del santo desde la iglesia a la capilla acompañado por la Banda de Cartelle, sigue con jornadas de churrasco y verbena, y culmina el domingo con la misa solemne, la procesión, la actuación de la Banda de Cartelle y la Coral Pontedeva, y la tradicional sesión vermú. Es la fiesta que más programa concentra de todo el concello.",
+  "gastronomia": [
+   "Churrasco (gran churrascada popular)",
+   "Pulpo da pulpeira do Carballiño",
+   "Sesión vermú"
+  ],
+  "servicios": [
+   "Verbena nocturna gratuita en la plaza",
+   "Churrascada con entrada de pago (en 2025: 20 euros anticipada / 25 euros en taquilla)",
+   "Orquesta y discoteca móvil"
+  ],
+  "tradicion": "La parte religiosa la marcan la Banda de Música de Cartelle y la Coral Pontedeva, que acompañan procesión y misa solemne. El vermú con pulpeira del Carballiño y la churrascada popular son las señas gastronómicas de la fiesta.",
+  "programa": "Prólogo (en 2025, día 19): traslado del santo de la iglesia a la capilla con la Banda de Cartelle. Viernes: procesión sobre las 19:00 h, gran churrascada por la noche y verbena con trío y disco móvil. Sábado: verbena con orquesta y discoteca. Domingo: misa solemne en honor a San Bartolomeu al mediodía con la Banda de Cartelle y la Coral Pontedeva, procesión y sesión vermú con pulpeira do Carballiño.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-bartolome-pontedeva-565.html",
+   "https://www.galiciafiestas.es/ourense/pontedeva/"
+  ],
+  "concello": "Pontedeva",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Pontedeva",
+  "nombre": "Nosa Señora do Perpetuo Socorro",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la villa de Pontedeva en honor a la Virgen del Perpetuo Socorro, celebrada a finales de junio. Es una de las citas de verano del casco urbano del concello, con actos religiosos y musicales.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/pontedeva/"
+  ],
+  "concello": "Pontedeva",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Trado",
+  "nombre": "San Paio (San Pelayo) de Trado",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "28-29 de junio (festivo local de Pontedeva el 26 de junio por San Paio en 2026)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Los vecinos de la parroquia de Trado celebran a su patrón San Paio (San Pelayo) a finales de junio. Es la romería que abre el verano festivo del concello, con misa, procesión y verbena. San Paio figura como festivo local en Pontedeva.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "El día de San Paio es festivo local en Pontedeva, señal del arraigo de esta fiesta parroquial en el calendario del concello.",
+  "programa": "Programa habitual de romería rural: misa, procesión del santo y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-pelayo-de-trado-pontedeva-564.html",
+   "https://www.galiciafiestas.es/ourense/pontedeva/"
+  ],
+  "concello": "Pontedeva",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Freáns",
+  "nombre": "Santa María Magdalena de Freáns",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "21-22 de julio (festivo local de Pontedeva el 22 de julio, Santa Magdalena)"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Freáns celebra a Santa María Magdalena hacia el 22 de julio, día que es festivo local en Pontedeva. Es una romería de verano con misa, procesión y verbena, y la clásica sardiñada y churrasco al aire libre.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardiñada",
+   "Churrasco"
+  ],
+  "servicios": [
+   "Verbena con orquesta"
+  ],
+  "tradicion": "Santa Magdalena (22 de julio) es festivo local en Pontedeva, lo que confirma el peso de esta fiesta parroquial en el concello.",
+  "programa": "Misa, procesión y encuentro vecinal con sardinas y churrasco a la brasa, amenizado por orquestas y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/santa-maria-magdalena-de-freans-pontedeva-7024.html",
+   "https://www.galiciafiestas.es/ourense/pontedeva/"
+  ],
+  "concello": "Pontedeva",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Xinzo",
+  "nombre": "San Bartolomeu de Xinzo",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "23-24 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Xinzo celebra sus fiestas en torno a San Bartolomeu, a finales de agosto. Romería de verano con actos religiosos y musicales típicos del rural ourensano.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/pontedeva/"
+  ],
+  "concello": "Pontedeva",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Breixo",
+  "nombre": "San Breixo",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "finales de septiembre / principios de octubre"
+  },
+  "fundacion": null,
+  "historiaCorta": "La parroquia de San Breixo celebra a su patrón a caballo entre finales de septiembre y principios de octubre, cerrando el ciclo festivo del verano-otoño en el concello. Romería rural con misa, procesión y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/pontedeva/"
+  ],
+  "concello": "Pontedeva",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Pexeiroos (Os Blancos)",
+  "nombre": "Festas de Pexeiroos",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "15-17 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las Festas de Pexeiroos son la gran cita estival del concello de Os Blancos, en la aldea de Pexeiroos. Se celebran a mediados de agosto, en torno al 15, y reúnen durante tres días a vecinos y gente venida de fuera con actos religiosos y verbena.",
+  "historiaLarga": null,
+  "tradicion": "Fiesta popular de aldea muy arraigada, típica del rural ourensano de la comarca da Limia. En 2025 saltó a la prensa por el estado de deterioro de su camposanto, signo del envejecimiento y despoblación que afecta a estas pequeñas parroquias.",
+  "programa": "Programa habitual de fiesta de aldea: actos religiosos (misa) y verbena nocturna a lo largo del fin de semana.",
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-de-pexeiroos-os-blancos-47447.html",
+   "https://www.laregion.es/os-blancos/camposanto-da-aldea-pexeiroos-cae_1_20250807-3944096.html"
+  ],
+  "concello": "Os Blancos",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Cibrao de Nocedo (Nocedo de Ribeira)",
+  "nombre": "Festas de San Vitorio",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "agosto (sin día confirmado)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Nocedo de Ribeira honra a su patrón San Vitorio cada agosto con misa y procesión. Es la fiesta grande de esta parroquia de Os Blancos, con un fin de semana de celebraciones religiosas y festivas.",
+  "historiaLarga": null,
+  "tradicion": "Patronal de fuerte raigambre. En 2017 la aldea estrenó un nuevo cruceiro dedicado a San Vitorio, reflejo del apego de los vecinos a su devoción y a la conservación del patrimonio religioso local.",
+  "programa": "Misa solemne y procesión en honor a San Vitorio durante el fin de semana, acompañadas de verbena.",
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-vitorio-de-nocedo-de-ribeira-os-blancos-1740.html",
+   "https://www.laregion.es/sociedad/san-vitorio-nocedo-tiene-nuevo-cruceiro_1_20170828-2929452.html"
+  ],
+  "concello": "Os Blancos",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Santa María de Covelas / Guntín (Os Blancos)",
+  "nombre": "Festas de Covelas",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "principios de junio (3 días)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Los vecinos de Covelas celebran sus fiestas a comienzos de junio durante tres días. Combinan actos religiosos con actuaciones musicales y verbena, abriendo así el calendario festivo del verano en Os Blancos.",
+  "historiaLarga": null,
+  "tradicion": "Fiesta de carácter religioso vinculada a la iglesia de Santa María de Covelas, con el clásico esquema de romería rural gallega.",
+  "programa": "Tres días de fiesta con actos religiosos, sesiones de orquestas y bandas y verbena nocturna.",
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/iglesia-de-santa-maria-de-covelas-os-blancos-40674.html"
+  ],
+  "concello": "Os Blancos",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Os Blancos (núcleo)",
+  "nombre": "Festival Reina Loba",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "El Festival Reina Loba es la apuesta musical del verano en Os Blancos, celebrada en agosto. Reúne a artistas y grupos invitados con un programa complementario de actividades, dando un aire más moderno a las fiestas del concello.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": "Conciertos de artistas y grupos invitados más actividades complementarias.",
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-os-blancos-173.html"
+  ],
+  "concello": "Os Blancos",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Martiño de Aguís",
+  "nombre": "Festa patronal de San Martiño de Aguís",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "San Martiño de Aguís es una de las parroquias de Os Blancos. No se ha localizado información pública detallada sobre una fiesta de verano propia con fecha confirmada; su patronazgo de San Martiño se asocia tradicionalmente al 11 de noviembre, fuera del periodo estival.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": null,
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-os-blancos-173.html"
+  ],
+  "concello": "Os Blancos",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Vilar de Barrio",
+  "nombre": "Festas de San Fiz",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "2023-07-28 a 2023-08-01",
+   "2025": "2025-07-31 a 2025-08-03"
+  },
+  "fundacion": null,
+  "historiaCorta": "San Fiz es la fiesta patronal de la villa de Vilar de Barrio y la cita grande del verano en el concello. Se celebra a finales de julio y principios de agosto, repartida en cuatro o cinco días de actos religiosos, charanga y verbena.",
+  "historiaLarga": "Las fiestas de San Fiz son las patronales de la capital del concello. Combinan la parte devota (misa, pasacalles y procesión con banda) con un programa festivo amplio para todos los públicos, desde espectáculos infantiles hasta verbenas de madrugada. Es la referencia festiva del municipio en pleno verano.",
+  "gastronomia": [
+   "Sesiones de vermú tras la procesión"
+  ],
+  "servicios": [
+   "Verbena nocturna gratuita",
+   "Discomóbil de madrugada",
+   "Fiesta de la espuma"
+  ],
+  "tradicion": "Pasacalles, misa y procesión con la banda A Peniza; charanga Los Támega y pandereteiras animando las calles.",
+  "programa": "Programa habitual de varios días: actuación infantil de apertura, juegos populares, orquestas (Costa Dorada), tríos y charangas, discomóbil, fiesta de la espuma y los dos días grandes con pasacalles, misa, procesión y vermú. En 2023 fue del 28 de julio al 1 de agosto; en 2025 del 31 de julio al 3 de agosto.",
+  "fuentes": [
+   "https://www.ourense.com/local/eventos/programa-de-las-fiestas-de-vilar-de-barrio-2023-en-honor-a-san-fiz/",
+   "https://www.galiciafiestas.es/ourense/vilar-de-barrio/"
+  ],
+  "concello": "Vilar de Barrio",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Vilar de Barrio",
+  "nombre": "Festa da Pataca",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "octubre 2024 (XLV ed.)",
+   "2025": "2025-10-04 a 2025-10-05"
+  },
+  "fundacion": "1ª edición a finales de los años 70 (XLVI edición en 2025)",
+  "historiaCorta": "Es la gran cita gastronómica de Vilar de Barrio y una de las más destacadas de A Limia, dedicada a la patata, producto estrella de la comarca. En 2025 celebró su 46ª edición. Cae en octubre, fuera del verano, pero es la fiesta de referencia del concello.",
+  "historiaLarga": "La Festa da Pataca reivindica el cultivo de la patata, motor económico de la comarca de A Limia, uniendo gastronomía, cultura y futuro del agro. Llegó a su 46ª edición (XLVI) en 2025, lo que sitúa su origen a finales de los años 70. El programa incluye pregón (en 2025 a cargo de Begoña Vázquez, mejor cocinera gallega de 2024), demostraciones culinarias, conferencias sobre el cultivo y el sector forestal, y concursos de patata.",
+  "gastronomia": [
+   "Degustaciones de patata",
+   "Ternera gallega IGP",
+   "Miel",
+   "Cena popular de ovos fritidos con patacas e bolo preñado",
+   "Bolo preñado",
+   "Comida popular"
+  ],
+  "servicios": [
+   "Recintos: plaza do Toural, Pabellón Municipal, xardíns do Toural e Sala Manuel Gómez Portela",
+   "Concierto Pataca Rock"
+  ],
+  "tradicion": "Concursos a la patata de mayor peso y a la composición más original; desfile 'O rural e a pataca'. Productos con Indicación Geográfica Protegida.",
+  "programa": "Dos jornadas (sábado y domingo): apertura con música tradicional y actividades infantiles, pregón, demostraciones y degustaciones, conferencias, cena popular y concierto el sábado; exposición y desfile, acto institucional, comida popular y entrega de premios el domingo.",
+  "fuentes": [
+   "https://www.laregion.es/provincia/vilar-barrio-celebra-xlvi-festa_1_20250929-3996711.html",
+   "https://www.diariodolimia.gal/articulo/vilar-de-barrio/vilar-barrio-celebra-sua-festa-da-pataca-programa-que-une-gastronomia-cultura-futuro-do-agro/20250929114702040656.html"
+  ],
+  "concello": "Vilar de Barrio",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Bóveda",
+  "nombre": "Festas de San Antón",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "2025-06-13 a 2025-06-15"
+  },
+  "fundacion": null,
+  "historiaCorta": "Bóveda (de Limia) celebra sus fiestas de San Antón en torno a mediados de junio, con misas, procesión y actuaciones musicales. El 13 de junio es además festivo local en el concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbena con actuaciones musicales"
+  ],
+  "tradicion": "El 13 de junio figura como festivo local de Vilar de Barrio.",
+  "programa": "Actos religiosos (misa y procesión) y verbena con orquestas a lo largo del fin de semana.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/vilar-de-barrio/"
+  ],
+  "concello": "Vilar de Barrio",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Rebordechao",
+  "nombre": "Festas de Rebordechao",
+  "fecha2026": "2026-08-29",
+  "fechaFin2026": null,
+  "fechaConfianza": "confirmada-web",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Rebordechao, conocida aldea-museo etnográfico de Vilar de Barrio, celebra su fiesta a finales de agosto con verbena. Para 2026 hay actuación confirmada del trío Luces de Bohemia el sábado 29 de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbena con trío Luces de Bohemia (tarde y noche)"
+  ],
+  "tradicion": "Rebordechao es una aldea con fuerte valor etnográfico; de aquí parten andainas (rutas de senderismo) con xantar tradicional gallego.",
+  "programa": "Verbena con actuación de orquesta/trío en sesiones de tarde y noche.",
+  "fuentes": [
+   "https://www.orquestasdegalicia.es/fiestas/ourense/rebordechao-vilar-de-barrio"
+  ],
+  "concello": "Vilar de Barrio",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Padreda",
+  "nombre": "Festas de San Antonio",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Padreda celebra la festividad de San Antonio con actos religiosos y actuaciones musicales. Es una fiesta parroquial pequeña, de las de raíz rural.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vilar-de-barrio-247.html"
+  ],
+  "concello": "Vilar de Barrio",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Prado",
+  "nombre": "Festa parroquial de Prado",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Prado es una de las parroquias de Vilar de Barrio. No se ha localizado información fiable en internet sobre su fiesta de verano (fecha, patrón o programa); probablemente sea una celebración parroquial pequeña sin difusión online.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [],
+  "concello": "Vilar de Barrio",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Bobadela",
+  "nombre": "Festa de Bobadela (sin datos fiables)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "No se ha encontrado información fiable de una fiesta de verano en una parroquia Bobadela dentro de Vilar de Barrio. Las referencias halladas (Festas da Bobadela en redes, Nossa Senhora dos Remédios) apuntan a la Bobadela portuguesa, por lo que no se confirma su pertenencia al concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [],
+  "concello": "Vilar de Barrio",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Maus (Maus de Salas / Maus)",
+  "nombre": "Festas de San Pedro",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "2023-06-29 a 2023-07-01",
+   "2025": "2025-06-27 a 2025-06-29"
+  },
+  "fundacion": null,
+  "historiaCorta": "El lugar de Maus celebra San Pedro a finales de junio, en torno al 29 de junio, con actos religiosos y verbena. Es una de las romerías de inicio del verano en el concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbena con orquestas"
+  ],
+  "tradicion": null,
+  "programa": "Misa, procesión y actuaciones musicales durante varios días alrededor de San Pedro (29 de junio).",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/vilar-de-barrio/"
+  ],
+  "concello": "Vilar de Barrio",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Borrán",
+  "nombre": "Festas de Santiago Apóstolo e Santa Ana",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "24-27 de julio"
+  },
+  "fundacion": null,
+  "historiaCorta": "Borrán honra a Santiago Apóstol y a Santa Ana a finales de julio, en torno al 25-26. Combina procesiones, grupos de música y comida popular.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida/xantar popular"
+  ],
+  "servicios": [
+   "Verbena con orquestas"
+  ],
+  "tradicion": null,
+  "programa": "Procesiones, actuaciones de grupos musicales y comidas populares durante el fin de semana del 24 al 27 de julio.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/vilar-de-barrio/"
+  ],
+  "concello": "Vilar de Barrio",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Arnuide",
+  "nombre": "Festas de San Lorenzo",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "2023-08-10 a 2023-08-13",
+   "2025": "2025-08-02 a 2025-08-10"
+  },
+  "fundacion": null,
+  "historiaCorta": "Arnuide celebra San Lorenzo en agosto a lo largo de varios días festivos, con actos religiosos y orquestas. De Arnuide parten también andainas con xantar tradicional gallego.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Xantar tradicional gallego en las andainas: empanada, pimientos, pulpo, churrasco"
+  ],
+  "servicios": [
+   "Verbena con orquestas",
+   "Andainas (rutas de senderismo) con comida"
+  ],
+  "tradicion": "Rutas de senderismo (andainas) que parten de Arnuide y Rebordechao con menú tradicional gallego.",
+  "programa": "Cuatro o más días de fiesta con actos religiosos y actuaciones de orquesta.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/vilar-de-barrio/"
+  ],
+  "concello": "Vilar de Barrio",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Vilar de Barrio (Serra de San Mamede)",
+  "nombre": "Festa da Serra de San Mamede",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "agosto 2023",
+   "2024": "2024-07-28",
+   "2025": "2025-07-27 a 2025-07-28"
+  },
+  "fundacion": null,
+  "historiaCorta": "Romería de montaña en la Serra de San Mamede, a finales de julio, con un popular xantar al aire libre. Reúne a vecinos y senderistas en el entorno natural de la sierra.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Xantar popular al aire libre"
+  ],
+  "servicios": [
+   "Comida popular en la sierra"
+  ],
+  "tradicion": "Romería en plena naturaleza en la Serra de San Mamede, espacio natural protegido.",
+  "programa": "Jornada de romería con xantar popular y convivencia en la sierra.",
+  "fuentes": [
+   "https://www.laregion.es/articulo/a-limia/xantar-popular-festa-da-serra-san-mamede/202308031250141236973.html",
+   "https://www.galiciafiestas.es/ourense/vilar-de-barrio/"
+  ],
+  "concello": "Vilar de Barrio",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Seiro",
+  "nombre": "Festas de San Salvador",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2018": "2018-08-04 a 2018-08-05"
+  },
+  "fundacion": null,
+  "historiaCorta": "Seiro celebra San Salvador a principios de agosto. Es una fiesta parroquial pequeña con actos religiosos y verbena; los únicos datos online son de ediciones antiguas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/vilar-de-barrio/"
+  ],
+  "concello": "Vilar de Barrio",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Vilar de Santos",
+  "nombre": "Festas da Virxe das Neves",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "2-5 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "La gran fiesta patronal de Vilar de Santos, en honor a la Virxe das Neves, que se celebra siempre en torno al 5 de agosto (festivo local). Son cuatro días de fiesta que llenan la plaza del Concello en este pequeño municipio de la comarca de A Limia, de menos de mil habitantes.",
+  "historiaLarga": "La Virxe das Neves (Virgen de las Nieves) es la patrona de Vilar de Santos y su fiesta es la cita grande del verano en este concello de la comarca de A Limia (Ourense). El día fuerte es el 5 de agosto, festivo local, pero la celebración se extiende durante cuatro días con un programa que combina lo religioso (misa y procesión de la imagen) con lo lúdico y lo gastronómico. Es una fiesta muy de pueblo, vecinal, en la que toda la parroquia se vuelca y la plaza del Concello se convierte en el corazón de la celebración.",
+  "gastronomia": [
+   "Cena vecinal con sorteo",
+   "Tortillada popular en la plaza",
+   "Sesión vermú (dos jornadas)"
+  ],
+  "servicios": [
+   "Entrada gratuita",
+   "Verbenas con orquesta hasta la madrugada",
+   "Discomóvil",
+   "Fiesta infantil con hinchables y talleres",
+   "Actividades para todas las edades"
+  ],
+  "tradicion": "El chupinazo en la plaza del Concello marca el arranque de la fiesta. Destacan las alboradas matutinas con charanga (Charanga de Bande, Charanga Achicoria) recorriendo el pueblo, y la procesión de la Virxe das Neves el día 5.",
+  "programa": "Programa habitual (referencia 2024): Viernes - risoterapia, fútbol sala, chupinazo nocturno en la plaza del Concello y discomóvil de madrugada. Sábado - fiesta infantil con hinchables y talleres, actuación de café, cena vecinal con sorteo y verbena posterior. Domingo - alborada de charanga, misa a mediodía, sesión vermú, actividades infantiles, tortillada en la plaza y verbena con orquesta (Furia Joven). Lunes 5 (día grande) - alborada con charanga, misa y procesión, sesión vermú.",
+  "fuentes": [
+   "https://www.laregion.es/a-limia/dias-fiesta-virxe-das-neves-vilar-santos_1_20240802-3282130.html",
+   "https://www.ayuntamiento.es/vilar-de-santos/"
+  ],
+  "concello": "Vilar de Santos",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Parada de Outeiro",
+  "nombre": "Romaría do San Bieito Preto",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {
+   "2024": "Domingo de Resurrección (fin de marzo / abril, fiesta de primavera, fuera de la ventana de verano)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Romería en honor a San Bieito Preto en la parroquia de Santa María de Parada de Outeiro, una de las celebraciones más consolidadas del concello de Vilar de Santos. Se celebra en torno al Domingo de Resurrección (primavera), no en verano, pero es referencia festiva de la zona.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cea popular (cena popular)"
+  ],
+  "servicios": [
+   "Verbena con orquesta",
+   "Charanga"
+  ],
+  "tradicion": "El día grande incluye misa y procesión de la imagen de San Bieito Preto por las calles del pueblo, acompañada por charanga (Charanga de Trives). Parada de Outeiro conserva pazos del siglo XVIII y fue asentamiento de una importante villa romana.",
+  "programa": "Actos religiosos (misa y procesión con charanga), música popular y cena vecinal con verbena de orquesta.",
+  "fuentes": [
+   "https://www.dendealimia.com/texto-diario/mostrar/5831960/concello-vilar-santos-celebra-parada-outeiro-romaria-san-bieito-preto-cun-completo-programa-festivo",
+   "https://www.ayuntamiento.es/vilar-de-santos/"
+  ],
+  "concello": "Vilar de Santos",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Vilar de Santos",
+  "nombre": "Festa de San Xoán",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "San Xoán es el titular de la iglesia parroquial de Vilar de Santos, un templo románico del siglo XII trasladado piedra a piedra en los años 60 desde la antigua aldea de Saa. No se ha localizado un programa de fiesta de verano específico en torno a San Juan (24 de junio).",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "La iglesia de San Xoán es una joya del románico (siglo XII), célebre por haber sido desmontada y reconstruida piedra a piedra al trasladarse desde la aldea de Saa a su emplazamiento actual en los años 60.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/iglesia-de-san-xoan-de-vilar-de-santos-35579.html"
+  ],
+  "concello": "Vilar de Santos",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Aldea de Saa",
+  "nombre": "Aldea de Saa (sin fiesta de verano localizada)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Aldea de Saa fue la antigua capital del concello de Vilar de Santos hasta 1969, cuando entró en declive y quedó prácticamente despoblada. No se ha localizado ninguna fiesta de verano activa en este núcleo.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "De Saa procede la iglesia románica de San Xoán, que fue trasladada piedra a piedra hasta Vilar de Santos. La aldea conserva arquitectura tradicional pero está prácticamente abandonada.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/aldea-de-saa-vilar-de-santos-35584.html"
+  ],
+  "concello": "Vilar de Santos",
+  "provincia": "Ourense"
+ }
+]

@@ -783,6 +783,334 @@
   "provincia": "Ourense"
  },
  {
+  "parroquia": "Melías (Ventosela)",
+  "nombre": "Romería de San Mamede",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2023": "5-6 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "Romería del lugar de Ventosela, en la parroquia de Melías, a comienzos de agosto. Une devoción a San Mamede con una buena degustación gastronómica. Es de las primeras citas del mes festivo melienense.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Festa do Pulpo e da Carne Cocida (sábado por la noche)"
+  ],
+  "servicios": [
+   "sesión de DJ tras la cena",
+   "sesión vermú el domingo"
+  ],
+  "tradicion": "Torneo de subastado (juego de cartas) como complemento de la romería.",
+  "programa": "Sábado: Festa do Pulpo y de la Carne Cocida con DJ. Domingo: misa solemne (13:00), vermú y actuación del trío Vaivén.",
+  "fuentes": [
+   "https://www.laregion.es/articulo/ourense/santa-maria-melias-agosto-actividades-verano/202308031246041236970.html"
+  ],
+  "concello": "O Pereiro de Aguiar",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Loñoá",
+  "nombre": "Festa Etnográfica de Loñoá",
+  "fechaConfianza": "confirmada-web",
+  "fecha2026": "2026-07-12",
+  "fechaFin2026": "2026-07-12",
+  "fechasPrevias": {
+   "2024": "V edición (julio 2024)"
+  },
+  "fundacion": "VII edición en 2026 (la I edición se celebró hacia 2018-2019)",
+  "historiaCorta": "Loñoá se convierte cada julio en escenario de su Festa Etnográfica, una jornada para poner en valor el legado cultural de la zona. Música, baile, oficios tradicionales, gastronomía y juegos populares en un mismo día. En 2026 alcanza su séptima edición, el domingo 12 de julio.",
+  "historiaLarga": "La Festa Etnográfica de Loñoá nació para reivindicar el patrimonio cultural y las costumbres del rural de O Pereiro de Aguiar. Está organizada por el Concello de Pereiro de Aguiar en colaboración con la Diputación de Ourense. En su VII edición (2026) se celebra el domingo 12 de julio. El programa habitual combina actuaciones musicales, baile, exhibiciones de oficios y artesanía tradicional, puestos de gastronomía y artesanía, actividades infantiles, juegos populares y sorteos. Loñoá mantiene además una feria mensual el primer domingo de cada mes con productos típicos de la tierra.",
+  "gastronomia": [
+   "puestos de gastronomía con productos típicos de la tierra",
+   "pulpo",
+   "carne ao caldeiro / carne asada",
+   "repostería y dulces locales"
+  ],
+  "servicios": [
+   "evento gratuito de carácter cultural",
+   "puestos de artesanía",
+   "actividades infantiles",
+   "sorteos"
+  ],
+  "tradicion": "Exhibiciones de oficios y artesanía tradicional, juegos populares y demostración de la cultura rural gallega. Interés turístico por su carácter etnográfico.",
+  "programa": "Actuaciones musicales, baile tradicional, exhibición de oficios, puestos de gastronomía y artesanía, actividades infantiles, juegos populares y sorteos a lo largo de la jornada.",
+  "fuentes": [
+   "https://pereiro.gal/12-07-festa-etnogrfica-looa-2026/",
+   "https://www.laregion.es/sociedad/pereiro-aguiar-presenta-v-festa-etnografica-que-tendra-musica-juegos-comida-sorteos_1_20240724-3280510.html",
+   "https://pereiro.gal/inscribete-como-artesa-na-vii-festa-etnografica/"
+  ],
+  "concello": "O Pereiro de Aguiar",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "O Pereiro de Aguiar (Zona Monterrei)",
+  "nombre": "Ruxido Fest",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "sábado 13 de junio (Zona Monterrei)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Festival musical organizado por el Concello en la Zona Monterrei, en colaboración con la Diputación de Ourense, Festivalya y Leitmotiv. Abre la temporada de eventos de verano a mediados de junio. Música en vivo en el complejo deportivo.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "ubicación en la Zona Monterrei / complejo deportivo"
+  ],
+  "tradicion": null,
+  "programa": "Festival de música en directo.",
+  "fuentes": [
+   "https://pereiro.gal/ruxido-fest-sabado-13-de-xuno/"
+  ],
+  "concello": "O Pereiro de Aguiar",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Covas (San Cibrao / San Ciprián de Covas)",
+  "nombre": "Fiesta de San Ciprián",
+  "fechaConfianza": "no encontrada",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Covas celebra a su patrón San Ciprián con actos religiosos y actuaciones musicales. Fiesta de parroquia con escasa información publicada. Tradicionalmente la festividad de San Cipriano cae a mediados de septiembre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa, procesión y verbena con orquesta.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-pereiro-de-aguiar-216.html"
+  ],
+  "concello": "O Pereiro de Aguiar",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Taboadela",
+  "nombre": "Semana Cultural de Taboadela",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "verano"
+  },
+  "fundacion": null,
+  "historiaCorta": "La Semana Cultural de Taboadela es una cita laica de verano impulsada por el concello, con varias ediciones celebradas. Combina mercado artesanal en la Praza do Concello y una comida popular amenizada con música.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida popular (xantar popular)"
+  ],
+  "servicios": [
+   "Mercado artesanal en la Praza do Concello",
+   "Animación musical"
+  ],
+  "tradicion": "Semana de actividades culturales del concello, alternativa moderna a las romerías religiosas.",
+  "programa": "Mercado de artesanía en la Praza do Concello y comida popular con animación musical, entre otras actividades culturales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/semana-cultural-taboadela-17603.html"
+  ],
+  "concello": "Taboadela",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Santa Mariña de Parada do Sil",
+  "nombre": "Festa de San Xoán (na Nave da Castaña)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "22 de junio de 2024"
+  },
+  "fundacion": "1ª edición en 2024 (\"Primera Fiesta de San Xoán na Nave da Castaña\")",
+  "historiaCorta": "Fiesta de reciente creación en torno al solsticio de verano: la primera edición se celebró en junio de 2024 en la Nave da Castaña de Parada de Sil. Recupera la noche de San Xoán como cita festiva local.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre"
+  ],
+  "tradicion": "Celebración del solsticio de verano (noche de San Xoán) en la Nave da Castaña del concello.",
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/parada-de-sil/"
+  ],
+  "concello": "Parada de Sil",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Teixeira",
+  "nombre": "Sons da Teixeira",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2022": "agosto (II edición, días 6, 12 e 17-18)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Ciclo de música de verano del concello (en 2022 celebró su II edición a lo largo de varias fechas de agosto). Lleva conciertos y actividades culturales a las aldeas en pleno mes festivo.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Conciertos y actuaciones musicales repartidos en varias jornadas de agosto.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/teixeira-a/"
+  ],
+  "concello": "A Teixeira",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Teixeira",
+  "nombre": "Festa do Viño Novo",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2022": "19 de novembro",
+   "2023": "25 de novembro",
+   "2025": "22 de novembro (XXIV ed.)"
+  },
+  "fundacion": "Ronda la XXIV edición en 2025",
+  "historiaCorta": "Es la fiesta gastronómica más conocida de A Teixeira, aunque cae en otoño (noviembre), no en verano. Celebra el vino nuevo de la Ribeira Sacra con aforo limitado y reserva previa; la incluyo como referencia por ser la cita grande del concello.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Vino nuevo de la Ribeira Sacra",
+   "Empanada",
+   "Chorizo",
+   "Pulpo á feira",
+   "Castañas asadas"
+  ],
+  "servicios": [
+   "Aforo limitado",
+   "Necesaria reserva previa",
+   "Mesas comunales",
+   "Casa do Concello da Teixeira"
+  ],
+  "tradicion": "Los vecinos se juntan a degustar los caldos del año, con bandas de folk, música y baile hasta la noche.",
+  "programa": "Degustación de vino nuevo con gastronomía local en mesas comunales, amenizada con música folk y baile.",
+  "fuentes": [
+   "https://www.depourense.gal/es/axenda/xxiv-festa-do-vino-novo-da-teixeira",
+   "https://festigaleiros.com/event/fiesta-del-vino-nuevo-a-teixeira/",
+   "https://www.paxinasgalegas.es/fiestas/festa-do-vi%C3%B1o-novo-a-teixeira-2017.html"
+  ],
+  "concello": "A Teixeira",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Xoán de Cabanas",
+  "nombre": "Festas de San Xoán de Cabanas",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "San Xoán de Cabanas es una de las parroquias del concello de Petín. No se ha localizado en las fuentes consultadas información concreta sobre una fiesta de verano propia (fecha, programa ni gastronomía); por el nombre de la parroquia cabría esperar celebración en torno a San Xoán (24 de junio), pero no se ha podido confirmar.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-petin-218.html",
+   "https://www.galiciafiestas.es/ourense/pet%C3%ADn/"
+  ],
+  "concello": "Petín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Mones",
+  "nombre": "Festas de Mones",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {
+   "2025": "octubre (fuera de temporada de verano)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Mones, parroquia de Petín, celebra sus fiestas, pero según las fuentes consultadas tienen lugar en octubre, fuera del periodo estival; no se incluye programa detallado por quedar fuera del verano.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-de-mones-petin-48154.html"
+  ],
+  "concello": "Petín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "O Porto",
+  "nombre": "Festas do Corpus",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2024": null,
+   "2025": null
+  },
+  "fundacion": null,
+  "historiaCorta": "En el lugar de O Porto (Rubiá) se celebran fiestas en honor al Corpus, en torno al mes de junio. Fiesta local de inicio del verano vinculada a la festividad del Corpus Christi.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Procesión del Corpus y celebración popular.",
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/rubi%C3%A1/"
+  ],
+  "concello": "Rubiá",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Bobadela",
+  "nombre": "Festa de Bobadela (sin datos fiables)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "No se ha encontrado información fiable de una fiesta de verano en una parroquia Bobadela dentro de Vilar de Barrio. Las referencias halladas (Festas da Bobadela en redes, Nossa Senhora dos Remédios) apuntan a la Bobadela portuguesa, por lo que no se confirma su pertenencia al concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [],
+  "concello": "Vilar de Barrio",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Vilar de Barrio (Serra de San Mamede)",
+  "nombre": "Festa da Serra de San Mamede",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2023": "agosto 2023",
+   "2024": "2024-07-28",
+   "2025": "2025-07-27 a 2025-07-28"
+  },
+  "fundacion": null,
+  "historiaCorta": "Romería de montaña en la Serra de San Mamede, a finales de julio, con un popular xantar al aire libre. Reúne a vecinos y senderistas en el entorno natural de la sierra.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Xantar popular al aire libre"
+  ],
+  "servicios": [
+   "Comida popular en la sierra"
+  ],
+  "tradicion": "Romería en plena naturaleza en la Serra de San Mamede, espacio natural protegido.",
+  "programa": "Jornada de romería con xantar popular y convivencia en la sierra.",
+  "fuentes": [
+   "https://www.laregion.es/articulo/a-limia/xantar-popular-festa-da-serra-san-mamede/202308031250141236973.html",
+   "https://www.galiciafiestas.es/ourense/vilar-de-barrio/"
+  ],
+  "concello": "Vilar de Barrio",
+  "provincia": "Ourense"
+ },
+ {
   "parroquia": "Laxe",
   "nombre": "Foliada Maruxia",
   "fecha2026": "2026-09-06",
