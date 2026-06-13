@@ -228,6 +228,635 @@
   "provincia": "Ourense"
  },
  {
+  "parroquia": "Laxe",
+  "nombre": "Foliada Maruxia",
+  "fecha2026": "2026-09-06",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "principios de septiembre (6 de septiembre)"
+  },
+  "fundacion": null,
+  "numEdicion": "II edición",
+  "historiaCorta": "Encuentro de música folk gallega en Laxe, con música tradicional, sorteos, comida y convivencia. Un evento joven que recupera la foliada como fiesta vecinal.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida popular"
+  ],
+  "servicios": [
+   "Música folk en directo",
+   "Sorteos"
+  ],
+  "tradicion": "Recuperación de la foliada tradicional gallega.",
+  "programa": "Música folk en directo, sorteos, comida y convivencia.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-laxe-42.html"
+  ],
+  "concello": "Laxe",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Pontenafonso",
+  "nombre": "Festa do Bolo Preñado",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2019": "2019-08-09",
+   "2023": "2023-08-18",
+   "2024": "2024-08-30",
+   "fechaRecurrente": "viernes de comienzos de agosto"
+  },
+  "fundacion": "Edición XIII celebrada hacia 2024; primeras ediciones documentadas desde ~2011",
+  "historiaCorta": "Fiesta gastronómica nocturna en el paseo marítimo de Pontenafonso dedicada al bolo preñado, el pan relleno tradicional gallego. Degustación a precios populares amenizada con orquestas y música tradicional.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Bolo preñado (pan relleno tradicional gallego) a precios populares"
+  ],
+  "servicios": [
+   "Inicio a las 21:00 h en el Paseo Marítimo de Pontenafonso",
+   "Degustación a precios populares",
+   "Verbena con orquestas"
+  ],
+  "tradicion": "El bolo preñado es un pan relleno típico de Galicia; la fiesta reivindica este producto local con degustación popular y verbena al aire libre junto a la ría.",
+  "programa": "Degustación de bolo preñado desde las 21:00 h con verbena: en 2023 actuaron Pablo Balseiro & The Verbenean Orquestra, @s Jaitas Blue y Disco Gymare; en 2024 @s Jaitas Blue, Tito Maverick, Rexon, Disco Gymare y Boomërs.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-do-bolo-pre%C3%B1ado-outes-16100.html"
+  ],
+  "concello": "Outes",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Pontenafonso",
+  "nombre": "Nosa Señora e San Antón de Pontenafonso",
+  "fecha2026": "2026-09-08",
+  "fechaFin2026": "2026-09-12",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "fechaRecurrente": "8-12 de septiembre"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiestas de Pontenafonso en honor a Nosa Señora y San Antón, a comienzos de septiembre, con actos religiosos y lúdicos durante varios días.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbenas con orquestas",
+   "Acceso libre"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos y lúdicos repartidos en varios días.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-outes-63.html"
+  ],
+  "concello": "Outes",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Foz",
+  "nombre": "Festa Normanda",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "2025": "2025-08-27 a 2025-08-30 (XIII edición)"
+  },
+  "fundacion": "2011",
+  "historiaCorta": "Recreación histórica que convierte Foz en un poblado del siglo X durante varios días de finales de agosto. Conmemora un desembarco vikingo fallido en la costa focense y la figura del obispo San Gonzalo de San Martiño de Mondoñedo, que según la leyenda hundió la flota normanda con una tempestad.",
+  "historiaLarga": "Nacida en 2011, la Festa Normanda recrea el frustrado desembarco vikingo (normando) que asoló las costas gallegas en el siglo X. El eje es la leyenda del obispo San Gonzalo de San Martiño de Mondoñedo: ya anciano, condujo a la gente a tierras altas y, según la tradición, el cielo se nubló y una fuerte tempestad fue hundiendo una a una las naves vikingas. En su honor se levantó la capilla de San Gonzalo en el Alto da Grela, hoy lugar de romería anual. Durante la fiesta Foz se transforma en un campamento vikingo con mercado, combates medievales (espada, escudo, hacha), tiro con arco, talleres, charlas sobre la historia vikinga en Galicia y conciertos de música medieval.",
+  "gastronomia": [
+   "Cena normanda de cocho ó espeto",
+   "Carne guisada del mercado",
+   "Cerveza vikinga"
+  ],
+  "servicios": [
+   "Mercado normando en el Paseo da Ribeira (apertura 19:00)",
+   "Actividades infantiles (pintacaras, tatuajes de henna, desembarco infantil con armas inofensivas, fiesta de la espuma)",
+   "Entrada libre al mercado y recreaciones"
+  ],
+  "tradicion": "Recreación histórica del desembarco vikingo en el puerto de Foz y de la leyenda de San Gonzalo. El gran ataque vikingo se escenifica el sábado en la playa.",
+  "programa": "Pregón de apertura; mercado medieval; representación teatral de la leyenda de San Gonzalo (viernes); combates medievales y tiro con arco; charlas y música medieval; gran desembarco/ataque vikingo el sábado en la playa; desembarco infantil y fiesta de la espuma.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-normanda-foz-7961.html",
+   "https://blog.mundo-r.com/es/festa-normanda-foz/",
+   "https://www.festivalesdeespana.com/festival/festa-normanda-de-foz-foz"
+  ],
+  "concello": "Foz",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Foz",
+  "nombre": "Festa da Paella",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "finales de septiembre (III edición en torno al 26-27 sep)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Cita gastronómica popular en Foz que cierra el verano a finales de septiembre, con degustación de paella. Va por sus primeras ediciones (III edición en el calendario reciente).",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Paella popular"
+  ],
+  "servicios": [
+   "Degustación popular"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-foz-115.html"
+  ],
+  "concello": "Foz",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Foz",
+  "nombre": "Festival Aires do Masma",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "19 de julio (XXXIV edición), Praza Conde Fontao"
+  },
+  "fundacion": null,
+  "historiaCorta": "Festival de folclore con larga trayectoria (más de 30 ediciones) en la Praza Conde Fontao de Foz, en julio. Muestra de música y baile tradicional gallego.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre en la Praza Conde Fontao"
+  ],
+  "tradicion": "Festival de folclore consolidado, más de tres décadas de historia.",
+  "programa": "Actuaciones de grupos de folclore y baile tradicional.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-foz-115.html"
+  ],
+  "concello": "Foz",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "San Mamede de Mañente",
+  "nombre": "Sardiñada de Mañente",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechasPrevias": {
+   "recurrente": "23 de junio (noche de San Xoán)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Sardiñada popular en San Mamede de Mañente en la noche de San Xoán. Hoguera, sardinas a la brasa y fiesta vecinal.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardiñada (sardinas a la brasa)"
+  ],
+  "servicios": [
+   "Hoguera de San Xoán"
+  ],
+  "tradicion": "Cacharela y sardiñada del solsticio de verano.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-foz-115.html"
+  ],
+  "concello": "Foz",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Vilaeimil",
+  "nombre": "San Miguel de Vilaeimil",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-09-26",
+  "fechaFin2026": "2026-09-28",
+  "fechasPrevias": {
+   "2026": "26-28 septiembre"
+  },
+  "fundacion": null,
+  "historiaCorta": "Patronal de la parroquia de Vilaeimil en honor a San Miguel, a finales de septiembre, cerrando el calendario de fiestas de verano del concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbena"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-pontenova-141.html"
+  ],
+  "concello": "A Pontenova",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Castro de Rei",
+  "nombre": "Luameiga - Festival rural",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "24 de junio"
+  },
+  "fundacion": null,
+  "historiaCorta": "Festival rural que combina arte, música y gastronomía local, celebrado en el Teleclube de Castro de Rei en torno al 24 de junio. Una propuesta diferente a la romería clásica, con vocación cultural.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Gastronomía local"
+  ],
+  "servicios": [
+   "Música en directo",
+   "Propuestas de arte"
+  ],
+  "tradicion": "Festival rural que mezcla arte, música y gastronomía, fuera del formato tradicional de romería patronal.",
+  "programa": "Arte, música y gastronomía local.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-castro-de-rei-106.html"
+  ],
+  "concello": "Castro de Rei",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Castro de Rei (Aeródromo de Rozas)",
+  "nombre": "XVII Criterium Aeronáutico",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "25-27 de julio (XVII edición)"
+  },
+  "fundacion": "XVII edición en referencia",
+  "historiaCorta": "Festival aeronáutico en el Aeródromo de Rozas con aviones acrobáticos, saltos en paracaídas y exposiciones de drones. Cita veraniega de finales de julio con fuerte tirón turístico, distinta de las romerías parroquiales.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Exhibiciones aéreas",
+   "Exposiciones de drones"
+  ],
+  "tradicion": "Evento de aviación acrobática poco habitual en el interior de Lugo; gran reclamo turístico.",
+  "programa": "Aviones acrobáticos, saltos en paracaídas y exposiciones de drones.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-castro-de-rei-106.html"
+  ],
+  "concello": "Castro de Rei",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Val de Francos",
+  "nombre": "Raid Hípico Val de Francos",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "2 de agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "Prueba de raid hípico (resistencia a caballo) en Val de Francos a principios de agosto, con tres recorridos de 80, 60 y 40 kilómetros. Un atractivo deportivo dentro del verano festivo del concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Competición de raid hípico (80, 60 y 40 km)"
+  ],
+  "tradicion": null,
+  "programa": "Tres carreras a caballo de 80, 60 y 40 kilómetros.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-castro-de-rei-106.html"
+  ],
+  "concello": "Castro de Rei",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Os 21 do Camiño (Palas de Rei)",
+  "nombre": "Os 21 do Camiño - Media Maratón",
+  "fecha2026": "2026-06-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Media maratón popular que transcurre por trazados del Camino de Santiago a su paso por Palas de Rei. Cita deportiva de junio que llena la villa de corredores.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Carrera sobre la distancia de 21 km vinculada al Camino Francés.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/os-21-do-cami%C3%B1o-media-maraton-palas-de-rei-15933.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-palas-de-rei-133.html"
+  ],
+  "concello": "Palas de Rei",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Cuíña",
+  "nombre": "Sagrado Corazón de Jesús de Cuíña",
+  "fecha2026": "2026-06-14",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Fiesta del Sagrado Corazón de Jesús en la parroquia de Cuíña, a mediados de junio. Celebración religiosa rural de la comarca de A Ulloa.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-palas-de-rei-133.html"
+  ],
+  "concello": "Palas de Rei",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Palas de Rei",
+  "nombre": "XXXII Feira do Cabalo",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": "Edición XXXII",
+  "historiaCorta": "Feria del Caballo de Palas de Rei, ya en su trigésimo segunda edición, a comienzos de agosto. Cita de tradición equina y ganadera muy arraigada en la comarca.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Feria equina histórica del concello, con exhibición y compraventa de caballos.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-palas-de-rei-133.html"
+  ],
+  "concello": "Palas de Rei",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "O Saviñao",
+  "nombre": "IV Festa da Vendima",
+  "fecha2026": "2026-09-06",
+  "fechaFin2026": "2026-09-07",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2022": "septiembre (I edición, primera de la comarca)"
+  },
+  "fundacion": "I edición en 2022 (primera de la comarca)",
+  "historiaCorta": "Fiesta dedicada al vino de la Ribeira Sacra, con catas y actuaciones musicales, a comienzos de septiembre. O Saviñao fue pionero al organizar la primera Festa da Vendima de la comarca en 2022.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Catas de vino de la Ribeira Sacra",
+   "Degustaciones"
+  ],
+  "servicios": [
+   "Catas",
+   "Actuaciones musicales"
+  ],
+  "tradicion": "Celebra la cultura vitivinícola de la Ribeira Sacra; fue la primera fiesta de la vendimia de la comarca (2022).",
+  "programa": "Catas de vino, degustaciones y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-savi%c3%b1ao-151.html",
+   "https://www.elprogreso.es/articulo/ribeira-sacra/savinao-celebrara-primera-festa-da-vendima-comarca-mes/202209011508331597791.html"
+  ],
+  "concello": "O Saviñao",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Atán",
+  "nombre": "San Antonio de Atán",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "13-14 junio (festividad de San Antonio)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta popular y religiosa de San Antonio en el lugar de Atán, ligada a la festividad del santo el 13 de junio. Romería de aldea típica del arranque del verano en Pantón.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-panton-134.html"
+  ],
+  "concello": "Pantón",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Pantón",
+  "nombre": "Xornadas da Rota do Románico",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "de mediados de junio a mediados de julio",
+   "edicion": "XXXVII edición"
+  },
+  "fundacion": null,
+  "historiaCorta": "Ciclo cultural que recorre el patrimonio románico de Pantón, en pleno corazón de la Ribeira Sacra, con más de tres décadas de historia (XXXVII edición). Combina visitas, conciertos y actividades en iglesias y monasterios como San Vicenzo de Pombeiro.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Pone en valor el rico patrimonio románico del concello, uno de los más densos de Galicia.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-panton-134.html"
+  ],
+  "concello": "Pantón",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Pantón",
+  "nombre": "Festival Cultural de Toldaos",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "finales de junio (en torno al 27)",
+   "edicion": "V edición"
+  },
+  "fundacion": null,
+  "historiaCorta": "Festival cultural organizado por la Asociación de Veciños de Toldaos (parroquia de San Xoán), ya en su quinta edición. Cita joven del verano que dinamiza la pequeña aldea de Toldaos.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "La asociación de Toldaos también organiza un conocido pasaje del terror en la aldea.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-panton-134.html"
+  ],
+  "concello": "Pantón",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Pantón",
+  "nombre": "Santa Isabel de Bazal",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "primeros de julio (4-6)"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiesta religiosa en honor a Santa Isabel en el lugar de Bazal, a comienzos de julio. Romería de aldea con misa y procesión.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-panton-134.html"
+  ],
+  "concello": "Pantón",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "San Román de Acedre",
+  "nombre": "Festas Patronais de San Román de Acedre",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "recurrente": "8-10 agosto"
+  },
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de San Román en la parroquia de Acedre, celebradas a mediados de agosto. Romería tradicional con misa solemne, procesión y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-panton-134.html",
+   "https://www.paxinasgalegas.es/fiestas/festas-patronais-de-san-roman-de-acedre-panton-33382.html"
+  ],
+  "concello": "Pantón",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Chantada (Santa Mariña)",
+  "nombre": "Folión de Carros",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "fechasPrevias": {},
+  "historiaCorta": "Desfile de carros tradicionales tirados por bueyes que recrean escenas del campo y los oficios de antaño. Se celebra el sábado previo al cuarto domingo de agosto, dentro de las fiestas patronales, y es el gran símbolo etnográfico de Chantada.",
+  "historiaLarga": "El Folión de Carros es la cita más singular del verano de Chantada y única en Galicia en su formato. Recorre las calles con carros de bueyes engalanados que reproducen labores agrícolas y oficios tradicionales. Fue declarado Festa de Interese Turístico de Galicia en 2002 y reconocido como patrimonio cultural en 2018. Se celebra el sábado anterior al cuarto domingo de agosto, dentro de las Festas Patronais de O Carme.",
+  "gastronomia": [],
+  "servicios": [
+   "acceso libre",
+   "gran afluencia de público; conviene llegar con tiempo para aparcar en la villa"
+  ],
+  "tradicion": "Festa de Interese Turístico de Galicia (2002) y patrimonio cultural (2018). Es el principal atractivo turístico de las fiestas.",
+  "programa": "Desfile de carros tradicionales tirados por bueyes recreando escenas del campo y los oficios.",
+  "fuentes": [
+   "https://www.concellodechantada.org/turismo/descubre/fiestas-ferias-y-eventos/?lang=es",
+   "https://www.paxinasgalegas.es/fiestas/festas-patronais-chantada-1745.html"
+  ],
+  "concello": "Chantada",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Pesqueiras (Santa María)",
+  "nombre": "Festas de Pesqueiras",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fundacion": null,
+  "fechasPrevias": {},
+  "historiaCorta": "La parroquia de Pesqueiras (Santa María) celebra sus fiestas patronales, ligadas a su iglesia románica, uno de los templos con más encanto del concello. No consta calendario público de fechas ni programa para 2026.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Iglesia románica de Santa María de Pesqueiras, de interés patrimonial dentro de la Ribeira Sacra.",
+  "programa": null,
+  "fuentes": [
+   "https://www.orquestasdegalicia.es/fiestas/lugo/pesqueiras-chantada"
+  ],
+  "concello": "Chantada",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Mariz",
+  "nombre": "Festas de Mariz",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fundacion": null,
+  "fechasPrevias": {},
+  "historiaCorta": "La parroquia de Mariz figura entre las que celebran fiestas patronales propias en Chantada, de ámbito rural. No se ha encontrado calendario público con fechas ni programa para 2026.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-chantada-110.html"
+  ],
+  "concello": "Chantada",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Os Peares",
+  "nombre": "San Xoán de Os Peares",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Celebración de la noche de San Xoán en la Playa Fluvial do Bubal, en Os Peares. Fiesta nocturna en torno al 23 de junio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Celebración en la playa fluvial do Bubal"
+  ],
+  "tradicion": "Cacharela y noche de San Xoán a orillas del río, aprovechando la playa fluvial.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-peroxa-217.html"
+  ],
+  "concello": "A Peroxa",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Celaguantes",
+  "nombre": "San Ramón de Celaguantes",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-29",
+  "fechaFin2026": null,
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Festividad de San Ramón en Celaguantes, a finales de agosto. La fiesta se acompaña del Xantar de San Ramón, comida popular en el Teleclub de Toubes (hacia el 31 de agosto).",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Xantar de San Ramón (comida popular en el Teleclub de Toubes)"
+  ],
+  "servicios": [
+   "Comida popular"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-peroxa-217.html"
+  ],
+  "concello": "A Peroxa",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "O Barco de Valdeorras",
+  "nombre": "Festas de O Serro",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2025": "2025-07-18"
+  },
+  "fundacion": null,
+  "historiaCorta": "Las Festas de O Serro son una celebración vecinal de mediados de julio centrada en la música y la tradición. Es una de las citas de barrio del verano barquense.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones musicales"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-barco-de-valdeorras-170.html"
+  ],
+  "concello": "O Barco de Valdeorras",
+  "provincia": "Ourense"
+ },
+ {
   "parroquia": "Vidán",
   "nombre": "Festas de Vidán",
   "fecha2026": null,
