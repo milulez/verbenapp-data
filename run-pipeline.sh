@@ -33,6 +33,8 @@ python3 _boost-orquestas.py
 echo "== 9/10 historico (años anteriores + fecha orientativa para las sin data) =="
 # historico.json se construye una vez (_scrape-historico.sh + _build-historico.py) y se commitea
 if [ -f historico.json ]; then python3 _apply-historico.py; else echo "  (sin historico.json, salto)"; fi
+echo "== 9b/10 historia web (investigación por fiesta, si existe) =="
+if [ -f historia.json ]; then python3 _merge-historia.py; else echo "  (sin historia.json, salto)"; fi
 echo "== 10/10 indice de busqueda (orquesta/churrasco/atracciones/lenguaje natural) =="
 python3 _searchindex.py
 

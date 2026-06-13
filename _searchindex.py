@@ -16,7 +16,8 @@ def bandclean(b):  # "Orquesta EL COMBO" -> tambien "el combo" sin prefijo
 ver=json.load(open(f'{BASE}/verbenas.json'))
 for v in ver:
     parts=[v.get('nombre'),v.get('nombrePopular'),v.get('parroquia'),v.get('concello'),
-           v.get('comarca'),v.get('provincia'),v.get('santo'),v.get('tipo'),v.get('cuando')]
+           v.get('comarca'),v.get('provincia'),v.get('santo'),v.get('tipo'),v.get('cuando'),
+           v.get('historia'),v.get('destacado_txt')]
     # orquestas: nombre completo Y sin el prefijo "orquesta/grupo..."
     for b in (v.get('bandas') or []):
         parts.append(b); parts.append(bandclean(b))
