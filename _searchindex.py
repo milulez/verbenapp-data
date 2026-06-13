@@ -22,6 +22,8 @@ for v in ver:
         parts.append(b); parts.append(bandclean(b))
     if v.get('orquestaCabeza'):
         parts.append(v['orquestaCabeza']); parts.append(bandclean(v['orquestaCabeza']))
+    for b in (v.get('bandasHistoricas') or []):  # años anteriores: "¿dónde tocó X?"
+        parts.append(b); parts.append(bandclean(b))
     # comida (churrasco, pulpo, sardiñada...) y servicios
     parts += (v.get('comida') or [])
     parts += (v.get('servicios') or [])

@@ -28,9 +28,12 @@ curl -sL -A "Mozilla/5.0" "https://www.orquestasdegalicia.es/rankings" -o /tmp/r
 bash _fetch-formaciones.sh
 echo "== 7/8 parse formaciones -> orquestas.json =="
 python3 _parse-formaciones.py
-echo "== 8/9 boost orquestas (foto+tiron+cobertura) =="
+echo "== 8/10 boost orquestas (foto+tiron+cobertura) =="
 python3 _boost-orquestas.py
-echo "== 9/9 indice de busqueda (orquesta/churrasco/atracciones en lenguaje natural) =="
+echo "== 9/10 historico (años anteriores + fecha orientativa para las sin data) =="
+# historico.json se construye una vez (_scrape-historico.sh + _build-historico.py) y se commitea
+if [ -f historico.json ]; then python3 _apply-historico.py; else echo "  (sin historico.json, salto)"; fi
+echo "== 10/10 indice de busqueda (orquesta/churrasco/atracciones/lenguaje natural) =="
 python3 _searchindex.py
 
 # --- guarda de validación: no commitear basura si el scrape falló ---
