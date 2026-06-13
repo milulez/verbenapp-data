@@ -17,7 +17,7 @@ ver=json.load(open(f'{BASE}/verbenas.json'))
 for v in ver:
     parts=[v.get('nombre'),v.get('nombrePopular'),v.get('parroquia'),v.get('concello'),
            v.get('comarca'),v.get('provincia'),v.get('santo'),v.get('tipo'),v.get('cuando'),
-           v.get('historia'),v.get('destacado_txt')]
+           v.get('historia'),v.get('destacado_txt'),v.get('historiaLarga'),v.get('tradicion'),v.get('programa')]
     # orquestas: nombre completo Y sin el prefijo "orquesta/grupo..."
     for b in (v.get('bandas') or []):
         parts.append(b); parts.append(bandclean(b))
