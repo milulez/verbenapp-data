@@ -2607,6 +2607,222 @@
   "provincia": "Ourense"
  },
  {
+  "parroquia": "Silleda (recinto feiral)",
+  "nombre": "Semana Verde de Galicia",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Feria internacional del sector agroganadero y rural celebrada en junio en el recinto ferial de Silleda, con casi 50 ediciones a sus espaldas.",
+  "historiaLarga": null,
+  "tradicion": "Gran cita del sector rural gallego, con ganado, maquinaria agrícola e innovación.",
+  "gastronomia": [],
+  "servicios": [
+   "Recinto ferial con aparcamiento"
+  ],
+  "programa": "Exposición de ganado, maquinaria agrícola, innovación rural y expositores del sector.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-silleda-305.html"
+  ],
+  "concello": "Silleda",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "San Miguel de Castro",
+  "nombre": "III Festa do Bolo Preñado",
+  "fecha2026": "2026-07-25",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "III edición en 2026",
+  "historiaCorta": "Fiesta gastronómica en San Miguel de Castro dedicada al bolo preñado, con menú completo, andaina y juegos populares.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Bolo preñado",
+   "Menú completo"
+  ],
+  "servicios": [
+   "Andaina",
+   "Juegos populares"
+  ],
+  "tradicion": null,
+  "programa": "Menú completo, andaina y juegos populares.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-estrada-271.html"
+  ],
+  "concello": "A Estrada",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Mondariz-Balneario",
+  "nombre": "90's Balneario Fest",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-29",
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Festival dedicado a la música de la década de los años noventa, de acceso gratuito.",
+  "historiaLarga": null,
+  "tradicion": "Cita nostálgica que llena el Balneario de los hits noventeros en una de las noches grandes del verano.",
+  "gastronomia": [],
+  "servicios": [
+   "Acceso gratuito"
+  ],
+  "programa": "Música noventera en directo / sesión DJ.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mondariz-balneario-284.html"
+  ],
+  "concello": "Mondariz-Balneario",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Mondariz-Balneario",
+  "nombre": "Festa da Bicicleta",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-31",
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Evento solidario que invita a los vecinos a participar en una marcha ciclista a favor de la asociación Debra.",
+  "historiaLarga": null,
+  "tradicion": "Marcha familiar con fin solidario que cierra el mes de agosto.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Marcha ciclista popular de carácter solidario.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mondariz-balneario-284.html"
+  ],
+  "concello": "Mondariz-Balneario",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Salvaterra de Miño",
+  "nombre": "Día de Galicia",
+  "fecha2026": "2026-07-25",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Celebración del Día de Galicia con andaina y comida popular amenizada con música.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida popular"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Andaina, comida popular y música.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-salvaterra-do-mi%C3%B1o-303.html"
+  ],
+  "concello": "Salvaterra de Miño",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Fornelos da Ribeira",
+  "nombre": "Sardiñada Popular de Fornelos da Ribeira",
+  "fecha2026": "2026-06-27",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Sardiñada popular en Fornelos da Ribeira amenizada con banda de gaitas.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardinas",
+   "Chorizo",
+   "Jamón"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Sardiñada con banda de gaitas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-salvaterra-do-mi%C3%B1o-303.html"
+  ],
+  "concello": "Salvaterra de Miño",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Cabeiras",
+  "nombre": "Romaría de San Fins de Cabeiras",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-01",
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Romería de San Fins en Cabeiras, con peregrinación a la ermita enclavada en un paraje de paisaje espectacular y comida campestre.",
+  "historiaLarga": null,
+  "tradicion": "Peregrinación a la ermita de San Fins, en un mirador natural sobre el entorno.",
+  "gastronomia": [
+   "Comida campestre"
+  ],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-arbo-255.html"
+  ],
+  "concello": "Arbo",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Barcia",
+  "nombre": "San Roque de Barcia",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-22",
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Roque en el lugar de Barcia, una de las romerías de finales de agosto en Arbo.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-arbo-255.html"
+  ],
+  "concello": "Arbo",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "A Hermida",
+  "nombre": "San Pedro da Ermida",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Pedro en la parroquia de A Hermida, a finales de julio, con actos religiosos y música.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Música"
+  ],
+  "tradicion": null,
+  "programa": "Servicios religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-covelo-267.html"
+  ],
+  "concello": "Covelo",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Pazos",
+  "nombre": "Romaría de Veciños e Amigos de Pazos",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Encuentro popular de vecinos y amigos en Pazos a comienzos de septiembre, con música, comida popular y queimada.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida popular",
+   "Queimada"
+  ],
+  "servicios": [
+   "Música",
+   "Ambiente festivo"
+  ],
+  "tradicion": "Romería de reencuentro vecinal.",
+  "programa": "Encuentro popular con música, comida y queimada.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-covelo-267.html"
+  ],
+  "concello": "Covelo",
+  "provincia": "Pontevedra"
+ },
+ {
   "parroquia": "Borreiros",
   "nombre": "Gran Sardiñada de Borreiros",
   "fecha2026": "2026-07-19",
