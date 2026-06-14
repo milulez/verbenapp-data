@@ -810,6 +810,502 @@
   "provincia": "Pontevedra"
  },
  {
+  "parroquia": "Porto do Son",
+  "nombre": "Vermuts Musicales",
+  "fecha2026": "2026-08-03",
+  "fechaFin2026": "2026-08-24",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Ciclo de conciertos de vermú repartidos por distintos locales y plazas a lo largo de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Vermú"
+  ],
+  "servicios": [
+   "Conciertos en varios locales"
+  ],
+  "tradicion": null,
+  "programa": "Sesiones musicales tipo vermú los domingos de agosto.",
+  "fundacion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-porto-do-son-72.html"
+  ],
+  "concello": "Porto do Son",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Goiáns",
+  "nombre": "Son Fest",
+  "fecha2026": "2026-06-14",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Festival/evento musical del verano sonense (Son Fest). Parroquia por confirmar.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Música en directo"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fundacion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-porto-do-son-72.html"
+  ],
+  "concello": "Porto do Son",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Galegos",
+  "nombre": "Foliada Fraga do Petón",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Foliada de música y baile tradicional gallego que se celebra en septiembre en la parroquia de Galegos.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Encuentro de música popular gallega (foliada) que reivindica el folclore de la zona.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-frades-39.html"
+  ],
+  "concello": "Frades",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Frades",
+  "nombre": "Festa da Auga",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta del agua en la piscina municipal de Papucín-Frades, un fin de fiesta del verano con hinchables acuáticos, fiesta de la espuma y sorpresas, de entrada gratuita.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [
+   "Piscina municipal de Papucín",
+   "Entrada gratuita",
+   "Requiere inscripción previa en el Concello"
+  ],
+  "tradicion": "Actividad familiar de cierre del verano organizada por el Concello; suele incluir hinchables acuáticos, fiesta de la espuma e incluso teatro.",
+  "programa": "Hinchables acuáticos, fiesta de la espuma y sorpresas; en ediciones recientes con teatro a cargo del Centro Dramático Galego y Teatro ó Cubo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-da-auga-frades-24994.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-frades-39.html"
+  ],
+  "concello": "Frades",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cabrui",
+  "nombre": "Paseo Cabalar de Cabrui",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Ruta a caballo por la parroquia de Cabrui que en 2025 celebró su VI edición, habitualmente a mediados de septiembre. Une jornada ecuestre y fiesta gastronómica popular.",
+  "historiaLarga": "El Paseo Cabalar de Cabrui es uno de los eventos más singulares y con tirón turístico del concello de Mesía. Lo que empezó como una salida de aficionados a caballo se ha consolidado como una cita anual que en 2025 alcanzó su sexta edición. La jornada combina la ruta ecuestre por los caminos de la parroquia con todo un programa festivo de día completo: almuerzo de mañana, sesión vermú, xantar popular, tardeo con música, gincana y sorteos. Mezcla el mundo rural y caballar gallego con el ambiente de romería, lo que atrae tanto a jinetes como a vecinos y visitantes de toda la comarca.",
+  "gastronomia": [
+   "Almuerzo",
+   "Xantar popular",
+   "Sesión vermú"
+  ],
+  "servicios": [
+   "Sorteos",
+   "Gincana"
+  ],
+  "tradicion": "Ruta ecuestre que une el mundo caballar gallego con la fiesta popular; uno de los eventos con más atractivo turístico del concello.",
+  "programa": "Almuerzo, sesión vermú, xantar, tardeo musical, gincana y sorteos.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mesia-48.html"
+  ],
+  "concello": "Mesía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mesía",
+  "nombre": "Nosa Señora das Mercedes de Arxán",
+  "fecha2026": "2026-09-27",
+  "fechaFin2026": "2026-09-28",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la Nosa Señora das Mercedes en Arxán (parroquia de Mesía), a finales de septiembre, con oficios religiosos y música.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Oficios religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mesia-48.html"
+  ],
+  "concello": "Mesía",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Merelle e Reboredo",
+  "nombre": "San Cristóbal",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-07-19",
+  "fechaFin2026": null,
+  "historiaCorta": "Fiesta de San Cristóbal en los lugares de Merelle y Reboredo, patrón de los conductores, a mediados de julio.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ordes-60.html"
+  ],
+  "concello": "Ordes",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Padrón",
+  "nombre": "A Ponte Fest",
+  "fecha2026": "2026-06-27",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Evento de inicio de verano en la Ponte do Peregrino de Padrón, con música y gastronomía.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Gastronomía y food trucks"
+  ],
+  "servicios": [
+   "Música en directo"
+  ],
+  "tradicion": null,
+  "programa": "Música en directo y gastronomía junto a la Ponte do Peregrino.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-padron-66.html"
+  ],
+  "concello": "Padrón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Padrón",
+  "nombre": "Solpores Musicais",
+  "fecha2026": "2026-06-19",
+  "fechaFin2026": "2026-06-26",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Ciclo de conciertos al atardecer en el atrio del Convento do Carme de Padrón.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Conciertos al aire libre"
+  ],
+  "tradicion": null,
+  "programa": "Conciertos al atardecer en el atrio del Convento do Carme.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-padron-66.html"
+  ],
+  "concello": "Padrón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Padrón",
+  "nombre": "Festival Abride a Fiestra",
+  "fecha2026": "2026-07-13",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festival cultural en la Casa de Rosalía con música, literatura, cuentos y astronomía.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Música",
+   "Literatura y cuentacuentos",
+   "Astronomía"
+  ],
+  "tradicion": "Celebrado en la Casa-Museo de Rosalía de Castro, en Iria Flavia/Padrón.",
+  "programa": "Música, literatura, cuentos y observación astronómica en la Casa de Rosalía.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-padron-66.html"
+  ],
+  "concello": "Padrón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Padrón",
+  "nombre": "Open Air - Closing Summer Fest",
+  "fecha2026": "2026-09-05",
+  "fechaFin2026": "2026-09-06",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festival de fin de verano en el Paseo do Espolón de Padrón, con entrada gratuita.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Entrada gratuita",
+   "Música en directo"
+  ],
+  "tradicion": null,
+  "programa": "Conciertos y actividades de cierre de verano en el Paseo do Espolón.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-padron-66.html"
+  ],
+  "concello": "Padrón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Costa (Rois)",
+  "nombre": "San Miguel de Costa (San Miguel, San Antonio, San Roque e Virxe do Rosario)",
+  "fecha2026": "2026-09-26",
+  "fechaFin2026": "2026-09-28",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Costa cierra el calendario festivo del verano con San Miguel, acompañado de San Antonio, San Roque y la Virxe do Rosario.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y verbenas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-rois-75.html"
+  ],
+  "concello": "Rois",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ribasar (Rois)",
+  "nombre": "Santa Mariña, San Antonio e O Carme de Ribasar",
+  "fecha2026": "2026-07-18",
+  "fechaFin2026": "2026-07-27",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Ribasar dedica varios días de julio a Santa Mariña, San Antonio y O Carme.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Oficios religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-rois-75.html"
+  ],
+  "concello": "Rois",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Oín (Rois)",
+  "nombre": "Fiestas de Oín (Nosa Señora, San Roque e Santísimo Sacramento)",
+  "fecha2026": "2026-08-15",
+  "fechaFin2026": "2026-08-17",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Oín celebra a mediados de agosto en honor a Nosa Señora, San Roque y el Santísimo Sacramento.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-rois-75.html"
+  ],
+  "concello": "Rois",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Oín (Rois)",
+  "nombre": "San Antonio de Oín",
+  "fecha2026": "2026-08-15",
+  "fechaFin2026": "2026-08-17",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "San Antonio de Oín suma actos litúrgicos, música y actividades infantiles en pleno agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Acto litúrgico, actuaciones musicales y actividades infantiles.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-rois-75.html"
+  ],
+  "concello": "Rois",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Urdilde (Rois)",
+  "nombre": "Fiestas de Urdilde (Nosa Señora, San Roque, San Antonio e Santísimo Sacramento)",
+  "fecha2026": "2026-08-15",
+  "fechaFin2026": "2026-08-17",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Urdilde vive sus fiestas grandes a mediados de agosto, dedicadas a Nosa Señora, San Roque, San Antonio y el Santísimo Sacramento.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y verbenas con orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-rois-75.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-de-urdilde-rois-5851.html"
+  ],
+  "concello": "Rois",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Urdilde (Rois)",
+  "nombre": "Santísimo Sacramento de Urdilde",
+  "fecha2026": "2026-08-24",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Urdilde honra al Santísimo Sacramento a finales de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-rois-75.html"
+  ],
+  "concello": "Rois",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Urdilde (Rois)",
+  "nombre": "A Natividade de Urdilde",
+  "fecha2026": "2026-09-06",
+  "fechaFin2026": "2026-09-08",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Las fiestas de A Natividade prolongan el ambiente festivo de Urdilde hasta los primeros días de septiembre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-rois-75.html"
+  ],
+  "concello": "Rois",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Luou",
+  "nombre": "Trofeo Vila de Luou",
+  "fecha2026": "2026-07-13",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Evento deportivo-festivo en la parroquia de Luou, a mediados de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-de-santa-maria-teo-16127.html"
+  ],
+  "concello": "Teo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Vedra",
+  "nombre": "Festas da Virxe das Dores",
+  "fecha2026": "2026-09-05",
+  "fechaFin2026": "2026-09-07",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas en honor a la Virxe das Dores en la capital municipal de Vedra.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Oficios religiosos y variadas actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-vedra-90.html"
+  ],
+  "concello": "Vedra",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cervo",
+  "nombre": "Festa do Ovo Frito",
+  "fecha2026": "2026-08-14",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "Edición XVIII (en 2025)",
+  "historiaCorta": "Curiosa fiesta gastronómica en la Praza do Souto donde se reparten huevos fritos con chorizo, patatas, pan y vino.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": "Degustación popular de huevos fritos durante las fiestas patronales.",
+  "gastronomia": [
+   "Huevos fritos",
+   "Chorizo",
+   "Patatas fritas",
+   "Pan",
+   "Vino"
+  ],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cervo-109.html"
+  ],
+  "concello": "Cervo",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Cervo",
+  "nombre": "Festa de Exaltación da Carne de Porco",
+  "fecha2026": "2026-06-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "Edición XVII (en 2025)",
+  "historiaCorta": "Fiesta gastronómica de exaltación de la carne de cerdo en Cervo, con degustación y música en directo.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": "Degustación de carne de cerdo con música en directo.",
+  "gastronomia": [
+   "Carne de cerdo"
+  ],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cervo-109.html"
+  ],
+  "concello": "Cervo",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Cervo (varias parroquias)",
+  "nombre": "Festival de Narración Oral De Cobo a Xunco",
+  "fecha2026": "2026-09-05",
+  "fechaFin2026": "2026-09-26",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festival de narración oral que recorre durante septiembre distintas parroquias del concello con sesiones los viernes por la tarde.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": "Sesiones de cuentacuentos los viernes por distintas parroquias del concello.",
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cervo-109.html"
+  ],
+  "concello": "Cervo",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "O Castro de Ouro",
+  "nombre": "San Salvador de Castrodouro",
+  "fecha2026": "2026-08-10",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Salvador en la parroquia de O Castro de Ouro (Castrodouro).",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-alfoz-96.html"
+  ],
+  "concello": "Alfoz",
+  "provincia": "Lugo"
+ },
+ {
   "parroquia": "Soutomerille",
   "nombre": "Festa parroquial de San Salvador de Soutomerille",
   "fecha2026": null,
