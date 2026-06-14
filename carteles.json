@@ -412,5 +412,653 @@
   "fechaInicio": "2026-06-13",
   "fechaFin": "2026-06-14",
   "notaCartel": "Programa do cartel oficial 2026."
+ },
+ {
+  "concello": "A Estrada",
+  "parroquia": "Sabucedo",
+  "nombre": "Rapa das Bestas de Sabucedo",
+  "bandas": [],
+  "comida": [],
+  "programaCartel": null,
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/rapa-das-bestas-de-sabucedo-a-estrada_img341n1t0.jpg",
+  "fechaInicio": "2026-07-03",
+  "fechaFin": "2026-07-06",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Dozón",
+  "parroquia": "O Sixto",
+  "nombre": "San Xoán de O Sixto",
+  "bandas": [
+   "Orquesta Olympus",
+   "Disco Móvil Pirámide XL con Marcos Kintana",
+   "Discoteca Pirámide XL",
+   "Grupo de Gaitas",
+   "Dúo Arco Iris",
+   "Grupo Fussión",
+   "Solista Antonio Barros"
+  ],
+  "comida": [],
+  "programaCartel": "Festas na honra a San Xoán en O Sixto (Dozón) 2026. Sábado 20 de xuño: 13:00 misa cantada con procesión, sesión vermú coa Discoteca Pirámide XL, e pola noite verbena coa Orquesta Olympus e disco móvil Pirámide XL con Marcos Kintana. Domingo 21 de xuño: 13:00 misa cantada con procesión, vermú a cargo do Grupo de Gaitas e Dúo Arco Iris, e verbena co grupo Fussión máis disco móvil Pirámide XL con Marcos Kintana. Mércores 24 de xuño: 13:00 misa con procesión e vermú a cargo do solista Antonio Barros. Organiza o Grupo Troula.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-xoan-de-o-sixto-dozon_img1696n1t0.jpg",
+  "fechaInicio": "2026-06-20",
+  "fechaFin": "2026-06-24",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Betanzos",
+  "parroquia": "Ribeira (barrio histórico junto río Mandeo)",
+  "nombre": "Festas Octava da Ribeira",
+  "bandas": [
+   "Orquesta New York (Golden Tour)",
+   "Grupo La Bamba",
+   "Grupo Deluxe",
+   "Dúo Estrellas Hermanos Tanego",
+   "Danzas Xóvenes do Pobo",
+   "Os Brigantinos"
+  ],
+  "comida": [
+   "Churrascada"
+  ],
+  "programaCartel": "Viernes 12: 20:30 bombas y churrascada; 23:00 verbena con la Orquesta New York (Golden Tour). Sábado 13: 12:00 bombas y alborada con las Danzas Xóvenes do Pobo e Os Brigantinos; 14:00 sesión vermú con Grupo Deluxe; 18:00 fiesta infantil; 23:00 verbena con Grupo La Bamba; 00:30 sorteo de 200€ y fuegos de artificio. Domingo 14: 13:30 bombas y sesión vermú con Dúo Estrellas Hermanos Tanego. Piragüismo: V Circuito Diputación da Coruña, 1ª proba sábado 13 a las 15:30; Campionato Galego de Travesías 2026 domingo 14 a las 14:00. Habrá una gran carpa.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-octava-da-ribeira-betanzos_img32874n1t0.jpg",
+  "fechaInicio": "2026-06-12",
+  "fechaFin": "2026-06-14",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Viveiro",
+  "parroquia": "Covas",
+  "nombre": "San Xoán de Covas",
+  "bandas": [
+   "Acordes",
+   "New York",
+   "Salsarena",
+   "Capitol",
+   "Trebol",
+   "Banda da Misericordia",
+   "Escola de Gaitas Cacharela de Covas",
+   "Non cho digo"
+  ],
+  "comida": [
+   "Gran Sardiñada (Campo da Pascua)"
+  ],
+  "programaCartel": "Festas en honra a San Xoán Bautista, Covas 2026.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-xoan-de-covas-viveiro_img6887n1t0.jpg",
+  "fechaInicio": "2026-06-23",
+  "fechaFin": "2026-06-26",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "A Pastoriza",
+  "parroquia": "Rigueira",
+  "nombre": "San Pedro de Rigueira",
+  "bandas": [
+   "Grupo Jaque",
+   "Jaque",
+   "Costa Dorada",
+   "Fuxsión Latina"
+  ],
+  "comida": [],
+  "programaCartel": "Festas en honra a San Pedro en A Regueira (A Pastoriza, Lugo). Sábado 28 de xuño: misa ás 14:00 h, procesión e sesión vermú co Grupo Jaque, e pola noite festa verbena coas orquestras Jaque e Costa Dorada (\"Inolvidable Tour\"). Domingo 29 de xuño: misa ás 14:00 h, procesión e sesión vermú con Fuxsión Latina. Organiza o Monte Veciñal Mancomún Mudia. Espectáculos Miño.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-pedro-de-rigueira-a-pastoriza_img3328n1t0.jpg",
+  "fechaInicio": "2026-06-28",
+  "fechaFin": "2026-06-29",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Monforte de Lemos",
+  "parroquia": "Barrio de San Antonio",
+  "nombre": "Festas de San Antonio",
+  "bandas": [
+   "Orquesta Marbella",
+   "Agrupación Tradicional Os Triskeles",
+   "Batukada Tu-Kupá",
+   "Orquesta Suavecito",
+   "DJ Sonic",
+   "Charanga NBA",
+   "Os Xograres de Lemos",
+   "Agrupación Lemavos",
+   "Los Coleguitas",
+   "Malenne",
+   "Agrupación Amigos da Pandeirada",
+   "Cadela Asasina",
+   "Charanga Os Sureños",
+   "Punto Clave"
+  ],
+  "comida": [
+   "Degustación de vino de bodegas de la Ribeira Sacra",
+   "Sesión vermut"
+  ],
+  "programaCartel": "Festas de San Antonio 2026 - Barrio de San Antonio, Monforte de Lemos.\n\nJueves 11 de junio:\n- 10:00 Salva de bombas anunciando el inicio de las fiestas.\n- 21:00 Fiesta-verbena con la Orquesta Marbella.\n\nViernes 12 de junio:\n- 10:00 Salva de bombas (segundo día).\n- 10:30 Dianas y alboradas a cargo de la Agrupación Tradicional Os Triskeles.\n- 20:00 Pasacalles con la batukada Tu-Kupá.\n- 21:00 Fiesta-verbena con la Orquesta Suavecito y actuación de DJ Sonic.\n\nSábado 13 de junio (día grande):\n- 09:00 Bendición de las roscas e inicio de su venta frente a la Iglesia de San Antonio y en la plaza Santa Clara.\n- 10:00 Salva de bombas anunciando el día grande.\n- 10:30 Dianas y alboradas con la Charanga NBA y Os Xograres de Lemos.\n- 12:30 Misa solemne en la Iglesia de San Antonio, seguida de procesión por el barrio.\n- 13:30 Degustación de vino para las autoridades, proporcionado por bodegas de la Ribeira Sacra.\n- 19:30 Actuación de la Agrupación Lemavos en la plaza Santa Clara.\n- 22:00 Comienzo de la fiesta con el grupo Los Coleguitas.\n- Sesión de fuegos de artificio, verbena con Los Coleguitas y actuación del grupo Malenne.\n\nDomingo 14 de junio:\n- 10:00 Salva de bombas (último día).\n- 10:30 La Agrupación Amigos da Pandeirada y Cadela Asasina se pasearán por el barrio de San Antonio.\n- 11:30 Juegos infantiles en el Campo de San Antonio.\n- 13:00 Sesión vermut en el Campo de San Antonio, amenizada por la Charanga Os Sureños.\n- 21:00 Fiesta-verbena de clausura con la actuación del grupo Punto Clave.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-de-san-antonio-monforte-de-lemos_img6901n1t0.jpg",
+  "fechaInicio": "2026-06-11",
+  "fechaFin": "2026-06-14",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Toén",
+  "parroquia": "Moreiras",
+  "nombre": "San Pedro de Moreiras",
+  "bandas": [
+   "Os Chafalleiros",
+   "La Banda de Ayer",
+   "Gramola",
+   "Achicoria",
+   "Capitol",
+   "Claxxon",
+   "Banda Santádega de Coles",
+   "BBB",
+   "BCB",
+   "Tattoo"
+  ],
+  "comida": [
+   "Sesión vermú na praza"
+  ],
+  "programaCartel": "Ver nota.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-pedro-de-moreiras-toen_img7009n1t0.jpg",
+  "fechaInicio": "2026-06-27",
+  "fechaFin": "2026-06-29",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Verín",
+  "parroquia": "Queizás",
+  "nombre": "San Pedro de Queizás",
+  "bandas": [
+   "Fuego Street Band",
+   "Gramola",
+   "Orquesta Cinema",
+   "Banda de Gaitas",
+   "Coral de Trasmiras"
+  ],
+  "comida": [
+   "Degustación de porco ao espeto"
+  ],
+  "programaCartel": "Festas na honra a San Pedro en Queizás (Verín). Viernes 27 de junio: 20:00 XXVIII Bicicletada \"A ruta das adegas\". Sábado 28 de junio: de 17:00 a 19:00 Festa Infantil con festa da espuma e da auga; 21:30 degustación de porco ao espeto; verbena a cargo de Fuego Street Band y Gramola. Domingo 29 de junio: por la mañana pasarrúas a cargo de una banda de gaitas; 12:00 misa solemne y procesión acompañada de la Coral de Trasmiras; por la tarde festa y verbena a cargo de la Orquesta Cinema.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-pedro-de-queizas-verin_img38688n1t0.jpg",
+  "fechaInicio": "2026-06-27",
+  "fechaFin": "2026-06-29",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Ribadavia",
+  "parroquia": "Ventosela",
+  "nombre": "San Paio de Ventosela",
+  "bandas": [
+   "Os Bandiños Band (charanga)",
+   "Castro Bello (charanga)",
+   "Euphoria Disco Show",
+   "Pili Pampín",
+   "Os Veteranos de Berán (gaiteiros)",
+   "Trío Azar"
+  ],
+  "comida": [
+   "Cea popular",
+   "I Festa do Porco ao Espeto",
+   "Empanada",
+   "Merenda popular",
+   "Pan artesano de leña, empanadas e bollería"
+  ],
+  "programaCartel": "Festas en Sampaio (Ribadavia), na honra a San Pelaio. Xoves 26: pasarrúas coa charanga Os Bandiños Band; 12:00 h misa solemne con procesión e despois sesión vermú coa charanga. Venres 27: pasarrúas coa charanga Castro Bello; 18:00 h festa da espuma; 20:30 h cea popular; I Festa do Porco ao Espeto (tamén haberá empanada); verbena con Euphoria Disco Show e actuación da artista galega Pili Pampín. Sábado 28: 20:30 h merenda popular cos gaiteiros Os Veteranos de Berán; verbena con Trío Azar.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-paio-de-ventosela-ribadavia_img11484n1t0.jpg",
+  "fechaInicio": "2026-06-26",
+  "fechaFin": "2026-06-28",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Vilaboa",
+  "parroquia": "San Adrián de Cobres",
+  "nombre": "Festa de San Adrián de Cobres",
+  "bandas": [
+   "Fania Blanco Show",
+   "Trío Tic Tac",
+   "Kubo",
+   "Disco móvil Euphoria con DJ Compota",
+   "Trío Azabache",
+   "Banda de Música Popular Airiños de Morrazo (de Moaña)",
+   "Banda da Escola de Música de Vilaboa"
+  ],
+  "comida": [],
+  "programaCartel": "Martes 16: 11:15 h entrada al recinto de la Banda de Música Popular \"Airiños de Morrazo\" de Moaña; 12:00 h misa cantada y, al finalizar, actuación de la banda en el recinto; por la noche gran verbena con la orquesta Fania Blanco Show y el Trío Tic Tac. Sábado 20: por la noche gran verbena con la orquesta Kubo y disco móvil Euphoria con DJ Compota. Domingo 21 (Día do Señor): 11:45 h entrada al recinto y actuación de la Banda da Escola de Música de Vilaboa; 12:00 h misa solemne cantada y, al finalizar, actuación de la banda en el recinto; por la noche gran verbena con el Trío Azabache. Organiza la Comisión Parroquial de Festas de San Adrián de Cobres; colabora el Concello de Vilaboa.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festa-de-san-adrian-de-cobres-vilaboa_img225n1t0.jpg",
+  "fechaInicio": "2026-06-16",
+  "fechaFin": "2026-06-21",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Vilaboa",
+  "parroquia": "Paredes",
+  "nombre": "Festa de San Xoán de Paredes",
+  "bandas": [
+   "TIC TAC",
+   "Orquesta Olympus",
+   "Banda de Gaitas e Percusión Foula",
+   "Coral da Sociedade Labrego Cultural de Reboreda",
+   "Banda de Música de Vilaboa"
+  ],
+  "comida": [
+   "Gran Churrascada Popular",
+   "Pinchos",
+   "Pulpeiro no recinto"
+  ],
+  "programaCartel": "Grandes Festas na honra de San Xoán de Paredes (Vilaboa). Días 22, 23 e 24 de xuño.\n\n22 (domingo): a partir das 21:30 h, Gran Churrascada Popular e a continuación verbena coa orquestra TIC TAC.\n\n23 (luns): a partir das 21:30 h, pinchos coa actuación dun grupo local; ás 00:00 h, prendido da fogueira e a continuación actuación da Orquesta Olympus. Haberá pulpeiro no recinto.\n\n24 (martes): ás 8:00 h, tirada de bombas de palenque; ás 10:00 h, pasarrúas coa Banda de Gaitas e Percusión Foula; ás 12:00 h, misa solemne na canteira cantada pola Coral da Sociedade Labrego Cultural de Reboreda e, ao remate, concerto da Banda de Música de Vilaboa.\n\nOrganiza: Comisión de Festas San Xoán de Paredes.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-xoan-de-paredes-vilaboa_img227n1t0.jpg",
+  "fechaInicio": "2026-06-22",
+  "fechaFin": "2026-06-24",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Mos",
+  "parroquia": "Mos",
+  "nombre": "Festa da Rosa",
+  "bandas": [],
+  "comida": [
+   "Empanada de millo (exaltación a cargo da Asociación de Mulleres Rurais de Mos)",
+   "Viño rosado de Galicia (Feira do Viño Rosado)"
+  ],
+  "programaCartel": "Festa da Rosa en Mos (Pontevedra), declarada Festa de Interese Turístico de Galicia. Sábado 13 de xuño 2026: jornada central con exaltación de la Empanada de Millo a cargo de la Asociación de Mulleres Rurais de Mos. 13 y 14 de xuño: Feira do Viño Rosado de Galicia. El cartel no detalla orquestas ni grupos musicales concretos.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festa-da-rosa-mos_img4140n1t0.jpg",
+  "fechaInicio": "2026-06-13",
+  "fechaFin": "2026-06-14",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Nigrán",
+  "parroquia": "A Ramallosa",
+  "nombre": "Fiestas de San Pedro da Ramallosa",
+  "bandas": [
+   "Orquesta Magos",
+   "Grupo América de Vigo",
+   "Mago Golden Magic",
+   "Discoteca Chocolate",
+   "Orquesta Compostela",
+   "Agrupación Musical de Belesar",
+   "Peter Punk",
+   "Orquesta Capitol"
+  ],
+  "comida": [],
+  "programaCartel": "Grandes Fiestas en honor a San Pedro 2025, A Ramallosa (Nigrán), 27, 28 y 29 de junio.\n\nViernes 27: Orquesta Magos y Grupo América de Vigo.\n\nSábado 28: a las 18:00 h actuación del Mago Golden Magic; a partir de las 22:30 h verbena con Discoteca Chocolate y Orquesta Compostela.\n\nDomingo 29: a las 10:30 h pasacalles con la Agrupación Musical de Belesar; a las 12:00 h misa solemne con procesión acompañada por la Agrupación Musical de Belesar y a continuación concierto de la misma; a las 18:00 h animación infantil con Peter Punk; a partir de las 22:30 h verbena amenizada por la Orquesta Capitol (pase único).\n\nOrganiza: Comisión de Festas San Pedro 2025. (edición 2025, orientativo)",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-pedro-da-ramallosa-nigran_img7823n1t0.jpg",
+  "notaCartel": "Cartel 2025: bandas/gastronomía orientativas."
+ },
+ {
+  "concello": "Valga",
+  "parroquia": "Cordeiro",
+  "nombre": "San Antonio de Cordeiro",
+  "bandas": [
+   "Orquesta Capitol",
+   "Orquesta América SL",
+   "Banda de Música Municipal de Valga",
+   "Coral Polifónica de Santa Comba de Cordeiro",
+   "Charanga Os Encerellados"
+  ],
+  "comida": [],
+  "programaCartel": "Viernes 12 de junio: a las 22:30 h gran verbena con las orquestas Capitol y América SL. Domingo 14 de junio: a las 9:00 h dianas con foguetes; a las 13:00 h pasacalles con la Banda de Música Municipal de Valga; a las 13:00 h misa cantada con la Coral Polifónica de Santa Comba de Cordeiro y, al término, baile das vellas en honor a San Antonio; a las 14:00 h sesión vermú con la Banda de Música Municipal de Valga; a las 18:00 h pasacalles (por Beira y Ferreirós) con la Charanga Os Encerellados.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-antonio-de-cordeiro-valga_img14226n1t0.jpg",
+  "fechaInicio": "2026-06-12",
+  "fechaFin": "2026-06-14",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Abegondo",
+  "parroquia": "Cabanas",
+  "nombre": "San Antonio de Cabanas",
+  "bandas": [
+   "DJ David Exposito",
+   "Orquesta Origen",
+   "Carapaus",
+   "Manolete de Felisa",
+   "So Elas",
+   "Yeisimusic"
+  ],
+  "comida": [
+   "Gran churrascada con postre",
+   "Churrascada popular"
+  ],
+  "programaCartel": "Viernes 5 de junio: al atardecer, gran churrascada con postre; verbena con DJ David Exposito y Orquesta Origen. Sabado 6 de junio: a las 20:00, V Foliada San Antonio de Cabanas (participan Arnela de Carral, A Fuliada de Betanzos, Do Lado do Sol de Abegondo y Asociacion Folclorica de Oleiros); al rematar las actuaciones, churrascada popular y foliada aberta (organiza AVC O Carballal - Do Lado do Sol); a las 22:00, concierto de Carapaus y Manolete de Felisa (recinto con carpa). Domingo 7 de junio: misa solemne a las 13:00; sesion vermu con So Elas y Yeisimusic.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-antonio-de-cabanas-abegondo_img3876n1t0.jpg",
+  "fechaInicio": "2026-06-05",
+  "fechaFin": "2026-06-07",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Abegondo",
+  "parroquia": "Folgoso",
+  "nombre": "Festas de Folgoso (Santa Dorotea)",
+  "bandas": [
+   "Orquesta Fuego",
+   "DJ Maikstyle",
+   "Aixa Romay",
+   "Dúo Primera Fila"
+  ],
+  "comida": [
+   "Gran churrascada"
+  ],
+  "programaCartel": "Viernes 19 de junio: al atardecer, gran churrascada y gran verbena con la orquesta Fuego y DJ Maikstyle. Sabado 20: apertura de la temporada de la piscina de Beche; a las 17.00 h, sesion de tarde con Aixa Romay. Domingo 21: misa solemne a las 13.00 h, seguida de sesion vermut con el Duo Primera Fila.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-de-folgoso-abegondo_img7815n1t0.jpg",
+  "fechaInicio": "2026-06-19",
+  "fechaFin": "2026-06-21",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Arteixo",
+  "parroquia": "",
+  "nombre": "Festas do Apóstolo (Santiago Apóstol)",
+  "bandas": [
+   "Nano MZ",
+   "Orquestra Cinema",
+   "DJ Kike Varela",
+   "Orquestra La Misión",
+   "Grupo Kalima 3.0",
+   "Grupo de Gaitas AC Triskell",
+   "Banda de Música Santiago de Arteixo",
+   "Coral Polifónica de Meira",
+   "Dúo Aixa Romay",
+   "Tanit Cobas (danza contemporánea)",
+   "Banda de Música Santiago de Arteixo (tributo)",
+   "Orquestra Panorama",
+   "Grupo Ache",
+   "Coro Addnai",
+   "Banda de Música Santiago de Arteixo",
+   "Dúo Élite",
+   "Soraya Arnelas",
+   "Disco Móvil Impacto",
+   "Orquestra Marbella",
+   "Coro Parroquial",
+   "Grupo de Gaitas Da AC Xira-Xira",
+   "Dúo D'Vicio",
+   "Banda Xuvenil Da BMA",
+   "Los Satélites",
+   "Grupo Origen",
+   "Los Sonidos del Mar"
+  ],
+  "comida": [],
+  "programaCartel": null,
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/santiago-apostol-arteixo_img3218n1t0.jpg",
+  "fechaInicio": "2026-09-23",
+  "fechaFin": "2026-09-27",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Bergondo",
+  "parroquia": "Lubre",
+  "nombre": "San Xoán de Lubre",
+  "bandas": [
+   "Orquesta Olympus",
+   "Orquesta Mar Azul",
+   "Disco Móvil"
+  ],
+  "comida": [
+   "Churrascada con pan e viño",
+   "Gran Pulpada con pan e viño (Pulpeira Taboada)",
+   "Reparto de pinchos, callos e empanada",
+   "Mexillonada con pan e viño",
+   "Merenda para os nenos"
+  ],
+  "programaCartel": "Ver arriba",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-xoan-de-lubre-bergondo_img3607n1t0.jpg",
+  "fechaInicio": "2026-06-20",
+  "fechaFin": "2026-06-24",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Culleredo",
+  "parroquia": "Rutis",
+  "nombre": "Festas de Vilaboa (Virgen del Carmen, Santísimo Sacramento, San Antonio)",
+  "bandas": [
+   "Trío O Dilema",
+   "Los Platinos",
+   "Mejy",
+   "Orquesta Ritmo Joven",
+   "Galilea",
+   "Orquesta Charleston",
+   "Big Band",
+   "Orquesta Cinema"
+  ],
+  "comida": [
+   "Gran Churrascada (lunes 14, 19:00)"
+  ],
+  "programaCartel": ".",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-de-vilaboa-culleredo_img2940n1t0.jpg",
+  "fechaInicio": "2026-07-11",
+  "fechaFin": "2026-07-15",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Culleredo",
+  "parroquia": "O Burgo",
+  "nombre": "Festas do Apóstolo de O Burgo (Santiago Apóstol, Virgen del Carmen)",
+  "bandas": [
+   "Miramar",
+   "Capitol",
+   "Os da Veira do Monte",
+   "Santa Compaña",
+   "Os Jalácticos",
+   "Dúo Dilema",
+   "Fania Blanco Show",
+   "Origen",
+   "Alambique",
+   "Los Caimanes",
+   "Dúo Estrellas",
+   "Marbella",
+   "París de Noia"
+  ],
+  "comida": [
+   "Churrascada popular"
+  ],
+  "programaCartel": "Festas do Apóstolo de O Burgo (Culleredo), del 23 al 28 de julio. Miércoles 23: grandiosa verbena Miramar. Jueves 24: fabulosa verbena Capitol. Viernes 25: alborada con Os da Veira do Monte, pasarrúas con charangas, Santa Compaña e Os Jalácticos, sesión vermut con Dúo Dilema y extraordinaria verbena Fania Blanco Show. Sábado 26: gran verbena Origen. Domingo 27: alborada con Os da Veira do Monte, pasarrúas con charangas, Alambique e Los Caimanes, sesión vermut con Dúo Estrellas y espectacular verbena Marbella. Lunes 28: churrascada popular, gran verbena fin de festa París de Noia y queima de fogos artificiais.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-do-apostolo-de-o-burgo-culleredo_img3524n1t0.jpg",
+  "fechaInicio": "2026-07-23",
+  "fechaFin": "2026-07-28",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Oleiros",
+  "parroquia": "Dorneda",
+  "nombre": "Virxe do Rosario de Dorneda",
+  "bandas": [
+   "Los Satélites",
+   "Os Pinheiros (banda)",
+   "Grupo Tattoo",
+   "Dúo Maracaibo",
+   "Navallas"
+  ],
+  "comida": [
+   "Langostinos",
+   "Churrascada"
+  ],
+  "programaCartel": "Viernes 4 de julio: a partir de las 20:00 langostinos en el campo de la fiesta; a partir de las 22:30 gran verbena con la orquesta Los Satélites, y además en el descanso la banda Os Pinheiros. Sábado 5 de julio: a las 18:00 fútbol masculino (casados, arrimados y viudos contra solteros, divorciados y separados) en la pista de la casa do pobo; a las 19:00 fútbol femenino (casadas, arrimadas y viudas contra solteras, divorciadas y separadas); a partir de las 20:00 churrascada en el campo de la fiesta; a partir de las 22:30 gran verbena con el Grupo Tattoo, y en el descanso el Dúo Maracaibo. Domingo 6 de julio: a las 08:30 dianas y alboradas; a las 12:00 II Mercado de Proximidade; a las 13:30 misa solemne en honra a la Virxe do Rosario; a las 14:00 Romaría do Rosario con Navallas; sesión vermú; a las 18:00 cine en el campo de la fiesta y actuación del Dúo Maracaibo. Organiza: Xente de Dorneda. Colabora: Concello de Oleiros.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/virxe-do-rosario-de-dorneda-oleiros_img7011n1t0.jpg",
+  "fechaInicio": "2026-07-04",
+  "fechaFin": "2026-07-06",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Sada",
+  "parroquia": "Sada",
+  "nombre": "Festas Patronais (Gran San Roque y Santa María)",
+  "bandas": [
+   "Los Satélites",
+   "Los Platinos",
+   "Charanga NBA",
+   "París de Noia",
+   "Banda de Música Municipal",
+   "Son Boleros",
+   "Charanga DGT",
+   "Kubo",
+   "La Banda de Ayer"
+  ],
+  "comida": [],
+  "programaCartel": "Cartel de conciertos de las Festas de Agosto de Sada 2026. 15 de agosto: Los Satélites, Los Platinos y Charanga NBA. 16 de agosto: París de Noia, Banda de Música Municipal, Son Boleros y Charanga DGT. 17 de agosto: Kubo. 18 de agosto: La Banda de Ayer.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-patronais-sada_img5820n1t0.jpg",
+  "fechaInicio": "2026-08-15",
+  "fechaFin": "2026-08-18",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Oza-Cesuras",
+  "parroquia": "Oza",
+  "nombre": "San Pedro y Santísimo Sacramento de Oza",
+  "bandas": [
+   "Orquesta Compostela",
+   "DJ Ferre",
+   "Grupo de Gaitas O Xico",
+   "Banda de Música de Oza-Cesuras",
+   "Orquesta Trébol",
+   "Charanga DGT",
+   "Orquesta Olympus",
+   "Discomóvil DJ Sebas21"
+  ],
+  "comida": [
+   "Gran churrascada"
+  ],
+  "programaCartel": "Grandes Festas en Oza, en honor a San Pedro de Oza, edición que figura como 2025.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-pedro-y-santisimo-sacramento-de-oza-oza-cesuras_img11559n1t0.jpg",
+  "fechaInicio": "2026-07-05",
+  "fechaFin": "2026-07-07",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "A Capela",
+  "parroquia": "Sande",
+  "nombre": "Santiago Apóstol de Sande",
+  "bandas": [
+   "Grupo Pasión",
+   "Dúo Estrellas",
+   "Grupo Arena",
+   "Orquesta Ritmo Joven"
+  ],
+  "comida": [
+   "Churrasco (racións, 10 €)"
+  ],
+  "programaCartel": "Festas na honra de Santiago Apóstol en Sande, A Capela. 25 de xullo: 12:00 misa solemne no local social \"O Noso Lar\"; sesión vermú co Grupo Pasión; pola noite gran verbena con Grupo Pasión + Dúo Estrellas. 26 de xullo: 12:00 misa solemne no local social \"O Noso Lar\"; sesión vermú co Grupo Arena; pola noite gran verbena con Grupo Arena + Orquesta Ritmo Joven, e sorteo de agasallos. O día 26 hai racións de churrasco no campo da festa (10 €).",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/santiago-apostol-de-sande-a-capela_img2814n1t0.jpg",
+  "fechaInicio": "2026-07-25",
+  "fechaFin": "2026-07-26",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Monfero",
+  "parroquia": "San Fiz",
+  "nombre": "San Fiz de Monfero",
+  "bandas": [
+   "Alaska",
+   "Panamá",
+   "Nueva Fuerza",
+   "DJ Sebas",
+   "Grupo Folklórico Virxe da Cela",
+   "Maracaibo",
+   "Cayenna",
+   "Dúo Maracaibo"
+  ],
+  "comida": [],
+  "programaCartel": "Fiestas de San Fiz de Monfero. Viernes 1 de agosto: dianas e alboradas, misa solemne a las 13:00, sesión vermú con la orquesta Alaska, verbena a partir de las 23:00 con Alaska y Panamá. Sábado 2 de agosto: dianas e alboradas, misa solemne a las 13:00, sesión vermú con Nueva Fuerza, actuación del Grupo Folklórico parroquial Virxe da Cela, verbena a partir de las 23:00 con Nueva Fuerza y DJ Sebas. Domingo 3 de agosto: dianas e alboradas, misa solemne a las 13:00, sesión vermú con Maracaibo, a las 23:00 fin de fiesta con Cayenna y Dúo Maracaibo (de Xixón).",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-fiz-monfero_img1313n1t0.jpg",
+  "fechaInicio": "2026-08-01",
+  "fechaFin": "2026-08-03",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Pontedeume",
+  "parroquia": "Andrade",
+  "nombre": "Feirón Medieval dos Andrade",
+  "bandas": [],
+  "comida": [],
+  "programaCartel": null,
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/feiron-medieval-dos-andrade-pontedeume_img5560n1t0.jpg",
+  "fechaInicio": "2026-07-03",
+  "fechaFin": "2026-07-05",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Ferrol",
+  "parroquia": "Filgueira",
+  "nombre": "San Xoán de Filgueira",
+  "bandas": [
+   "Cinema",
+   "Kalima 3.0",
+   "Pasion",
+   "Los Alcantara",
+   "La Promesa",
+   "Malditos Pendejos",
+   "America de Vigo",
+   "Retumbatuke",
+   "Banda do Noso Padre Jesus Nazareno",
+   "Acordes",
+   "Los Satelites",
+   "A Roda",
+   "Tambukda",
+   "Calibre",
+   "Panama",
+   "Jaque",
+   "AEIOU"
+  ],
+  "comida": [
+   "Gran churrascada",
+   "Gran paellada popular",
+   "Gran sardinada popular",
+   "Rica queimada popular gratuita"
+  ],
+  "programaCartel": "Viernes 20: a las 9:00 dianas y alboradas con gaiteiros y charanga por la parroquia; a partir de las 23:00 gran verbena con las orquestas Cinema y Kalima 3.0. Sábado 21: sesion vermu con el grupo Pasion y a continuacion gran churrascada; por la tarde grupos de rock locales Los Alcantara, La Promesa y Malditos Pendejos; a partir de las 18:00 batucada Retumbatuke por los bares de la zona; a partir de las 22:30 gran verbena con America de Vigo y Pasion. Domingo 22: a las 13:00 misa solemne y procesion con la Banda do Noso Padre Jesus Nazareno; sesion vermu con la orquesta Acordes y a continuacion gran paellada popular; a partir de las 17:00 animacion infantil a cargo de AEIOU (magia, juegos, baile); a partir de las 22:30 gran verbena con las orquestas Acordes y Los Satelites. Lunes 23: Gran Noite Meiga; a partir de las 19:00 gran sardinada popular; arrufada con el grupo gallego A Roda; a partir de las 22:00 salida de la Bruxa con batucada Tambukda por los bares hasta el Campo da Festa, queima da bruxa, luminaria y fuegos artificiales ademas de rica queimada popular gratuita; a partir de las 22:30 gran verbena con las orquestas Calibre y Panama. Martes 24: Dia do Neno con atracciones en el campo da festa; sesion vermu larga con el grupo Jaque.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-xoan-de-filgueira-ferrol_img6990n1t0.jpg",
+  "fechaInicio": "2026-06-20",
+  "fechaFin": "2026-06-24",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Narón",
+  "parroquia": "Sedes",
+  "nombre": "San Xoán de Sedes",
+  "bandas": [
+   "Banda de Gaitas de Ladrido",
+   "Mediaarea"
+  ],
+  "comida": [
+   "Churrascada popular"
+  ],
+  "programaCartel": "Viernes 19 de junio de 2026, en el Centro Cívico de Sedes (Narón). 18:00 juegos populares para grandes y pequeños; 20:30 actuación de la Banda de Gaitas de Ladrido; 21:00 churrascada popular; 22:00 concierto de Mediaarea; 23:30 fogata (lumeirada) popular, con sorteos durante toda la noche.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-xoan-de-sedes-naron_img38527n1t0.jpg",
+  "fechaInicio": "2026-06-19",
+  "fechaFin": "2026-06-19",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Cerdido",
+  "parroquia": "Os Casás",
+  "nombre": "San Xoán de Os Casás",
+  "bandas": [
+   "Orquesta Salsarena",
+   "Dúo Calú",
+   "Coral Eixil (Cedeira)",
+   "A.C. Troula do Ortegal",
+   "Grupo Montreal"
+  ],
+  "comida": [],
+  "programaCartel": "Festas na honra a San Xoán en Os Casás (Cerdido), 20 e 21 de xuño de 2026.\n\nSábado 20: a partir das 14:00, Sesión Vermú coa orquesta Salsarena. Pola noite, Gran Verbena con orquesta (Salsarena y Dúo Calú).\n\nDomingo 21: ás 14:00, Misa Solemne cantada pola Coral Eixil (Cedeira), seguida de procesión amenizada pola A.C. Troula do Ortegal. A continuación, Sesión Vermú longa. Pola noite, verbena co Grupo Montreal.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-xoan-de-os-casas-cerdido_img13193n1t0.jpg",
+  "fechaInicio": "2026-06-20",
+  "fechaFin": "2026-06-21",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Pontevedra",
+  "parroquia": "Tomeza",
+  "nombre": "San Pedro de Tomeza",
+  "bandas": [
+   "Son de Cores",
+   "La Oca Band",
+   "Furia Joven"
+  ],
+  "comida": [
+   "Pulpada",
+   "Churrasco",
+   "Servizo de bar"
+  ],
+  "programaCartel": "Festas Patronais na honra de San Pedro (Tomeza). Domingo 22: pola mañá percorrido pola parroquia co grupo Son de Cores; ás 12:30 misa na honra do Santísimo. Domingo 29: remate do percorrido pola parroquia con Son de Cores; ás 13:15 misa solemne con procesión; ás 14:00 sesión vermú con Son de Cores; ás 20:30 comezo da verbena coas orquestras La Oca Band e Furia Joven, con sorteos durante a verbena. Durante todo o día servizo de bar con pulpada, churrasco e atraccións para todas as idades.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-pedro-de-tomeza-pontevedra_img9816n1t0.jpg",
+  "fechaInicio": "2026-06-22",
+  "fechaFin": "2026-06-29",
+  "notaCartel": "Cartel oficial 2026."
  }
 ]
