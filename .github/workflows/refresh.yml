@@ -47,7 +47,7 @@ jobs:
         run: |
           git config user.name  "verbenapp-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add verbenas.json orquestas.json actuaciones.json actuaciones-galicia.json actuaciones-detalle.json
+          git add -A
           if git diff --cached --quiet; then
             echo "Sin cambios."
           else
@@ -55,7 +55,7 @@ jobs:
             git pull --rebase --autostash origin main || true
             git push
             echo "Purgando caché de jsDelivr..."
-            for f in verbenas.json orquestas.json; do
+            for f in fichas-lite.json fichas.json verbenas-lite.json verbenas.json orquestas.json; do
               curl -s "https://purge.jsdelivr.net/gh/milulez/verbenapp-data@main/$f" >/dev/null || true
             done
           fi
