@@ -39,6 +39,8 @@ echo "== 9c/10 investigación por concello (research/*.json -> match a verbenas)
 if ls research/*.json >/dev/null 2>&1; then python3 _match-research.py; else echo "  (sin research/, salto)"; fi
 echo "== 9d/10 alta de fiestas nuevas descubiertas (research_nuevas.json) =="
 if [ -f research_nuevas.json ]; then python3 _add-nuevas.py; else echo "  (sin research_nuevas.json, salto)"; fi
+echo "== 9d2/10 carteles OCR (programa oficial, maxima confianza) =="
+if [ -f carteles.json ]; then python3 _apply-carteles.py; fi
 echo "== 9e/10 limpieza final (concellos-ruido, dedup, vacíos) =="
 python3 _clean-final.py
 echo "== 10/10 indice de busqueda (orquesta/churrasco/atracciones/lenguaje natural) =="
