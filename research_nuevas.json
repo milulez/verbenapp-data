@@ -2152,6 +2152,386 @@
   "provincia": "A Coruña"
  },
  {
+  "parroquia": "Landrove",
+  "nombre": "Festa da Paella de Landrove",
+  "fecha2026": "2026-08-02",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta gastronómica de la parroquia de Landrove en torno a una paella popular a precios populares.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Paella popular"
+  ],
+  "servicios": [
+   "Degustación a precios populares"
+  ],
+  "tradicion": null,
+  "programa": "Degustación de paella popular.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-viveiro-159.html"
+  ],
+  "concello": "Viveiro",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Vieiro",
+  "nombre": "San Cipriano de Vieiro",
+  "fecha2026": "2026-09-19",
+  "fechaFin2026": "2026-09-21",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Cipriano en la parroquia de Vieiro, con actos religiosos y música.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Música"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-viveiro-159.html"
+  ],
+  "concello": "Viveiro",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Lalín",
+  "nombre": "VI Galicia Clarinet Fest",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "VI edición",
+  "historiaCorta": "El mayor festival de clarinete de todo el territorio nacional, que convierte a Lalín en capital de este instrumento a finales de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Conciertos y actividades musicales"
+  ],
+  "tradicion": "Presumido como el festival de clarinete más grande de España.",
+  "programa": "Conciertos y actividades en torno al clarinete (28 julio - 1 agosto).",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-lalin-277.html"
+  ],
+  "concello": "Lalín",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Lalín",
+  "nombre": "XIV Concurso de Tapas do Deza - Deztapate",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "XIV edición",
+  "historiaCorta": "Concurso de tapas que recorre más de una decena de locales hosteleros de Lalín a finales de agosto con creaciones de la cocina dezana.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Tapas y creaciones de cocina del Deza en más de una decena de bares"
+  ],
+  "servicios": [
+   "Ruta por locales hosteleros del centro"
+  ],
+  "tradicion": null,
+  "programa": "Ruta de tapas por bares de Lalín (22-31 agosto).",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-lalin-277.html"
+  ],
+  "concello": "Lalín",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Donramiro",
+  "nombre": "Nosa Señora de Montserrat de Donramiro",
+  "fecha2026": "2026-09-12",
+  "fechaFin2026": "2026-09-15",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de la Nosa Señora de Montserrat en Donramiro, con oficios religiosos, variadas actuaciones musicales y actos lúdicos.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones musicales",
+   "Actos lúdicos"
+  ],
+  "tradicion": null,
+  "programa": "Oficios religiosos, música y actos lúdicos (12-15 septiembre).",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-lalin-277.html"
+  ],
+  "concello": "Lalín",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Illa de San Simón",
+  "nombre": "Encordass Fest",
+  "fecha2026": "2026-07-03",
+  "fechaFin2026": "2026-07-06",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festival de música popular en la isla de San Simón, con microconciertos sorpresa en distintas ubicaciones.",
+  "historiaLarga": null,
+  "tradicion": "Se celebra en el singular entorno de la isla de San Simón.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Microconciertos sorpresa de música popular por distintos puntos de la isla.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-redondela-298.html"
+  ],
+  "concello": "Redondela",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "As Neves",
+  "nombre": "VI Festa da Paella",
+  "fecha2026": "2026-08-03",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "VI edición",
+  "historiaCorta": "Degustación popular de paella en la Praza do Mercado de As Neves.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": null,
+  "gastronomia": [
+   "Paella"
+  ],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-as-neves-287.html"
+  ],
+  "concello": "As Neves",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "As Neves",
+  "nombre": "XII Batalla de Auga",
+  "fecha2026": "2026-08-03",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "XII edición",
+  "historiaCorta": "Divertida batalla de agua para disfrute de todas las edades, una de las citas más refrescantes del verano nevense.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": null,
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-as-neves-287.html"
+  ],
+  "concello": "As Neves",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "As Neves",
+  "nombre": "Concentración de Clásicos",
+  "fecha2026": "2026-07-25",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Exhibición de vehículos clásicos acompañada de churrascada popular.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": null,
+  "gastronomia": [
+   "Churrasco"
+  ],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/concentracion-de-clasicos-as-neves-47163.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-as-neves-287.html"
+  ],
+  "concello": "As Neves",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "As Neves",
+  "nombre": "RequeSound Festival",
+  "fecha2026": "2026-07-25",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festival de música con entrada gratuita en As Neves.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": null,
+  "gastronomia": [],
+  "servicios": [
+   "Entrada gratuita"
+  ],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-as-neves-287.html"
+  ],
+  "concello": "As Neves",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "As Neves",
+  "nombre": "XV Ruta BTT do Requesón",
+  "fecha2026": "2026-06-14",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "XV edición",
+  "historiaCorta": "Ruta cicloturista de montaña que recorre los montes del concello de As Neves.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": null,
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-as-neves-287.html"
+  ],
+  "concello": "As Neves",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Tortoreos",
+  "nombre": "Santiago Apóstol de Tortoreos",
+  "fecha2026": "2026-07-24",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de Santiago Apóstol en Tortoreos con gran churrascada y actuación musical.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": null,
+  "gastronomia": [
+   "Churrasco"
+  ],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-as-neves-287.html"
+  ],
+  "concello": "As Neves",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "As Neves",
+  "nombre": "XXXVIII Festa do Carneiro de Miranciños",
+  "fecha2026": "2026-08-02",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "XXXVIII edición",
+  "historiaCorta": "Veterana fiesta gastronómica de Miranciños en torno al cordero (carneiro), con casi cuarenta ediciones de tradición.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": null,
+  "gastronomia": [
+   "Carneiro (cordero)"
+  ],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-as-neves-287.html"
+  ],
+  "concello": "As Neves",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "A Guarda",
+  "nombre": "San Caetano",
+  "fecha2026": "2026-07-24",
+  "fechaFin2026": "2026-08-07",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de verano en A Guarda en torno al 7 de agosto, con su ciclo de actos festivos y verbena.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbena"
+  ],
+  "programa": "Ciclo de actos festivos y verbena (24 julio - 7 agosto).",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-guarda-276.html"
+  ],
+  "concello": "A Guarda",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "A Guarda",
+  "nombre": "Fiesta del Percebe",
+  "fecha2026": "2026-08-22",
+  "fechaFin2026": "2026-08-24",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta gastronómica del percebe a finales de agosto, que ensalza uno de los mariscos más cotizados de la costa guardesa. En 2026 rondaría su XI edición.",
+  "historiaLarga": null,
+  "tradicion": "Homenaje al percebe de las rocas batidas de la costa de A Guarda.",
+  "gastronomia": [
+   "Percebes"
+  ],
+  "servicios": [
+   "Degustaciones"
+  ],
+  "programa": "Degustaciones de percebe y actos festivos (22-24 agosto).",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-guarda-276.html"
+  ],
+  "concello": "A Guarda",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Santo Tomé (Cambados)",
+  "nombre": "A Valvanera",
+  "fecha2026": "2026-09-06",
+  "fechaFin2026": "2026-09-07",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas en honor a la Virgen de Valvanera en el barrio marinero de Santo Tomé, con actos religiosos y verbenas populares.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y verbenas populares.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cambados-260.html"
+  ],
+  "concello": "Cambados",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Aranga",
+  "nombre": "XIII Merendas nas Fragas",
+  "fecha2026": "2026-08-16",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "XIII edición (en torno a 2025-2026)",
+  "historiaCorta": "Fiesta popular de verano en torno a una merienda al aire libre en las fragas, con animación musical y actividades.",
+  "historiaLarga": null,
+  "tradicion": "Merienda comunitaria en el entorno natural de las fragas de Aranga.",
+  "gastronomia": [
+   "Merienda popular"
+  ],
+  "servicios": [],
+  "programa": "Merienda con animación musical y actividades.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-aranga-3.html"
+  ],
+  "concello": "Aranga",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Coirós",
+  "nombre": "VII Foliada de Queirís",
+  "fecha2026": null,
+  "fechaConfianza": "probable",
+  "fechaFin2026": null,
+  "historiaCorta": "Foliada folclórica celebrada en la antigua escuela de Queirís, con música tradicional gallega para todas las edades.",
+  "historiaLarga": null,
+  "fundacion": "La edición de 2025 fue la VII (séptima), por lo que la cita arrancó hacia 2018.",
+  "tradicion": "Encuentro de música y baile tradicional que culmina en una gran noche de folk gallego.",
+  "gastronomia": [
+   "Pulpo",
+   "Carne a la brasa (churrasco)"
+  ],
+  "servicios": [],
+  "programa": "Actos folclóricos durante el día que culminan en una noche de música tradicional.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-coiros-28.html",
+   "https://www.paxinasgalegas.es/fiestas/foliada-coiros-25272.html"
+  ],
+  "concello": "Coirós",
+  "provincia": "A Coruña"
+ },
+ {
   "parroquia": "Santa Locaia (Becín)",
   "nombre": "San Ramón e San Xulián de Becín",
   "fecha2026": "2026-08-29",
