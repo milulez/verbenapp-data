@@ -1,0 +1,4009 @@
+[
+ {
+  "parroquia": "Curtis",
+  "nombre": "Noite de San Xoán",
+  "fecha2026": "2026-06-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "La clásica noche de San Juan se celebra en la Carballeira de Curtis con cena tradicional y música al raso, recibiendo el verano alrededor del fuego.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Menú tradicional de cena"
+  ],
+  "servicios": [],
+  "tradicion": "Noche mágica de San Juan al aire libre en la carballeira.",
+  "programa": "Cena con menú tradicional y animación musical.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "A Illana",
+  "nombre": "Santa Xuliana de A Illana",
+  "fecha2026": "2026-06-06",
+  "fechaFin2026": "2026-06-07",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "La parroquia de A Illana honra a Santa Xuliana con un fin de semana que combina liturgia, comida popular y una vistosa ruta a caballo.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida popular"
+  ],
+  "servicios": [],
+  "tradicion": "Ruta cabalar (a caballo) por la parroquia.",
+  "programa": "Acto litúrgico, comida popular, ruta cabalar y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Foxado",
+  "nombre": "San Xoán de Foxado",
+  "fecha2026": "2026-06-24",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Foxado celebra a su San Juan el 24 de junio con misa, churrascada y sardiñada amenizadas con música.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrascada",
+   "Sardiñada (sardinas asadas)"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa en honor al santo, churrascada, sardiñada y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Curtis",
+  "nombre": "Festa da Carballeira",
+  "fecha2026": "2026-07-13",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Jornada de convivencia en la Carballeira con comida campestre y sesión vermú para arrancar el verano festivo.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida campestre"
+  ],
+  "servicios": [
+   "Sesión vermú"
+  ],
+  "tradicion": null,
+  "programa": "Comida y sesión vermú.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Teixeiro",
+  "nombre": "Festa da Xuventude de Teixeiro",
+  "fecha2026": "2026-07-16",
+  "fechaFin2026": "2026-07-19",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "La comisión juvenil de Teixeiro organiza varios días de fiesta con mejillonada y orquestas, uno de los platos fuertes del verano en la villa.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Mejillonada"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Pasacalles, mejillonada y actuaciones musicales de orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html",
+   "https://www.paxinasgalegas.es/fiestas/festa-da-xuventude-de-teixeiro-curtis-2228.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Foxado",
+  "nombre": "Santiago Apóstol e Santa Ana de Paradela",
+  "fecha2026": "2026-07-25",
+  "fechaFin2026": "2026-07-26",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "El lugar de Paradela (parroquia de Foxado) festeja a Santiago Apóstol y Santa Ana con actos religiosos y verbena de fin de semana.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Curtis",
+  "nombre": "Curtis na Lembranza - As Feiras de 1900",
+  "fecha2026": "2026-07-25",
+  "fechaFin2026": "2026-07-26",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Recreación de las antiguas ferias de 1900 que llena Curtis de mercado de productos típicos, oficios, baile y exposiciones de aire histórico.",
+  "historiaLarga": "Curtis na Lembranza recrea las feiras de principios del siglo XX que hicieron de Curtis un punto de paso y comercio en la comarca de Betanzos. Durante el fin de semana, calles y plazas se ambientan con un mercado de productos típicos gallegos, obradoiros de oficios tradicionales, conciertos, baile y exposiciones, en una propuesta de interés turístico que reivindica la memoria local y el patrimonio ferial de la villa.",
+  "gastronomia": [
+   "Productos típicos gallegos de mercado"
+  ],
+  "servicios": [],
+  "tradicion": "Recreación histórica ambientada en las ferias de 1900.",
+  "programa": "Mercado de productos típicos, conciertos, obradoiros, baile y exposiciones.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Foxado",
+  "nombre": "Virxe das Neves de Foxado",
+  "fecha2026": "2026-08-02",
+  "fechaFin2026": "2026-08-03",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Foxado dedica los primeros días de agosto a la Virxe das Neves con misas y verbenas con orquesta.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misas y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Teixeiro",
+  "nombre": "Festa do Cabalo",
+  "fecha2026": "2026-08-02",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "El primer domingo de agosto Teixeiro vive su Festa do Cabalo, con actividades ecuestres y pruebas puntuables para el Campeonato Gallego.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Pruebas hípicas puntuables para el Campeonato Gallego; fuerte tradición caballar de la zona.",
+  "programa": "Actividades ecuestres y pruebas puntuables para el Campeonato Gallego.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Teixeiro",
+  "nombre": "Festa do Polbo de Teixeiro",
+  "fecha2026": "2026-08-14",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "XVIII edición en 2026 (XVII en 2024, XVI en 2023)",
+  "historiaCorta": "La fiesta gastronómica más conocida de Teixeiro: pulpo a precios populares y música, en 2026 llega a su XVIII edición de la mano de la comisión de festas.",
+  "historiaLarga": "La Festa do Polbo de Teixeiro es la cita gastronómica de referencia del verano en esta parroquia de Curtis. Organizada por la Comisión de Festas / Xuventude Teixeiro, alcanza en 2026 su XVIII edición (fue la XVII en 2024 y la XVI en 2023), lo que la consolida como una fiesta de larga trayectoria. La jornada gira en torno al polbo á feira servido a precios populares, acompañado de cerveza en vaso tradicional y aperitivos, y se anima con actuaciones musicales hasta bien entrada la noche.",
+  "gastronomia": [
+   "Polbo á feira (pulpo) a precios populares",
+   "Cerveza en vaso tradicional con aperitivos"
+  ],
+  "servicios": [
+   "Precios populares"
+  ],
+  "tradicion": "Una de las fiestas del pulpo de referencia de la comarca.",
+  "programa": "Degustación de pulpo a precios populares y animación musical.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html",
+   "https://www.paxinasgalegas.es/fiestas/festa-do-polbo-de-teixeiro-curtis-14371.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fisteus",
+  "nombre": "Santa María de Fisteus",
+  "fecha2026": "2026-08-14",
+  "fechaFin2026": "2026-08-15",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fisteus celebra a su patrona, Santa María, en torno al 15 de agosto con misa y verbenas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html",
+   "https://www.paxinasgalegas.es/fiestas/santa-maria-de-fisteus-curtis-1124.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fisteus",
+  "nombre": "Festas de Xabriño",
+  "fecha2026": "2026-08-16",
+  "fechaFin2026": "2026-09-08",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "En el lugar de Xabriño (Fisteus) se honra a San Roque y a la Virxe Peregrina con actos religiosos y música entre mediados de agosto y primeros de septiembre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Devoción a San Roque y a la Virxe Peregrina.",
+  "programa": "Actos religiosos (San Roque y Virxe Peregrina) y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html",
+   "https://www.paxinasgalegas.es/fiestas/festas-de-xabri%c3%b1o-curtis-2229.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Teixeiro",
+  "nombre": "San Bartolomé de Santaia",
+  "fecha2026": "2026-08-23",
+  "fechaFin2026": "2026-08-24",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "El lugar de Santaia (Teixeiro) festeja a San Bartolomé a finales de agosto con oficios religiosos y verbenas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Oficios religiosos y verbenas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Lourdes",
+  "nombre": "Fiestas Patronales de Nosa Señora de Lourdes",
+  "fecha2026": "2026-08-30",
+  "fechaFin2026": "2026-09-02",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Las fiestas patronales de la villa de Curtis honran a su patrona, Nuestra Señora de Lourdes, con actos religiosos y verbenas con orquesta a caballo entre agosto y septiembre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Patrona de la villa de Curtis.",
+  "programa": "Actos religiosos y verbenas con orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-patronales-curtis-2226.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Teixeiro",
+  "nombre": "Nosa Señora dos Remedios de Teixeiro",
+  "fecha2026": "2026-09-06",
+  "fechaFin2026": "2026-09-09",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Teixeiro cierra el verano festivo con la Nosa Señora dos Remedios: varios días de sesiones vermú, verbenas con orquesta y actos religiosos.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Sesiones vermú"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos matutinos, sesiones vermú y verbenas con orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-curtis-33.html"
+  ],
+  "concello": "Curtis",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Churío",
+  "nombre": "Florium - Romaría Tribal",
+  "fecha2026": "2026-07-04",
+  "fechaFin2026": "2026-07-05",
+  "fechaConfianza": "confirmada-web",
+  "fundacion": null,
+  "historiaCorta": "Romería autogestionada e independiente que recoge la tradición de las romerías gallegas y la reinventa como festival holístico, comunitario y de crecimiento personal. Se celebra cada julio en Churío.",
+  "historiaLarga": "Florium es un festival autogestionado e independiente que cada verano transforma la parroquia de Churío en un punto de encuentro para el bienestar, el arte y la comunidad. Toma como base la tradición secular de las romarías gallegas (encuentro, naturaleza, música, comida compartida) y la proyecta hacia un formato contemporáneo y holístico. La propuesta combina espacios de terapias y movimiento, círculos de experiencias, mercadillo de productos artesanos, música y arte en vivo, talleres transformadores y comida vegetariana y ecológica. El acceso al espacio central es por aportación voluntaria. La edición de 2026 se celebra el sábado 4 y domingo 5 de julio.",
+  "gastronomia": [
+   "Comida vegetariana y ecológica",
+   "Puestos de comida artesana y saludable"
+  ],
+  "servicios": [
+   "Acceso por aportación voluntaria",
+   "Mercadillo artesano",
+   "Actividades infantiles",
+   "Espacios de bienestar y terapias"
+  ],
+  "tradicion": "Recupera el espíritu de las romerías gallegas (naturaleza, música y comunidad) en clave holística y contemporánea. Atractivo turístico singular del concello.",
+  "programa": "Mercadillo artesano, puestos de comida ecológica, escenario con música en vivo, talleres, yoga, rituales de música sanadora, danzaterapia y círculos de experiencias.",
+  "fuentes": [
+   "https://floriumromariatribal.com/",
+   "https://www.festivalesdeespana.com/en/festival/florium-tribal-pilgrimage-of-churio-irixoa",
+   "https://www.paxinasgalegas.es/fiestas/florium-romaria-tribal-irixoa-33032.html"
+  ],
+  "concello": "Irixoa",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mántaras",
+  "nombre": "Virxe das Neves",
+  "fecha2026": "2026-08-04",
+  "fechaFin2026": "2026-08-05",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de Mántaras en honor a la Virxe das Neves, con actos religiosos y verbena. Se celebra a comienzos de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos (misa y procesión) y actuaciones musicales / verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-irixoa-40.html"
+  ],
+  "concello": "Irixoa",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mántaras",
+  "nombre": "Romaría de San Cosme",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Romería tradicional de la parroquia de Mántaras dedicada a San Cosme, celebrada en verano.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-irixoa-40.html"
+  ],
+  "concello": "Irixoa",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Coruxou",
+  "nombre": "San Salvador de Coruxou",
+  "fecha2026": "2026-08-06",
+  "fechaFin2026": "2026-08-07",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de la parroquia de Coruxou en honor a San Salvador, con servicios religiosos y verbena con música en directo.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y celebración festiva con música en directo / verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-salvador-de-coruxou-irixoa-1266.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-irixoa-40.html"
+  ],
+  "concello": "Irixoa",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Irixoa",
+  "nombre": "San Lourenzo",
+  "fecha2026": "2026-08-10",
+  "fechaFin2026": "2026-08-11",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Principal fiesta patronal del concello, en honor a San Lourenzo, con actos religiosos y grandes verbenas con orquestas. Se celebra hacia el 10-11 de agosto.",
+  "historiaLarga": "San Lourenzo es la fiesta grande de la villa de Irixoa, celebrada en torno al 10 de agosto, día del santo. Mantiene la estructura clásica de las fiestas patronales gallegas: misa solemne y procesión en honor al patrón, sesión vermú y verbenas nocturnas con orquestas que congregan a vecinos de toda la comarca. Es el momento del año en que la parroquia capital reúne a buena parte de la población y a los emigrantes y veraneantes que regresan al pueblo.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Fiesta patronal de referencia del concello, punto de reencuentro de vecinos, emigrantes y veraneantes.",
+  "programa": "Misa solemne y procesión, sesión vermú y verbena nocturna con orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-irixoa-40.html"
+  ],
+  "concello": "Irixoa",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ambroa",
+  "nombre": "San Ramón",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la parroquia de Ambroa en honor a San Ramón, celebrada entre finales de agosto y comienzos de septiembre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-irixoa-40.html"
+  ],
+  "concello": "Irixoa",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Verís",
+  "nombre": "Virxe dos Milagres",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la parroquia de Verís en honor a la Virxe dos Milagres, celebrada en septiembre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-irixoa-40.html"
+  ],
+  "concello": "Irixoa",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Churío",
+  "nombre": "Romaría do Corpo Santo",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Romería tradicional de la parroquia de Churío dedicada al Corpo Santo, de carácter estival.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-irixoa-40.html"
+  ],
+  "concello": "Irixoa",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Vilanova",
+  "nombre": "San Xoán de Vilanova",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Vilanova celebra San Xoán a finales de junio, con la clásica sardiñada y noche de hoguera propia de las fiestas de San Juan en Galicia.",
+  "historiaLarga": null,
+  "tradicion": "Hoguera de San Xoán y sardiñada, una de las noches más mágicas del verano gallego.",
+  "gastronomia": [
+   "Sardiñada"
+  ],
+  "servicios": [],
+  "programa": "Misa, verbena con orquestas y sardiñada.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mi%C3%B1o-49.html"
+  ],
+  "concello": "Miño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Miño",
+  "nombre": "San Pedro",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de San Pedro a finales de junio, con actos religiosos y actuaciones musicales.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mi%C3%B1o-49.html"
+  ],
+  "concello": "Miño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Miño",
+  "nombre": "Festival de Música Tradicional José Juan García",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Festival de música tradicional gallega en el Parque Municipal A Rúa, en homenaje a José Juan García, a finales de junio.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [
+   "Lugar: Parque Municipal A Rúa"
+  ],
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mi%C3%B1o-49.html"
+  ],
+  "concello": "Miño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Miño",
+  "nombre": "Virxe do Carme (puerto de Miño)",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-07-16",
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "La patrona de los marineros se honra el 16 de julio con procesión y misa solemne en el puerto de Miño.",
+  "historiaLarga": null,
+  "tradicion": "Procesión marinera de la Virgen del Carmen en el puerto.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Procesión y misa solemne en el puerto.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mi%C3%B1o-49.html"
+  ],
+  "concello": "Miño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Callobre",
+  "nombre": "Virxe do Carme de Callobre",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Callobre celebra a la Virxe do Carme a mediados de julio con actos religiosos, churrascada popular y orquestas.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [
+   "Churrascada popular"
+  ],
+  "servicios": [],
+  "programa": "Actos religiosos, churrascada popular y orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mi%C3%B1o-49.html"
+  ],
+  "concello": "Miño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Miño",
+  "nombre": "Feira da Cebola Chata",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-03",
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Feria gastronómica dedicada a la cebolla chata (cebola chata), producto típico de la zona, con espectáculos callejeros, artesanía y degustaciones.",
+  "historiaLarga": null,
+  "tradicion": "Pone en valor la cebolla chata, hortaliza tradicional de la comarca.",
+  "gastronomia": [
+   "Cebola chata (cebolla chata)",
+   "Degustaciones"
+  ],
+  "servicios": [
+   "Espectáculos callejeros",
+   "Artesanía"
+  ],
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mi%C3%B1o-49.html"
+  ],
+  "concello": "Miño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Bemantes",
+  "nombre": "San Roque de Bemantes",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Bemantes celebra a San Roque a mediados de agosto con actos religiosos y verbena con orquestas.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y verbena con orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mi%C3%B1o-49.html"
+  ],
+  "concello": "Miño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Bañobre",
+  "nombre": "San Paio de Bañobre",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "La gran fiesta de verano de Bañobre, célebre por su espectacular Descenso de Carrilanas el sábado por la mañana y su multitudinaria romería del domingo.",
+  "historiaLarga": "San Paio es la fiesta más singular del verano en Miño gracias al Descenso de Carrilanas, una bajada de carros artesanales sin motor que congrega a vecinos y curiosos el sábado a partir de las 10:30 h. El programa se reparte en tres días: el viernes arranca con fiesta infantil (hinchables) y verbena; el sábado se vive el descenso de carrilanas y la sesión vermú; y el domingo se celebra la misa solemne con procesión al mediodía y la gran romería campestre con servicio de mesa. El menú de la romería, en torno a 36 euros (18 euros la opción infantil), incluye empanada, pulpo churrasco con patatas, pan, vino, agua, refrescos, postre, café y chupitos.",
+  "tradicion": "Descenso de Carrilanas: bajada de carros artesanales sin motor, atractivo único de la comarca.",
+  "gastronomia": [
+   "Empanada",
+   "Pulpo churrasco con patatas",
+   "Postre",
+   "Café y chupitos",
+   "Vino y refrescos"
+  ],
+  "servicios": [
+   "Romería con servicio de mesa (menú ~36€, infantil 18€)",
+   "Fiesta infantil con hinchables",
+   "Sesión vermú"
+  ],
+  "programa": "Viernes: fiesta infantil y verbena. Sábado: descenso de carrilanas y sesión vermú. Domingo: misa solemne con procesión (13:00 h) y romería.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-paio-de-ba%C3%B1obre-mi%C3%B1o-39443.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mi%C3%B1o-49.html"
+  ],
+  "concello": "Miño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Perbes",
+  "nombre": "Travesía a Nado Memorial Miguel Santos",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Travesía a nado en la playa de Perbes en memoria de Miguel Santos, con categorías para público infantil y adulto, a finales de agosto.",
+  "historiaLarga": null,
+  "tradicion": "Cita deportiva veraniega en la playa de Perbes, una de las más concurridas de la ría.",
+  "gastronomia": [],
+  "servicios": [
+   "Lugar: playa de Perbes",
+   "Categorías infantil y adulto"
+  ],
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mi%C3%B1o-49.html"
+  ],
+  "concello": "Miño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Perbes",
+  "nombre": "San Ramón (Campo de San Ramón, Brá)",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Romería de San Ramón a finales de agosto en el Campo de San Ramón (Brá), con música en directo.",
+  "historiaLarga": null,
+  "tradicion": "Romería campestre tradicional.",
+  "gastronomia": [],
+  "servicios": [
+   "Lugar: Campo de San Ramón (Brá)"
+  ],
+  "programa": "Romería con música en directo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mi%C3%B1o-49.html"
+  ],
+  "concello": "Miño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Miño",
+  "nombre": "Frionorostro Festival",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Festival musical de mediados de agosto en Miño, con entrada gratuita.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [
+   "Entrada gratuita"
+  ],
+  "programa": "Festival musical.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mi%C3%B1o-49.html"
+  ],
+  "concello": "Miño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Miño",
+  "nombre": "Festival Mar NDMBL",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Festival que combina música y gastronomía en el puerto de Miño, en horario de tarde.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [
+   "Gastronomía local"
+  ],
+  "servicios": [
+   "Lugar: puerto de Miño"
+  ],
+  "programa": "Música y gastronomía.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festival-mar-ndmbl-mi%C3%B1o-44866.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mi%C3%B1o-49.html"
+  ],
+  "concello": "Miño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "As Neves",
+  "nombre": "Festa do Requeixo",
+  "fecha2026": "2026-08-30",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "1989 (XXXV edición en 2025)",
+  "historiaCorta": "La gran fiesta gastronómica de A Capela, celebrada desde 1989 en el lugar de As Neves para homenajear el requeixo (requesón) artesanal de la zona.",
+  "historiaLarga": "Es la fiesta más importante del concello y una cita gastronómica de referencia en toda la comarca del Eume. Nació en 1989 para reivindicar el requeixo, el producto artesanal más típico de A Capela, elaborado de forma tradicional con leche de la zona. Cada año se reparten unas 15.000 raciones de requesón, para las que se llegan a emplear alrededor de 10.000 litros de leche, lo que da idea de la magnitud de la degustación popular. La jornada se completa con actuaciones musicales, exhibiciones, muestras de productos y actividades lúdicas durante todo el día. Se celebra el último domingo de agosto.",
+  "gastronomia": [
+   "Requeixo (requesón) artesanal",
+   "Degustación popular de unas 15.000 raciones (10.000 litros de leche)"
+  ],
+  "servicios": [
+   "Degustación gratuita de requesón",
+   "Actividades lúdicas durante toda la jornada"
+  ],
+  "tradicion": "Fiesta de gran arraigo comarcal en torno al requesón artesanal, producto identitario de A Capela. Figura entre las fiestas gastronómicas de la provincia.",
+  "programa": "Degustación de requeixo, exhibiciones y muestras, actividades lúdicas y actuaciones musicales a lo largo del día.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-capela-18.html",
+   "https://www.paxinasgalegas.es/fiestas/festa-do-requeixo-a-capela-2990.html",
+   "https://turismo.dacoruna.gal/es/actualidade/festas-gastronomicas/festa-do-requeixo"
+  ],
+  "concello": "A Capela",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sande",
+  "nombre": "Santiago Apóstol de Sande",
+  "fecha2026": "2026-07-25",
+  "fechaFin2026": "2026-07-26",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales en honor a Santiago Apóstol en la parroquia de Sande, en torno al 25 de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa solemne y actos religiosos con actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-capela-18.html",
+   "https://www.paxinasgalegas.es/fiestas/santiago-apostol-de-sande-a-capela-2814.html"
+  ],
+  "concello": "A Capela",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "As Neves",
+  "nombre": "Nosa Señora das Neves",
+  "fecha2026": "2026-08-04",
+  "fechaFin2026": "2026-08-06",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas en honor a Nosa Señora das Neves a comienzos de agosto, con actos religiosos, sesión vermú y verbenas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Sesión vermú"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos, sesión vermú y verbenas con actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-capela-18.html"
+  ],
+  "concello": "A Capela",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cabalar",
+  "nombre": "Santa María de Cabalar",
+  "fecha2026": "2026-08-15",
+  "fechaFin2026": "2026-08-16",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta popular de Santa María en la parroquia de Cabalar, en torno al 15 de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-capela-18.html",
+   "https://www.paxinasgalegas.es/fiestas/santa-maria-de-cabalar-a-capela-13402.html"
+  ],
+  "concello": "A Capela",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "A Capela",
+  "nombre": "San Boulo",
+  "fecha2026": "2026-09-06",
+  "fechaFin2026": "2026-09-07",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta religiosa de San Boulo en A Capela, a comienzos de septiembre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa solemne y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-capela-18.html"
+  ],
+  "concello": "A Capela",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "A Capela",
+  "nombre": "Feira Etnográfica da Comarca do Eume (Etnoeume)",
+  "fecha2026": "2026-06-21",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "XIII edición en 2025",
+  "historiaCorta": "Feria etnográfica de la comarca do Eume en A Capela, con recreación de oficios tradicionales, hacia el 21 de junio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Recreación de oficios y tradiciones de la comarca del Eume.",
+  "programa": "Recreación de oficios tradicionales y actividades etnográficas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-capela-18.html"
+  ],
+  "concello": "A Capela",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Fiz",
+  "nombre": "Romaría da Nosa Señora de Cela",
+  "fecha2026": "2026-07-03",
+  "fechaFin2026": "2026-07-05",
+  "fechaConfianza": "confirmada-web",
+  "fundacion": null,
+  "historiaCorta": "Romería que se celebra en el entorno del histórico Monasterio de Santa María de Monfero, uno de los grandes cenobios cistercienses de Galicia. Es la cita más concurrida del concello, con devoción mariana y mucha fiesta.",
+  "historiaLarga": "La Romaría da Nosa Señora de Cela es la fiesta grande de Monfero y se desarrolla junto al Monasterio de Santa María de Monfero, en la parroquia de San Fiz, un cenobio cisterciense de origen medieval que da nombre y carácter a toda la celebración. Durante estos días numerosos devotos acuden a visitar a la Virgen ofreciéndole velas y figuras de cera, una tradición de ofrenda muy arraigada en las romerías gallegas. La combinación de marco monumental, devoción popular y verbena hace de esta romería el principal reclamo turístico del concello en verano.",
+  "tradicion": "Los devotos ofrecen velas y figuras de cera a la Virgen, una ofrenda tradicional gallega. Se celebra junto al Monasterio de Santa María de Monfero, monumento cisterciense de gran interés turístico.",
+  "gastronomia": [
+   "Churrascada (con chorizo, liscos, pan, vino, agua, postre y café)",
+   "Pulpería"
+  ],
+  "servicios": [
+   "Sesión vermú",
+   "Verbena nocturna",
+   "Restaurantes, bares y turismo rural en el concello",
+   "Churrascada de pago (en torno a 20 euros)"
+  ],
+  "programa": "Viernes: churrascada por la noche y verbena. Sábado: dianas, sesión vermú a mediodía y verbena nocturna. Domingo: dianas, misas por la mañana, procesión, sesión vermú y sesión de tarde.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/romaria-da-nosa-se%C3%B1ora-de-cela-monfero-1314.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monfero-51.html"
+  ],
+  "concello": "Monfero",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Fiz",
+  "nombre": "Grandes Fiestas de San Fiz",
+  "fecha2026": "2026-08-01",
+  "fechaFin2026": "2026-08-03",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de la parroquia de San Fiz en honor a su santo titular, con actos religiosos y actuaciones musicales a comienzos de agosto.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monfero-51.html",
+   "https://www.paxinasgalegas.es/fiestas/san-fiz-monfero-1313.html"
+  ],
+  "concello": "Monfero",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Xestoso",
+  "nombre": "San Pedro do Val de Xestoso",
+  "fecha2026": "2026-06-26",
+  "fechaFin2026": "2026-06-27",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta en honor a San Pedro en el Val de Xestoso, con oficios religiosos y actuaciones musicales a finales de junio.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Oficios religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monfero-51.html"
+  ],
+  "concello": "Monfero",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Xestoso",
+  "nombre": "Nosa Señora dos Remedios do Val de Xestoso",
+  "fecha2026": "2026-09-05",
+  "fechaFin2026": "2026-09-07",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta en honor a la Nosa Señora dos Remedios en el Val de Xestoso, a comienzos de septiembre.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monfero-51.html"
+  ],
+  "concello": "Monfero",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Xestoso",
+  "nombre": "Santa María de Alto Xestoso",
+  "fecha2026": "2026-09-13",
+  "fechaFin2026": "2026-09-14",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta en honor a Santa María en el Alto Xestoso, a mediados de septiembre.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monfero-51.html"
+  ],
+  "concello": "Monfero",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Xestoso",
+  "nombre": "San Cosme e San Damián de Alto Xestoso",
+  "fecha2026": "2026-09-27",
+  "fechaFin2026": "2026-09-28",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta en honor a San Cosme y San Damián en el Alto Xestoso, a finales de septiembre, con actos religiosos y actuaciones nocturnas.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y actuaciones nocturnas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monfero-51.html"
+  ],
+  "concello": "Monfero",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Vilachá",
+  "nombre": "Nosa Señora de Vilachá",
+  "fecha2026": "2026-08-13",
+  "fechaFin2026": "2026-08-15",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de Vilachá en honor a la Nosa Señora, en torno al 15 de agosto, con misas y verbenas de orquesta.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Misas y actuaciones musicales de orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monfero-51.html"
+  ],
+  "concello": "Monfero",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Lagares",
+  "nombre": "San Xiao de Lagares",
+  "fecha2026": "2026-09-27",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de Lagares en honor a San Xiao (San Julián), a finales de septiembre, con misas, música y churrascada.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [
+   "Churrascada"
+  ],
+  "servicios": [],
+  "programa": "Misas, actuaciones musicales y churrascada.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monfero-51.html"
+  ],
+  "concello": "Monfero",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Monfero",
+  "nombre": "San Bartolomé",
+  "fecha2026": "2026-08-23",
+  "fechaFin2026": "2026-08-24",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta en honor a San Bartolomé en Monfero, a finales de agosto, con actos religiosos, comida popular y música.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [
+   "Comida popular"
+  ],
+  "servicios": [],
+  "programa": "Actos religiosos, comida popular y música.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monfero-51.html"
+  ],
+  "concello": "Monfero",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Monfero",
+  "nombre": "Santa Mariña de Taboada",
+  "fecha2026": "2026-07-18",
+  "fechaFin2026": "2026-07-19",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta en honor a Santa Mariña en el lugar de Taboada, a mediados de julio, con churrascada, actos religiosos y música.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [
+   "Churrascada"
+  ],
+  "servicios": [],
+  "programa": "Churrascada, actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monfero-51.html"
+  ],
+  "concello": "Monfero",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Monfero",
+  "nombre": "Domingos Culturais do Mosteiro de Monfero",
+  "fecha2026": "2026-08-10",
+  "fechaFin2026": "2026-08-31",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Ciclo de conciertos gratuitos celebrado durante los domingos de agosto en el entorno del Monasterio de Monfero, un marco cisterciense de gran valor patrimonial.",
+  "historiaLarga": null,
+  "tradicion": "Se celebra en el Mosteiro de Monfero, monumento cisterciense de gran interés turístico.",
+  "gastronomia": [],
+  "servicios": [
+   "Conciertos gratuitos"
+  ],
+  "programa": "Ciclo de conciertos los domingos de agosto.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monfero-51.html"
+  ],
+  "concello": "Monfero",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Pontedeume",
+  "nombre": "Festa das Peras",
+  "fecha2026": "2026-09-06",
+  "fechaFin2026": "2026-09-11",
+  "fechaConfianza": "confirmada-web",
+  "fundacion": null,
+  "historiaCorta": "La gran fiesta patronal de Pontedeume, en honor a la Virxe das Virtudes y San Nicolás de Tolentino. Seis días que despiden el verano con tradición, música y gastronomía a orillas del Eume.",
+  "historiaLarga": "As Peras son las fiestas grandes de Pontedeume y el broche del verano eumés. Se celebran en torno a la Virxe das Virtudes y San Nicolás de Tolentino, con seis jornadas que mezclan lo religioso y lo popular: ofrenda floral a la Virxe das Virtudes, misa solemne y procesiones acompañadas de música tradicional, mercado de productores, degustaciones, gaitas y muiñeiras, romería y verbenas junto al casco histórico y el río Eume. El nombre recuerda la tradición pomarera de la villa y su comarca. Son uno de los eventos festivos más concurridos del norte de A Coruña a principios de septiembre.",
+  "gastronomia": [
+   "Degustaciones de productos locales",
+   "Mercado de productores"
+  ],
+  "servicios": [
+   "Acceso libre",
+   "Música en directo y verbenas"
+  ],
+  "tradicion": "Ofrenda floral a la Virxe das Virtudes, procesiones con música tradicional, gaitas y muiñeiras junto al río Eume.",
+  "programa": "Ofrenda floral, misa solemne, procesiones, mercado de productores, degustaciones, romería y verbenas nocturnas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-das-peras-pontedeume-1409.html",
+   "https://www.pontedeume.gal/es/programacion-fiestas-de-as-peras/",
+   "https://www.diariodeferrol.com/articulo/pontedeume/festa-das-peras-cinco-dias-fiesta-pontedeume-4983282",
+   "https://fiestasdepueblos.net/fiesta/as-peras-pontedeume"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Pontedeume",
+  "nombre": "San Xoán",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "La noche más mágica del verano se celebra en el Parque Sarmiento con sardiñada y música en directo.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Degustación de sardinas"
+  ],
+  "servicios": [
+   "Acceso libre",
+   "Música en directo",
+   "Parque Sarmiento"
+  ],
+  "tradicion": "Hogueras y sardiñada de la noche de San Xoán.",
+  "programa": "Sardiñada y música en directo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Nogueirosa",
+  "nombre": "Castelo Folk de Nogueirosa",
+  "fecha2026": "2026-06-06",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festival de folk en el entorno del Castelo de Andrade, con artesanía y talleres infantiles.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Talleres infantiles",
+   "Exposición y venta de artesanía"
+  ],
+  "tradicion": "Música folk en el marco del histórico Castelo de Andrade.",
+  "programa": "Actuaciones musicales, exposición y venta de artesanía, talleres infantiles.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Andrade",
+  "nombre": "XVI Feirón Medieval dos Andrade",
+  "fecha2026": "2026-07-03",
+  "fechaFin2026": "2026-07-05",
+  "fechaConfianza": "probable",
+  "fundacion": "XVI edición",
+  "historiaCorta": "Pontedeume viaja al siglo XIV con una recreación histórica que llena la villa de ambiente medieval, ligada al linaje de los Andrade.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre",
+   "Exhibiciones y recreación histórica"
+  ],
+  "tradicion": "Recreación del siglo XIV vinculada al poderoso linaje de los Andrade. Declarado de interés turístico.",
+  "programa": "Recreación histórica, mercado y ambiente medieval, exhibiciones.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/feiron-medieval-dos-andrade-pontedeume-5560.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Centroña",
+  "nombre": "Gran Sardiñada de Centroña",
+  "fecha2026": "2026-07-11",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Sardiñada popular en la Escola Unitaria de Centroña, con menú marinero a precios populares.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardinas",
+   "Patatas",
+   "Vino",
+   "Agua",
+   "Café"
+  ],
+  "servicios": [
+   "Precios populares",
+   "Escola Unitaria de Centroña"
+  ],
+  "tradicion": null,
+  "programa": "Degustación de sardinas con patatas, bebida y café.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Andrade",
+  "nombre": "Virxe do Leite de Andrade",
+  "fecha2026": "2026-07-12",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta religiosa de la parroquia de Andrade, con acto religioso, música y churrascada.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrascada"
+  ],
+  "servicios": [
+   "Actuaciones musicales"
+  ],
+  "tradicion": null,
+  "programa": "Acto religioso, actuaciones musicales y churrascada.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Pontedeume",
+  "nombre": "O Carme",
+  "fecha2026": "2026-07-19",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "La Virgen del Carmen, patrona de los marineros, se honra con misa y la tradicional procesión marítima por la ría.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre"
+  ],
+  "tradicion": "Procesión marítima en honor a la patrona de los marineros.",
+  "programa": "Misa y procesión marítima.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Pontedeume",
+  "nombre": "Festa da Navalla e da Nécora",
+  "fecha2026": "2026-07-19",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta gastronómica marinera en el peirao de Pontedeume dedicada a la navaja y la nécora, organizada por el club de balonmano.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Navajas",
+   "Nécoras"
+  ],
+  "servicios": [
+   "Peirao de Pontedeume",
+   "Organiza Club de Balonmano"
+  ],
+  "tradicion": null,
+  "programa": "Degustación de navajas y nécoras en el muelle.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Boebre",
+  "nombre": "Santiago Apóstolo de Boebre",
+  "fecha2026": "2026-07-24",
+  "fechaFin2026": "2026-07-26",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de Santiago Apóstolo en la parroquia de Boebre, tres días con actos religiosos, música y churrascada.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrascada"
+  ],
+  "servicios": [
+   "Actuaciones musicales"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos, actuaciones musicales y churrascada.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Pontedeume",
+  "nombre": "XX Festival de Habaneras",
+  "fecha2026": "2026-07-26",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "XX edición",
+  "historiaCorta": "Festival de habaneras que reúne corales de toda la provincia, con dos décadas de tradición en Pontedeume.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre"
+  ],
+  "tradicion": "Repertorios de habaneras interpretados por corales participantes.",
+  "programa": "Actuaciones de corales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Pontedeume",
+  "nombre": "Festival de Verán",
+  "fecha2026": "2026-07-27",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festival musical de verano en la Praza da Calzada con varias actuaciones.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Praza da Calzada",
+   "Acceso libre"
+  ],
+  "tradicion": null,
+  "programa": "Múltiples actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Pontedeume",
+  "nombre": "XV Festival de Maxia",
+  "fecha2026": "2026-08-03",
+  "fechaFin2026": "2026-08-07",
+  "fechaConfianza": "probable",
+  "fundacion": "XV edición",
+  "historiaCorta": "Festival de magia para todos los públicos en la Alameda de Raxoi, con quince ediciones de espectáculos de ilusionismo.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Alameda de Raxoi",
+   "Para todas las edades"
+  ],
+  "tradicion": null,
+  "programa": "Espectáculos de magia e ilusionismo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Pontedeume",
+  "nombre": "XXXVI Festival Internacional de Folclore",
+  "fecha2026": "2026-08-08",
+  "fechaFin2026": "2026-08-09",
+  "fechaConfianza": "probable",
+  "fundacion": "XXXVI edición",
+  "historiaCorta": "Veterano festival con grupos de danza nacionales e internacionales que actúan en la Plaza de San Roque.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Plaza de San Roque",
+   "Acceso libre"
+  ],
+  "tradicion": "Más de tres décadas reuniendo compañías de danza folclórica de varios países.",
+  "programa": "Actuaciones folclóricas nacionales e internacionales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festival-internacional-de-folclore-pontedeume-3827.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Boebre",
+  "nombre": "Festas do Verán de Boebre",
+  "fecha2026": "2026-08-09",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta popular de verano en la parroquia de Boebre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Centroña",
+  "nombre": "Santa María e San Roque de Centroña",
+  "fecha2026": "2026-08-14",
+  "fechaFin2026": "2026-08-16",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de la parroquia de Centroña en honor a Santa María y San Roque, en torno al 15 de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones musicales"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos, procesión y verbenas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/santa-maria-e-san-roque-de-centro%C3%B1a-pontedeume-33386.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Pontedeume",
+  "nombre": "LVIII Baixada do Eume",
+  "fecha2026": "2026-08-23",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "LVIII edición",
+  "historiaCorta": "Histórica prueba de piragüismo en el río Eume, uno de los mayores eventos del calendario internacional de la disciplina con casi sesenta ediciones.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre",
+   "Junto al río Eume"
+  ],
+  "tradicion": "Una de las pruebas de piragüismo más longevas y reconocidas a nivel internacional.",
+  "programa": "Descenso en piragua por el río Eume.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Boebre",
+  "nombre": "San Bartolo de Boebre",
+  "fecha2026": "2026-08-23",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta religiosa de San Bartolomé en la parroquia de Boebre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Nogueirosa",
+  "nombre": "Festa de Parroquias",
+  "fecha2026": "2026-08-30",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta popular que reúne a las parroquias del concello en la pista polideportiva de Nogueirosa, con comida de confraternidad.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida popular"
+  ],
+  "servicios": [
+   "Pista Polideportiva de Nogueirosa"
+  ],
+  "tradicion": "Encuentro de confraternidad entre las parroquias del concello.",
+  "programa": "Comida popular y convivencia.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-de-parroquias-pontedeume-39428.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Nogueirosa",
+  "nombre": "San Cosme de Nogueirosa",
+  "fecha2026": "2026-09-26",
+  "fechaFin2026": "2026-09-28",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de San Cosme en la parroquia de Nogueirosa, con actos religiosos y orquestas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones de orquestas"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos y verbenas con orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Nogueirosa",
+  "nombre": "San Miguel de Breamo",
+  "fecha2026": "2026-09-29",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Romería de San Miguel en torno a la histórica capilla románica de Breamo (parroquia de Nogueirosa), uno de los enclaves más emblemáticos del concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre"
+  ],
+  "tradicion": "Romería en torno a la capilla románica de Breamo, monte con vistas sobre la ría.",
+  "programa": "Actos religiosos y romería en torno a la capilla.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pontedeume-70.html"
+  ],
+  "concello": "Pontedeume",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cervás",
+  "nombre": "San Pedro de Cervás",
+  "fecha2026": "2026-06-26",
+  "fechaFin2026": "2026-06-29",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de la parroquia de Cervás en honor a San Pedro, a finales de junio, una de las romerías tradicionales del concello.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrascada popular"
+  ],
+  "servicios": [],
+  "tradicion": "Celebración religiosa con misa, procesión y verbenas que coincide con San Antonio.",
+  "programa": "Misa, procesión y bailes/verbena",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ares-4.html",
+   "https://www.paxinasgalegas.es/fiestas/san-pedro-de-cervas-ares-3020.html"
+  ],
+  "concello": "Ares",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cervás",
+  "nombre": "Sardiñada Popular de Cervás",
+  "fecha2026": "2026-07-05",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Sardiñada popular en Cervás a comienzos de julio, con degustación de sardina asada al estilo tradicional gallego.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardina asada"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ares-4.html"
+  ],
+  "concello": "Ares",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cervás",
+  "nombre": "II Festa do Arroz con Garrafón de Cervás",
+  "fecha2026": "2026-07-25",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta gastronómica de Cervás dedicada al arroz con garrafón (alubia grande), con servicio de menú a finales de julio.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Arroz con garrafón (alubias)"
+  ],
+  "servicios": [
+   "Servicio de menú"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ares-4.html"
+  ],
+  "concello": "Ares",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ares",
+  "nombre": "Churrascada Popular de Outeiro",
+  "fecha2026": "2026-07-05",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Churrascada popular en el lugar de Outeiro a comienzos de julio, con carne a la brasa y música.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrasco (carne a la brasa)"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Comida popular con música",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ares-4.html"
+  ],
+  "concello": "Ares",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Redes",
+  "nombre": "O Carme de Redes (Festas do Mar - Festas do Carme)",
+  "fecha2026": "2026-07-16",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas marineras de la villa de Redes en honor a la Virgen del Carmen, patrona de los marineros, con su característica procesión marítima.",
+  "historiaLarga": "Redes es una de las villas marineras con más encanto de la ría de Ares, declarada conjunto histórico-artístico. Sus Festas do Mar en honor a la Virgen del Carmen son el gran acontecimiento del verano: la imagen de la Virgen sale en procesión por mar acompañada de embarcaciones engalanadas, en un homenaje a los marineros y a los fallecidos en el mar. Las celebraciones combinan actos religiosos, procesión terrestre y marítima, verbenas y ambiente festivo en el puerto.",
+  "gastronomia": [
+   "Productos del mar"
+  ],
+  "servicios": [],
+  "tradicion": "Procesión marítima de la Virgen del Carmen con embarcaciones engalanadas en la villa marinera de Redes.",
+  "programa": "Misa, procesión terrestre y marítima, verbenas",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ares-4.html"
+  ],
+  "concello": "Ares",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ares",
+  "nombre": "Festa do Langostino",
+  "fecha2026": "2026-07-19",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta gastronómica en el parque Rosalía de Castro de Ares dedicada al langostino, servido a precios populares.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Langostino"
+  ],
+  "servicios": [
+   "Degustación a precios populares",
+   "Ubicación: parque Rosalía de Castro"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ares-4.html"
+  ],
+  "concello": "Ares",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ares",
+  "nombre": "XIX Festa da Cabria",
+  "fecha2026": "2026-08-03",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta popular de la villa de Ares conocida como Festa da Cabria, celebrada a comienzos de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ares-4.html"
+  ],
+  "concello": "Ares",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ares",
+  "nombre": "San Roque",
+  "fecha2026": "2026-08-08",
+  "fechaFin2026": "2026-08-10",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de San Roque en la villa de Ares, en torno al 16 de agosto, con actos religiosos, música y degustaciones.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Degustaciones populares"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa, procesión, actuaciones musicales y verbena",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ares-4.html"
+  ],
+  "concello": "Ares",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Lubre",
+  "nombre": "XVIII Festa do Percebe de Lubre",
+  "fecha2026": "2026-08-15",
+  "fechaFin2026": "2026-08-16",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta gastronómica de la parroquia de Lubre dedicada al percebe, coincidiendo con las fiestas de Nosa Señora do Rosario, declarada de interés gastronómico en la comarca.",
+  "historiaLarga": "La Festa do Percebe de Lubre es una de las grandes citas gastronómicas del verano en la ría de Ares y figura en la agenda de fiestas gastronómicas de la Deputación da Coruña. Se celebra en el atrio de la iglesia de Lubre en torno a mediados de agosto, vinculada a la festividad de Nosa Señora do Rosario. Rinde homenaje al percebe, uno de los productos estrella del marisqueo local, con degustación popular del marisco recién capturado en las rocas del entorno, acompañada de música y verbena.",
+  "gastronomia": [
+   "Percebe"
+  ],
+  "servicios": [
+   "Degustación popular",
+   "Ubicación: atrio de la iglesia de Lubre"
+  ],
+  "tradicion": "Homenaje al percebe del marisqueo local; fiesta de interés gastronómico de la comarca.",
+  "programa": "Misa, degustación de percebe, música y verbena",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ares-4.html",
+   "https://www.paxinasgalegas.es/fiestas/nosa-se%C3%B1ora-do-rosario-de-lubre-festa-do-percebe-ares-3086.html",
+   "https://turismo.dacoruna.gal/es/actualidade/festas-gastronomicas/festa-do-percebe-de-lubre"
+  ],
+  "concello": "Ares",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ares",
+  "nombre": "VIII Ares Indiano",
+  "fecha2026": "2026-08-22",
+  "fechaFin2026": "2026-08-24",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Gran festival ambientado de Ares que recrea la época de los indianos para conmemorar el legado de los emigrantes gallegos a América, con la villa engalanada al estilo de comienzos del siglo XX.",
+  "historiaLarga": "Ares Indiano es la fiesta temática de referencia del concello: durante un fin de semana de agosto la villa se traslada a la época de la emigración a América (Cuba, Argentina) para homenajear a los indianos, aresanos que partieron al continente americano y regresaron marcando la arquitectura y la cultura local. El programa combina divulgación histórica (conferencias y exposiciones temáticas), gastronomía de inspiración indiana con cocina en directo, música, recreaciones de escenas de época y vecinos vestidos de la época. Una de sus señas es el sistema de rutas guiadas: en barco por la ría, en autobús histórico por las parroquias y a pie con guía artístico. La edición de 2025 (VIII) se celebró el 22, 23 y 24 de agosto; para 2026 se ha convocado el concurso del cartel anunciador.",
+  "gastronomia": [
+   "Cocina en directo de inspiración indiana"
+  ],
+  "servicios": [
+   "Rutas guiadas (en barco por la ría, en autobús histórico, a pie con guía)",
+   "Conferencias y exposiciones"
+  ],
+  "tradicion": "Recreación histórica del legado indiano (emigración a América) con la villa ambientada a comienzos del siglo XX.",
+  "programa": "Divulgación histórica, exposiciones, rutas guiadas, cocina en directo, música y recreaciones de época",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ares-4.html",
+   "https://concellodeares.gal/es/viii-ares-indiano-22-23-y-24-de-agosto-2025/",
+   "https://concellodeares.gal/es/el-ayuntamiento-presenta-el-programa-del-viii-ares-indiano-gastronomia-divulgacion-historica-musica-y-mucha-mas-cultura-para-conmemorar-el-legado-de-los-migrantes-hacia-america/"
+  ],
+  "concello": "Ares",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Chanteiro",
+  "nombre": "Nosa Señora da Mercé de Chanteiro",
+  "fecha2026": "2026-09-19",
+  "fechaFin2026": "2026-09-24",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Romería mariana en honor a la Virgen de la Merced en el santuario de Chanteiro, una de las devociones más arraigadas, compartida con vecinos de Mugardos.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Romería al santuario de la Mercé de Chanteiro, devoción compartida entre Ares y Mugardos.",
+  "programa": "Misa, procesión, romería y actuaciones musicales",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ares-4.html"
+  ],
+  "concello": "Ares",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ares",
+  "nombre": "Festas do Mar - Festas do Carme (Ares)",
+  "fecha2026": "2026-07-30",
+  "fechaFin2026": "2026-08-02",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festas do Mar de la villa de Ares en honor a la Virgen del Carmen, con procesión marítima y actos festivos a finales de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Procesión marítima de la Virgen del Carmen, patrona de los marineros.",
+  "programa": "Misa, procesión marítima, verbenas y actuaciones",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-ares-4.html"
+  ],
+  "concello": "Ares",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fene",
+  "nombre": "Perla Mural Fest",
+  "fecha2026": "2026-06-26",
+  "fechaFin2026": "2026-06-28",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Festival musical que se ha convertido en una cita ineludible para los amantes de la música en Fene, ligado al proyecto de murales del concello.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Varios días de actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fene-36.html"
+  ],
+  "concello": "Fene",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Barallobre",
+  "nombre": "Romaría do Camiñante Descoñecido",
+  "fecha2026": "2026-07-04",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Romería popular de Barallobre en torno a un monumento, con ofrenda floral y cierre festivo de la jornada.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": "Ofrenda floral al monumento del Camiñante Descoñecido.",
+  "gastronomia": [
+   "Sardinas asadas",
+   "Queimada"
+  ],
+  "servicios": [],
+  "programa": "Ofrenda floral al monumento y, al final de la jornada, degustación de sardinas y queimada.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fene-36.html"
+  ],
+  "concello": "Fene",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fene",
+  "nombre": "Xullo, Mes da Patria",
+  "fecha2026": "2026-07-04",
+  "fechaFin2026": "2026-07-11",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Programa cultural de Fene durante julio, con actividades lúdicas y musicales para niños y mayores.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actividades lúdicas y musicales para todos los públicos.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fene-36.html"
+  ],
+  "concello": "Fene",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fene",
+  "nombre": "Deporte na Rúa",
+  "fecha2026": "2026-07-06",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Jornada deportivo-lúdica de Fene que llena varias calles del concello de actividades.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Numerosas actividades deportivas y de ocio repartidas por las calles.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fene-36.html"
+  ],
+  "concello": "Fene",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Perlío",
+  "nombre": "Churrascada de Perlío",
+  "fecha2026": "2026-07-06",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Churrascada popular de Perlío, fiesta gastronómica amenizada con música en directo.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [
+   "Churrasco"
+  ],
+  "servicios": [],
+  "programa": "Comida popular tipo churrascada con música en directo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fene-36.html"
+  ],
+  "concello": "Fene",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sillobre",
+  "nombre": "Santa Mariña e O Carme de Sillobre",
+  "fecha2026": "2026-07-17",
+  "fechaFin2026": "2026-07-19",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiestas religiosas de Sillobre en honor a Santa Mariña y a la Virxe do Carme, con actos litúrgicos y verbenas.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos litúrgicos y variadas actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fene-36.html"
+  ],
+  "concello": "Fene",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Barallobre",
+  "nombre": "Festas Patronais de Barallobre",
+  "fecha2026": "2026-07-24",
+  "fechaFin2026": "2026-07-26",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiestas patronales de Barallobre, en la última semana de julio, en honor al Apóstol Santiago y a la Virxe do Carme.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos en honor al Apóstol y a la Virxe do Carme y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fene-36.html"
+  ],
+  "concello": "Fene",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Limodre",
+  "nombre": "Felicia Pop",
+  "fecha2026": "2026-07-31",
+  "fechaFin2026": "2026-08-01",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Festival de música independiente que se celebra cada verano desde 1998 en una zona arbolada de Limodre, reuniendo a unos 500 aficionados.",
+  "historiaLarga": "El Felicia Pop nació en 1998 en la pequeña localidad de Limodre (Fene) y se ha consolidado como uno de los festivales de música independiente más veteranos y queridos de la comarca de Ferrolterra. Se celebra en un entorno boscoso con un aforo intencionadamente reducido (en torno a 500 personas), lo que le da un carácter íntimo y familiar. La cita combina conciertos hasta altas horas de la madrugada con un ambiente de encuentro entre melómanos, manteniendo un espíritu de festival pequeño y autogestionado frente a los grandes macrofestivales.",
+  "fundacion": "1998",
+  "tradicion": "Aforo reducido (~500 personas) en zona arbolada; uno de los festivales indie más veteranos de Ferrolterra.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actuaciones musicales hasta altas horas de la madrugada durante dos jornadas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fene-36.html",
+   "https://www.ruta66.es/2025/08/vivos/felicia-pop-limodre-fene-a-coruna-2/"
+  ],
+  "concello": "Fene",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Limodre",
+  "nombre": "Festa da Orella de Limodre",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta gastronómica de Limodre dedicada a la oreja de cerdo, celebrada en agosto en el parque da Hortiña, con más de dos décadas de tradición.",
+  "historiaLarga": "La Festa da Orella de Limodre es una de las grandes citas gastronómicas del verano de Fene, una auténtica oda al cerdo que se celebra en agosto en el parque da Hortiña. Con más de dos décadas de historia (alcanzando alrededor de la 29ª edición en años recientes), es una fiesta reconocida que cada verano congrega a numerosos amantes de la carne de cerdo, y en especial de la oreja preparada al estilo tradicional gallego, acompañada de ambiente musical y festivo.",
+  "fundacion": null,
+  "tradicion": "Reconocida fiesta gastronómica con más de 20 años; en torno a la 29ª edición en años recientes.",
+  "gastronomia": [
+   "Oreja de cerdo"
+  ],
+  "servicios": [],
+  "programa": "Degustación gastronómica en el parque da Hortiña con ambiente musical.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-da-orella-de-limodre-fene-5879.html",
+   "https://diariodeferrol.elidealgallego.com/articulo/comarcas/limodre-fene-prepara-particular-oda-cerdo-celebracion-29-edicion-festa-da-orella-5398173"
+  ],
+  "concello": "Fene",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Maniños",
+  "nombre": "Romaría do Pote",
+  "fecha2026": "2026-08-30",
+  "fechaFin2026": "2026-08-31",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Romería gastronómica y folclórica de Maniños con comida popular amenizada por música tradicional y verbena.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [
+   "Comida popular (pote/cocido gallego)"
+  ],
+  "servicios": [],
+  "programa": "Comida popular amenizada por música tradicional y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fene-36.html"
+  ],
+  "concello": "Fene",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sillobre",
+  "nombre": "San Ramón e San Roque de Sillobre",
+  "fecha2026": "2026-08-30",
+  "fechaFin2026": "2026-09-01",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiestas religiosas de Sillobre en honor a San Ramón y San Roque, con actos litúrgicos y verbenas a final de agosto.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y variadas actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fene-36.html"
+  ],
+  "concello": "Fene",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Valentín",
+  "nombre": "FeneRock",
+  "fecha2026": "2026-09-18",
+  "fechaFin2026": "2026-09-20",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Festival de música rock del paseo marítimo de San Valentín, que ronda su 23ª edición con la mejor música rock del momento.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": "Festival rock veterano de Fene, en torno a su 23ª edición.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Conciertos de rock durante varias jornadas en el paseo marítimo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fene-36.html"
+  ],
+  "concello": "Fene",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Valentín",
+  "nombre": "Festa do Langostino",
+  "fecha2026": "2026-09-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta gastronómica de San Valentín dedicada al langostino, en torno a su 8ª edición, con degustación y animación musical.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": "Ronda su 8ª edición.",
+  "gastronomia": [
+   "Langostino"
+  ],
+  "servicios": [],
+  "programa": "Degustación de langostino con animación musical.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fene-36.html"
+  ],
+  "concello": "Fene",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fene",
+  "nombre": "Felicia Pop (concierto Fene)",
+  "fecha2026": "2026-07-31",
+  "fechaFin2026": "2026-08-01",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Concierto/festival con actuaciones musicales hasta altas horas de la madrugada (vinculado al Felicia Pop de Limodre).",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actuaciones musicales hasta la madrugada.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fene-36.html"
+  ],
+  "concello": "Fene",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mugardos",
+  "nombre": "Festa do Polbo (Pulpo á Mugardesa)",
+  "fecha2026": "2026-07-12",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "XXXIII edición (2026)",
+  "historiaCorta": "La gran fiesta gastronómica de Mugardos, declarada de Interese Turístico de Galicia, gira en torno al pulpo á mugardesa, receta única de la villa.",
+  "historiaLarga": "La Festa do Polbo es el buque insignia gastronómico de Mugardos y una de las citas grandes de la ría de Ferrol. En 2026 llega a su XXXIII edición, lo que la sitúa con origen a finales de los años 80/principios de los 90, y está declarada Festa de Interese Turístico de Galicia. Su protagonista es el pulpo á mugardesa, una elaboración propia que la diferencia del clásico pulpo á feira: en vez de servirse solo con aceite, sal gorda y pimentón, aquí el pulpo cocido se acompaña de un guiso de cebolla, ajo, laurel, pimentón y patata, creando una receta de raíz marinera ligada a la tradición pesquera de la villa. La celebración llena la Praza da Constitución con grandes potas, degustaciones populares a precios económicos, pasacalles y música en directo, atrayendo visitantes de toda la comarca de Ferrolterra.",
+  "gastronomia": [
+   "Pulpo á mugardesa (pulpo con cebolla, ajo, laurel, pimentón y patata)",
+   "Degustación popular a precios populares",
+   "Vino tinto"
+  ],
+  "servicios": [
+   "Degustación a precios populares",
+   "Música en directo",
+   "Pasacalles",
+   "Celebrada en la Praza da Constitución"
+  ],
+  "tradicion": "Declarada Festa de Interese Turístico de Galicia. El pulpo á mugardesa es una receta única de la villa, distinta del pulpo á feira.",
+  "programa": "Pasacalles, degustación popular de pulpo á mugardesa en la Praza da Constitución y música en directo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-do-veran-mugardos-3523.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mugardos-52.html"
+  ],
+  "concello": "Mugardos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mugardos",
+  "nombre": "Festas do Verán (Virxe do Carme)",
+  "fecha2026": "2026-07-03",
+  "fechaFin2026": "2026-08-29",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Las fiestas grandes de la villa en honor a la Virxe do Carme, patrona de los marineros, con casi dos meses de actos religiosos, culturales y verbenas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones musicales",
+   "Actos religiosos",
+   "Teatro y magia para familias",
+   "Verbenas con orquestas"
+  ],
+  "tradicion": "Honra a la Virxe do Carme, patrona de los marineros, muy ligada a la tradición pesquera de Mugardos.",
+  "programa": "Actos religiosos en honor a la Virxe do Carme, conciertos, teatro, magia y verbenas con orquestas. Incluye otros eventos del verano como la Festa do Polbo y o Marisco.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-do-veran-mugardos-3523.html"
+  ],
+  "concello": "Mugardos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mugardos",
+  "nombre": "Festa do Marisco",
+  "fecha2026": "2026-08-09",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "XI edición (referencia 2025)",
+  "historiaCorta": "Fiesta gastronómica del marisco en el Cantón de Cora, con degustaciones de mejillones, navajas y cigalas a precios populares.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Mejillones (mexillóns)",
+   "Navajas",
+   "Cigalas",
+   "Carne a la brasa"
+  ],
+  "servicios": [
+   "Degustación a precios populares (mejillones 5€, otros 12€)",
+   "Comienza sobre las 13:00 h",
+   "Música en directo",
+   "Celebrada en el Cantón de Cora"
+  ],
+  "tradicion": null,
+  "programa": "Degustación de marisco a partir del mediodía con música en directo (DJ y orquestas).",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-do-marisco-mugardos-13379.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mugardos-52.html"
+  ],
+  "concello": "Mugardos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mugardos",
+  "nombre": "Churrascada Popular",
+  "fecha2026": "2026-07-05",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "XVI edición (2026)",
+  "historiaCorta": "Comida popular a la brasa en las instalaciones deportivas, con churrasco y música.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrasco",
+   "Carnes a la brasa"
+  ],
+  "servicios": [
+   "Música en directo",
+   "Celebrada en las instalaciones deportivas"
+  ],
+  "tradicion": null,
+  "programa": "Comida popular de churrasco con actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mugardos-52.html"
+  ],
+  "concello": "Mugardos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mugardos",
+  "nombre": "Peirao Rock",
+  "fecha2026": "2026-08-22",
+  "fechaFin2026": "2026-08-23",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festival de música rock al aire libre en el Parque da Constitución, junto al peirao de Mugardos.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Al aire libre en el Parque da Constitución",
+   "Conciertos de rock en directo"
+  ],
+  "tradicion": null,
+  "programa": "Dos jornadas de conciertos de rock en el Parque da Constitución.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-do-veran-mugardos-3523.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mugardos-52.html"
+  ],
+  "concello": "Mugardos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Mugardos",
+  "nombre": "Sardiñada de San Xoán",
+  "fecha2026": "2026-06-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Sardinada popular de la noche de San Xoán organizada por el Casino Mugardés.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardinas a la brasa"
+  ],
+  "servicios": [
+   "Organizada por el Casino Mugardés"
+  ],
+  "tradicion": "Vinculada a la noche de San Xoán y sus hogueras.",
+  "programa": "Sardinada popular en torno a la festividad de San Xoán.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mugardos-52.html"
+  ],
+  "concello": "Mugardos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Franza",
+  "nombre": "San Antonio de Franza",
+  "fecha2026": "2026-06-13",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de Franza en honor a San Antonio, con actos religiosos, juegos y música.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones musicales",
+   "Juegos"
+  ],
+  "tradicion": null,
+  "programa": "Misa y procesión en honor a San Antonio, juegos populares y verbena. La parroquia de Franza también celebra fiestas de verano a finales de agosto (28).",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-antonio-de-franza-mugardos-38463.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mugardos-52.html"
+  ],
+  "concello": "Mugardos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Franza",
+  "nombre": "Festas de Verán de Franza",
+  "fecha2026": "2026-08-28",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas de verano de la parroquia de Franza, a finales de agosto, con bandas y orquestas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones de bandas y orquestas",
+   "Verbena"
+  ],
+  "tradicion": null,
+  "programa": "Actuaciones musicales de bandas y orquestas y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-do-veran-mugardos-3523.html"
+  ],
+  "concello": "Mugardos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "O Seixo",
+  "nombre": "Festas de Verán de O Seixo",
+  "fecha2026": "2026-08-28",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas de verano de la parroquia de O Seixo, a finales de agosto, con bandas y orquestas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones de bandas y orquestas",
+   "Verbena"
+  ],
+  "tradicion": null,
+  "programa": "Actuaciones musicales de bandas y orquestas y verbena, celebradas junto con las fiestas de Franza.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-do-veran-mugardos-3523.html"
+  ],
+  "concello": "Mugardos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Meá",
+  "nombre": "Festas de Verán de Meá",
+  "fecha2026": "2026-08-29",
+  "fechaFin2026": "2026-08-30",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas de verano de la parroquia de Meá (San Vicente de Meá) a finales de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbena con música"
+  ],
+  "tradicion": null,
+  "programa": "Verbenas y actos festivos de fin de verano en la parroquia.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mugardos-52.html"
+  ],
+  "concello": "Mugardos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Piñeiro",
+  "nombre": "Festa dos Callos",
+  "fecha2026": "2026-08-23",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "XVI edición (2026)",
+  "historiaCorta": "Fiesta gastronómica de los callos en la parroquia de San Xoán de Piñeiro, con degustación popular.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Callos"
+  ],
+  "servicios": [
+   "Degustación popular",
+   "Música en directo"
+  ],
+  "tradicion": null,
+  "programa": "Degustación de callos con música y ambiente festivo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mugardos-52.html"
+  ],
+  "concello": "Mugardos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Piñeiro",
+  "nombre": "Maratón Popular San Xoán de Piñeiro",
+  "fecha2026": "2026-09-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "XLII edición (2026)",
+  "historiaCorta": "Veterana carrera popular de San Xoán de Piñeiro, con más de 40 ediciones y varias categorías de distancia.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Varias categorías de distancia",
+   "Carrera popular"
+  ],
+  "tradicion": "Una de las pruebas atléticas populares más veteranas de la comarca, con más de cuatro décadas de historia.",
+  "programa": "Carrera popular con distintas distancias y categorías.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mugardos-52.html"
+  ],
+  "concello": "Mugardos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Xuvia",
+  "nombre": "II Festa do Marisco de Xuvia",
+  "fecha2026": "2026-06-13",
+  "fechaFin2026": "2026-06-14",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Festa do marisco a pie del paseo marítimo de Xuvia, en su segunda edición, con degustaciones a buen precio en pleno verano fluvial.",
+  "historiaLarga": null,
+  "fundacion": "2ª edición (2026)",
+  "programa": "Degustación de marisco, talleres de cocina y ambiente de paseo marítimo.",
+  "gastronomia": [
+   "Almejas",
+   "Zamburiñas",
+   "Navajas",
+   "Paella"
+  ],
+  "servicios": [
+   "Paseo marítimo de Xuvia"
+  ],
+  "tradicion": "Cita marisquera junto a la ría, en el entorno del antiguo Xuvia industrial.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sedes",
+  "nombre": "San Xoán de Sedes",
+  "fecha2026": "2026-06-19",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Verbena de San Xoán en la parroquia de Sedes, con la tradicional cacharela (hoguera) de la noche más corta del año.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Juegos populares, música y hoguera de San Xoán.",
+  "gastronomia": [
+   "Sardiña asada"
+  ],
+  "servicios": [],
+  "tradicion": "Noite de San Xoán con cacharelas, una de las tradiciones más arraigadas de Galicia.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-xoan-de-sedes-naron-38527.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "O Val",
+  "nombre": "Recreación das Lendas da Pena Molexa",
+  "fecha2026": "2026-06-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Recreación de las leyendas en torno a la Pena Molexa, en Vilasuso (O Val), una de las grandes rocas mitológicas de Galicia.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Recreación teatralizada de las leyendas locales.",
+  "gastronomia": [],
+  "servicios": [
+   "Vilasuso (O Val)"
+  ],
+  "tradicion": "La Pena Molexa es un monumento natural ligado a leyendas de mouros y tesoros.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Narón",
+  "nombre": "XI Encontro de Rondallas",
+  "fecha2026": "2026-06-28",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Encuentro de rondallas en su undécima edición, con agrupaciones musicales tradicionales del entorno.",
+  "historiaLarga": null,
+  "fundacion": "11ª edición (2026)",
+  "programa": "Actuaciones de rondallas y agrupaciones musicales.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "O Val",
+  "nombre": "Santa Margarita de O Val",
+  "fecha2026": "2026-07-04",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta patronal de Santa Margarita en la parroquia de O Val.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Misa, procesión y verbena.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Xuvia",
+  "nombre": "XXV Festa da Alteada",
+  "fecha2026": "2026-07-06",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Evento gastronómico en el paseo de Xuvia que alcanza su 25ª edición, ya consolidado en el verano naronés.",
+  "historiaLarga": null,
+  "fundacion": "25ª edición (2026)",
+  "programa": "Degustación gastronómica en el paseo marítimo.",
+  "gastronomia": [],
+  "servicios": [
+   "Paseo marítimo de Xuvia"
+  ],
+  "tradicion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Narón",
+  "nombre": "Mercado Medieval",
+  "fecha2026": "2026-07-17",
+  "fechaFin2026": "2026-07-20",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Mercado medieval con artesanía y zona de acampada que toma las calles de Narón durante un fin de semana de julio.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Puestos de artesanía, animación de calle y acampada.",
+  "gastronomia": [],
+  "servicios": [
+   "Zona de acampada"
+  ],
+  "tradicion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Narón",
+  "nombre": "XXXIV Festival Internacional de Folclore",
+  "fecha2026": "2026-07-19",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Festival internacional de folclore en su edición número 34, con grupos de música y danza tradicional de varios países.",
+  "historiaLarga": null,
+  "fundacion": "34ª edición (2026)",
+  "programa": "Actuaciones de grupos de folclore nacionales e internacionales.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Xuvia",
+  "nombre": "XXV Festa do Pemento do Couto",
+  "fecha2026": "2026-07-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "confirmada-web",
+  "historiaCorta": "Exaltación gastronómica del célebre pimiento de O Couto, el que no pica, en San Martiño de Xubia. En 2025 cumplió 25 años cocinando 200 kilos de producto.",
+  "historiaLarga": "La Festa do Pemento do Couto es una de las grandes citas gastronómicas del verano de Narón, organizada por la Asociación de Veciños do Couto en la parroquia de San Martiño de Xubia. Se celebra en la carballeira junto al Centro Cívico Social, donde cientos de personas degustan el pimiento de O Couto, una variedad local cuya seña de identidad es que no pica al carecer de capsaicina. Desde 2010 cuenta con Indicación Xeográfica Protexida (IXP) de la Xunta de Galicia, que certifica su calidad. En la edición de 2025, que cumplió un cuarto de siglo, se cocinaron unos 200 kilos de pimientos para la comida popular.",
+  "fundacion": "25ª edición (2025); IXP desde 2010",
+  "programa": "Comida popular con degustación de pimientos y actividades recreativas en la carballeira del Centro Cívico Social.",
+  "gastronomia": [
+   "Pemento do Couto (IXP)",
+   "Comida popular (200 kg de pimientos)"
+  ],
+  "servicios": [
+   "Carballeira del Centro Cívico Social de O Couto",
+   "Degustación popular"
+  ],
+  "tradicion": "El pimiento de O Couto, con IXP desde 2010, es la hortaliza más emblemática de Narón y no pica.",
+  "fuentes": [
+   "https://www.cope.es/emisoras/galicia/a-coruna-provincia/ferrol/noticias/fiesta-exaltacion-pimiento-do-couto-pica-cumple-25-anos-20250715_3185846.html",
+   "https://www.diariodeferrol.com/articulo/naron/naron-cocinara-200-kilos-hortaliza-destacada-festa-do-pemento-do-couto-4923205",
+   "https://turismo.naron.gal/es/conoce-naron/que-visitar/espacios-naturales/fiesta-gastronomica-del-pimiento-de-o-couto"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Narón",
+  "nombre": "Carnaval de Verano",
+  "fecha2026": "2026-07-21",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Versión estival del carnaval de Narón, con desfile y ambiente festivo en pleno julio.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Desfile de carnaval y animación.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Narón",
+  "nombre": "Feira da Cervexa Artesá",
+  "fecha2026": "2026-07-24",
+  "fechaFin2026": "2026-07-27",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Feria de la cerveza artesana de Narón, con productores de cerveza craft y ambiente de verbena durante varios días.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Puestos de cerveza artesana, música en directo y gastronomía.",
+  "gastronomia": [
+   "Cerveza artesana"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sedes",
+  "nombre": "XXV Oenach Atlántico",
+  "fecha2026": "2026-08-01",
+  "fechaFin2026": "2026-08-03",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Gran recreación de un poblado castreño celta en el recinto do Trece (Sedes), declarada Festa de Interese Turístico de Galicia. Mezcla artesanía, gastronomía y arqueología viva.",
+  "historiaLarga": "El Oenach Atlántico es la fiesta de recreación histórica más importante de Narón y una de las grandes citas celtas de Galicia, declarada Festa de Interese Turístico de Galicia. Se celebra en el recinto do Trece, en la parroquia de Sedes, y recrea un poblado castreño vivo con la construcción de pallozas, exposición de cerámica castreña, trabajo de la piedra y molinos. Tomando como referente el Arde Lucus de Lugo, el programa incluye una ceremonia de encendido del fuego con un espectáculo musical de dos horas que mezcla danza, conciertos de música gallega (con artistas como Óscar Ibáñez & Tribo), un espacio gastronómico y actividades para grandes y pequeños. La inauguración suele abrir la noche del primer día y el recinto y el espacio gastronómico abren a mediodía los días centrales.",
+  "fundacion": "25ª edición (2026); Festa de Interese Turístico de Galicia",
+  "programa": "Inauguración nocturna, ceremonia del fuego con espectáculo musical, recreación de poblado castreño (pallozas, cerámica, molinos), conciertos de música gallega, espacio gastronómico y actividades infantiles.",
+  "gastronomia": [
+   "Espacio gastronómico de comida de inspiración castreña"
+  ],
+  "servicios": [
+   "Recinto do Trece (Sedes)",
+   "Espacio gastronómico",
+   "Actividades infantiles"
+  ],
+  "tradicion": "Festa de Interese Turístico de Galicia; recreación de la cultura castreña celta del entorno de Trasancos.",
+  "fuentes": [
+   "https://www.turismo.gal/recurso/-/detalle/271926600/o-oenach-atlantico-de-naron",
+   "https://www.paxinasgalegas.es/fiestas/oenach-atlantico-naron-3177.html",
+   "https://ferrol360.es/vuelve-el-mundo-celta-a-naron-con-el-oenach-atlantico/",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Pedroso",
+  "nombre": "San Salvador de Pedroso",
+  "fecha2026": "2026-08-06",
+  "fechaFin2026": "2026-08-07",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta patronal de San Salvador en la parroquia de Pedroso, con cuartetos de gaita, hogueras, bailes y fuegos artificiales.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Misa y procesión, cuartetos de gaita, verbenas, hogueras y fuegos artificiales.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-salvador-de-pedroso-naron-2256.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Narón",
+  "nombre": "Gulliver Fest",
+  "fecha2026": "2026-08-06",
+  "fechaFin2026": "2026-08-09",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Festival multitudinario de actividades de varios días en Narón, con propuesta de ocio y música.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Actividades variadas y música a lo largo de varios días.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "O Val",
+  "nombre": "Virxe das Neves de O Val",
+  "fecha2026": "2026-08-07",
+  "fechaFin2026": "2026-08-08",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta de la Virxe das Neves en la parroquia de O Val, con la romería de inicios de agosto.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Misa, procesión y verbena.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Castro",
+  "nombre": "Santa María de Castro",
+  "fecha2026": "2026-08-14",
+  "fechaFin2026": "2026-08-16",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiestas patronales de Santa María en la parroquia de Castro, en torno al 15 de agosto.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Misa, procesión, vermú y verbenas.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Narón",
+  "nombre": "Festas de Baltar",
+  "fecha2026": "2026-08-21",
+  "fechaFin2026": "2026-08-22",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiestas del barrio de Baltar, en Narón, con verbenas de finales de agosto.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Verbenas y actividades de barrio.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Trasancos",
+  "nombre": "Santa Icía",
+  "fecha2026": "2026-09-05",
+  "fechaFin2026": "2026-09-08",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta religiosa de Santa Icía en Narón, con música y romería de comienzos de septiembre.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Misa, procesión, música y verbena.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sedes",
+  "nombre": "Foliada de Sedes",
+  "fecha2026": "2026-09-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Foliada tradicional de música y baile gallego en la parroquia de Sedes para cerrar el verano.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Foliada con música tradicional gallega, gaitas y baile.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Foliada: reunión festiva de música y baile tradicional gallego.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-naron-55.html"
+  ],
+  "concello": "Narón",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Neda (villa)",
+  "nombre": "Festa do Pan",
+  "fecha2026": "2026-09-05",
+  "fechaFin2026": "2026-09-06",
+  "fechaConfianza": "probable",
+  "fundacion": "1979 (declaración Interés Turístico de Galicia); XXXV edición en 2026",
+  "historiaCorta": "La gran fiesta gastronómica de Neda celebra la tradición panadera milenaria de la villa, capital triguera de Galicia en la Edad Media. Está declarada Fiesta de Interés Turístico de Galicia desde 1979.",
+  "historiaLarga": "La Festa do Pan de Neda hunde sus raíces en la Edad Media, cuando los molinos de trigo en torno al río Belelle convirtieron a la villa en uno de los grandes centros harineros y panaderos de Galicia. Felipe II eligió Neda para asentar Reales Hornos que abastecían de galleta y bizcocho a las Armadas Reales españolas. Hoy reúne en el paseo marítimo a las panaderías locales (en torno a siete obradores) que venden pan artesano, empanadas y dulces, junto a un mercado de artesanía. El programa incluye la Noite de Bolos el sábado y, el domingo, ruta de molinos por la mañana, comida popular al mediodía y concurso de meriendas por la tarde. Llega a atraer a más de 30.000 visitantes por edición, lo que la convierte en una de las citas gastronómicas más concurridas de Ferrolterra.",
+  "tradicion": "Fiesta de Interés Turístico de Galicia. Ruta de molinos del río Belelle, mercado de artesanía y Festival da Canción Mariñeira.",
+  "gastronomia": [
+   "Pan artesano de Neda",
+   "Bollas",
+   "Empanada",
+   "Dulces de panadería",
+   "Paella popular",
+   "Carne ao caldeiro / churrasco"
+  ],
+  "servicios": [
+   "Puestos en el paseo marítimo",
+   "Mercado de artesanía",
+   "Comida popular vecinal",
+   "Actuaciones musicales"
+  ],
+  "programa": "Noite de Bolos (sábado), ruta de molinos, comida popular, concurso de meriendas, Festival da Canción Mariñeira y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-do-pan-neda-2516.html",
+   "https://www.festivalesdeespana.com/festival/festa-do-pan-de-neda-neda",
+   "https://www.defiestaenfiesta.es/fiestas/galicia/a-coruna/neda/festa-do-pan-02092026"
+  ],
+  "concello": "Neda",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Santa María de Neda",
+  "nombre": "Festas Patronais de Santa María",
+  "fecha2026": "2026-09-08",
+  "fechaFin2026": "2026-09-10",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de la villa en honor a Santa María y a la Virgen del Carmen, con actos religiosos y verbenas.",
+  "historiaLarga": null,
+  "tradicion": "Salida con bombas de palenque, misa solemne y procesión.",
+  "gastronomia": [],
+  "servicios": [
+   "Verbena",
+   "Conciertos",
+   "Actividades infantiles"
+  ],
+  "programa": "Bombas, misa solemne y procesión, sesión vermú con orquesta, actividades infantiles y verbena nocturna.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-patronais-de-santa-maria-neda-5088.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-neda-56.html"
+  ],
+  "concello": "Neda",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Neda",
+  "nombre": "Nosa Señora do Carmen",
+  "fecha2026": "2026-07-15",
+  "fechaFin2026": "2026-07-16",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Celebración religiosa estival en honor a la Virgen del Carmen, con su tradicional sardiñada.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [
+   "Sardiñada"
+  ],
+  "servicios": [
+   "Animación musical"
+  ],
+  "programa": "Oficio religioso y animación musical.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/nosa-se%C3%B1ora-do-carmen-neda-13322.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-neda-56.html"
+  ],
+  "concello": "Neda",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Casadelos",
+  "nombre": "San Antonio de Casadelos",
+  "fecha2026": "2026-06-13",
+  "fechaFin2026": "2026-06-14",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta en honor a San Antonio en el lugar de Casadelos, con misa y orquestas.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [
+   "Orquestas"
+  ],
+  "programa": "Oficio religioso y actuaciones de orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-neda-56.html"
+  ],
+  "concello": "Neda",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "O Roxal",
+  "nombre": "Xantar Veciñal",
+  "fecha2026": "2026-07-12",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Comida vecinal de verano que reúne al pueblo en la pista polideportiva do Roxal, con baile como amenización.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [
+   "Comida popular"
+  ],
+  "servicios": [
+   "Baile",
+   "Pista polideportiva do Roxal"
+  ],
+  "programa": "Comida vecinal con baile.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-neda-56.html"
+  ],
+  "concello": "Neda",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Ancos",
+  "nombre": "Andaina Nocturna ao Miradoiro de Ancos",
+  "fecha2026": "2026-06-29",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Caminata nocturna guiada hasta el Monte de Ancos para disfrutar de las vistas de toda la ría de Ferrol, con espectáculo teatral incluido.",
+  "historiaLarga": null,
+  "tradicion": "Miradoiro con vistas panorámicas de la ría de Ferrol y espectáculo teatral en el monte.",
+  "gastronomia": [],
+  "servicios": [
+   "Ruta guiada",
+   "Espectáculo teatral"
+  ],
+  "programa": "Andaina nocturna guiada al miradoiro con espectáculo teatral.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-neda-56.html"
+  ],
+  "concello": "Neda",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Valdoviño",
+  "nombre": "Corpus Christi",
+  "fecha2026": "2026-06-13",
+  "fechaFin2026": "2026-06-14",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Una de las celebraciones religiosas más arraigadas del concello, con los tradicionales actos en honor al Corpus Christi acompañados de actuaciones de orquestas.",
+  "historiaLarga": null,
+  "tradicion": "Festividad de raíz religiosa que combina los oficios con verbena.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y actuaciones musicales de orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-valdovi%C3%B1o-89.html",
+   "https://www.paxinasgalegas.es/fiestas/corpus-christi-valdovi%C3%B1o-14236.html"
+  ],
+  "concello": "Valdoviño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Meirás",
+  "nombre": "Romaría da Virxe do Porto",
+  "fecha2026": "2026-07-04",
+  "fechaFin2026": "2026-07-06",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Romería marinera en la playa de Meirás en la que la procesión sale al mar con los botes y se celebra una misa junto a la orilla.",
+  "historiaLarga": null,
+  "tradicion": "Procesión en la propia playa con las embarcaciones, una de las estampas marineras más bonitas del concello.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Misa, procesión marítima con los botes y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-valdovi%C3%B1o-89.html"
+  ],
+  "concello": "Valdoviño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Valdoviño",
+  "nombre": "Virxe do Carme",
+  "fecha2026": "2026-07-18",
+  "fechaFin2026": "2026-07-19",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta en honor a la Virxe do Carme, patrona de los marineros, con misa solemne, procesión de la imagen y verbenas.",
+  "historiaLarga": null,
+  "tradicion": "Devoción marinera muy extendida en la costa gallega.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Misa solemne, sesión vermú con orquesta por la tarde, procesión de la imagen y verbena nocturna.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-valdovi%C3%B1o-89.html",
+   "https://www.paxinasgalegas.es/fiestas/virxe-do-carme-valdovi%C3%B1o-3284.html"
+  ],
+  "concello": "Valdoviño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Lago",
+  "nombre": "Santiago Apóstol de Lago",
+  "fecha2026": "2026-07-24",
+  "fechaFin2026": "2026-07-25",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de la parroquia de Lago en honor a Santiago Apóstol, que arranca con una misa solemne y sigue con actuaciones musicales.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Misa solemne en honor al santo (sobre las 12:30 h) y actuaciones musicales de orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-valdovi%C3%B1o-89.html",
+   "https://www.paxinasgalegas.es/fiestas/santiago-apostol-de-lago-valdovi%C3%B1o-10098.html"
+  ],
+  "concello": "Valdoviño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Valdoviño",
+  "nombre": "Baixada de Carrilanas a San Mamede",
+  "fecha2026": "2026-08-08",
+  "fechaFin2026": "2026-08-10",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Bajada popular en la que cerca de 80 vehículos sin motor construidos con materiales de todo tipo se lanzan ladera abajo, en su edición número 27.",
+  "historiaLarga": null,
+  "tradicion": "Evento deportivo-festivo de gran tirón popular, con vehículos artesanales sin motor.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Bajada de carrilanas y ambiente festivo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-valdovi%C3%B1o-89.html"
+  ],
+  "concello": "Valdoviño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Meirás",
+  "nombre": "MeirasLand",
+  "fecha2026": "2026-08-08",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festival de música electrónica que se celebra en el incomparable marco de la playa de Meirás.",
+  "historiaLarga": null,
+  "tradicion": "Cita electrónica que atrae a público joven al arenal de Meirás.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Sesiones de música electrónica.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-valdovi%C3%B1o-89.html",
+   "https://www.paxinasgalegas.es/fiestas/meirasland-valdovi%C3%B1o-38499.html"
+  ],
+  "concello": "Valdoviño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Vilarrube",
+  "nombre": "Santa Filomena de Vilarrube",
+  "fecha2026": "2026-08-09",
+  "fechaFin2026": "2026-08-10",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la parroquia de Vilarrube en honor a Santa Filomena, con verbenas amenizadas por orquestas.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y verbenas con orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-valdovi%C3%B1o-89.html"
+  ],
+  "concello": "Valdoviño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Meirás",
+  "nombre": "Festas Patronais de Meirás",
+  "fecha2026": "2026-08-14",
+  "fechaFin2026": "2026-08-16",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de la parroquia de Meirás que combinan misas, sesiones vermú y grandes verbenas.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Oficios religiosos, sesiones vermú y actuaciones musicales con orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-valdovi%C3%B1o-89.html",
+   "https://www.paxinasgalegas.es/fiestas/festas-patronais-de-meiras-valdovi%C3%B1o-11613.html"
+  ],
+  "concello": "Valdoviño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Valdoviño",
+  "nombre": "San Mamede",
+  "fecha2026": "2026-08-16",
+  "fechaFin2026": "2026-08-17",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas en honor a San Mamede, patrón de Valdoviño, con grandes verbenas amenizadas por orquestas del momento.",
+  "historiaLarga": null,
+  "tradicion": "Patrón del concello; las verbenas son de las más concurridas del verano local.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y grandes verbenas con orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-valdovi%C3%B1o-89.html"
+  ],
+  "concello": "Valdoviño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Pantín",
+  "nombre": "Abanca Pantín Classic Galicia Pro",
+  "fecha2026": "2026-08-22",
+  "fechaFin2026": "2026-08-30",
+  "fechaConfianza": "confirmada-web",
+  "fundacion": "1988",
+  "historiaCorta": "La cita de surf más emblemática de Galicia, declarada Festa de Galicia de Interés Turístico, que reúne en la playa de Pantín a los mejores surfistas del mundo en su 39ª edición.",
+  "historiaLarga": "El Abanca Pantín Classic Galicia Pro es una de las pruebas de surf más icónicas y veteranas de Europa. Nacida a finales de los años 80, se celebra en la playa de Pantín (Valdoviño), considerada una de las mejores olas del continente, lo que la convirtió pronto en parada del circuito internacional. Encuadrada en categoría QS, congrega a surfistas profesionales masculinos y femeninos de todo el mundo y es capaz de atraer a más de 100.000 visitantes a lo largo de los días de competición. Está reconocida como Festa de Galicia de Interés Turístico y combina el deporte de alto nivel con un ambiente festivo en torno al arenal. En 2026 alcanza su 39ª edición, del 22 al 30 de agosto.",
+  "tradicion": "Festa de Galicia de Interés Turístico; uno de los eventos de surf más antiguos y reconocidos de Europa, con la ola de Pantín como gran reclamo.",
+  "gastronomia": [],
+  "servicios": [
+   "Acceso gratuito a la competición en la playa de Pantín",
+   "Gran afluencia de visitantes (más de 100.000 personas)"
+  ],
+  "programa": "Competición internacional de surf masculino y femenino durante varios días, con ambiente festivo en el arenal.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-valdovi%C3%B1o-89.html",
+   "https://www.elespanol.com/quincemil/deporte/otros-deportes/20260121/abanca-pantin-classic-galicia-pro-fecha-agosto/1003744098745_0.html",
+   "https://classicsurfpro.com/en/pantin-classic-galicia-pro/",
+   "https://paxinasgalegas.es/fiestas/pantin-classic-galicia-pro-campeonato-mundial-valdovi%C3%B1o-10271.html"
+  ],
+  "concello": "Valdoviño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Lourido",
+  "nombre": "San Bartolo de Lourido",
+  "fecha2026": "2026-08-23",
+  "fechaFin2026": "2026-08-24",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la parroquia de Lourido en honor a San Bartolomé, con actos religiosos y actuaciones musicales.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-valdovi%C3%B1o-89.html"
+  ],
+  "concello": "Valdoviño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sequeiro",
+  "nombre": "Santa María de Sequeiro",
+  "fecha2026": "2026-09-08",
+  "fechaFin2026": "2026-09-10",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de la parroquia de Sequeiro en honor a Santa María, con actos religiosos y actuaciones musicales.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-valdovi%C3%B1o-89.html"
+  ],
+  "concello": "Valdoviño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Lago",
+  "nombre": "Virxe das Dores de Lago",
+  "fecha2026": "2026-09-13",
+  "fechaFin2026": "2026-09-14",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la parroquia de Lago en honor a la Virxe das Dores, con variadas actuaciones de orquestas y grupos del momento.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y variadas actuaciones musicales con orquestas y grupos del momento.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-valdovi%C3%B1o-89.html"
+  ],
+  "concello": "Valdoviño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "A Pedra",
+  "nombre": "San Antonio de A Pedra",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-06-13",
+  "fechaFin2026": null,
+  "historiaCorta": "Fiesta en honor a San Antonio en la parroquia de A Pedra, en torno al 13 de junio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Restaurantes, bares y mesones en Cariño"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fundacion": null,
+  "fechaConfianza_nota": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cari%C3%B1o-20.html"
+  ],
+  "concello": "Cariño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Feás",
+  "nombre": "San Pedro de Feás",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-06-26",
+  "fechaFin2026": "2026-06-27",
+  "historiaCorta": "Fiesta patronal en honor a San Pedro en la parroquia de Feás, hacia finales de junio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Restaurantes, bares y mesones en Cariño"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fundacion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cari%C3%B1o-20.html"
+  ],
+  "concello": "Cariño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cariño",
+  "nombre": "Virxe das Angustias",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-07-04",
+  "fechaFin2026": "2026-07-05",
+  "historiaCorta": "Celebración religiosa de la Virxe das Angustias en la villa de Cariño, a principios de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fundacion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cari%C3%B1o-20.html"
+  ],
+  "concello": "Cariño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cariño",
+  "nombre": "Encontro de Bandas de Gaitas",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-07-05",
+  "fechaFin2026": null,
+  "historiaCorta": "Encuentro de bandas de gaitas que convierte a Cariño en epicentro de la música tradicional gallega.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Música tradicional gallega, bandas de gaitas.",
+  "programa": null,
+  "fundacion": "Primera edición (I Encontro)",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cari%C3%B1o-20.html"
+  ],
+  "concello": "Cariño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cariño",
+  "nombre": "Virxe do Carme",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-07-15",
+  "fechaFin2026": "2026-07-16",
+  "historiaCorta": "Fiesta marinera por excelencia de Cariño, con la tradicional procesión marítima de la Virgen del Carmen y la danza de arcos.",
+  "historiaLarga": "La Virxe do Carme es la celebración marinera por excelencia de Cariño, villa de fuerte tradición pesquera. El acto central es la procesión marítima, en la que la imagen de la Virgen del Carmen, patrona de los marineros, recorre la ría a bordo de embarcaciones engalanadas mientras la flota local la acompaña en el mar. En tierra destaca la danza de arcos, una de las señas de identidad de la fiesta. Se completa con actos religiosos, pasacalles y verbenas nocturnas.",
+  "gastronomia": [],
+  "servicios": [
+   "Restaurantes, bares y mesones en Cariño"
+  ],
+  "tradicion": "Procesión marítima de la Virgen del Carmen por la ría y danza de arcos.",
+  "programa": "Misa solemne, procesión marítima por la ría con embarcaciones engalanadas, danza de arcos, pasacalles y verbenas.",
+  "fundacion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cari%C3%B1o-20.html",
+   "https://www.paxinasgalegas.es/fiestas/virxe-do-carme-cari%C3%B1o-1176.html"
+  ],
+  "concello": "Cariño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cariño",
+  "nombre": "Festa do Pulpo e o Churrasco",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-07-19",
+  "fechaFin2026": null,
+  "historiaCorta": "Fiesta gastronómica de Cariño centrada en el pulpo y el churrasco, con actividades lúdicas.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Pulpo",
+   "Churrasco (carne a la parrilla)"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Degustación gastronómica y actividades lúdicas.",
+  "fundacion": "VI edición (2025)",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cari%C3%B1o-20.html"
+  ],
+  "concello": "Cariño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cariño",
+  "nombre": "Festa da Caldeirada e da Sardiña Lañada",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-02",
+  "fechaFin2026": null,
+  "historiaCorta": "Fiesta gastronómica marinera de Cariño dedicada a la caldeirada y a la sardiña lañada (sardina abierta y salada).",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Caldeirada",
+   "Sardiña lañada (sardina abierta y curada en sal)"
+  ],
+  "servicios": [],
+  "tradicion": "Sardiña lañada, plato tradicional de la cocina marinera gallega.",
+  "programa": "Degustación gastronómica popular.",
+  "fundacion": "XXII edición (2025)",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cari%C3%B1o-20.html"
+  ],
+  "concello": "Cariño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sismundi",
+  "nombre": "Virxe do Carme de Sismundi",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-02",
+  "fechaFin2026": "2026-08-03",
+  "historiaCorta": "Fiesta en honor a la Virgen del Carmen en la parroquia de Sismundi, a principios de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fundacion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cari%C3%B1o-20.html"
+  ],
+  "concello": "Cariño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cariño",
+  "nombre": "Mostra de Teatro Galego",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-03",
+  "fechaFin2026": "2026-08-09",
+  "historiaCorta": "Muestra de teatro gallego de Cariño, una de las más veteranas de Galicia con más de cuarenta ediciones.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Una de las muestras de teatro gallego más longevas de Galicia.",
+  "programa": "Representaciones teatrales durante varios días.",
+  "fundacion": "XLVII edición (2025)",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cari%C3%B1o-20.html"
+  ],
+  "concello": "Cariño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cariño",
+  "nombre": "Festa Mariñeira",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-09",
+  "fechaFin2026": null,
+  "historiaCorta": "Fiesta marinera de Cariño que celebra la identidad pesquera de la villa.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fundacion": "VII edición (2025)",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cari%C3%B1o-20.html"
+  ],
+  "concello": "Cariño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cariño",
+  "nombre": "Nosa Señora da Pedra",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-14",
+  "fechaFin2026": "2026-08-16",
+  "historiaCorta": "Fiesta de la Nosa Señora da Pedra en Cariño, a mediados de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fundacion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cari%C3%B1o-20.html"
+  ],
+  "concello": "Cariño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cariño",
+  "nombre": "San Bartolo",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-23",
+  "fechaFin2026": "2026-08-26",
+  "historiaCorta": "Fiestas patronales de Cariño en honor a San Bartolomeu, el gran evento del verano en la villa, a finales de agosto.",
+  "historiaLarga": "Las fiestas de San Bartolo (San Bartolomeu) son las patronales de la villa de Cariño y el acontecimiento festivo más importante del verano local. Se celebran en torno al 24 de agosto, día del santo, y se han mantenido en las mismas fechas (23-26 de agosto) durante años. El programa arranca con una gran tirada de bombas de palenque y combina actos religiosos solemnes, con misas y procesiones acompañadas de música, con un amplio programa profano: pasacalles matutinos con bandas de gaitas y danzas, el popular Carnaval de Verán (desfile de disfraces animado por la Batería de Cariño), una Xira Campestre y verbenas nocturnas con orquestas y DJ.",
+  "gastronomia": [],
+  "servicios": [
+   "Restaurantes, bares y mesones en Cariño",
+   "Alojamiento (hoteles, pensiones)"
+  ],
+  "tradicion": "Carnaval de Verán con desfile de disfraces y la Batería de Cariño; tirada de bombas de palenque.",
+  "programa": "Tirada de bombas de palenque, misas y procesiones con música, pasacalles con bandas de gaitas y danzas, Carnaval de Verán, Xira Campestre y verbenas con orquestas y DJ.",
+  "fundacion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cari%C3%B1o-20.html",
+   "https://www.paxinasgalegas.es/fiestas/san-bartolo-cari%C3%B1o-1178.html"
+  ],
+  "concello": "Cariño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Feás",
+  "nombre": "Virxe dos Remedios de Feás",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-09-13",
+  "fechaFin2026": "2026-09-15",
+  "historiaCorta": "Fiesta en honor a la Virxe dos Remedios en la parroquia de Feás, con su famosa Gran Xira Campestre vecinal.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardinas",
+   "Churrasco",
+   "Aperitivos en sesión de vermú"
+  ],
+  "servicios": [
+   "Restaurantes, bares y hoteles en Cariño"
+  ],
+  "tradicion": "Gran Xira Veciñal/Campestre con comida tradicional; sorteos de jamones y vales.",
+  "programa": "Misas rezadas y solemne cantada, procesión con grupos de gaitas, pasacalles, sesiones de vermú, juegos populares, sorteos, Gran Xira Campestre y verbenas nocturnas con orquestas.",
+  "fundacion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cari%C3%B1o-20.html",
+   "https://www.paxinasgalegas.es/fiestas/virxe-dos-remedios-de-feas-cari%C3%B1o-1174.html"
+  ],
+  "concello": "Cariño",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Os Casás",
+  "nombre": "San Xoán de Os Casás",
+  "fecha2026": "2026-06-20",
+  "fechaFin2026": "2026-06-21",
+  "fechaConfianza": "confirmada-web",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal en honor a San Xoán (San Juan) en la parroquia de Os Casás, una de las citas grandes del verano en Cerdido con misa, procesión y verbena.",
+  "historiaLarga": "La fiesta de San Xoán de Os Casás es la gran cita del solsticio de verano en Cerdido. Se celebra en torno a la iglesia parroquial de San Juan de Os Casás y combina la parte religiosa (misa solemne y procesión) con dos jornadas de fiesta popular: sesión vermú al mediodía y verbena por la noche con orquestas. Como manda la tradición de San Xoán, en años anteriores no han faltado las sardiñadas y las hogueras nocturnas.",
+  "tradicion": "Como toda fiesta de San Xoán, conserva el sabor del solsticio: hogueras y sardiñadas en ediciones previas.",
+  "gastronomia": [
+   "Sardiñada (cena popular de sardinas en ediciones previas)"
+  ],
+  "servicios": [
+   "Sesión vermú a las 14:00",
+   "Verbena nocturna con orquestas"
+  ],
+  "programa": "Sábado: vermú a las 14:00 con la Orquesta Salsarena y verbena nocturna con Salsarena y el dúo Calú. Domingo: misa solemne a las 14:00 con la Coral Eixil, procesión y vermú con A.C. Troula do Ortegal y Grupo Montreal.",
+  "fechaConfianza_note": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-xoan-de-os-casas-cerdido-13193.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cerdido-26.html"
+  ],
+  "concello": "Cerdido",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cerdido",
+  "nombre": "San Martiño",
+  "fecha2026": "2026-07-03",
+  "fechaFin2026": "2026-07-05",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de verano en honor a San Martiño en el concello de Cerdido, con actos religiosos y orquestas en directo.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [
+   "Orquestas en directo"
+  ],
+  "programa": "Oficios religiosos y verbenas con orquestas en directo a lo largo de varias jornadas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cerdido-26.html"
+  ],
+  "concello": "Cerdido",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cerdido",
+  "nombre": "As Dores (Virxe das Dores)",
+  "fecha2026": "2026-09-13",
+  "fechaFin2026": "2026-09-14",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de septiembre en honor a la Virxe das Dores en Cerdido, que cierra el verano con actos religiosos y actuaciones musicales.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones musicales"
+  ],
+  "programa": "Actos religiosos en honor a la Virxe das Dores y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cerdido-26.html"
+  ],
+  "concello": "Cerdido",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cerdido",
+  "nombre": "Xuntanza de Grupos Tradicionais",
+  "fecha2026": "2026-06-07",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Encuentro de grupos de música tradicional gallega organizado por la Sociedade Cultural Airiños dos Carrís, que abre la temporada festiva del verano.",
+  "historiaLarga": null,
+  "tradicion": "Reúne grupos de música y baile tradicional gallego (gaitas, pandeireteiras).",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actuaciones de grupos de música y baile tradicional gallego.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cerdido-26.html"
+  ],
+  "concello": "Cerdido",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Touro",
+  "nombre": "San Xoán",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": "2026-06-26",
+  "fechaConfianza": "confirmada-web",
+  "fundacion": null,
+  "historiaCorta": "La hoguera de San Xoán de Touro, en el campo de Fonte Díaz, gira en torno a la noche más mágica del verano con su tradicional sardiñada popular.",
+  "historiaLarga": "El San Xoán de Touro se celebra en el campo de la fiesta de Fonte Díaz coincidiendo con la noche de San Juan, una de las citas más arraigadas del calendario gallego. La fiesta combina actos religiosos en honor al santo con la noche festiva por excelencia: hogueras, música y la clásica sardiñada que reúne a vecinos y visitantes a las puertas del verano. La velada arranca al caer la tarde y se prolonga con sesión de DJ y verbena hasta la madrugada.",
+  "gastronomia": [
+   "Sardiñada popular (sardinas a la brasa)"
+  ],
+  "servicios": [
+   "Acceso libre",
+   "Música con DJ por la noche"
+  ],
+  "tradicion": "Coincide con la noche de San Juan, la noche más corta del año, asociada a hogueras y rituales de fuego.",
+  "programa": "Sardiñada popular, actos religiosos, música y verbena con DJ.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-xoan-touro-1471.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Touro",
+  "nombre": "Virxe do Carme",
+  "fecha2026": "2026-07-16",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Celebración de la Virxe do Carme en la villa de Touro, con actos religiosos y musicales en pleno mes de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Pedro de Ribeira",
+  "nombre": "X Festa Areeira",
+  "fecha2026": "2026-06-07",
+  "fechaFin2026": null,
+  "fechaConfianza": "confirmada-web",
+  "fundacion": null,
+  "historiaCorta": "La Festa Areeira de San Pedro de Ribeira alcanza en 2026 su décima edición, una cita gastronómica con vermú, comida popular y tardeo musical.",
+  "historiaLarga": "La Festa Areeira de San Pedro de Ribeira es una de las citas gastronómicas con más tirón del concello de Touro y en 2026 celebra su décima edición. Es una fiesta de día pensada para juntar a la gente alrededor de la mesa: a las dos de la tarde arranca la sesión vermú amenizada por el Dúo Clalibre, seguida de una comida tradicional gallega y un sorteo de premio. La jornada se cierra con un tardeo musical, consolidándola como una de las fiestas de comer y bailar más populares del verano touriense.",
+  "gastronomia": [
+   "Empanada",
+   "Orella",
+   "Pulpo",
+   "Churrasco",
+   "Postre y café"
+  ],
+  "servicios": [
+   "Sesión vermú a las 14:00",
+   "Música con Dúo Clalibre",
+   "Sorteo de premio",
+   "Restaurantes y alojamiento rural en la zona"
+  ],
+  "tradicion": "Fiesta gastronómica de día, con vermú al mediodía y tardeo, ya en su décima edición.",
+  "programa": "Sesión vermú (14:00) con animación, comida tradicional, sorteo de premio y tardeo musical.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-areeira-touro-32428.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Pedro de Ribeira",
+  "nombre": "San Pedro de Ribeira",
+  "fecha2026": "2026-06-27",
+  "fechaFin2026": "2026-06-28",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de San Pedro de Ribeira, con actos religiosos en honor a San Pedro y a la Virxe das Dores a finales de junio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos en honor a San Pedro y a la Virxe das Dores.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "San Pedro de Ribeira",
+  "nombre": "Festas de San Pedro de Ribeira (agosto)",
+  "fecha2026": "2026-08-23",
+  "fechaFin2026": "2026-08-24",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Las fiestas de verano de San Pedro de Ribeira honran a Santa Lucía y a la Virgen de Fátima a finales de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos en honor a Santa Lucía y a la Virgen de Fátima.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Loxo",
+  "nombre": "Sardiñada de Loxo",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Sardiñada popular en el Local Social de Loxo, un evento gastronómico con verbena que coincide con la noche de San Xoán.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardiñada (sardinas a la brasa)"
+  ],
+  "servicios": [
+   "Local Social de Loxo",
+   "Verbena"
+  ],
+  "tradicion": "Coincide con la noche de San Juan.",
+  "programa": "Sardiñada popular y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Loxo",
+  "nombre": "San Sebastián de Loxo",
+  "fecha2026": "2026-07-04",
+  "fechaFin2026": "2026-07-05",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta religiosa de San Sebastián en la parroquia de Santa María de Loxo a comienzos de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Loxo",
+  "nombre": "Santa María, San Roque e Virxe do Carme de Loxo",
+  "fecha2026": "2026-08-15",
+  "fechaFin2026": "2026-08-17",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Las fiestas grandes de Loxo, a mediados de agosto, honran a Santa María, San Roque y la Virxe do Carme con misas y verbenas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre",
+   "Actuaciones musicales"
+  ],
+  "tradicion": null,
+  "programa": "Misas y actuaciones musicales en honor a Santa María, San Roque y la Virxe do Carme.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Bendaña",
+  "nombre": "Santa Isabel de Bendaña",
+  "fecha2026": "2026-07-05",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de Santa Isabel en la parroquia de Bendaña, con actos religiosos y actuaciones musicales a principios de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre",
+   "Actuaciones musicales"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos con actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Beseño",
+  "nombre": "Santa Isabel de Baiobre",
+  "fecha2026": "2026-07-13",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de Santa Isabel en el lugar de Baiobre (San Cristovo de Beseño), con misa y verbena nocturna en julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre",
+   "Verbena nocturna"
+  ],
+  "tradicion": null,
+  "programa": "Misa y verbena nocturna.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Circes",
+  "nombre": "Festas Patronais de Circes",
+  "fecha2026": "2026-07-18",
+  "fechaFin2026": "2026-07-19",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de Circes en honor a Santa Mariña y al Corpus, a mediados de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre"
+  ],
+  "tradicion": null,
+  "programa": "Actos en honor a Santa Mariña y al Corpus.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Andeade",
+  "nombre": "Santiago Apóstol de Andeade",
+  "fecha2026": "2026-07-25",
+  "fechaFin2026": "2026-07-26",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "La parroquia de Andeade celebra a su patrón, Santiago Apóstol, en torno al 25 de julio con oficios religiosos y música.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre",
+   "Actuaciones musicales"
+  ],
+  "tradicion": "Coincide con la festividad de Santiago Apóstol, patrón de Galicia.",
+  "programa": "Oficios religiosos y música.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Novefontes",
+  "nombre": "Festas de Novefontes",
+  "fecha2026": "2026-07-24",
+  "fechaFin2026": "2026-07-27",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas de Novefontes en honor al Apóstol, el Corpus Christi y la Virxe do Carme, a finales de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre"
+  ],
+  "tradicion": null,
+  "programa": "Actos en honor al Apóstol, Corpus Christi y Virxe do Carme.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Santaia",
+  "nombre": "XVI Festival Folk in Río",
+  "fecha2026": "2026-07-27",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festival cultural a orillas del río Ulla, en Santaia, con música folk y actividades lúdicas, ya en su decimosexta edición.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Junto al río Ulla",
+   "Actividades lúdicas"
+  ],
+  "tradicion": "Festival de música folk con ambiente fluvial, distinto a las fiestas patronales del concello.",
+  "programa": "Conciertos folk y actividades lúdicas junto al río Ulla.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Quión",
+  "nombre": "Grandes Festas de Quión",
+  "fecha2026": "2026-08-01",
+  "fechaFin2026": "2026-08-03",
+  "fechaConfianza": "confirmada-web",
+  "fundacion": null,
+  "historiaCorta": "Las Grandes Festas de Quión, a principios de agosto, son una de las citas patronales con más solera del concello, en honor a San Félix, San Antonio y el Corpus Christi.",
+  "historiaLarga": "Las Grandes Festas de Quión figuran entre las fiestas patronales más destacadas de Touro. Se celebran a principios de agosto a lo largo de tres días en honor a San Félix, San Antonio y el Corpus Christi. La fiesta arranca el viernes con una misa solemne dedicada a San Félix al mediodía y se desarrolla con el programa clásico de las fiestas gallegas de verano: procesiones, sesiones vermú, comidas populares y verbenas que se prolongan hasta la madrugada, atrayendo tanto a vecinos como a visitantes.",
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre",
+   "Verbenas"
+  ],
+  "tradicion": "Una de las fiestas grandes del concello, con misa solemne, procesión y verbenas durante tres días.",
+  "programa": "Misa solemne a San Félix (viernes 13:00), procesiones, sesión vermú y verbenas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/grandes-festas-de-quion-touro-1473.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Turces",
+  "nombre": "Festas Patronais de Turces",
+  "fecha2026": "2026-08-15",
+  "fechaFin2026": "2026-08-17",
+  "fechaConfianza": "confirmada-web",
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de Turces a mediados de agosto, en honor a Santa María, la Virxe do Carme y el Corpus Christi, con sesiones vermú y verbenas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre",
+   "Sesiones vermú con música"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos, sesiones vermú con música y verbenas en honor a Santa María, Virxe do Carme y Corpus Christi.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-patronais-de-turces-touro-24917.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Prevediños",
+  "nombre": "Festas do Socorro de Prevediños",
+  "fecha2026": "2026-08-22",
+  "fechaFin2026": "2026-08-24",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas de Prevediños en honor al Perpetuo Socorro y al Santísimo Sacramento, a finales de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre"
+  ],
+  "tradicion": null,
+  "programa": "Actos en honor al Perpetuo Socorro y al Santísimo Sacramento.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Prevediños",
+  "nombre": "Festa da Guadalupe de Prevediños",
+  "fecha2026": "2026-09-07",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la Guadalupe en Prevediños, con actos religiosos, música y sardiñada a comienzos de septiembre.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardiñada (sardinas a la brasa)"
+  ],
+  "servicios": [
+   "Acceso libre",
+   "Música"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos, música y sardiñada.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cornado",
+  "nombre": "Festas de San Tirso de Cornado",
+  "fecha2026": "2026-08-28",
+  "fechaFin2026": "2026-08-30",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de San Tirso de Cornado a finales de agosto, en honor a San Ramón, San Antonio y San Roque.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos y verbenas en honor a San Ramón, San Antonio y San Roque.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-de-san-tirso-de-cornado-touro-1472.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Bama",
+  "nombre": "San Ramón de Bama",
+  "fecha2026": "2026-09-06",
+  "fechaFin2026": "2026-09-07",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Ramón en la parroquia de San Vicenzo de Bama, con actos litúrgicos y musicales a comienzos de septiembre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre",
+   "Actuaciones musicales"
+  ],
+  "tradicion": null,
+  "programa": "Actos litúrgicos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Fao",
+  "nombre": "Festas Patronais de Fao",
+  "fecha2026": "2026-09-12",
+  "fechaFin2026": "2026-09-14",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de Fao a mediados de septiembre, en honor a Santa Uxía, el Corpus Christi y Santa Lucía.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso libre"
+  ],
+  "tradicion": null,
+  "programa": "Actos en honor a Santa Uxía, Corpus Christi y Santa Lucía.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-touro-86.html"
+  ],
+  "concello": "Touro",
+  "provincia": "A Coruña"
+ }
+]
