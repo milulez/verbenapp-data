@@ -49,6 +49,8 @@ echo "== 10/10 indice de busqueda (orquesta/churrasco/atracciones/lenguaje natur
 python3 _searchindex.py
 echo "== lite: verbenas-lite.json para listado =="
 python3 _make-lite.py
+echo "== fichas v2 (esquema limpio + dailyProgram) =="
+python3 _build-fichas.py
 
 # --- guarda de validación: no commitear basura si el scrape falló ---
 python3 - <<'PY'
