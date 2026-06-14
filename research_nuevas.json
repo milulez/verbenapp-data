@@ -209,6 +209,178 @@
   "provincia": "A Coruña"
  },
  {
+  "parroquia": "Agra do Orzán",
+  "nombre": "Foliagra",
+  "fecha2026": "2026-06-01",
+  "fechaFin2026": "2026-06-28",
+  "fechaConfianza": "confirmada-web",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Foliagra llena de folclore el barrio de Agra do Orzán durante todo el mes de junio, con pasacalles y actividades. Es una de las citas vecinales más largas del verano coruñés.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Fiesta de barrio gratuita",
+   "Pasacalles y folclore",
+   "Apoyo municipal dentro del programa de 26 fiestas de barrio 2026"
+  ],
+  "tradicion": "Folclore y pasacalles por el barrio de Agra do Orzán.",
+  "programa": null,
+  "fuentes": [
+   "https://www.elespanol.com/quincemil/vivir/fiestas/20260430/coruna-contara-fiestas-barrio-calendario-completo/1003744229269_0.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-coru%c3%b1a-31.html"
+  ],
+  "concello": "A Coruña",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "A Coruña (ciudad)",
+  "nombre": "Festival Mar de Mares",
+  "fecha2026": "2026-06-04",
+  "fechaFin2026": "2026-06-14",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Mar de Mares es un festival de cultura marina que llena la ciudad de actividades en torno al océano a principios de junio. Combina ciencia, divulgación y ocio en clave de mar.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actividades en la ciudad",
+   "Programación de cultura y divulgación marina"
+  ],
+  "tradicion": "Festival de cultura y concienciación marina.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-coru%c3%b1a-31.html"
+  ],
+  "concello": "A Coruña",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Betanzos",
+  "nombre": "Betanjazz",
+  "fecha2026": "2026-07-19",
+  "fechaFin2026": "2026-07-20",
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Betanjazz es el festival de jazz de Betanzos, que llena la Praza da Constitución de conciertos en julio. Va por su XIII-XIV edición y es una cita ya consolidada del verano cultural de la villa.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Conciertos al aire libre en la Praza da Constitución",
+   "entrada gratuita habitual"
+  ],
+  "tradicion": "Festival de jazz consolidado en el casco histórico.",
+  "programa": "Conciertos de jazz en la Praza da Constitución a lo largo del fin de semana de julio.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/betanjazz-betanzos-33161.html"
+  ],
+  "concello": "Betanzos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Requián",
+  "nombre": "Romería da Virxe dos Milagres (Os Remedios)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "En la parroquia de Santiago de Requián se celebra la romería de la Virxe dos Milagres, una de las fiestas de parroquia del concello con su misa, procesión, sesión vermú y verbena. Es una cita de marcado carácter local en el rural betanceiro.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Sesión vermú",
+   "verbena con orquesta"
+  ],
+  "tradicion": "Romería tradicional de la parroquia de Requián.",
+  "programa": "Misa, procesión, sesión vermú y verbena.",
+  "fuentes": [
+   "https://imjoying.com/party/program/181e501e-db96-4d3f-9c23-f41fad65c798",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-betanzos-9.html"
+  ],
+  "concello": "Betanzos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Betanzos",
+  "nombre": "Romería de Os Remedios / A Angustia (Santuario da Angustia)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fechasPrevias": {},
+  "fundacion": "1750",
+  "historiaCorta": "El Santuario da Angustia, conjunto barroco iniciado en 1750 a las afueras de Betanzos, acoge cada septiembre una romería popular de hondas raíces locales. Cierra el ciclo festivo del verano betanceiro.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Romería al aire libre junto al santuario"
+  ],
+  "tradicion": "Romería de septiembre vinculada al Santuario barroco da Angustia (1750).",
+  "programa": "Misa, procesión y romería popular en torno al santuario.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-betanzos-9.html"
+  ],
+  "concello": "Betanzos",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Lugo (ciudad)",
+  "nombre": "Ofrenda do Reino de Galicia ao Santísimo",
+  "fecha2026": "2026-06-14",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {},
+  "fundacion": null,
+  "historiaCorta": "Solemne procesión y ofrenda religiosa en la catedral de Lugo, declarada Fiesta de Galicia de Interés Turístico. Es un acto litúrgico de gran tradición vinculado a la devoción al Santísimo Sacramento expuesto permanentemente en la catedral.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acto religioso en la catedral",
+   "acceso libre"
+  ],
+  "tradicion": "Declarada Fiesta de Galicia de Interés Turístico; ligada a la exposición permanente del Santísimo en la catedral de Lugo.",
+  "programa": "Procesión y ofrenda solemne en la catedral.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-lugo-122.html"
+  ],
+  "concello": "Lugo",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "A Piringalla (Lugo)",
+  "nombre": "Festa do Becerro ó Espeto",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fechasPrevias": {
+   "2024": "23 jun 2024",
+   "2025": "23 jun 2025 (XXIV edición)"
+  },
+  "fundacion": "edición XXIV en 2025",
+  "historiaCorta": "La noche de San Xoán, el barrio de A Piringalla reparte gratis becerro al espeto (ternera gallega asada) acompañado de pimientos y bebida. Se ha convertido en un símbolo de la celebración del San Xoán en Lugo, con la fogueira como broche de la noche.",
+  "historiaLarga": "Organizada por la A.VV. Cultural Deportiva San Isidro Piringalla, la Festa do Becerro ó Espeto es una de las grandes citas gastronómicas del San Xoán lucense. Cada año se asan dos becerros de Ternera Gallega criados en la zona y se reparten en torno a 3.500 raciones de forma gratuita. La fiesta reúne a miles de personas (la organización espera hasta 13.000) en torno al asado, la música de orquesta y la fogueira de San Xoán a medianoche.",
+  "gastronomia": [
+   "Becerro ó espeto (ternera gallega asada a la brocheta)",
+   "pimientos",
+   "bebida — todo gratis (3.500 raciones)"
+  ],
+  "servicios": [
+   "Reparto gratuito de comida y bebida desde las 20:30",
+   "orquesta a las 22:00",
+   "rifas a las 23:15"
+  ],
+  "tradicion": "Símbolo del San Xoán en Lugo; asado masivo de ternera gallega con fogueira a medianoche; aspira a reunir 13.000 personas.",
+  "programa": "20:30 reparto de becerro con pimientos y bebida; 22:00 orquesta; 23:15 rifas; medianoche encendido de la fogueira de San Xoán.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/lumenovo-festa-do-becerro-o-espeto-lugo-13222.html",
+   "https://concellodelugo.gal/es/noticias/el-barrio-da-piringalla-celebra-el-san-xoan-con-la-tradicional-fiesta-do-becerro-ao-espeto"
+  ],
+  "concello": "Lugo",
+  "provincia": "Lugo"
+ },
+ {
   "parroquia": "Barro (Monte de Chan de Agudelo)",
   "nombre": "Romaría de San Breixo",
   "fecha2026": null,
