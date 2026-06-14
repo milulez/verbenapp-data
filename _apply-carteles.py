@@ -36,11 +36,20 @@ for c in cart:
     v=best
     fi=pd(c.get('fechaInicio'))
     if fi:
+        est=c.get('estadoCartel','confirmada')
         v['fechaInicio']=c['fechaInicio']; v['fechaFin']=c.get('fechaFin') or c['fechaInicio']
-        v['estado']='confirmada'; v.pop('fechaOrientativa',None); v['fechaConfianza']='cartel'
+        v['estado']=est; v['fechaConfianza']='cartel' if est=='confirmada' else 'media'
+        if est=='estimada': v['fechaOrientativa']=True
+        else: v.pop('fechaOrientativa',None)
         ff=pd(v['fechaFin'])
-        v['cuando']=f"{DIAS[fi.weekday()]} {fi.day} {MES[fi.month]}" if v['fechaFin']==c['fechaInicio'] else f"{fi.day} {MES[fi.month]}–{ff.day} {MES[ff.month]}"
+        pref='≈ ' if est=='estimada' else ''
+        suf=' (orientativa)' if est=='estimada' else ''
+        v['cuando']=(f"{pref}{DIAS[fi.weekday()]} {fi.day} {MES[fi.month]}{suf}" if v['fechaFin']==c['fechaInicio'] else f"{pref}{fi.day} {MES[fi.month]}–{ff.day} {MES[ff.month]}{suf}")
         v['diasDuracion']=(ff-fi).days+1 if ff else 1
+    for f in ('historiaLarga','tradicion','fundacion','interesTuristico'):
+        if c.get(f): v[f]=c[f]
+    if c.get('historiaLarga') and not v.get('historia'):
+        v['historia']=c['historiaLarga'][:200]
     if c.get('bandas'):
         v['bandas']=list(dict.fromkeys((v.get('bandas') or [])+c['bandas']))
     if c.get('comida'):
