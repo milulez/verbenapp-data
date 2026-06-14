@@ -810,6 +810,406 @@
   "provincia": "Pontevedra"
  },
  {
+  "parroquia": "Monterroso",
+  "nombre": "Festival Agrocuir da Ulloa",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "Primera edición hacia 2015 (X edición en 2025)",
+  "historiaCorta": "Festival de cultura, música tradicional y visibilidad LGBTQI+ en el rural gallego, que llena la Praza do Froito de Monterroso a finales de agosto. En 2025 celebró su décima edición.",
+  "historiaLarga": "O Agrocuir da Ulloa es un festival singular que reivindica la visibilidad LGBTQI+ en el mundo rural gallego combinándola con la cultura tradicional. Se celebra en agosto en la Praza do Froito y otros espacios municipales de Monterroso, y en 2025 alcanzó su décima edición. La programación mezcla lo tradicional y lo contemporáneo: conciertos de música tradicional, sesiones DJ, obradoiros (talleres de baile tradicional), representaciones teatrales, proyecciones, cuentacuentos infantil, bingo, cantos de taberna por los bares locales y un xantar popular el sábado a mediodía. Atrae a un público variado interesado en la música, el teatro, la gastronomía local y el patrimonio rural.",
+  "gastronomia": [
+   "Xantar popular el sábado a las 14:00",
+   "Cantos de taberna por los bares locales"
+  ],
+  "servicios": [
+   "Talleres (obradoiros) de baile tradicional",
+   "Actividades lúdico-educativas para familias",
+   "Conciertos y sesiones DJ"
+  ],
+  "tradicion": "Referente de cultura LGBTQI+ en el rural gallego; combina tradición y vanguardia.",
+  "programa": "Conciertos, obradoiros, teatro, proyecciones, cuentacuentos, xantar popular, bingo, cantos de taberna y sesiones DJ.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festival-agrocuir-da-ulloa-monterroso-14404.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monterroso-126.html"
+  ],
+  "concello": "Monterroso",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Monterroso",
+  "nombre": "Concentración Motera",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "XIII edición en 2025",
+  "historiaCorta": "Concentración motera de Monterroso a mediados de julio, con actividades para moteros. En 2025 fue su XIII edición.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actividades para motoristas"
+  ],
+  "tradicion": null,
+  "programa": "Concentración de motos con rutas y actividades.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/concentracion-motera-monterroso-47673.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monterroso-126.html"
+  ],
+  "concello": "Monterroso",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Bóveda",
+  "nombre": "Fentos Festa",
+  "fecha2026": "2026-07-21",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "III edición",
+  "historiaCorta": "Festival joven del concello de Bóveda que en sus primeras ediciones ya se ha hecho un hueco en el verano local.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-boveda-103.html"
+  ],
+  "concello": "Bóveda",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Bóveda",
+  "nombre": "Festas de San Cristobo de Martín",
+  "fecha2026": "2026-08-09",
+  "fechaFin2026": "2026-08-11",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas de mediados de agosto en el lugar de Martín, en el concello de Bóveda.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-boveda-103.html"
+  ],
+  "concello": "Bóveda",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Bóveda",
+  "nombre": "Romería do San Xil",
+  "fecha2026": "2026-08-24",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Romería en torno a la capilla de San Xil, con misa en honor al santo a finales de agosto.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Misa en la capilla del Santo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-boveda-103.html"
+  ],
+  "concello": "Bóveda",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Bóveda",
+  "nombre": "Festas de San Xil",
+  "fecha2026": "2026-08-31",
+  "fechaFin2026": "2026-09-02",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas de fin de agosto y comienzo de septiembre en honor a San Xil, con misas de día y verbena de orquestas por la noche.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [
+   "Verbena amenizada por grandes orquestas"
+  ],
+  "programa": "Misas por la mañana y verbena amenizada por grandes orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-boveda-103.html"
+  ],
+  "concello": "Bóveda",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Monforte de Lemos",
+  "nombre": "Festival do Viño da Ribeira Sacra",
+  "fecha2026": "2026-07-03",
+  "fechaFin2026": "2026-07-05",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Gran cita gastronómica del Paseo do Malecón dedicada al vino de la Ribeira Sacra, con catas, actuaciones musicales y ambiente de verano.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Vino de la Ribeira Sacra",
+   "Degustaciones y catas"
+  ],
+  "servicios": [
+   "Actuaciones musicales",
+   "Actos lúdicos al aire libre"
+  ],
+  "tradicion": "Escaparate del vino de la D.O. Ribeira Sacra.",
+  "programa": "Degustaciones de vino, actuaciones musicales y actos lúdicos.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monforte-de-lemos-125.html"
+  ],
+  "concello": "Monforte de Lemos",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Monforte de Lemos",
+  "nombre": "Feira Medieval",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fundacion": null,
+  "historiaCorta": "Feria medieval en la Plaza de España con exposiciones de armamento, indumentaria y utensilios de época que recrea el pasado señorial de Monforte.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Exposiciones y recreaciones de época"
+  ],
+  "tradicion": "Recreación histórica del Monforte medieval; ya en su XXII edición.",
+  "programa": "Mercado medieval, exposiciones de armamento, indumentaria civil y utensilios de época.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/feira-medieval-monforte-de-lemos-9349.html"
+  ],
+  "concello": "Monforte de Lemos",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Monforte de Lemos",
+  "nombre": "XXV Feira de Artesanía Artelemos",
+  "fecha2026": "2026-08-01",
+  "fechaFin2026": "2026-08-06",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Veterana feria de artesanía que toma el centro de Monforte en agosto, con demostraciones y talleres de oficios tradicionales.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Demostraciones y talleres de artesanía"
+  ],
+  "tradicion": "Feria de artesanía con larga trayectoria (XXV edición).",
+  "programa": "Puestos de artesanía, demostraciones y talleres.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monforte-de-lemos-125.html"
+  ],
+  "concello": "Monforte de Lemos",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Piñeira",
+  "nombre": "San Antón de Piñeira",
+  "fecha2026": "2026-07-26",
+  "fechaFin2026": "2026-07-28",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Antón en la parroquia de Piñeira, con actos religiosos y actuaciones musicales a finales de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monforte-de-lemos-125.html"
+  ],
+  "concello": "Monforte de Lemos",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Monforte de Lemos",
+  "nombre": "Festa de Fin de Verán (Pulpada)",
+  "fecha2026": "2026-09-28",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de fin de verano en el Club Fluvial de Monforte con una pulpada popular para despedir la temporada estival.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Pulpada popular (pulpo á feira)"
+  ],
+  "servicios": [
+   "Recinto del Club Fluvial"
+  ],
+  "tradicion": null,
+  "programa": "Pulpada popular y ambiente festivo de cierre de verano.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-monforte-de-lemos-125.html"
+  ],
+  "concello": "Monforte de Lemos",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Sober",
+  "nombre": "Feira da Rosca",
+  "fecha2026": "2026-08-11",
+  "fechaFin2026": "2026-08-12",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Feria gastronómica en la Praza do Concello de Sober, dedicada a la rosca tradicional junto a artesanía, miel y queso.",
+  "historiaLarga": null,
+  "tradicion": "Gira en torno a la rosca, dulce tradicional de la zona, con degustación popular.",
+  "gastronomia": [
+   "Roscas",
+   "Miel",
+   "Queso"
+  ],
+  "servicios": [],
+  "programa": "Puestos de artesanía y degustación de productos tradicionales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sober-152.html"
+  ],
+  "concello": "Sober",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Anllo",
+  "nombre": "Romaría das Penas - San Vitorio",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Romería en San Martiño de Anllo (Arxemil) en honor a San Vitorio, a finales de agosto, con misas y actuaciones musicales.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Misas y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sober-152.html"
+  ],
+  "concello": "Sober",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Sober",
+  "nombre": "Festival Ribeira Sacra",
+  "fecha2026": "2026-07-24",
+  "fechaFin2026": "2026-07-26",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festival que combina música y gastronomía en varios puntos de la Ribeira Sacra.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Música y gastronomía en distintos enclaves.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sober-152.html"
+  ],
+  "concello": "Sober",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Val do Mao",
+  "nombre": "Nosa Señora de Val do Mao",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-14",
+  "fechaFin2026": "2026-08-15",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de Val do Mao en honor a Nuestra Señora, con bailes, actos religiosos y verbena coincidiendo con la Asunción.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [
+   "Bailes",
+   "Verbena"
+  ],
+  "programa": "Actos religiosos, bailes y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/nosa-se%C3%B1ora-de-val-do-mao-o-incio-16093.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-incio-119.html"
+  ],
+  "concello": "O Incio",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "O Incio",
+  "nombre": "San Antonio",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-06-13",
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Antonio en O Incio, con actos religiosos y actuaciones musicales que abren el calendario festivo del verano.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones musicales"
+  ],
+  "programa": "Actos religiosos y animación musical.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-incio-119.html"
+  ],
+  "concello": "O Incio",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Matela",
+  "nombre": "San José de Matela",
+  "fecha2026": null,
+  "fechaConfianza": "no encontrada",
+  "fundacion": null,
+  "historiaCorta": "El lugar de Matela, en Baralla, celebra su fiesta en honor a San José con actos religiosos y actuaciones musicales.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/san-jose-de-matela-baralla-32293.html"
+  ],
+  "concello": "Baralla",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Folgoso do Courel",
+  "nombre": "Romaría dos 4 Cabaleiros",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Romería que se celebra en la Mesa dos Catro Cabaleiros, punto donde confluyen cuatro municipios, hacia primeros de julio.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Sesión vermú, brindis, xantar popular, juegos tradicionales y festa-baile.",
+  "gastronomia": [
+   "Xantar popular",
+   "Vermú"
+  ],
+  "servicios": [],
+  "tradicion": "Se celebra en el límite donde se juntan cuatro concellos, lo que da nombre a la cita.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-folgoso-do-courel-113.html"
+  ],
+  "concello": "Folgoso do Courel",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Penamazada",
+  "nombre": "San Ramón",
+  "fecha2026": "2026-08-31",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Ramón en Penamazada, a finales de agosto, con misa, procesión y verbena.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misa solemne y procesión seguidas de verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-pol-140.html"
+  ],
+  "concello": "Pol",
+  "provincia": "Lugo"
+ },
+ {
   "parroquia": "O Valadouro",
   "nombre": "Mostra Folclórica",
   "fechaConfianza": "probable",
