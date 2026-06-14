@@ -1210,6 +1210,233 @@
   "provincia": "Lugo"
  },
  {
+  "parroquia": "Cádavos",
+  "nombre": "Danza das Cintas de Cádavos",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Una de las grandes señas de identidad de A Mezquita: la Danza das Cintas de Cádavos, baile tradicional con cintas de colores que se ejecuta en la fiesta en honor a la Virgen.",
+  "historiaLarga": "La Danza das Cintas de Cádavos es la tradición más singular y conocida del concello de A Mezquita. Se trata de una danza gremial de cintas, en la que los danzantes tejen y destejen un mástil con cintas de colores al ritmo de la música, una herencia de los antiguos bailes de origen medieval que sobrevive en muy pocos puntos de Galicia. Se baila durante la fiesta en honor a la Virgen en la parroquia de Cádavos (Santa María Magdalena), convirtiéndose en un reclamo etnográfico y turístico de primer orden para conocer el folclore vivo de la comarca raiana de A Mezquita.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Danza de cintas de raíz gremial, muy poco habitual en Galicia, que se conserva viva en Cádavos como patrimonio inmaterial del concello.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-mezquita-206.html"
+  ],
+  "concello": "A Mezquita",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Manzalvos",
+  "nombre": "San Antonio de Manzalvos",
+  "fecha2026": "2026-06-13",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Manzalvos honra a San Antonio el 13 de junio, una de las primeras citas festivas del verano en A Mezquita.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "La parroquia conserva la iglesia de Santa María de Manzalvos.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-mezquita-206.html"
+  ],
+  "concello": "A Mezquita",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Campobecerros",
+  "nombre": "Nosa Señora do Rosario",
+  "fecha2026": "2026-10-02",
+  "fechaFin2026": "2026-10-04",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta patronal de la parroquia de Santiago de Campobecerros en honor a la Nosa Señora do Rosario, con actos religiosos y musicales.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones musicales"
+  ],
+  "programa": "Actos religiosos y actuaciones musicales en la parroquia de Santiago de Campobecerros.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-castrelo-do-val-183.html"
+  ],
+  "concello": "Castrelo do Val",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Veiga",
+  "nombre": "San Xoán",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": "2026-06-24",
+  "fechaInfo": null,
+  "fundacion": null,
+  "historiaCorta": "La noche de San Xoán se celebra en la Praza do Toural con la tradicional hoguera, una de las citas más arraigadas del verano en la villa.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardinas",
+   "Chorizo"
+  ],
+  "servicios": [
+   "Música de gaita en directo"
+  ],
+  "tradicion": "Hoguera tradicional de San Xoán en la Praza do Toural, con sardinada popular y gaita.",
+  "programa": "Hoguera, sardinada con chorizo y música de gaita.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-veiga-241.html",
+   "https://www.galiciafiestas.es/ourense/veiga-a/"
+  ],
+  "concello": "A Veiga",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Veiga",
+  "nombre": "II Andaina Solidaria Contra o Cancro",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-10",
+  "fechaFin2026": null,
+  "fundacion": "2ª edición",
+  "historiaCorta": "Andaina solidaria contra el cáncer que recorre el municipio de A Veiga en pleno mes de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Marcha solidaria con fines benéficos.",
+  "programa": "Andaina (marcha a pie) por el municipio.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-veiga-241.html"
+  ],
+  "concello": "A Veiga",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Seoane",
+  "nombre": "Festas de Seoane (San Xoán)",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Fiestas de la parroquia de Seoane en honor a su patrón San Xoán, celebradas en agosto y una de las citas veraniegas del concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Fiesta patronal en honor a San Juan (San Xoán), patrón de Seoane.",
+  "programa": "Verbena con orquesta.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-veiga-241.html",
+   "https://www.orquestasdegalicia.es/fiestas/ourense/seoane-a-veiga"
+  ],
+  "concello": "A Veiga",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Veiga",
+  "nombre": "VIII Ruta de Pinchos",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-09-06",
+  "fechaFin2026": null,
+  "fundacion": "8ª edición",
+  "historiaCorta": "Ruta de pinchos por los locales hosteleros de A Veiga, con gran variedad de tapas en los establecimientos participantes.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Pinchos y tapas variadas en los establecimientos hosteleros participantes"
+  ],
+  "servicios": [
+   "Participan locales de hostelería de la villa"
+  ],
+  "tradicion": "Ruta gastronómica de tapas que coincide con las fiestas de Santa María.",
+  "programa": "Recorrido de pinchos por los bares y restaurantes participantes.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-veiga-241.html"
+  ],
+  "concello": "A Veiga",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Veiga",
+  "nombre": "Cantos de Taberna",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-09-06",
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Actuaciones musicales folclóricas que recorren los locales de A Veiga, dentro de las fiestas de Santa María.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones en distintos locales de la villa"
+  ],
+  "tradicion": "Música folclórica de taberna, ambientación de las fiestas patronales.",
+  "programa": "Pasacalles musical folclórico por las tabernas y locales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-veiga-241.html"
+  ],
+  "concello": "A Veiga",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Esmoriz",
+  "nombre": "Nosa Señora do Carme de Esmoriz",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta en honor a la Nosa Señora do Carme en la parroquia de Esmoriz, a comienzos de septiembre.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Fecha habitual en torno al 6 de septiembre.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-padrenda-214.html"
+  ],
+  "concello": "Padrenda",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Campo Lameiro",
+  "nombre": "Petrofest",
+  "fecha2026": "2026-07-26",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Romería cultural diurna en el Parque Arqueolóxico da Arte Rupestre (PAAR), de ambiente familiar, que pone en valor los petroglifos de Campo Lameiro.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Evento familiar diurno"
+  ],
+  "tradicion": "Se celebra en el entorno del PAAR, referente de arte rupestre al aire libre de Galicia.",
+  "programa": "Jornada cultural diurna con actividades para todos los públicos.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-campo-lameiro-261.html"
+  ],
+  "concello": "Campo Lameiro",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Gagan",
+  "nombre": "Rapa das Bestas de Gagan",
+  "fecha2026": "2026-08-09",
+  "fechaFin2026": "2026-08-10",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Tradicional rapa das bestas en Gagan, donde se reúnen y rapan los caballos salvajes del monte.",
+  "historiaLarga": null,
+  "tradicion": "Rapa das bestas, tradición ecuestre del monte gallego.",
+  "programa": "Curro con los caballos, espectáculo y fiesta.",
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-marin-279.html"
+  ],
+  "concello": "Marín",
+  "provincia": "Pontevedra"
+ },
+ {
   "parroquia": "A Arnoia",
   "nombre": "Festival de Pandereteiras",
   "fecha2026": "2026-08-02",
