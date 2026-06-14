@@ -1210,6 +1210,25 @@
   "provincia": "Lugo"
  },
  {
+  "parroquia": "A Arnoia",
+  "nombre": "Festival de Pandereteiras",
+  "fecha2026": "2026-08-02",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Gala de música tradicional gallega con grupos de pandereteiras, normalmente integrada en el fin de semana de la Festa do Pemento.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Música y baile tradicional gallego.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-arnoia-164.html"
+  ],
+  "concello": "Arnoia",
+  "provincia": "Ourense"
+ },
+ {
   "parroquia": "O Valadouro",
   "nombre": "Mostra Folclórica",
   "fechaConfianza": "probable",

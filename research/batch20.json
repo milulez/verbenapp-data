@@ -1,0 +1,637 @@
+[
+ {
+  "parroquia": "Laza",
+  "nombre": "San Xoán de Laza",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "La noche de San Xoán en Laza, con su tradicional hoguera (cacharela) para espantar a los meigallos y dar la bienvenida al verano.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": "La hoguera de San Xoán es una de las tradiciones más arraigadas del solsticio de verano en Galicia: saltar las llamas y la noche más mágica del año.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Hoguera de San Xoán, oficios religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-laza-197.html",
+   "https://www.paxinasgalegas.es/fiestas/san-xoan-laza-5268.html"
+  ],
+  "concello": "Laza",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Laza",
+  "nombre": "FestEiras",
+  "fecha2026": "2026-07-05",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Festival de Laza con talleres y actividades musicales en pleno verano.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Talleres y actividades musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-laza-197.html"
+  ],
+  "concello": "Laza",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Matamá",
+  "nombre": "O Carme de Matamá",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta en honor a la Virxe do Carme en la parroquia de Matamá, a mediados de julio.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos litúrgicos y música. Celebración del 11 al 16 de julio.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-laza-197.html"
+  ],
+  "concello": "Laza",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Trez",
+  "nombre": "Santiago Apóstol de Trez",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta patronal en honor a Santiago Apóstol en la parroquia de Trez, en torno al 25 de julio.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Oficios religiosos y actuaciones musicales. Celebración del 24 al 27 de julio.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-laza-197.html",
+   "https://www.paxinasgalegas.es/fiestas/santiago-apostol-de-trez-laza-469.html"
+  ],
+  "concello": "Laza",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Eiras",
+  "nombre": "Virxe das Neves e do Amparo de Eiras",
+  "fecha2026": "2026-08-01",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Festividad religiosa de la parroquia de Eiras en honor a la Virxe das Neves y do Amparo, a comienzos de agosto.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos litúrgicos y música.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-laza-197.html"
+  ],
+  "concello": "Laza",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Camba",
+  "nombre": "San Salvador de Camba",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta patronal de San Salvador en la parroquia de Camba, en los primeros días de agosto.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Oficios religiosos y actuaciones musicales. Celebración del 1 al 3 de agosto.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-laza-197.html"
+  ],
+  "concello": "Laza",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Cerdedelo",
+  "nombre": "Festas de Cerdedelo",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiestas de verano de la parroquia de Cerdedelo, a mediados de agosto, con música y churrascada.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [
+   "Churrascada"
+  ],
+  "servicios": [],
+  "programa": "Actividades diversas, música y churrascada. Celebración del 12 al 14 de agosto.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-laza-197.html"
+  ],
+  "concello": "Laza",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "O Toro",
+  "nombre": "Virxe da O de Toro",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta de la Virxe da O en la parroquia de O Toro, a finales de agosto.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y actuaciones musicales. Celebración del 22 al 24 de agosto.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-laza-197.html"
+  ],
+  "concello": "Laza",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Laza",
+  "nombre": "Romaría Ponte Farruca",
+  "fecha2026": "2026-08-28",
+  "fechaFin2026": "2026-08-30",
+  "fechaConfianza": "confirmada-web",
+  "historiaCorta": "La Ponte Farruca es una romería reivindicativa del rural que en 2026 llega a su quinta edición ampliándose por primera vez a tres jornadas.",
+  "historiaLarga": "La Romaría Ponte Farruca nació para reivindicar el rural gallego desde Laza y se ha convertido en una de las citas del verano en la comarca de Monterrei. Mezcla romería tradicional con un festival de música de raíz y contemporánea, financiado en parte mediante crowdfunding además del apoyo de la Xunta, la Diputación de Ourense y el Concello de Laza. Su quinta edición, en 2026, se amplía por primera vez a tres días completos (28, 29 y 30 de agosto), con un cartel que combina nombres locales y de raíz como Pappaquino, Varios Santos, A Requinta de Lampai, Dulzaro, Xosé Lois Romero e Aliboria o Largo da Cumbia, junto a DJs.",
+  "fundacion": "V edición en 2026 (origen reciente, hacia 2021-2022)",
+  "tradicion": "Romería que reivindica la vida en el rural; incluye una característica procesión de tractores junto a la procesión tradicional.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Romería con procesión, procesión tractora, actividades, comida popular y conciertos de música de raíz y DJs durante tres jornadas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-laza-197.html",
+   "https://www.paxinasgalegas.es/fiestas/romaria-ponte-farruca-laza-25199.html",
+   "https://www.diariodotamega.es/articulo/laza/ponte-farruca-2026-amplia-tres-jornadas-quinta-edicion-que-sera-dias-28-29-30-agosto/20260609101524081621.html"
+  ],
+  "concello": "Laza",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Arnoia",
+  "nombre": "Festa do Pemento",
+  "fecha2026": "2026-07-31",
+  "fechaFin2026": "2026-08-02",
+  "fechaConfianza": "probable",
+  "fundacion": "1980 (46ª edición en 2026, XLVI)",
+  "historiaCorta": "La gran fiesta gastronómica del concello, dedicada al Pemento de Arnoia (IGP). Nació en 1980 y es Fiesta de Galicia de Interés Turístico desde 2009.",
+  "historiaLarga": "La Festa do Pemento es la cita estrella de Arnoia y la que más visitantes atrae. Empezó a celebrarse en 1980 para frenar el desvirtuamiento que estaba sufriendo el pimiento tradicional de la zona, hoy amparado por Indicación Geográfica Protegida. En 2009 fue declarada Fiesta de Galicia de Interés Turístico. Gira en torno al Pemento de Arnoia acompañado del vino Ribeiro, y reúne degustaciones, música y actos durante un fin de semana de finales de julio y principios de agosto.",
+  "gastronomia": [
+   "Pemento de Arnoia (IGP) asado en degustación popular",
+   "Vino Ribeiro DO"
+  ],
+  "servicios": [
+   "Verbena con orquestas",
+   "Disco móvil",
+   "Fiesta infantil con juegos y fiesta de la espuma"
+  ],
+  "tradicion": "Fiesta de Galicia de Interés Turístico. El pimiento de Arnoia está amparado por IGP.",
+  "programa": "Viernes: inauguración, pregón y verbena con orquesta. Sábado: concentración de vehículos clásicos, fiesta infantil, festival de pandereteiras y verbena. Domingo: misa campestre con ofrenda de frutos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-do-pemento-a-arnoia-267.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-arnoia-164.html"
+  ],
+  "concello": "Arnoia",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Arnoia",
+  "nombre": "Festival de Pandereteiras",
+  "fecha2026": "2026-08-02",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Gala de música tradicional gallega con grupos de pandereteiras, normalmente integrada en el fin de semana de la Festa do Pemento.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Música y baile tradicional gallego.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-arnoia-164.html"
+  ],
+  "concello": "Arnoia",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Arnoia",
+  "nombre": "San Roque",
+  "fecha2026": "2026-08-16",
+  "fechaFin2026": "2026-08-17",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festividad religiosa de mediados de agosto con actos litúrgicos y actuaciones musicales.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Actuaciones musicales"
+  ],
+  "tradicion": null,
+  "programa": "Actos litúrgicos y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-arnoia-164.html"
+  ],
+  "concello": "Arnoia",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "A Queixeira",
+  "nombre": "Serán d'Arnoia",
+  "fecha2026": "2026-06-06",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festival folclórico de inicios de junio con grupos de música y baile tradicional gallego.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Encuentro de cultura tradicional gallega.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-arnoia-164.html"
+  ],
+  "concello": "Arnoia",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Beade",
+  "nombre": "Festas da Virxe da Misericordia e San Roque",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal grande del pueblo de Beade, en honor a la Virxe da Misericordia y a San Roque, que llena el calendario de mediados de agosto con actos religiosos, música y verbena.",
+  "historiaLarga": "Es la fiesta mayor del concello de Beade, corazón del Ribeiro. Se celebra en torno al 14-17 de agosto y combina la devoción a la Virxe da Misericordia con la del copatrón San Roque (el 16 de agosto es festivo local en Beade). Tradicionalmente se desarrolla a lo largo de cuatro días, abriendo con procesión y manteniendo el ambiente con conciertos, orquestas, fuegos artificiales y una churrascada final que reúne a vecinos y visitantes en pleno verano vitivinícola.",
+  "gastronomia": [
+   "Churrascada (parrillada popular)",
+   "Vino del Ribeiro"
+  ],
+  "servicios": [
+   "Verbena con orquestas",
+   "Música en directo",
+   "Fuegos artificiales"
+  ],
+  "tradicion": "El 16 de agosto, San Roque, es festivo local en Beade.",
+  "programa": "Procesión de apertura, conciertos y orquestas, fuegos artificiales y churrascada final.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/virxe-da-misericordia-e-san-roque-beade-283.html",
+   "https://www.galiciafiestas.es/ourense/beade/"
+  ],
+  "concello": "Beade",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Beade",
+  "nombre": "Festa de Santa Isabel",
+  "fecha2026": "2026-07-02",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de comienzos de julio en honor a Santa Isabel, jornada festiva local de Beade que abre el verano.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "El 2 de julio (Santa Isabel) es festivo local en Beade.",
+  "programa": null,
+  "fuentes": [
+   "https://www.galiciafiestas.es/ourense/beade/"
+  ],
+  "concello": "Beade",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Roque",
+  "nombre": "O Viño, un compañeiro de vida (Festa do Viño do Ribeiro)",
+  "fecha2026": "2026-07-26",
+  "fechaFin2026": null,
+  "fechaConfianza": "confirmada-web",
+  "fundacion": "IV edición",
+  "historiaCorta": "Gran jornada gastronómica del vino en la zona de San Roque que reivindica los caldos de la D.O. Ribeiro junto con cultura, tradición y ocio.",
+  "historiaLarga": "Evento gastronómico de referencia del concello, dedicado a poner en valor el vino de la Denominación de Origen Ribeiro, del que Beade es uno de los corazones. Bajo el lema 'O Viño, un compañeiro de vida' reúne a productores y amantes del Ribeiro en la zona de San Roque para una jornada que mezcla degustación de vinos, gastronomía local, cultura y ocio. La edición de 2025 se celebró el 26 de julio y contó con respaldo institucional (Medio Rural), y la IV edición está prevista para el 26 de julio de 2026.",
+  "gastronomia": [
+   "Vinos D.O. Ribeiro (degustación)",
+   "Gastronomía local"
+  ],
+  "servicios": [
+   "Cata y degustación de vinos",
+   "Actividades culturales"
+  ],
+  "tradicion": "Reivindicación del vino del Ribeiro como seña de identidad de Beade.",
+  "programa": "Jornada de degustación de vinos del Ribeiro con gastronomía, cultura y ocio.",
+  "fuentes": [
+   "https://badalnovas.com/2025/07/28/medio-rural-salienta-a-calidade-dos-vinos-do-ribeiro-nun-acto-celebrado-en-beade/",
+   "https://www.laregion.es/beade/beade-congrego-amantes-vino-ribeiro_1_20260518-4279675.html",
+   "https://www.galiciafiestas.es/ourense/beade/"
+  ],
+  "concello": "Beade",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Beade",
+  "nombre": "Festa da Costeleta",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta gastronómica de un sábado de julio en Beade, con comida popular a base de costeleta (chuleta) y mesas reservadas para los comensales.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Costeleta (chuleta a la brasa)",
+   "Vino del Ribeiro"
+  ],
+  "servicios": [
+   "Comida popular con reserva de mesa"
+  ],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-beade-171.html"
+  ],
+  "concello": "Beade",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "As Regadas",
+  "nombre": "Festa do Bon Xesús das Regadas",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de agosto en la parroquia de As Regadas en honor al Bon Xesús, que reúne a los vecinos en torno a una churrascada.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Churrascada (parrillada popular)"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Celebración religiosa y churrascada popular.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-beade-171.html",
+   "https://www.paxinasgalegas.es/fiestas/iglesia-de-san-amaro-das-regadas-beade-40683.html"
+  ],
+  "concello": "Beade",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Lodairo",
+  "nombre": "Festas da Virxe do Lodairo",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta religiosa en honor a la Virxe do Lodairo en la parroquia de Lodairo, con oficios religiosos y verbenas de orquesta.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misas y oficios religiosos en honor a la Virxe, seguidos de actuaciones musicales con orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-carballeda-de-avia-178.html"
+  ],
+  "concello": "Carballeda de Avia",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Carballeda de Avia",
+  "nombre": "V Serán Entre Viñas",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": "5ª edición",
+  "historiaCorta": "Serán folclórico de música y baile tradicional gallego que se celebra en el Parque do Palomar, normalmente a mediados de junio. En 2025 fue la IV edición; la última conocida figura como V edición.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Entrada gratuita",
+   "Foliada para cerrar la jornada"
+  ],
+  "tradicion": "Cita en torno a la cultura del vino y el folclore (música tradicional gallega, foliada) en una zona vitivinícola del Ribeiro.",
+  "programa": "Serán con música tradicional gallega y foliada final.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-carballeda-de-avia-178.html",
+   "https://www.paxinasgalegas.es/fiestas/seran-entre-vi%C3%B1as-carballeda-de-avia-32759.html"
+  ],
+  "concello": "Carballeda de Avia",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Carballeda de Avia",
+  "nombre": "Festas do Carmen",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal y gastronómica en honor a la Virxe do Carmen en la capital del concello, en torno al 16 de julio, con su célebre Festa do Picantón.",
+  "historiaLarga": "Las Festas do Carmen son la cita patronal de la villa de Carballeda de Avia, de carácter religioso, gastronómico y folclórico. La jornada arranca con la alborada de música tradicional a primera hora, sigue con la misa solemne y la tradicional procesión en honor a la Virxe do Carmen al mediodía, y a continuación la sesión vermú. Por la noche el plato fuerte es la Festa do Picantón, una cena popular a base de picantón con pimientos, pan y vino o agua (en torno a 15 € adultos y 10 € menores), seguida de verbena con DJ y grupos musicales. La fiesta suele incluir un sorteo benéfico con premios como un tractor de leña o un cabrito.",
+  "gastronomia": [
+   "Festa do Picantón (cena popular)",
+   "Picantón con pimientos",
+   "Pan, vino o agua",
+   "Sesión vermú"
+  ],
+  "servicios": [
+   "Cena Festa do Picantón aprox. 15€ adultos / 10€ menores",
+   "Verbena con DJ y grupos musicales a las 23:00",
+   "Bares y alojamiento en la localidad",
+   "Sorteo de premios (tractor de leña, cabrito)"
+  ],
+  "tradicion": "Procesión tradicional de la Virxe do Carmen y sorteo benéfico con premios rurales típicos.",
+  "programa": "10:00 alborada; 12:00 misa solemne y procesión; 13:00 sesión vermú; 21:00 Festa do Picantón; 23:00 verbena con DJ y grupos; sorteo de premios.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-do-carmen-carballeda-de-avia-11571.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-carballeda-de-avia-178.html"
+  ],
+  "concello": "Carballeda de Avia",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Muimenta",
+  "nombre": "Festas do Bo Xesús de Muimenta",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta religiosa en honor al Bo Xesús (Buen Jesús) en la parroquia de Muimenta, a principios de agosto, con misas y verbenas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Misas en honor al Bo Xesús y actuaciones musicales con orquestas.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-carballeda-de-avia-178.html"
+  ],
+  "concello": "Carballeda de Avia",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Beiro",
+  "nombre": "Festas de San Roque de Vilar de Condes",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Roque en el lugar de Vilar de Condes, a finales de agosto, con actos religiosos por la mañana y verbenas por la noche.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Grandes actuaciones musicales por la noche"
+  ],
+  "tradicion": null,
+  "programa": "Actos religiosos por la mañana y grandes actuaciones musicales por la noche.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-carballeda-de-avia-178.html"
+  ],
+  "concello": "Carballeda de Avia",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Castrelo de Miño",
+  "nombre": "Subida de Freás (Virxe da Inmaculada)",
+  "fecha2026": "2026-06-13",
+  "fechaFin2026": "2026-06-14",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Romería religiosa en honor a la Virxe da Inmaculada que se sube hasta Freás, con actos litúrgicos y ambiente festivo de mediados de junio.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Tradicional subida-romería al santuario, punto de encuentro vecinal de la parroquia.",
+  "programa": "Actos religiosos y celebración popular.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-castrelo-de-mi%C3%B1o-182.html"
+  ],
+  "concello": "Castrelo de Miño",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Castrelo de Miño",
+  "nombre": "II Andaina da Anguía",
+  "fecha2026": "2026-06-14",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Andaina circular de unos 10 kilómetros y dificultad moderada por el entorno del Miño, en su segunda edición.",
+  "historiaLarga": null,
+  "fundacion": "2025 (1ª edición)",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Ruta senderista que pone en valor el paisaje fluvial y la anguila como seña de identidad del concello.",
+  "programa": "Ruta circular de 10 km de dificultad moderada.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-castrelo-de-mi%C3%B1o-182.html"
+  ],
+  "concello": "Castrelo de Miño",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Castrelo de Miño",
+  "nombre": "San Antonio de Padua de Souto",
+  "fecha2026": "2026-06-13",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta en honor a San Antonio de Padua en el lugar de Souto, con actos religiosos, música y degustación de productos del mar.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [
+   "Degustación de sardinas",
+   "Mejillones"
+  ],
+  "servicios": [],
+  "tradicion": "Celebración patronal de Souto que combina lo religioso con la fiesta gastronómica popular.",
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-castrelo-de-mi%C3%B1o-182.html"
+  ],
+  "concello": "Castrelo de Miño",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Macendo",
+  "nombre": "San Xoán de Macendo",
+  "fecha2026": "2026-06-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta religiosa de San Xoán en la parroquia de Macendo, en torno al solsticio de verano.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Patronal de San Xoán ligada a las celebraciones del solsticio de verano.",
+  "programa": "Actos religiosos.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-castrelo-de-mi%C3%B1o-182.html"
+  ],
+  "concello": "Castrelo de Miño",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Macendo",
+  "nombre": "Santiago e Santa Ana (Bouza, Hermida e Casardeita)",
+  "fecha2026": "2026-07-24",
+  "fechaFin2026": "2026-07-26",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiestas de Santiago y Santa Ana en los lugares de Bouza, Hermida y Casardeita, con actos religiosos y verbenas a finales de julio.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Patronales de verano que reúnen a tres lugares de la parroquia de Macendo.",
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-castrelo-de-mi%C3%B1o-182.html"
+  ],
+  "concello": "Castrelo de Miño",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Barral",
+  "nombre": "A Virxe das Neves - Festa da Anguía (XXX edición)",
+  "fecha2026": "2026-08-04",
+  "fechaFin2026": "2026-08-05",
+  "fechaConfianza": "probable",
+  "historiaCorta": "La gran fiesta gastronómica del concello: la Festa da Anguía de Barral, donde se degusta anguila del Miño a precios populares, unida a la patronal de A Virxe das Neves.",
+  "historiaLarga": "La Festa da Anguía de Barral es la cita gastronómica más conocida de Castrelo de Miño y alcanza su trigésima edición (XXX), lo que la consolida como una de las fiestas de la anguila con más solera del Ribeiro ourensano. Surge ligada a la patronal religiosa de A Virxe das Neves a comienzos de agosto y rinde homenaje a la anguila, pescado tradicional del río Miño y seña de identidad de un concello marcado por el embalse y la vida fluvial. Durante la fiesta se ofrece la degustación de anguila a precios populares, acompañada de actos religiosos, música y verbena, atrayendo tanto a vecinos como a visitantes de toda la comarca.",
+  "fundacion": null,
+  "gastronomia": [
+   "Anguila del Miño a precios populares",
+   "Degustación gastronómica"
+  ],
+  "servicios": [],
+  "tradicion": "Una de las fiestas de la anguila con más tradición del Ribeiro; la anguila es seña de identidad del concello fluvial.",
+  "programa": "Actos religiosos, degustación de anguila, música y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-castrelo-de-mi%C3%B1o-182.html"
+  ],
+  "concello": "Castrelo de Miño",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Castrelo de Miño",
+  "nombre": "Virxe da Asunción e San Roque - Festa da Codorniz (XXI edición)",
+  "fecha2026": "2026-08-14",
+  "fechaFin2026": "2026-08-16",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta gastronómica de la codorniz en el lugar de Cortiñas, unida a las patronales de la Virxe da Asunción y San Roque a mediados de agosto, en su 21ª edición.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [
+   "Degustación de codornices"
+  ],
+  "servicios": [],
+  "tradicion": "Festa da Codorniz, propuesta gastronómica consolidada del mes de agosto en Cortiñas.",
+  "programa": "Actos religiosos y actos lúdicos.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-castrelo-de-mi%C3%B1o-182.html"
+  ],
+  "concello": "Castrelo de Miño",
+  "provincia": "Ourense"
+ }
+]
