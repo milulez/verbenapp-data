@@ -54,4 +54,8 @@ jobs:
             git commit -m "data: refresco automático $(date -u +%Y-%m-%d)"
             git pull --rebase --autostash origin main || true
             git push
+            echo "Purgando caché de jsDelivr..."
+            for f in verbenas.json orquestas.json; do
+              curl -s "https://purge.jsdelivr.net/gh/milulez/verbenapp-data@main/$f" >/dev/null || true
+            done
           fi
