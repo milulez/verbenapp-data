@@ -1038,6 +1038,483 @@
   "provincia": "Ourense"
  },
  {
+  "parroquia": "Sobrado dos Monxes",
+  "nombre": "XXIV Feira da Troita",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-08",
+  "fechaFin2026": "2026-08-09",
+  "historiaCorta": "La gran feria gastronómica de Sobrado, dedicada a la trucha de río y consolidada como cita anual organizada por los vecinos. En 2025 celebró su 24ª edición.",
+  "historiaLarga": "La Feira da Troita es el evento gastronómico de referencia del concello de Sobrado dos Monxes y una de sus citas más concurridas del verano. Nacida de la iniciativa vecinal, lleva más de dos décadas celebrándose (XXIV edición en 2025), siempre en torno al segundo fin de semana de agosto. El plato estrella es la 'troita á montañesa', trucha que se degusta en la Plaza del Concello y en los establecimientos hosteleros locales a precios populares. La feria se acompaña de stands de artesanía y gastronomía, sesión vermú con orquesta, foliada nocturna y zona de juegos en la Vía Sacra. La víspera reúne deporte y música con la Corretroita (carrera popular de 8 km con salida en el Mosteiro) y el Festival Musical e Intercultural da Xuventude. El entorno invita a completar la visita con la Ruta da Carballeira, el Pazo de Golmar (s. XV) o las Mamoas da Pena da Moura.",
+  "tradicion": "Cita gastronómica más popular del concello; combina degustación de trucha, carrera Corretroita y festival de juventud junto al monasterio.",
+  "gastronomia": [
+   "Troita á montañesa (trucha de montaña)",
+   "Degustación en la Plaza del Concello y locales hosteleros a precios populares"
+  ],
+  "servicios": [
+   "Degustación a precios populares",
+   "Stands de artesanía y gastronomía",
+   "Sesión vermú con orquesta",
+   "Zona de juegos en la Vía Sacra"
+  ],
+  "programa": "Sábado: Corretroita (carrera 8 km, 18:30 h) y Festival Musical e Intercultural da Xuventude. Domingo: stands (11:00 h), sesión vermú con orquesta (14:00 h), zona de juegos (17:00 h) y foliada nocturna (20:00 h).",
+  "fundacion": "Edición XXIV en 2025 (origen hacia 2001)",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/feira-da-troita-sobrado-2537.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sobrado-81.html"
+  ],
+  "concello": "Sobrado",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sobrado dos Monxes",
+  "nombre": "XVII Festa do Río",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-07-12",
+  "fechaFin2026": null,
+  "historiaCorta": "Jornada festiva al aire libre en el Área Recreativa de A Pontepedra, con comida campestre y actividades junto al río en pleno julio.",
+  "historiaLarga": null,
+  "tradicion": "Festa de ambiente natural y familiar en torno al río, en un área recreativa del concello.",
+  "gastronomia": [
+   "Comida campestre"
+  ],
+  "servicios": [
+   "Área Recreativa A Pontepedra"
+  ],
+  "programa": "Comida campestre, actuaciones musicales y teatro.",
+  "fundacion": "Edición XVII",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-do-rio-sobrado-24220.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sobrado-81.html"
+  ],
+  "concello": "Sobrado",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sobrado dos Monxes",
+  "nombre": "IX Corretroita Popular",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-08",
+  "fechaFin2026": null,
+  "historiaCorta": "Carrera popular de 8 km con salida en el Mosteiro de Sobrado, enmarcada en la Feira da Troita.",
+  "historiaLarga": null,
+  "tradicion": "Prueba del Circuíto Deportivo Provincial da Coruña que arranca junto al monasterio cisterciense.",
+  "gastronomia": [],
+  "servicios": [
+   "Salida en el Mosteiro de Sobrado"
+  ],
+  "programa": "Carrera de 8 km (18:30 h) dentro del programa de la Feira da Troita.",
+  "fundacion": "Edición IX",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/corretroita-popular-circuito-dep-provincial-da-coru%C3%B1a-sobrado-24942.html",
+   "https://www.paxinasgalegas.es/fiestas/feira-da-troita-sobrado-2537.html"
+  ],
+  "concello": "Sobrado",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Sobrado dos Monxes",
+  "nombre": "XII Xuntanza Cabalar",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-09-06",
+  "fechaFin2026": null,
+  "historiaCorta": "Encuentro a caballo con ruta, comida y yincana, a principios de septiembre en Sobrado.",
+  "historiaLarga": null,
+  "tradicion": "Cita ecuestre vinculada al Centro Ecuestre Marco das Pías.",
+  "gastronomia": [
+   "Comida del encuentro"
+  ],
+  "servicios": [],
+  "programa": "Ruta a caballo, comida y yincana con premios.",
+  "fundacion": "Edición XII",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sobrado-81.html"
+  ],
+  "concello": "Sobrado",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Souto",
+  "nombre": "Foliada dos Gaiteiros do Balado",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Foliada tradicional de gaitas a finales de septiembre en Souto, con música popular gallega y comida para los asistentes.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida popular"
+  ],
+  "servicios": [
+   "Se celebra en el campo de fútbol o en el pabellón de Souto"
+  ],
+  "tradicion": "Cita en torno a la música tradicional gallega de gaita (foliada).",
+  "programa": "Actuaciones musicales de gaiteiros y comida popular.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-toques-84.html"
+  ],
+  "concello": "Toques",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Marcelle",
+  "nombre": "Festas de Marcelle",
+  "fecha2026": "2026-08-30",
+  "fechaFin2026": "2026-09-01",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas de Marcelle en honor al Santísimo Sacramento, la Inmaculada Concepción, la Virgen de los Dolores y San Roque.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actuaciones musicales y variados actos religiosos durante tres días.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-ba%C3%B1a-7.html"
+  ],
+  "concello": "A Baña",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Barcala (San Cibrán)",
+  "nombre": "Festas do Pilar de San Cibrán",
+  "fecha2026": "2026-09-14",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Cibrán en honor a la Virgen del Pilar.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-a-ba%C3%B1a-7.html"
+  ],
+  "concello": "A Baña",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Negreira",
+  "nombre": "Feira do Románico",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/feira-do-romanico-negreira-4432.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-negreira-57.html"
+  ],
+  "historiaCorta": "Gran feria medieval de Negreira que llena la villa de mercado artesanal, caballeros y ambiente de época durante el primer fin de semana de septiembre. En 2025 celebró su XVIII edición.",
+  "historiaLarga": "La Feira do Románico es el evento estrella del verano en la villa de Negreira: una recreación medieval que convierte el casco urbano en un mercado de época durante un fin de semana de comienzos de septiembre. El programa habitual combina mercado artesanal, músicos de época y pasacalles, bailes medievales, exhibiciones de cetrería, espectáculos de circo y trapecio, combates de caballeros y torneos, además de un espectáculo pirotécnico nocturno y shows de fuego de clausura. En 2025 alcanzó su XVIII edición (5-7 de septiembre, fecha orientativa), lo que la consolida como una de las citas más turísticas del concello.",
+  "fundacion": null,
+  "programa": "Mercado artesanal medieval, músicos de época y pasacalles, bailes medievales, cetrería, circo y trapecio, combates de caballeros, fuegos artificiales y espectáculo de fuego de clausura.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Recreación medieval con caballeros, cetrería y mercado de época; una de las citas de mayor interés turístico del concello.",
+  "concello": "Negreira",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Logrosa",
+  "nombre": "Santo Eutelo de Logrosa",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-negreira-57.html"
+  ],
+  "historiaCorta": "Fiesta religiosa de la parroquia de Logrosa en honor a Santo Eutelo, a comienzos de julio (5-7).",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Oficios religiosos y actuaciones musicales.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "concello": "Negreira",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Broño",
+  "nombre": "San Martiño de Broño",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-negreira-57.html"
+  ],
+  "historiaCorta": "Fiesta de la parroquia de Broño en honor a San Martiño, hacia mediados de julio (18).",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "concello": "Negreira",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "A Ponte Maceira",
+  "nombre": "Noites en Vela de A Ponte Maceira",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-negreira-57.html"
+  ],
+  "historiaCorta": "Velada musical nocturna en el entorno monumental de la Ponte Maceira, con fuegos de artificio, hacia el 19 de julio.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Evento musical nocturno con fuegos de artificio.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Se celebra junto al célebre puente medieval de Ponte Maceira, uno de los lugares más fotografiados del Camino de Fisterra.",
+  "concello": "Negreira",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Negreira",
+  "nombre": "Carnaval de Verano (Entroido de Verán)",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/entroido-de-veran-negreira-33147.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-negreira-57.html"
+  ],
+  "historiaCorta": "Versión estival del entroido en la villa de Negreira, con desfile, fiesta del agua y concurso de playbacks, hacia finales de julio.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Desfile, festa da auga y concurso de playbacks.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Carnaval fuera de temporada pensado para el verano, con actividades para todas las edades.",
+  "concello": "Negreira",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Negreira",
+  "nombre": "Semana do Deporte",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-negreira-57.html"
+  ],
+  "historiaCorta": "Semana deportiva y de ocio en Negreira con exhibiciones y fiesta del agua con hinchables, a finales de agosto (25-28).",
+  "historiaLarga": null,
+  "fundacion": null,
+  "programa": "Exhibiciones deportivas y fiesta del agua con hinchables.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "concello": "Negreira",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Carballo",
+  "nombre": "XXVIII Mostra de Habaneras",
+  "fecha2026": "2026-06-27",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Muestra coral de habaneras en el Pazo da Cultura de Carballo, ya en su edición número 28.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Tres agrupaciones corales actuando a partir de las 20:00 en el Pazo da Cultura.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-carballo-19.html"
+  ],
+  "concello": "Carballo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Razo",
+  "nombre": "Razo Beach Party",
+  "fecha2026": "2026-08-09",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de verano junto a la playa de Razo, una de las más conocidas de la costa carballesa.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Sesión festiva y música en la playa de Razo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-carballo-19.html"
+  ],
+  "concello": "Carballo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Goiáns (Xoane)",
+  "nombre": "San Ramón de Xoane",
+  "fecha2026": "2026-08-28",
+  "fechaFin2026": "2026-08-30",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Ramón en el lugar de Xoane, parroquia de Santo Estevo de Goiáns.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Misas y verbena nocturna.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-carballo-19.html"
+  ],
+  "concello": "Carballo",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Malpica",
+  "nombre": "Festa Gastronómica da Sardiña",
+  "fecha2026": "2026-08-01",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta gastronómica dedicada a la sardiña, producto estrella del puerto pesquero de Malpica, con degustación a pie de mar.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [
+   "Sardiña asada"
+  ],
+  "servicios": [],
+  "tradicion": "Va por su II edición; ensalza la sardina como producto emblemático de la villa marinera de Malpica.",
+  "programa": "Degustación de sardiña y ambiente festivo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-malpica-de-berganti%c3%b1os-44.html"
+  ],
+  "concello": "Malpica de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Malpica",
+  "nombre": "Feira Mariñeira",
+  "fecha2026": "2026-08-14",
+  "fechaFin2026": "2026-08-17",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Feria marinera de Malpica que recrea el ambiente y oficios del mar, con puestos artesanos y gastronomía del puerto.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Va por su XII edición.",
+  "programa": "Puestos artesanos, animación y ambiente marinero.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-malpica-de-berganti%c3%b1os-44.html"
+  ],
+  "concello": "Malpica de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Malpica",
+  "nombre": "Festa Galega",
+  "fecha2026": "2026-08-15",
+  "fechaFin2026": "2026-08-16",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Celebración de la cultura tradicional gallega en Malpica, con actividades recreativas y música folclórica.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Va por su XVI edición.",
+  "programa": "Actividades recreativas y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-malpica-de-berganti%c3%b1os-44.html",
+   "https://www.paxinasgalegas.es/fiestas/festa-galega-malpica-de-berganti%C3%B1os-5863.html"
+  ],
+  "concello": "Malpica de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Malpica",
+  "nombre": "Festas do Mar",
+  "fecha2026": "2026-08-21",
+  "fechaFin2026": "2026-08-24",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Las grandes fiestas de la villa marinera de Malpica, con la espectacular procesión marítima de la Virxe do Carme en barco hacia las Islas Sisargas.",
+  "historiaLarga": "Las Festas do Mar son las fiestas grandes de Malpica de Bergantiños y la cita más esperada del verano en la villa. Mezclan romería, procesión marítima y verbena, con la gastronomía del mar y la música tradicional gallega (muiñeiras, gaitas y pandereta) como protagonistas. Su momento culminante llega el domingo por la tarde, cuando centenares de embarcaciones engalanadas salen a la mar en honor a la Virxe do Carme, patrona de los marineros, en una procesión que, con buen tiempo, alcanza las Islas Sisargas, frente a la costa de Malpica, seguida por multitud de gente desde tierra y desde el mar. La procesión suele celebrarse sobre las 18:00 horas e incluye una ofrenda a la Virgen. A lo largo de los días hay actuaciones de orquestas y grupos del momento, degustaciones de marisco y ambiente festivo en el paseo marítimo.",
+  "fundacion": null,
+  "gastronomia": [
+   "Marisco",
+   "Productos del mar"
+  ],
+  "servicios": [],
+  "tradicion": "Procesión marítima de embarcaciones engalanadas hacia las Islas Sisargas en honor a la Virxe do Carme; música tradicional gallega y degustaciones de marisco.",
+  "programa": "Procesión marítima (domingo ~18:00) con ofrenda a la Virgen, actos religiosos, orquestas y verbenas, degustaciones de marisco.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-malpica-de-berganti%c3%b1os-44.html",
+   "https://www.paxinasgalegas.es/fiestas/festas-do-mar-malpica-de-berganti%C3%B1os-2511.html",
+   "https://www.caminodosfaros.com/fiestas/festas-do-mar-malpica/"
+  ],
+  "concello": "Malpica de Bergantiños",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cee",
+  "nombre": "Festas do Carmen",
+  "fecha2026": "2026-07-16",
+  "fechaFin2026": "2026-07-19",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiestas del Carmen de Cee, en honor a la patrona de los marineros, con actos religiosos y una gran sardiñada. Se celebran a mediados de julio.",
+  "historiaLarga": "El Carmen es la patrona de los marineros, y Cee, villa de tradición marinera de la Costa da Morte, le dedica unas fiestas con fuerte raíz pesquera. Combinan actos religiosos en honor a la Virgen del Carmen, actuaciones musicales y actividades de ocio para los niños, con una gran sardiñada como plato fuerte que homenajea a la gente del mar.",
+  "tradicion": "Patrona de los marineros; el momento central es la gran sardiñada en honor a la comunidad pesquera.",
+  "gastronomia": [
+   "Sardiñada (sardinas asadas)"
+  ],
+  "servicios": [],
+  "programa": "Actos religiosos, actuaciones musicales, actividades de ocio infantil y gran sardiñada.",
+  "fundacion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festas-do-carmen-cee-39116.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cee-24.html"
+  ],
+  "concello": "Cee",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cee",
+  "nombre": "San Cristóbal",
+  "fecha2026": "2026-07-12",
+  "fechaFin2026": "2026-07-13",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta de San Cristóbal en Cee, con la tradicional procesión y bendición de vehículos propia del patrón de los conductores.",
+  "historiaLarga": null,
+  "tradicion": "Procesión y bendición de vehículos, típica de San Cristóbal, patrón de los conductores.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Procesión de vehículos y actuaciones musicales.",
+  "fundacion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cee-24.html"
+  ],
+  "concello": "Cee",
+  "provincia": "A Coruña"
+ },
+ {
+  "parroquia": "Cee",
+  "nombre": "Gran Sardiñada en Homenaxe aos Nosos Mariñeiros",
+  "fecha2026": "2026-07-25",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Sardiñada popular de Cee en homenaje a los marineros, con degustación de sardinas, música y juegos para los más pequeños.",
+  "historiaLarga": null,
+  "tradicion": "Homenaje gastronómico a la comunidad marinera de Cee.",
+  "gastronomia": [
+   "Sardinas asadas (degustación)"
+  ],
+  "servicios": [
+   "Hinchables y juegos infantiles"
+  ],
+  "programa": "Degustación de sardinas, música, hinchables y juegos.",
+  "fundacion": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cee-24.html"
+  ],
+  "concello": "Cee",
+  "provincia": "A Coruña"
+ },
+ {
   "parroquia": "Melías (Ventosela)",
   "nombre": "Romería de San Mamede",
   "fechaConfianza": "probable",
