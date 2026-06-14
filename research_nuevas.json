@@ -810,6 +810,293 @@
   "provincia": "Pontevedra"
  },
  {
+  "parroquia": "O Valadouro",
+  "nombre": "Mostra Folclórica",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-31",
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Muestra de folclore con formaciones de baile tradicional gallego; en su edición XXXV, una cita veterana del concello.",
+  "historiaLarga": null,
+  "tradicion": "Muestra veterana de baile tradicional gallego (edición XXXV).",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actuaciones de grupos de baile tradicional gallego.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-valadouro-156.html"
+  ],
+  "concello": "O Valadouro",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "O Valadouro",
+  "nombre": "Festa na Piscina",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-31",
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Fiesta infantil de fin de verano en la piscina municipal, con hinchables y música.",
+  "historiaLarga": null,
+  "tradicion": "Fiesta infantil de despedida del verano en la piscina municipal.",
+  "gastronomia": [],
+  "servicios": [
+   "Hinchables",
+   "Música",
+   "Piscina municipal"
+  ],
+  "programa": "Hinchables y música para los más pequeños en la piscina municipal.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-valadouro-156.html",
+   "https://www.paxinasgalegas.es/fiestas/piscina-municipal-o-valadouro-19222.html"
+  ],
+  "concello": "O Valadouro",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "O Valadouro",
+  "nombre": "Semana do Teatro Amador",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-09-01",
+  "fechaFin2026": "2026-09-05",
+  "fundacion": null,
+  "historiaCorta": "Semana de teatro aficionado en el Centro Socio-Cultural, con representaciones de varios grupos; edición XXXIX, muy consolidada.",
+  "historiaLarga": null,
+  "tradicion": "Veterana muestra de teatro amateur (edición XXXIX) en el Centro Socio-Cultural.",
+  "gastronomia": [],
+  "servicios": [
+   "Centro Socio-Cultural"
+  ],
+  "programa": "Representaciones teatrales de grupos de teatro aficionado.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-valadouro-156.html"
+  ],
+  "concello": "O Valadouro",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Barreiros",
+  "nombre": "Festa do Mexillón",
+  "fecha2026": "2026-07-26",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta gastronómica del mejillón en el campo de fútbol de O Cascabeiro, organizada por el CF Celta de Barreiros.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [
+   "Mejillón"
+  ],
+  "servicios": [
+   "Se celebra en el campo de fútbol de O Cascabeiro"
+  ],
+  "programa": "Degustación de mejillón y ambiente festivo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-barreiros-100.html"
+  ],
+  "concello": "Barreiros",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Barreiros",
+  "nombre": "Holi Wave - Carnaval de Verano",
+  "fecha2026": "2026-08-17",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Carnaval de verano con explosión de color tipo Holi, pensado para niños y adultos en pleno agosto.",
+  "historiaLarga": null,
+  "tradicion": "Fiesta de polvos de colores, ambiente festivo y familiar.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Carnaval de verano y explosión de color con participación infantil.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-barreiros-100.html"
+  ],
+  "concello": "Barreiros",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Begonte",
+  "nombre": "Festa da Empanada",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta gastronómica del concello en torno a la empanada, celebrada en el Club Fluvial de Begonte a mediados de julio.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [
+   "raciones de empanada",
+   "degustación de empanada gallega"
+  ],
+  "servicios": [
+   "se celebra en el Club Fluvial"
+  ],
+  "tradicion": "Reivindica la empanada gallega como plato estrella del verano begontino.",
+  "programa": "Reparto de raciones de empanada acompañado de música.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-begonte-102.html"
+  ],
+  "concello": "Begonte",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Begonte",
+  "nombre": "Festival 27373",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Festival de música en gallego del concello de Begonte (su nombre es el código postal local), de entrada gratuita, celebrado a comienzos de agosto.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [
+   "entrada gratuita"
+  ],
+  "tradicion": "Apuesta por la música en lengua gallega; el nombre 27373 es el código postal de Begonte.",
+  "programa": "Conciertos de música en gallego para todos los públicos.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-begonte-102.html",
+   "https://www.paxinasgalegas.es/fiestas/festival-27373-begonte-10197.html"
+  ],
+  "concello": "Begonte",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Veiga de Porto",
+  "nombre": "Lume Novo de Veiga de Porto",
+  "fecha2026": "2026-06-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta popular de Veiga de Porto en torno a la noche de San Juan, organizada por la Asociación Cultural San Martiño de Pino con la tradicional hoguera (lume).",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": "Recupera la tradición del lume novo (hoguera) de la noche de San Juan.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Hoguera de San Juan y actividades populares.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cospeito-112.html"
+  ],
+  "concello": "Cospeito",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Pino",
+  "nombre": "San Roque de Pino",
+  "fecha2026": "2026-08-16",
+  "fechaFin2026": "2026-08-17",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta de la parroquia de Pino en honor a San Roque, con actos religiosos y variadas actuaciones musicales a mediados de agosto.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y variadas actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cospeito-112.html"
+  ],
+  "concello": "Cospeito",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "San Xurxo de Goás",
+  "nombre": "Festa na Capela das Ermitas",
+  "fecha2026": "2026-08-30",
+  "fechaFin2026": "2026-08-31",
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta en torno a la Capela das Ermitas, en San Xurxo de Goás, con actos religiosos y actuaciones musicales a finales de agosto.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cospeito-112.html"
+  ],
+  "concello": "Cospeito",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Queizán",
+  "nombre": "Festas de Queizán",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiestas patronales del lugar de Queizán, con actos religiosos, música y verbena.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos, música y diversión.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-corgo-111.html"
+  ],
+  "concello": "O Corgo",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "San Martiño de Guillar",
+  "nombre": "San Antonio de San Martiño de Guillar",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-06-05",
+  "fechaFin2026": "2026-06-07",
+  "historiaCorta": "Fiesta de San Antonio en San Martiño de Guillar, a comienzos de junio, con churrasco vecinal y música.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "fundacion": null,
+  "programa": "Actos religiosos, churrasco vecinal y actuaciones musicales",
+  "gastronomia": [
+   "Churrasco vecinal"
+  ],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-outeiro-de-rei-132.html"
+  ],
+  "concello": "Outeiro de Rei",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "San Fiz de Paz",
+  "nombre": "San Antón e Virxe do Carme de San Fiz de Paz",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-09-06",
+  "fechaFin2026": "2026-09-07",
+  "historiaCorta": "Fiesta de San Antón y la Virxe do Carme en San Fiz de Paz, a comienzos de septiembre.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "fundacion": null,
+  "programa": "Actos religiosos y actuaciones musicales",
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-outeiro-de-rei-132.html"
+  ],
+  "concello": "Outeiro de Rei",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Rábade",
+  "nombre": "Festa dos Nenos",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta dedicada a los más pequeños, con una tarde llena de diversión y actividades infantiles, que se celebra a comienzos de junio en Rábade.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Tarde de actividades y juegos infantiles.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-rabade-144.html"
+  ],
+  "concello": "Rábade",
+  "provincia": "Lugo"
+ },
+ {
   "parroquia": "Porto do Son",
   "nombre": "Vermuts Musicales",
   "fecha2026": "2026-08-03",
