@@ -2221,6 +2221,317 @@
   "provincia": "Ourense"
  },
  {
+  "parroquia": "Riotorto",
+  "nombre": "Festa Celta",
+  "fecha2026": "2026-08-03",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Fiesta de carácter folclórico y festivo en Riotorto, con comida y numerosas actuaciones musicales de raíz celta.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "gastronomia": [
+   "Comida popular"
+  ],
+  "servicios": [
+   "Numerosas actuaciones musicales"
+  ],
+  "tradicion": "Evento de temática celta que reivindica la raíz folclórica gallega; atractivo turístico de inicios de agosto.",
+  "programa": "Comida y numerosas actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-riotorto-148.html"
+  ],
+  "concello": "Riotorto",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "Loña do Monte",
+  "nombre": "Virxe do Monte e San Roque de Loña do Monte",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-08-10",
+  "fechaFin2026": "2026-08-17",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la parroquia de Loña do Monte en honor a la Virxe do Monte y San Roque, a mediados de agosto, con actos litúrgicos y verbenas.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": "Actos litúrgicos y verbenas amenizadas con orquestas del momento.",
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-nogueira-de-ramuin-210.html"
+  ],
+  "concello": "Nogueira de Ramuín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "San Xosé da Carballeira",
+  "nombre": "Virxe dos Remedios de San Xosé da Carballeira",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-09-20",
+  "fechaFin2026": "2026-09-21",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la parroquia de San Xosé da Carballeira en honor a la Virgen de los Remedios, a finales de septiembre, con una gran cena popular y verbena.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": "Actos religiosos, una gran cena popular y variadas actuaciones musicales.",
+  "gastronomia": [
+   "Gran cena popular"
+  ],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-nogueira-de-ramuin-210.html"
+  ],
+  "concello": "Nogueira de Ramuín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Nogueira de Ramuín",
+  "nombre": "San Xoán - XII Andaiñada Nocturna",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-06-23",
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Celebración de la noche de San Xoán en el concello, con la tradicional fogueira, sardiñada y churrascada amenizadas con música.",
+  "historiaLarga": null,
+  "tradicion": "Mantiene la tradicional fogueira de San Xoán de la noche del 23 de junio.",
+  "programa": "Andaina nocturna, sardiñada y churrascada amenizadas con música y la tradicional hoguera.",
+  "gastronomia": [
+   "Sardiñada",
+   "Churrascada"
+  ],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-nogueira-de-ramuin-210.html"
+  ],
+  "concello": "Nogueira de Ramuín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Toén",
+  "nombre": "V Feira da Cervexa Artesá",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Feria de la cerveza artesana de Toén, que celebra su quinta edición a comienzos del verano.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Cerveza artesana",
+   "Degustaciones"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-toen-239.html"
+  ],
+  "concello": "Toén",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Toén",
+  "nombre": "VII Concentración de Clásicos",
+  "fecha2026": "2026-07-19",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Encuentro de coches clásicos en Toén, en su séptima edición, con ruta y comida popular.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Comida popular"
+  ],
+  "servicios": [],
+  "tradicion": "Atrae a aficionados al motor de toda la comarca con una ruta por la zona.",
+  "programa": "Ruta de vehículos clásicos y comida popular.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-toen-239.html"
+  ],
+  "concello": "Toén",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Toén",
+  "nombre": "Uros Race",
+  "fecha2026": "2026-09-13",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Carrera de obstáculos celebrada en Toén con cuatro modalidades, una de las pruebas deportivas más populares del concello.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Reúne a corredores de toda la zona en una prueba de obstáculos por el entorno natural de Toén.",
+  "programa": "Carrera de obstáculos con cuatro modalidades: Elite, Popular Competitiva, Popular y Equipos.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-toen-239.html",
+   "https://www.paxinasgalegas.es/fiestas/uros-race-toen-38720.html"
+  ],
+  "concello": "Toén",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Allariz",
+  "nombre": "Festa do Boi",
+  "fecha2026": "2026-06-04",
+  "fechaFin2026": "2026-06-07",
+  "fechaConfianza": "probable",
+  "fundacion": "Siglo XIV (recuperada en 1983)",
+  "historiaCorta": "La gran fiesta de Allariz, declarada de Interés Turístico de Galicia. Reproduce las carreras de un buey ensogado por las calles, al estilo de los San Fermines, el fin de semana previo al Corpus.",
+  "historiaLarga": "Es la fiesta más emblemática de Allariz y una de las más singulares de Galicia. Sus raíces se remontan al siglo XIV: la leyenda cuenta que hacia 1317 un hidalgo llamado Xan de Arzúa (Juan de Arzúa) montó sobre un buey para dispersar a una colonia judía que, según la tradición, se burlaba de la procesión cristiana del Corpus. De ahí nace la costumbre de soltar el buey por las calles. La celebración estuvo prohibida durante décadas y se recuperó en su formato actual en 1983. Hoy está declarada Festa de Galicia de Interese Turístico y se vive con enorme expectación: las 'carreras do boi' recorren el casco histórico con el animal ensogado, en un ambiente comparable al de los encierros de Pamplona, acompañadas de procesión y recreación de tono medieval.",
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Carreras del buey ensogado por el casco histórico al estilo de los encierros; procesión y ambiente medieval. Declarada Festa de Galicia de Interese Turístico.",
+  "programa": "Carreras do boi por las calles, procesión, recreación medieval y actividades durante el fin de semana.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/festa-do-boi-allariz-290.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-allariz-162.html"
+  ],
+  "concello": "Allariz",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "O Mato (Allariz)",
+  "nombre": "Festas Etnográficas \"O Ciclo do Pan\"",
+  "fecha2026": "2026-08-02",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Recreación etnográfica del ciclo tradicional del pan en el forno da aldea de O Mato: de la siega a la molienda y la hornada, tal como se hacía antaño.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Pan de aldea cocido en horno tradicional"
+  ],
+  "servicios": [],
+  "tradicion": "Recreación de los oficios del ciclo panificador (siega, molienda y hornada) en el horno comunal de la aldea.",
+  "programa": "Demostraciones de siega, molienda y cocción del pan en el forno tradicional.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-allariz-162.html"
+  ],
+  "concello": "Allariz",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Allariz",
+  "nombre": "VII Feira dos Produtos Apícolas",
+  "fecha2026": "2026-09-13",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Feria dedicada al mundo de la apicultura, con venta de productos y degustación de mieles de la zona.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Mieles (degustación)",
+   "Productos apícolas"
+  ],
+  "servicios": [],
+  "tradicion": "Muestra del sector apícola comarcal.",
+  "programa": "Feria de productos apícolas y degustación de mieles.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-allariz-162.html"
+  ],
+  "concello": "Allariz",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Xunqueira de Ambía",
+  "nombre": "Ciclo de Órgano e Música Antiga",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Ciclo musical de órgano y música antigua que se celebra cada verano en la Colegiata de Santa María la Real, con entrada gratuita.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Entrada gratuita",
+   "Se celebra en la Colegiata de Santa María la Real"
+  ],
+  "tradicion": "Aprovecha el órgano histórico y la acústica de la Colegiata románica de Santa María la Real. La edición ronda la número XXXVI, lo que da idea de su larga trayectoria.",
+  "programa": "Conciertos de órgano y música antigua a lo largo de varias semanas (de mediados de agosto a principios de septiembre).",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-xunqueira-de-ambia-252.html"
+  ],
+  "concello": "Xunqueira de Ambía",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Manzaneda",
+  "nombre": "Romaría dos Pumbariños",
+  "fechaConfianza": "probable",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Romería popular de convivencia en plena naturaleza, celebrada a principios de julio en el entorno de Manzaneda.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Fiesta de convivencia al aire libre, vinculada al grupo Os Pumbariños y al disfrute de la naturaleza de la montaña.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-manzaneda-202.html"
+  ],
+  "concello": "Manzaneda",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Cartelle",
+  "nombre": "Feira de Artesanía e Alimentación",
+  "fecha2026": "2026-08-04",
+  "fechaConfianza": "probable",
+  "gastronomia": [
+   "productos de alimentación local"
+  ],
+  "servicios": [],
+  "programa": "Feria de artesanía y alimentación en el Campo da Feira de Cartelle.",
+  "historiaCorta": "Feria de artesanía y alimentación en el Campo da Feira de Cartelle, escaparate de productos locales en pleno verano.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "fundacion": null,
+  "fechaFin2026": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cartelle-181.html"
+  ],
+  "concello": "Cartelle",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Cartelle",
+  "nombre": "II Concerto Baixo as Estrelas",
+  "fecha2026": "2026-08-08",
+  "fechaConfianza": "probable",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Concierto nocturno al aire libre en Cartelle.",
+  "historiaCorta": "Concierto nocturno al aire libre que va por su segunda edición, una propuesta musical de verano en Cartelle.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "fundacion": "2025",
+  "fechaFin2026": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cartelle-181.html"
+  ],
+  "concello": "Cartelle",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Cartelle",
+  "nombre": "Festa de Verán de Teixugueiras-Xinzo",
+  "fecha2026": "2026-08-09",
+  "fechaConfianza": "probable",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Fiesta de verano del lugar de Teixugueiras-Xinzo.",
+  "historiaCorta": "Fiesta de verano del lugar de Teixugueiras-Xinzo, en el concello de Cartelle, a mediados de agosto.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "fundacion": null,
+  "fechaFin2026": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cartelle-181.html"
+  ],
+  "concello": "Cartelle",
+  "provincia": "Ourense"
+ },
+ {
   "parroquia": "Sobrado dos Monxes",
   "nombre": "XXIV Feira da Troita",
   "fechaConfianza": "probable",
