@@ -14,6 +14,8 @@ def pdate(s):
     except: return None
 MESES={1:'xaneiro',2:'febreiro',3:'marzo',4:'abril',5:'maio',6:'xuño',7:'xullo',8:'agosto',9:'setembro',10:'outubro',11:'novembro',12:'decembro'}
 DIASEM=['Luns','Martes','Mércores','Xoves','Venres','Sábado','Domingo']
+DIASEM_ES=['lun','mar','mié','jue','vie','sáb','dom']
+MES_ES={1:'ene',2:'feb',3:'mar',4:'abr',5:'may',6:'jun',7:'jul',8:'ago',9:'sep',10:'oct',11:'nov',12:'dic'}
 
 # ---------- categorías de items del programa ----------
 def categoria(txt):
@@ -39,47 +41,53 @@ def extrae_artistas(txt, bandas):
     return list(dict.fromkeys(found))
 
 # ---------- parser de programa prosa -> dailyProgram ----------
-DAYHDR=re.compile(r'(?:^|[.;]\s+|\n)\s*((?:luns|martes|m[ée]rcores|xoves|venres|s[áa]bado|domingo|lunes|mi[ée]rcoles|jueves|viernes|d[ií]a|xov|ven|s[áa]b|dom)\.?\s*\d{0,2}[^:]{0,18}?):',re.I)
+MESNUM={'xaneiro':1,'enero':1,'febreiro':2,'febrero':2,'marzo':3,'abril':4,'maio':5,'mayo':5,'xuño':6,'junio':6,'xullo':7,'julio':7,'agosto':8,'setembro':9,'septiembre':9,'sept':9,'outubro':10,'octubre':10,'novembro':11,'noviembre':11,'decembro':12,'diciembre':12}
+DAYHDR=re.compile(r'(?:^|[.;]\s+|\n)\s*((?:luns|martes|m[ée]rcores|xoves|venres|s[áa]bado|domingo|lunes|mi[ée]rcoles|jueves|viernes|d[ií]a|xov|ven|s[áa]b|dom)\.?\s*\d{1,2}[^:]{0,22}?):',re.I)
 TIME=re.compile(r'(\d{1,2})[:\.](\d{2})\s*h?')
-def parse_programa(prog, start, end, bandas):
-    if not prog: return []
-    # localizar cabeceras de día
+def _mes_en(txt):
+    m=re.search(r'/(\d{1,2})\b',txt)  # 22/06
+    if m and 1<=int(m.group(1))<=12: return int(m.group(1))
+    for nm,n in MESNUM.items():
+        if nm in txt.lower(): return n
+    return None
+def parse_programa(prog, start, end, bandas, year):
+    if not prog: return [], None, None
     idxs=[(m.start(1),m.group(1).strip()) for m in DAYHDR.finditer(prog)]
     chunks=[]
     if len(idxs)>=2:
         for i,(pos,lab) in enumerate(idxs):
             nxt=idxs[i+1][0] if i+1<len(idxs) else len(prog)
-            body=prog[pos:nxt]
-            body=body[len(lab):].lstrip(' :')
+            body=prog[pos:nxt][len(lab):].lstrip(' :')
             chunks.append((lab,body))
     else:
         chunks=[(None,prog)]
-    days=[]
+    days=[]; prevday=None; curmonth=(start.month if start else None)
     for lab,body in chunks:
-        # fecha del día por número
-        d=None
+        d=None; num=None
         mnum=re.search(r'(\d{1,2})',lab or '')
-        if mnum and start:
-            num=int(mnum.group(1)); cur=start
-            while end and cur<=end:
-                if cur.day==num: d=cur; break
-                cur+=timedelta(days=1)
-        # items por hora
+        if mnum: num=int(mnum.group(1))
+        if num:
+            mes=_mes_en(lab or '') or _mes_en(body[:40])
+            if mes: curmonth=mes
+            elif prevday is not None and num<prevday: curmonth=(curmonth%12)+1  # rollover de mes
+            if curmonth:
+                try: d=date(year,curmonth,num)
+                except: d=None
+            prevday=num
         items=[]; ts=list(TIME.finditer(body))
         if ts:
             for j,m in enumerate(ts):
                 seg=body[m.end():(ts[j+1].start() if j+1<len(ts) else len(body))].strip(' .,-;')
                 if not seg: continue
-                hh=int(m.group(1)); mm=m.group(2)
-                items.append({'time':f"{hh:02d}:{mm}",'title':seg[:90].strip(),'category':categoria(seg),'artists':extrae_artistas(seg,bandas)})
+                items.append({'time':f"{int(m.group(1)):02d}:{m.group(2)}",'title':seg[:90].strip(),'category':categoria(seg),'artists':extrae_artistas(seg,bandas)})
         else:
             seg=body.strip(' .,-;')
             if seg: items.append({'time':None,'title':seg[:120].strip(),'category':categoria(seg),'artists':extrae_artistas(seg,bandas)})
         if not items: continue
-        dl=lab
-        if d: dl=f"{DIASEM[d.weekday()]} {d.day}"
+        dl = (f"{DIASEM[d.weekday()]} {d.day}" if d else (lab or ''))
         days.append({'date':d.isoformat() if d else None,'dayLabel':dl,'items':items})
-    return days
+    pdates=[date.fromisoformat(x['date']) for x in days if x['date']]
+    return days, (min(pdates).isoformat() if pdates else None), (max(pdates).isoformat() if pdates else None)
 
 # ---------- clasificación de fecha ----------
 def clasifica(v, start, end):
@@ -171,7 +179,25 @@ for v in ver:
     etype, nr, notes = clasifica(v,start,end)
     if v.get('fechaOrientativa'): nr=True; notes=notes+['Data orientativa (anos anteriores ou estimada)']
     bandas=v.get('bandas') or []
-    dp=parse_programa(v.get('programa'), start, end, bandas)
+    yr=start.year if start else 2026
+    dp, pstart, pend = parse_programa(v.get('programa'), start, end, bandas, yr)
+    # si el programa da su propio rango fiable, manda sobre el rango (corrige carteles fusionados/recortados)
+    review_extra=[]
+    if pstart and pend:
+        ps,pe=date.fromisoformat(pstart),date.fromisoformat(pend)
+        if start is None or ps!=start or pe!=end:
+            # solo si el span del programa es razonable (<=12 días) y dentro de verano
+            if (pe-ps).days<=12 and 5<=ps.month<=10:
+                if start and abs((ps-start).days)>2: review_extra.append('Rango axustado ao programa do cartel')
+                start, end = ps, pe
+                v=dict(v); v['fechaInicio']=pstart; v['fechaFin']=pend
+                # recalcular etiqueta
+                if pstart==pend:
+                    v['cuando']=f"{DIASEM_ES[ps.weekday()]} {ps.day} {MES_ES[ps.month]}"
+                else:
+                    v['cuando']=f"{ps.day} {MES_ES[ps.month]}–{pe.day} {MES_ES[pe.month]}"
+            else:
+                review_extra.append('Programa con varias fiestas/fechas: revisar')
     isfree = False if kind=='festival' else True
     f={
       'id':v['id'],
@@ -205,8 +231,8 @@ for v in ver:
       'hasOfficialProgram':bool(v.get('temCartel')),
       'cobertura':v.get('cobertura'),
       'search':v.get('busqueda'),
-      'needsReview':nr,
-      'reviewNotes':'; '.join(notes),
+      'needsReview':nr or bool(review_extra),
+      'reviewNotes':'; '.join(notes+review_extra),
     }
     fichas.append(f)
 json.dump(fichas, open(f'{BASE}/fichas.json','w'), ensure_ascii=False, indent=1)
