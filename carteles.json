@@ -1,4 +1,416 @@
 [
-{"concello":"Lugo","parroquia":"","nombre":"Arde Lucus","fechaInicio":"2026-06-18","fechaFin":"2026-06-21","bandas":["Celtica Pipes Rock!","Abraham Cupeiro"],"comida":["Mercado romano (Macellum): puestos de comida y bebida de época"],"programaCartel":"Xov 18: 20:30 ceremonia inaugural na Ponte Romana, chegada das lexións, ritual a Diana, aceso do Lume de Vesta. Ven 19: pasarrúas, loitas de gladiadores, vodas e bautizos celtas, 23:00 espectáculos de lume, 00:00 Home de Vimbio. Sáb 20: Circo Máximo (6€) tarde e noite, 23:00 concerto Celtica Pipes Rock! Dom 21: Circo Máximo infantil, 21:30 extinción do Lume de Vesta, 22:30 concerto Abraham Cupeiro. Mercado romano os tres días.","fuenteCartel":"https://www.deconcursos.com/wp-content/uploads/2026/04/ardelucus26gg.webp","notaCartel":"XXV edición 'Lux Ignis'. Interés Turístico Internacional. Recreación romano-castrexa."},
-{"concello":"Abegondo","parroquia":"Crendes","nombre":"San Pedro de Crendes","fechaInicio":"2026-06-28","fechaFin":"2026-06-30","bandas":["Dúo Dilema","David Expósito","Disketoca","Trío Manhattan","Dúo D'Vicio","Cinema"],"comida":["Callos","Gran churrascada","Sardiñada","Pementos","Postre","Café"],"programaCartel":"Sáb 28: 9:00 dianas e alboradas; 13:00 misa solemne e procesión de San Pedro; sesión vermú (haberá callos) con Dúo Dilema; 18:00 partido infantil; verbena con Dúo Dilema, David Expósito e discomóvil Disketoca. Dom 29: 13:00 misa da Cofradía do Santísimo; vermú (callos) con Trío Manhattan; 18:00 xogos infantís (touro mecánico, hinchables, festa da escuma). Luns 30: 20:00 gran churrascada e sardiñada con postre, café e pementos; gran verbena con Dúo D'Vicio e Cinema; sorteo de 300€ no descanso.","fuenteCartel":"https://www.paxinasgalegas.es/fiestas/san-pedro-de-crendes-abegondo_img3880n1t0.jpg","notaCartel":"Cartel oficial 2026. OJO: el texto HTML daba 27-29 jun; el cartel (fuente fiable) dice 28-30 jun."}
+ {
+  "concello": "Lugo",
+  "parroquia": "",
+  "nombre": "Arde Lucus",
+  "fechaInicio": "2026-06-18",
+  "fechaFin": "2026-06-21",
+  "bandas": [
+   "Celtica Pipes Rock!",
+   "Abraham Cupeiro"
+  ],
+  "comida": [
+   "Mercado romano (Macellum): puestos de comida y bebida de época"
+  ],
+  "programaCartel": "Xov 18: 20:30 ceremonia inaugural na Ponte Romana, chegada das lexións, ritual a Diana, aceso do Lume de Vesta. Ven 19: pasarrúas, loitas de gladiadores, vodas e bautizos celtas, 23:00 espectáculos de lume, 00:00 Home de Vimbio. Sáb 20: Circo Máximo (6€) tarde e noite, 23:00 concerto Celtica Pipes Rock! Dom 21: Circo Máximo infantil, 21:30 extinción do Lume de Vesta, 22:30 concerto Abraham Cupeiro. Mercado romano os tres días.",
+  "fuenteCartel": "https://www.deconcursos.com/wp-content/uploads/2026/04/ardelucus26gg.webp",
+  "notaCartel": "XXV edición 'Lux Ignis'. Interés Turístico Internacional. Recreación romano-castrexa."
+ },
+ {
+  "concello": "Abegondo",
+  "parroquia": "Crendes",
+  "nombre": "San Pedro de Crendes",
+  "fechaInicio": "2026-06-28",
+  "fechaFin": "2026-06-30",
+  "bandas": [
+   "Dúo Dilema",
+   "David Expósito",
+   "Disketoca",
+   "Trío Manhattan",
+   "Dúo D'Vicio",
+   "Cinema"
+  ],
+  "comida": [
+   "Callos",
+   "Gran churrascada",
+   "Sardiñada",
+   "Pementos",
+   "Postre",
+   "Café"
+  ],
+  "programaCartel": "Sáb 28: 9:00 dianas e alboradas; 13:00 misa solemne e procesión de San Pedro; sesión vermú (haberá callos) con Dúo Dilema; 18:00 partido infantil; verbena con Dúo Dilema, David Expósito e discomóvil Disketoca. Dom 29: 13:00 misa da Cofradía do Santísimo; vermú (callos) con Trío Manhattan; 18:00 xogos infantís (touro mecánico, hinchables, festa da escuma). Luns 30: 20:00 gran churrascada e sardiñada con postre, café e pementos; gran verbena con Dúo D'Vicio e Cinema; sorteo de 300€ no descanso.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-pedro-de-crendes-abegondo_img3880n1t0.jpg",
+  "notaCartel": "Cartel oficial 2026. OJO: el texto HTML daba 27-29 jun; el cartel (fuente fiable) dice 28-30 jun."
+ },
+ {
+  "concello": "A Guarda",
+  "parroquia": "",
+  "nombre": "Festa da Langosta e da Cociña Mariñeira",
+  "bandas": [],
+  "comida": [
+   "Langosta",
+   "Cociña mariñeira"
+  ],
+  "programaCartel": "Cartel oficial XXXIII edicion. Texto legible en la imagen: \"XXXIII FESTA da LANGOSTA e da cociña mariñeira\", \"A GUARDA\", \"4, 5 e 6 XULLO 2025\", \"Este ano empezamos o venres ás 12:00h!\". El cartel solo tiene ilustracion (A Guarda sobre el mar + langosta), titulo, lugar y fechas; NO muestra orquestas ni horarios de actos. IMPORTANTE: cartel de 2025, no 2026. Por patron de calendario (primer finde de julio) en 2026 seria 3-5 julio, estimacion no confirmada en imagen.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festa-da-langosta-a-guarda_img1650n1t0.jpg",
+  "fechaInicio": "2026-07-03",
+  "fechaFin": "2026-07-05",
+  "notaCartel": "Programa do cartel oficial 2026."
+ },
+ {
+  "concello": "Oleiros",
+  "parroquia": "Nós",
+  "nombre": "San Pedro de Nós",
+  "bandas": [
+   "Los Satélites",
+   "Grupo Folclórico Os Rueiriños",
+   "Xilo e Carlos",
+   "Grupo Assia",
+   "Unión y Fuerza",
+   "Gus DJ",
+   "Coral Airiños de Nós"
+  ],
+  "comida": [
+   "Gran churrascada",
+   "Degustación de paella",
+   "Degustación de callos",
+   "Pulpería"
+  ],
+  "programaCartel": "Festas na honra a San Pedro, Nós (Oleiros). El cartel indica edición 2025 (no 2026).\n\nVIERNES 27 de junio: 19:00 h gran churrascada; 22:30 h gran verbena con orquesta LOS SATÉLITES.\n\nSÁBADO 28 de junio: 14:00 h sesión vermú con Grupo Folclórico Os Rueiriños y Xilo e Carlos + degustación de paella; 22:00 h verbena con GRUPO ASSIA y Xilo e Carlos (gran carpa).\n\nDOMINGO 29 de junio: 13:00 h misa solemne con Coral Airiños de Nós y sesión de fuegos; 14:00 h sesión vermú infinita con UNIÓN Y FUERZA y Gus DJ + degustación de callos; 19:00 h pase de tarde y fin de fiesta con UNIÓN Y FUERZA. Pulpería todo el día. (programa edición 2025, orientativo)",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-pedro-de-nos-oleiros_img32497n1t0.jpg",
+  "notaCartel": "Cartel edición 2025: bandas/gastronomía orientativas, fecha 2026 sin confirmar."
+ },
+ {
+  "concello": "Rianxo",
+  "parroquia": "Taragoña",
+  "nombre": "Festas do Verán de Taragoña",
+  "bandas": [
+   "Panorama",
+   "Solara",
+   "Os Pequenos do Barbanza",
+   "Buxaina",
+   "Charanga Fanfarria Furruxa",
+   "Alodara",
+   "La Fórmula",
+   "Charleston Big Band",
+   "Os Liantes",
+   "Los Lunes al Sol",
+   "Tremenda Sudada",
+   "Banda Infantil de Rianxo",
+   "Heredeiros da Crus",
+   "Disco Móvil Euphoria Show",
+   "Fussión",
+   "Los Soprano",
+   "Charanga Era Visto",
+   "Dilema",
+   "José Manuel Follarín",
+   "Arume",
+   "Banda de Música de Rianxo",
+   "Mago Paco"
+  ],
+  "comida": [
+   "Xantar Popular con Lito Mambis"
+  ],
+  "programaCartel": "Festas do Verán de Taragoña, no Campo Maneiro (Taragoña, Rianxo). Programa de catro días (xoves 17 a domingo 20 de xullo):\n\nDía 17 (xoves): Orquestra Panorama, Solara, Os Pequenos do Barbanza, Buxaina, Charanga Fanfarria Furruxa e Alodara.\n\nDía 18 (venres): Orquestra La Fórmula, Charleston Big Band, Os Pequenos do Barbanza, Os Liantes, Los Lunes al Sol, Tremenda Sudada e Banda Infantil de Rianxo.\n\nDía 19 (sábado): Heredeiros da Crus, Disco Móvil Euphoria Show, Fussión, Buxaina, Los Soprano, Festa da Espuma, Xantar Popular con Lito Mambis, Pasabares, Infantilandia e Charanga Era Visto.\n\nDía 20 (domingo, no Campo de Pazos): Orquestra Dilema, José Manuel Follarín, Arume, Misa con Procesión, Mago Paco e Banda de Música de Rianxo.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-do-veran-de-tarago%c3%b1a-rianxo_img4197n1t0.jpg",
+  "fechaInicio": "2026-07-17",
+  "fechaFin": "2026-07-20",
+  "notaCartel": "Programa do cartel oficial 2026."
+ },
+ {
+  "concello": "Cee",
+  "parroquia": "Pereiriña",
+  "nombre": "Festa do Porquiño ó Espeto da Pereiriña",
+  "bandas": [
+   "MM (dúo)",
+   "Calú (dúo)",
+   "Male",
+   "París de Noia",
+   "Panorama",
+   "Borja Solla",
+   "Peta Forte (grupo de pasarrúas)"
+  ],
+  "comida": [
+   "Porquiño ó espeto (gran asado, ración 15€)",
+   "Viño de balde"
+  ],
+  "programaCartel": "IX Festa do Porquiño ó Espeto da Pereiriña (parroquia de Pereiriña, Cee). Sábado 6 de xuño de 2026 (un solo día). Programa: pasarrúas a cargo del grupo Peta Forte; sesión vermú con los dúos MM y Calú; a las 14:00 h gran asado de porquiño ó espeto (ración 15€, vino de balde); hinchables y animadores para los niños y toro mecánico para los mayores; tardeo con Male; gran verbena nocturna con las orquestas París de Noia y Panorama; fin de fiesta con Borja Solla.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festa-da-pereiri%c3%b1a-festa-do-porqui%c3%b1o-o-espeto-cee_img13133n1t0.jpg",
+  "fechaInicio": "2026-06-06",
+  "fechaFin": "2026-06-06",
+  "notaCartel": "Programa do cartel oficial 2026."
+ },
+ {
+  "concello": "Cerceda",
+  "parroquia": "Cerceda",
+  "nombre": "Festas do Carme en Cerceda",
+  "bandas": [
+   "Furia Joven",
+   "Impacto (disco móbil) con David Bermúdez",
+   "Reflejos (dúo)",
+   "Os Atrevidos (charanga)",
+   "Olympus",
+   "Alborada (grupo)"
+  ],
+  "comida": [
+   "Sesión Vermú"
+  ],
+  "programaCartel": "Venres 18 de xullo: 09:00 dianas e alboradas; 13:00 misa en honra de Nosa Señora de Fátima; 14:30 sesión vermú; 23:00 verbena coa orquestra Furia Joven e disco móbil Impacto con David Bermúdez. Sábado 19 de xullo: 09:00 dianas e alboradas; 13:00 misa en honra á Virxe do Carme; 14:30 sesión vermú co dúo Reflejos; 16:00 pasarrúas coa charanga Os Atrevidos; 23:00 verbena coa orquestra Olympus e co dúo Reflejos e sesión de DJ. Domingo 20 de xullo: 09:00 dianas e alboradas; 13:00 misa en honra ao Santísimo Sacramento; 14:30 sesión vermú co grupo Alborada; 16:00 xogos e inchables de balde para os máis cativos; 23:00 verbena co grupo Alborada; 24:00 fogos de artificio. (programa edición 2025, orientativo)",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-do-carme-cerceda_img15049n1t0.jpg",
+  "notaCartel": "Cartel edición 2025: bandas/gastronomía orientativas, fecha 2026 sin confirmar."
+ },
+ {
+  "concello": "Teo",
+  "parroquia": "Calo",
+  "nombre": "San Xoán de Calo",
+  "bandas": [
+   "Tania Veiras",
+   "Orquesta Finisterre",
+   "Orquesta Olympus",
+   "Paris de Noia",
+   "Discomovil Chocolate",
+   "Discomovil Impacto con DJ Sonic",
+   "Discomovil Mega CDC con DJ Martin Diaz",
+   "Banda de Musica SR Calo",
+   "Banda de Gaitas Estivada"
+  ],
+  "comida": [
+   "Macrosesion vermut e I Festa do Colesterol",
+   "Gran Sardinada",
+   "Tradicional queima da cabra vella",
+   "Sesiones vermut"
+  ],
+  "programaCartel": "Fiestas de Calo-Teo (San Xoan). Domingo 22: 14:00 macrosesion vermut e I Festa do Colesterol, discomovil. Lunes 23: sesion vermut con Discomovil Chocolate, a las 21:00 Gran Sardinada, 00:00 tradicional queima da cabra vella, 00:30 Discomovil Chocolate. Martes 24 (San Xoan): 12:30 misa y procesion con Banda de Musica SR Calo; 14:30 actuaciones grupo de baile Noefitness y banda; sesion vermut con grupo Tania Veiras; 22:30 verbena con grupo Tania Veiras y Orquesta Finisterre. Miercoles 25: 12:30 misa del Santisimo Sacramento y procesion con Banda de Gaitas Estivada; 14:30 actuaciones grupos de baile y pandereteiras de SR Calo; sesion vermut con Discomovil Impacto; 22:30 verbena con Discomovil Impacto con DJ Sonic y Orquesta Olympus. Jueves 26 (San Antonio): 12:30 misa y procesion con Banda de Gaitas Estivada; 14:30 actuaciones grupos de baile SR Calo; sesion vermut con Discomovil Mega CDC; 22:30 verbena con Discomovil Mega CDC con DJ Martin Diaz y Paris de Noia.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-xoan-de-calo-teo_img6873n1t0.jpg",
+  "fechaInicio": "2026-06-22",
+  "fechaFin": "2026-06-26",
+  "notaCartel": "Programa do cartel oficial 2026."
+ },
+ {
+  "concello": "Mazaricos",
+  "parroquia": "Maroñas",
+  "nombre": "Santa Mariña y San Antonio das Maroñas",
+  "bandas": [
+   "Trío Alborada",
+   "Chocolate Mega Disco Móvil",
+   "Orquesta Olympus",
+   "Dúo Charada",
+   "Orquesta Panorama"
+  ],
+  "comida": [],
+  "programaCartel": "Fiestas de As Maroñas (Mazaricos) en honor a Santa Mariña y San Antonio. Día 12 de julio: misa solemne a las 13:00 h en honor a Santa Mariña, sesión vermú con el Trío Alborada y, por la noche, gran verbena con Chocolate Mega Disco Móvil y la orquesta Olympus. Día 19 de julio: misa solemne a las 13:00 h en honor a San Antonio, sesión vermú con el Dúo Charada y, por la noche, gran verbena de fin de fiestas con Chocolate Mega Disco Móvil y la orquesta Panorama.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/santa-mari%C3%B1a-y-san-antonio-das-maro%C3%B1as-mazaricos_img1258n1t0.jpg",
+  "fechaInicio": "2026-07-12",
+  "fechaFin": "2026-07-19",
+  "notaCartel": "Programa do cartel oficial 2026."
+ },
+ {
+  "concello": "Santa Comba",
+  "parroquia": "Santa Comba (principal)",
+  "nombre": "Fiestas San Pedro, San Antonio e Virxe do Carme",
+  "bandas": [
+   "Disco Móvil CDC",
+   "Disco Móvil FULL",
+   "Gaiteiros da Baña",
+   "Grupo Fussion",
+   "París de Noia",
+   "La Mega",
+   "Charanga Os Celtas",
+   "Os Celtas e Alianza",
+   "Orquesta Alianza",
+   "Orquesta Panorama City",
+   "Grupo de Gaitas Santa Combers",
+   "Cabezudos Papamoscas",
+   "Costa Dorada",
+   "Grupo Bomba",
+   "Trío Alborada",
+   "Orquesta Suavecito"
+  ],
+  "comida": [
+   "Gran sardiñada de San Xoán",
+   "Cachela de San Xoán",
+   "Sesión vermú",
+   "Macrosesión vermú"
+  ],
+  "programaCartel": "Sábado 21/06: 23:00 h duelo de discotecas Disco Móvil CDC vs FULL. Domingo 22/06: 11:00 h pasacalles cos Gaiteiros da Baña; 22:15 h misa e procesión do Corpus Christi. Luns 23/06 (San Xoán): 21:00 h gran sardiñada; 00:00 h cachela de San Xoán; 00:30 h verbena coa Disco Móvil CDC. 14:00 h doble sesión vermú co Grupo Fussion. Venres 27/06: 21:30 h folla da coa A.C. Axio Mouro; 22:30 h pregón a cargo do chef Manuel Costiña; 22:45 h verbena con París de Noia & La Mega. Sábado 28/06: 13:30 h pasacalles coa Charanga Os Celtas; 14:00 h sesión vermú con Os Celtas e Alianza; 17:30 h pasarrúas coa Charanga Os Celtas; 23:00 h verbena coas orquestas Alianza + Panorama City & Disco Móvil. Domingo 29/06 (San Pedro): 11:00 h pasacalles co Grupo de Gaitas Santa Combers; 13:00 h misa e procesión na honra a San Pedro; 14:00 h pasacalles cos Cabezudos Papamoscas e Santa Combers; 14:30 h sesión vermú coa Costa Dorada; 23:00 h verbena con Costa Dorada & Grupo Bomba. Luns 30/06 (San Antonio): 13:00 h misa na honra a San Antonio; 14:00 h sesión vermú co Trío Alborada. Martes 01/07: 13:00 h misa na honra á Virxe do Carme. Domingo 27/07 (Virxe do Carme): 12:30 h misa no campo da feira na honra a San Cristovo e procesión motorizada; 14:30 h macrosesión vermú e verbena coa Orquesta Suavecito & Disco Móvil FULL; 00:00 h gran sesión de fogos de artificio.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-pedro-san-antonio-e-virxe-do-carme-santa-comba_img15910n1t0.jpg",
+  "fechaInicio": "2026-06-21",
+  "fechaFin": "2026-06-21",
+  "notaCartel": "Programa do cartel oficial 2026."
+ },
+ {
+  "concello": "Foz",
+  "parroquia": "Santa Cecilia",
+  "nombre": "Festas da Virxe do Carme de Santa Cecilia",
+  "bandas": [
+   "Los Satélites",
+   "Disco Móvil Conxuro",
+   "Grupo Lume",
+   "Lume",
+   "Claxon",
+   "Dúo Belinda"
+  ],
+  "comida": [
+   "Gran Churrascada e Chourizada",
+   "Sesión vermú"
+  ],
+  "programaCartel": "Venres 11: a partir das 21:00 h, Gran Churrascada e Chourizada amenizada pola orquesta Los Satélites e Disco Móvil Conxuro. Sábado 12: ás 13:30 h sesión vermú a cargo do Grupo Lume; pola noite verbena cos grupos Lume e Claxon. Domingo 13: ás 13:00 h misa solemne, procesión e sesión vermú no campo da festa a cargo do Dúo Belinda; a partir das 19:00 h sesión de tarde co Dúo Belinda e inchables gratis para os nenos/as. Colabora: Concello de Foz. Recinto cuberto con carpa e amplios aparcamentos. (programa edición 2025, orientativo)",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/virxe-do-carme-de-santa-cecilia-foz_img24133n1t0.jpg",
+  "notaCartel": "Cartel edición 2025: bandas/gastronomía orientativas, fecha 2026 sin confirmar."
+ },
+ {
+  "concello": "Palas de Rei",
+  "parroquia": "Lestedo",
+  "nombre": "Santiago Apóstol de Lestedo",
+  "bandas": [
+   "Grupo Mar de Arousa",
+   "Dúo Reflejos",
+   "DJ Machito",
+   "DJ Jalaiko",
+   "DJ Maikstyle"
+  ],
+  "comida": [
+   "Gran Churrascada Popular"
+  ],
+  "programaCartel": "Festas na honra a Santiago Apóstol en Santiago de Lestedo (Palas de Rei). Sábado 19 de xullo: ás 21:30 h Gran Churrascada Popular (prezo 18 euros, reservas no 617 01 41 19); pola noite gran verbena con DJ Machito; haberá sorteos durante a noite. Xoves 24 de xullo: misa solemne ás 13:00 h, sesión vermú e verbena a cargo do Grupo Mar de Arousa e o DJ Jalaiko. Venres 25 de xullo: misa solemne ás 13:00 h, sesión vermú e verbena amenizada polo Dúo Reflejos e o DJ Maikstyle; haberá sorteos durante a noite.",
+  "fuenteCartel": "https://festigaleiros.com/wp-content/uploads/2024/07/CARTEL_FESTAS_DO_SANTIAGOA_APOSTOL_EN_LESTEDO_PALAS_DE_REI_2025.jpg",
+  "fechaInicio": "2026-07-19",
+  "fechaFin": "2026-07-25",
+  "notaCartel": "Programa do cartel oficial 2026."
+ },
+ {
+  "concello": "Poio",
+  "parroquia": "San Xoán",
+  "nombre": "Festas de San Xoán",
+  "bandas": [
+   "Os Satélites",
+   "Ritmo Xove",
+   "Charleston",
+   "Marbella",
+   "Panorama",
+   "Capitol",
+   "Kubo",
+   "Azabache",
+   "Máis Cantos"
+  ],
+  "comida": [
+   "Sardiñada tradicional"
+  ],
+  "programaCartel": "Festas de San Xoán de Poio, del 22 al 27 de junio de 2026. Lun 22: pregón de Juan Mariño, entrega de Premios ao Deporte San Xoán-Pepe Otero, actuación de Máis Cantos y verbena no Campillo con Azabache. Mar 23: concierto de Os Satélites no escenario da Seca, sardiñada tradicional y gran fogueira de San Xoán con el espectáculo Fogo Fatuo (Asacocirco). Mié 24: orquestas Ritmo Xove y Charleston (escenario da Seca). Jue 25: orquestas Marbella y Panorama (escenario da Seca). Vie 26: orquestas Capitol y Kubo (escenario da Seca). Sáb 27: fiesta infantil con espuma y animación musical. Incluye recollida de herbas de San Xoán con pandereteiras.",
+  "fuenteCartel": "https://concellopoio.gal/wp-content/uploads/2026/06/diptico-2026.pdf",
+  "fechaInicio": "2026-06-22",
+  "fechaFin": "2026-06-27",
+  "notaCartel": "Programa do cartel oficial 2026."
+ },
+ {
+  "concello": "Catoira",
+  "parroquia": "Catoira",
+  "nombre": "Romaría Vikinga / Desembarco Vikingo",
+  "bandas": [],
+  "comida": [],
+  "programaCartel": "Romaría Vikinga de Catoira, edición 65. Se celebra del 26 de julio al 4 de agosto en Catoira. El acto central, el Desembarco Vikingo, tiene lugar el domingo 3 de agosto a las 12:30 en el Recinto das Torres do Oeste. Más información en catoira.gal. (El cartel no detalla orquestas, grupos ni degustaciones concretas.)",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/romaria-vikinga-catoira_img76n1t0.jpg",
+  "fechaInicio": "2026-07-26",
+  "fechaFin": "2026-08-04",
+  "notaCartel": "Programa do cartel oficial 2026."
+ },
+ {
+  "concello": "Vilagarcía de Arousa",
+  "parroquia": "Vilagarcía (As Pistas)",
+  "nombre": "San Xoán de As Pistas",
+  "bandas": [
+   "Orquesta Marbella",
+   "Luigi Sánchez (from London)",
+   "Rubén Romero",
+   "MRJ",
+   "Anxo Silva"
+  ],
+  "comida": [
+   "Sardinas",
+   "Churrasco"
+  ],
+  "programaCartel": "San Juan Festival en \"As Pistas\", Vilagarcía de Arousa. Lunes 23 de junio de 2026. En el escenario actúa la Orquesta Marbella. Escenario deejays con Luigi Sánchez (from London), Rubén Romero, MRJ y Anxo Silva. Entrada gratis. Desde las 22:00 h sardinas y churrasco; comienzo del festival a las 23:00 h.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-xoan-de-as-pistas-vilagarcia-de-arousa_img8424n1t0.jpg",
+  "fechaInicio": "2026-06-23",
+  "fechaFin": "2026-06-23",
+  "notaCartel": "Programa do cartel oficial 2026."
+ },
+ {
+  "concello": "Sanxenxo",
+  "parroquia": "Vilalonga",
+  "nombre": "Festas Patronais de Vilalonga",
+  "bandas": [
+   "Borja Solla",
+   "DJow",
+   "DJ Josinho",
+   "Origen",
+   "Marbella",
+   "La Oca Band",
+   "América de Vigo",
+   "Olympus",
+   "Finisterre",
+   "Ángel América",
+   "Dúo Prisma",
+   "Os Cruceiros",
+   "Os do Barro",
+   "Banda de Música de Sanxenxo",
+   "Coro Parroquial de Vilalonga"
+  ],
+  "comida": [
+   "Sardiñada",
+   "Pan",
+   "Viño",
+   "Merenda",
+   "Pulpeiro",
+   "Sesión vermú"
+  ],
+  "programaCartel": "Festas Patronais de Vilalonga (Sanxenxo) 2026, los días 27, 28, 29 y 30 de junio y 12, 16 y 19 de julio.\n\nSÁB 27 jun - II Vilafest: 19:00 tirada de bombas anunciando el comienzo de las fiestas; 23:00 actuación de los DJs Borja Solla, DJow y DJ Josinho.\n\nDOM 28 jun - Víspera de San Pedro: 9:00 tirada de bombas; 22:00 gran verbena con las orquestas Origen y Marbella.\n\nLUN 29 jun - Festa de San Pedro: 9:00 tirada de bombas y alborada con los grupos folclóricos Os Cruceiros y Os do Barro; 13:00 misa solemne con el Coro Parroquial de Vilalonga y procesión con Os Cruceiros; 22:00 gran verbena con La Oca y América de Vigo.\n\nMAR 30 jun - Festa de San Antón e San Roque: 9:00 tirada de bombas; 19:00 misa solemne con el Coro Parroquial y procesión con Os do Barro; 22:00 gran verbena con Olympus y Finisterre.\n\nDOM 12 jul - Festa da Bicicleta: 9:30 inscripción en la Praza Pública de Vilalonga; 10:30 salida del recorrido por la parroquia con entrega de trofeos y medallas, merenda, regalos y sorteos.\n\nXOV 16 jul - Festa do Carmen: 9:00 tirada de bombas; 10:15 salida de la Virgen desde la iglesia hacia Rouxique para la misa, con Os Cruceiros y la Banda de Música de Sanxenxo; 11:00 misa en Rouxique y procesión hasta As Cachadas (Romaría do Carmen); 15:00 gran festa campestre con sardiñada, pan, vino y carpa gratis; 19:00 misa solemne con el Coro Parroquial y procesión con Os Cruceiros. Verbena con Ángel América y Dúo Prisma.\n\nDOM 19 jul - Festa de San Cristóbal: 11:00 misa solemne en la iglesia de Vilalonga, bendición de vehículos en caravana y mesa final en la Praza Pública; a partir de las 12:30 sesión vermú, pulpeiro, animación musical e hinchables.\n\nOrganiza la Comisión de Festas de Vilalonga; colabora el Concello de Sanxenxo; patrocina Deputación de Pontevedra.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-patronais-de-vilalonga-sanxenxo_img3575n1t0.jpg",
+  "fechaInicio": "2026-06-27",
+  "fechaFin": "2026-06-27",
+  "notaCartel": "Programa do cartel oficial 2026."
+ },
+ {
+  "concello": "Teo",
+  "parroquia": "Calo (Francos)",
+  "nombre": "Feira da Terra",
+  "bandas": [
+   "Channel",
+   "Cinema",
+   "Macro Disco Elatium",
+   "Aires de Broña",
+   "Banda Municipal de Teo",
+   "Obice",
+   "Reflejos",
+   "América",
+   "Panamá"
+  ],
+  "comida": [
+   "Pulpería (Haberá Pulpería)"
+  ],
+  "programaCartel": "OJO: el cartel es de las \"Festas de Santa María de Teo\" (no es exactamente \"Feira da Terra de Calo\") y está fechado en 2025. Fechas según imagen: sábado 23, domingo 24 y lunes 25 de agosto. Sábado 23 (en honra ó Santísimo): misa solemne a las 13h, sesión vermú con Channel y por la noche gran verbena con Cinema y la macro disco Elatium. Domingo 24 (en honra do Carmen): misa solemne a las 13h, sesión vermú con Aires de Broña y Banda Municipal de Teo, y por la noche gran verbena con Aires de Broña y Obice. Lunes 25 (en honra a la Sra. das Dores): misa solemne a las 13h, sesión vermú con Reflejos y por la noche verbena con las orquestas América y Panamá. Habrá pulpería.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-de-santa-maria-teo_img16127n1t0.jpg",
+  "fechaInicio": "2026-08-23",
+  "fechaFin": "2026-08-25",
+  "notaCartel": "Programa do cartel oficial 2026."
+ },
+ {
+  "concello": "Bueu",
+  "parroquia": "Meiro",
+  "nombre": "San Antoniño de Meiro",
+  "bandas": [
+   "La Conexión",
+   "Discomóvil La Mega (DJ Carlos Mega)",
+   "Os Chaneiros",
+   "Orquesta Los Satélites"
+  ],
+  "comida": [
+   "Gran churrascada (churrasco, pan e viño) a precios populares"
+  ],
+  "programaCartel": "Sábado 13 de junio: 12:00 tirada de bombas inaugural; 17:00 juegos infantiles; 20:00 gran churrascada (churrasco, pan y vino) a precios populares; 22:00 \"Conéctate ao Baile\" con el grupo La Conexión, y para rematar discomóvil La Mega con DJ Carlos Mega. Domingo 14 de junio: 9:00 tirada de bombas seguida de pasacalles a cargo del grupo de cantos Os Chaneiros; 13:00 misa solemne seguida de procesión por los lugares de costumbre; 21:00 actuación de la orquesta Los Satélites. El recinto estará cubierto por una gran carpa.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-antoni%C3%B1o-de-meiro-bueu_img6894n1t0.jpg",
+  "fechaInicio": "2026-06-13",
+  "fechaFin": "2026-06-14",
+  "notaCartel": "Programa do cartel oficial 2026."
+ }
 ]
