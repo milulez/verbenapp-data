@@ -43,6 +43,8 @@ echo "== 9d2/10 carteles OCR (programa oficial, maxima confianza) =="
 if [ -f carteles.json ]; then python3 _apply-carteles.py; fi
 echo "== 9e/10 limpieza final (concellos-ruido, dedup, vacíos) =="
 python3 _clean-final.py
+echo "== 9f/10 limpieza de listas comida/bandas =="
+python3 _dedup-listas.py
 echo "== 10/10 indice de busqueda (orquesta/churrasco/atracciones/lenguaje natural) =="
 python3 _searchindex.py
 
