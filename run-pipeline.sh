@@ -37,6 +37,8 @@ echo "== 9b/10 historia web (investigación piloto por fiesta, si existe) =="
 if [ -f historia.json ]; then python3 _merge-historia.py; else echo "  (sin historia.json, salto)"; fi
 echo "== 9c/10 investigación por concello (research/*.json -> match a verbenas) =="
 if ls research/*.json >/dev/null 2>&1; then python3 _match-research.py; else echo "  (sin research/, salto)"; fi
+echo "== 9d/10 alta de fiestas nuevas descubiertas (research_nuevas.json) =="
+if [ -f research_nuevas.json ]; then python3 _add-nuevas.py; else echo "  (sin research_nuevas.json, salto)"; fi
 echo "== 10/10 indice de busqueda (orquesta/churrasco/atracciones/lenguaje natural) =="
 python3 _searchindex.py
 
