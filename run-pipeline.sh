@@ -47,6 +47,8 @@ echo "== 9f/10 limpieza de listas comida/bandas =="
 python3 _dedup-listas.py
 echo "== 10/10 indice de busqueda (orquesta/churrasco/atracciones/lenguaje natural) =="
 python3 _searchindex.py
+echo "== lite: verbenas-lite.json para listado =="
+python3 _make-lite.py
 
 # --- guarda de validación: no commitear basura si el scrape falló ---
 python3 - <<'PY'
