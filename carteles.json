@@ -1060,5 +1060,447 @@
   "fechaInicio": "2026-06-22",
   "fechaFin": "2026-06-29",
   "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Ribeira",
+  "parroquia": "Ribeira",
+  "nombre": "Festas da Dorna",
+  "bandas": [],
+  "comida": [],
+  "programaCartel": null,
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festa-da-dorna-ribeira_img1428n1t0.jpg",
+  "fechaInicio": "2026-07-17",
+  "fechaFin": "2026-07-24",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Ribeira",
+  "parroquia": "Ribeira",
+  "nombre": "Festas do Verán de Ribeira",
+  "bandas": [
+   "Orquestra Combo Dominicano",
+   "Orquestra Finisterre",
+   "Orquestra Capitol",
+   "Orquestra Cantareiras Amas de Casa",
+   "Lichis & Due Country Cavalieri",
+   "Orquestra Kubo",
+   "Coral Polifónica Municipal",
+   "Huecco",
+   "Galician Army",
+   "Orquestra New York (Bandourrio)",
+   "POPS Rockschool",
+   "Son de Camawey",
+   "Alta Honestidad (Tributo Andrés Calamaro)",
+   "Orquestra Marbella",
+   "Drippers",
+   "Orquestra Platinum"
+  ],
+  "comida": [
+   "Gran Sardiñada (Abesadas)"
+  ],
+  "programaCartel": "Ver arriba",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-do-veran-ribeira_img1421n1t0.jpg",
+  "fechaInicio": "2026-07-30",
+  "fechaFin": "2026-08-03",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Noia",
+  "parroquia": "",
+  "nombre": "Festas de San Bartolomeu",
+  "bandas": [],
+  "comida": [],
+  "programaCartel": null,
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-bartolomeu-noia_img1778n1t0.jpg",
+  "fechaInicio": "2026-08-22",
+  "fechaFin": "2026-08-26",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Ortigueira",
+  "parroquia": "",
+  "nombre": "Fiestas Patronales de Santa Marta",
+  "bandas": [
+   "Dúo Son II",
+   "Grupo Origen",
+   "DJ Villasuso",
+   "Orquesta Miramar",
+   "Dúo Venecuay",
+   "Orquesta La Oca Band"
+  ],
+  "comida": [],
+  "programaCartel": "Fiestas Patronales de Santa Marta en Ortigueira, los días 27, 28, 29, 30 y 31 de julio. El cartel no detalla los actos día a día; recoge las actuaciones musicales: Dúo Son II, Grupo Origen, DJ Villasuso, Orquesta Miramar (con DJ Villasuso), Dúo Venecuay y Orquesta La Oca Band con el espectáculo \"Caminantes e Cantantes\" y los artistas invitados Pepo Suevos, Pili Pampín y Laura Añón. (edición 2025, orientativo)",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-patronais-de-santa-marta-ortigueira_img2489n1t0.jpg",
+  "notaCartel": "Cartel 2025: bandas/gastronomía orientativas."
+ },
+ {
+  "concello": "Ortigueira",
+  "parroquia": "Ponte de Mera",
+  "nombre": "Santiago e o Carme",
+  "bandas": [
+   "Coral Polifónica Eixil",
+   "Dúo JM Show",
+   "Los Trevillas (gaiteiros)",
+   "Dúo Maracaibo",
+   "Dúo CQC",
+   "Coro de Espasante"
+  ],
+  "comida": [
+   "Sesión vermú longa",
+   "Sesión vermú",
+   "Xira campestre"
+  ],
+  "programaCartel": "Festas na honra a Santiago de Mera e á Virxe do Carme. VIERNES 25 julio (Santiago): 13:00 misa solemne acompañada por la Coral Polifónica Eixil; a continuación sesión vermú longa amenizada por el Dúo JM Show. SÁBADO 9 agosto (Virxe do Carme): xira campestre, a partir de las 10:00 los gaiteiros Los Trevillas recorren la parroquia; 14:00 sesión vermú a cargo del Dúo Maracaibo; por la tarde xogos para los niños; por la noche gran verbena con Dúo Maracaibo + Dúo CQC. DOMINGO 10 agosto: 13:00 misa solemne acompañada por el Coro de Espasante; a continuación sesión vermú longa a cargo del Dúo CQC. Organiza la Comunidade de Montes Veciñais en Man Común Santiago de Mera. (edición 2025, orientativo)",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/santiago-e-o-carme-de-ponte-de-mera-ortigueira_img3342n1t0.jpg",
+  "notaCartel": "Cartel 2025: bandas/gastronomía orientativas."
+ },
+ {
+  "concello": "Ortigueira",
+  "parroquia": "Espasante",
+  "nombre": "San Xoán de Espasante",
+  "bandas": [
+   "Dúo Matices",
+   "As San Xan do Trebo (gaitas)",
+   "Orquesta Suavecito",
+   "DJ Conxuro",
+   "Coro de Espasante",
+   "Dúo Eclipse",
+   "Camelas e Anduriñas"
+  ],
+  "comida": [
+   "Gran sardiñada popular"
+  ],
+  "programaCartel": "Festas na honra a San Xoán, Espasante (Ortigueira), xuño 2026.\n\nViernes 19: por la tarde, \"Usos e costumes\" amenizado por el Dúo Matices.\n\nSábado 20: comienzo del día con pasacalles de gaitas a cargo de As San Xan do Trebo. A partir de las 14:00, sesión vermú con orquesta. A las 22:30, gran verbena amenizada por la orquesta Suavecito + DJ Conxuro.\n\nDomingo 21: alboradas a cargo de un cuarteto de gaitas. A las 13:00, solemne cantada con el Coro de Espasante. A continuación, sesión vermú larga a cargo del Dúo Eclipse.\n\nLunes 22: por la tarde, gran sardiñada popular amenizada por Camelas e Anduriñas.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-xoan-de-espasante-ortigueira_img3920n1t0.jpg",
+  "fechaInicio": "2026-06-19",
+  "fechaFin": "2026-06-22",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Carballo",
+  "parroquia": "Carballo (urbano)",
+  "nombre": "San Xoán Bautista",
+  "bandas": [
+   "Panorama City",
+   "Compostela",
+   "Satélites",
+   "La Última Legión",
+   "Señora DJ"
+  ],
+  "comida": [],
+  "programaCartel": "As Verbenas do San Xoán Carballés 2026, del 22 al 28 de junio en Carballo. Actuaciones de las orquestas Panorama City, Compostela, Satélites y La Última Legión, además de Señora DJ. El cartel no detalla el reparto día a día ni horarios concretos.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-xoan-bautista-carballo_img1127n1t0.jpg",
+  "fechaInicio": "2026-06-22",
+  "fechaFin": "2026-06-28",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Melide",
+  "parroquia": "",
+  "nombre": "Festas Patronais de San Roque",
+  "bandas": [
+   "Charanga Leña Verde",
+   "Panorama",
+   "El Combo Dominicano",
+   "Mekanika Rolling Band",
+   "Banda de Música de Visantoña",
+   "Heredeiros da Crus",
+   "Os Melidaos",
+   "Los Coleguitas",
+   "Coral Polifónica de Melide",
+   "Banda de Música de Arzúa",
+   "Froito Novo",
+   "Charanga Eravisto",
+   "Grupo Bomba",
+   "Banda de Música de Sta. Cruz de Ribadulla",
+   "Origen",
+   "Los Satélites",
+   "Charanga Ardores",
+   "Herba Grileira",
+   "Olympus",
+   "Charanga Festicultores Troupe",
+   "París de Noia"
+  ],
+  "comida": [
+   "Xeados gratis",
+   "Zumos gratis"
+  ],
+  "programaCartel": "14 ago: Charanga Leña Verde y orquesta Panorama. 15 ago (Día do Mozo): El Combo Dominicano y Mekanika Rolling Band. 16 ago (Día Grande, San Roque): Banda de Música de Visantoña, Heredeiros da Crus, Os Melidaos y Los Coleguitas. 17 ago: Coral Polifónica de Melide, Banda de Música de Arzúa, Froito Novo, Charanga Eravisto y Grupo Bomba. 18 ago: Banda de Música de Sta. Cruz de Ribadulla, orquesta Origen y Los Satélites. 19 ago: Charanga Ardores, Herba Grileira y Olympus. 20 ago: Charanga Festicultores Troupe y orquesta París de Noia. 21 ago (Día de Nenos): atraccións con descontos, xeados e zumos gratis.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-roque-melide_img1301n1t0.jpg",
+  "fechaInicio": "2026-08-14",
+  "fechaFin": "2026-08-21",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Negreira",
+  "parroquia": "",
+  "nombre": "Fiestas de San Cristovo",
+  "bandas": [
+   "Fuego",
+   "Olympus",
+   "Os Garuleiros",
+   "Fania Blanco Show",
+   "Grupo Zona Zero",
+   "Finisterre",
+   "Disco Móbil Impacto",
+   "Cantigas e Agarimos",
+   "Banda Ateneo de Negreira"
+  ],
+  "comida": [],
+  "programaCartel": "Programa según cartel oficial (fechas 10, 11, 12 y 13 de xullo). Día 10: verbena nocturna con las orquestas Fuego e Olympus. Día 11: pasarrúas a cargo del Grupo de Gaitas Os Garuleiros; por la noche verbena con Fania Blanco Show y el grupo Zona Zero. Día 12: pasarrúas con el Grupo de Gaitas Os Garuleiros; a las 14:30 h procesión motorizada de San Cristovo; por la noche verbena con la orquesta Finisterre y disco móvil Impacto. Día 13: a las 12:00 h serán xacobea (tarde xacobea), actuación en la praza do Concello de Cantigas e Agarimos; concierto en la praza do Concello de la Banda Ateneo de Negreira. (edición 2025, orientativo)",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-cristovo-negreira_img2236n1t0.jpg",
+  "notaCartel": "Cartel 2025: bandas/gastronomía orientativas."
+ },
+ {
+  "concello": "Boimorto",
+  "parroquia": "Boimorto",
+  "nombre": "Santiago Apóstol",
+  "bandas": [
+   "Orquesta Cinema",
+   "DJ David Expósito",
+   "Orquesta Principal",
+   "Charanga Os Festicultores"
+  ],
+  "comida": [],
+  "programaCartel": "Festas na honra ao Santiago Apóstolo de Boimorto. Jueves 24 de julio: verbena con la orquesta Cinema y DJ David Expósito. Viernes 25 de julio: Misa Solemne a las 13:00 h, sesión vermú con la orquesta Principal, y verbena con la orquesta Principal y la charanga Os Festicultores.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/santiago-apostol-boimorto_img2669n1t0.jpg",
+  "fechaInicio": "2026-07-24",
+  "fechaFin": "2026-07-25",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "O Pino",
+  "parroquia": "Arca",
+  "nombre": "Festa do Corpus de Arca",
+  "bandas": [
+   "Finisterre Project",
+   "Miramar",
+   "Orquesta Salsarena",
+   "Grupo Aché",
+   "Banda de Música de Arca",
+   "Coro de Arca",
+   "Dúo Obice"
+  ],
+  "comida": [
+   "Feira do polbo (da man do Bar Pulpería Ángel \"O Mambís\")"
+  ],
+  "programaCartel": "Viernes 5: desde las 20:30 h, Feira do Polbo (a cargo del Bar Pulpería Ángel \"O Mambís\"). Verbena con las orquestas Finisterre Project y Miramar.\nSábado 6: a las 10:30 h pasacalles con la Banda de Música de Arca; a las 12:30 h misa solemne con el Coro de Arca; baile de mediodía con la Orquesta Salsarena; a las 17:00 h, ante el Concello, Festa do Neno (con hinchables de Infantilandia); a las 22:30 h gran verbena con las orquestas Salsarena y Grupo Aché.\nDomingo 7: a las 09:00 h salva de 21 bombas de palenque anunciando el día grande; a las 10:30 h pasacalles con la Banda de Música de Arca; a las 12:00 h procesión desde O Pedrouzo hasta la iglesia, seguida de misa solemne con el Coro de Arca; baile de mediodía con el Dúo Obice; a las 19:30 h concierto en la plaza del Concello con la Banda de Música de Arca.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festa-do-corpus-de-arca-o-pino_img1384n1t0.jpg",
+  "fechaInicio": "2026-06-05",
+  "fechaFin": "2026-06-07",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Oleiros",
+  "parroquia": "Dexo",
+  "nombre": "San Antón de Dexo",
+  "bandas": [
+   "El Corta",
+   "Orquesta Cinema",
+   "Los Satélites"
+  ],
+  "comida": [
+   "XXIII Festa da Cervexa",
+   "Langostinos á prancha",
+   "V Gran Mexillada",
+   "XXIV Gran Churrascada"
+  ],
+  "programaCartel": "Viernes 12 de junio: a partir de las 19:30 h comienzan las fiestas con la XXIII Festa da Cervexa, seguida de la actuación musical de El Corta; a las 20:00 h langostinos á prancha (a fartar); a las 22:30 h primera gran verbena amenizada por la orquesta Cinema. Sábado 13 de junio: a las 08:00 h tradicionales dianas e alboradas a cargo de la Agrupación Cultural O Amanexo; a las 13:00 h misa solemne en honor a San Antonio, seguida de sesión vermú amenizada por un grupo musical; a las 20:00 h V Gran Mexillada; a las 22:30 h verbena de la mano de la orquesta Los Satélites. Domingo 14 de junio: a las 14:30 h XXIV Gran Churrascada; sobre las 16:30 h actuación de banda de percusión y del bailarín de la plataforma (Festival Diversidarte). Colabora el Concello de Oleiros y la Deputación da Coruña.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-anton-de-dexo-oleiros_img2208n1t0.jpg",
+  "fechaInicio": "2026-06-12",
+  "fechaFin": "2026-06-14",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Coristanco",
+  "parroquia": "Agualada",
+  "nombre": "San Antonio de Agualada",
+  "bandas": [
+   "Costa Dorada",
+   "Arizona",
+   "La Bamba",
+   "DJ Ariax"
+  ],
+  "comida": [],
+  "programaCartel": "Fiesta de San Antonio 2026 en Agualada (Coristanco). Novena del jueves 4 al 12 de junio a las 20:00h. Viernes 12 (víspera): misas de antorchas, procesión y bendición de animales a las 22:00h. Sábado 13 (día de la fiesta): misas a las 9:00, 10:00, 11:00 y 12:00h, misa solemne en honor a San Antonio a las 13:00h y bendición de animales a las 20:00h; sesión vermut con Costa Dorada y verbena con Costa Dorada y Arizona. Domingo 14: Virgen del Rosario y del Carmen, misa solemne a las 13:00h e imposición de escapulario de la Cofradía; sesión vermut con La Bamba y tardeo con La Bamba y DJ Ariax.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-antonio-de-agualada-coristanco_img1240n1t0.jpg",
+  "fechaInicio": "2026-06-13",
+  "fechaFin": "2026-06-14",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Coristanco",
+  "parroquia": "Cuns",
+  "nombre": "Santa Margarita e Virxe das Dores de Cuns",
+  "bandas": [
+   "La Bamba",
+   "DJ Toni Garco",
+   "Escaparate",
+   "Disco Móvil Mini CDC con DJ Chicho",
+   "José Ramón El Emigrante"
+  ],
+  "comida": [
+   "Gran sardiñada",
+   "Churrascada"
+  ],
+  "programaCartel": "Domingo 13: dianas y alboradas desde primera hora en honra a Santa Margarita; misas rezadas durante la mañana; misa solemne a las 13:00 h; sesión vermú y verbena con la orquesta La Bamba y el DJ Toni Garco. Lunes 14: dianas y alboradas en honra a la Virgen das Dores; misas rezadas; misa solemne a las 13:00 h; sesión vermú y verbena con la orquesta Escaparate. Sábado 19: gran sardiñada y churrascada gratis para todos los asistentes a partir de las 20:00 h; verbena amenizada por Disco Móvil Mini CDC con DJ Chicho y actuación de José Ramón El Emigrante. (edición 2025, orientativo)",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/santa-margarita-e-virxe-das-dores-de-cuns-coristanco_img9990n1t0.jpg",
+  "notaCartel": "Cartel 2025: bandas/gastronomía orientativas."
+ },
+ {
+  "concello": "A Laracha",
+  "parroquia": "Soandres",
+  "nombre": "Festa de San Pedro",
+  "bandas": [
+   "Sinfonía",
+   "Tito Fuentes",
+   "D'Noche",
+   "Alborada"
+  ],
+  "comida": [],
+  "programaCartel": "Festas de San Pedro de Soandres (Laracha). DOMINGO 29 (festa na honra de San Pedro): 13:00 h Misa Solemne, sesión vermú e verbena coa orquestra Sinfonía con Tito Fuentes; de 17:30 a 20:30 h inchables + festa da espuma con tobogán de 5 m (gratis). LUNES 30 (festa na honra do Santísimo): 13:00 h Misa Solemne, sesión vermú e verbena coa orquestra D'Noche. MARTES 01 (festa na honra a San Antonio): 13:00 h Misa Solemne, sesión vermú co grupo Alborada.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festa-de-san-pedro-de-soandres-laracha_img2121n1t0.jpg",
+  "fechaInicio": "2026-06-29",
+  "fechaFin": "2026-07-01",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Muxía",
+  "parroquia": "Coucieiro",
+  "nombre": "Socorro de Coucieiro",
+  "bandas": [
+   "Dúo Élite",
+   "La Ocaband",
+   "Disco Móvil Mega CDC",
+   "Alaska",
+   "Danza de Arcos",
+   "Grupo Xaramiños do Corpiño de Muxía"
+  ],
+  "comida": [],
+  "programaCartel": "Sábado 5 de julio: Misa Solemne a la 1:30 de la tarde en honra a San Antonio. Sesión vermú con Dúo Élite. De noche, verbena con la orquesta La Ocaband y Disco Móvil Mega CDC. Domingo 6 de julio: Misa Solemne con danza a la 1 de la tarde en honra a la Virxe do Socorro. Alborada con bombas acompañada de los mozos de la Danza de Arcos y el grupo Xaramiños do Corpiño de Muxía. Sesión vermú con el grupo Alaska.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-do-socorro-de-coucieiro-muxia_img2170n1t0.jpg",
+  "fechaInicio": "2026-07-05",
+  "fechaFin": "2026-07-06",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Vimianzo",
+  "parroquia": "Calo",
+  "nombre": "Festas de Pasarela",
+  "bandas": [
+   "Grupo Bomba Impacto",
+   "DJ Bermúdez",
+   "Grupo de Gaitas",
+   "Grupo Zona Cero",
+   "CDC",
+   "DJ Rokiño",
+   "Drew Korme",
+   "Panorama City",
+   "Macro Impacto",
+   "DJ Sonic",
+   "Grupo de Baile"
+  ],
+  "comida": [
+   "Churrascada"
+  ],
+  "programaCartel": ".",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-de-pasarela-vimianzo_img1521n1t0.jpg",
+  "fechaInicio": "2026-07-23",
+  "fechaFin": "2026-07-26",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Lousame",
+  "parroquia": "Ces",
+  "nombre": "San Cristovo e Virxe de Loreto de Ces",
+  "bandas": [
+   "Son do Pote",
+   "Aires de Broña",
+   "Trío 3.com"
+  ],
+  "comida": [
+   "Empanada",
+   "Mexillóns",
+   "Orella"
+  ],
+  "programaCartel": "Sábado 13 de septiembre: 12:00 alborada con Son do Pote; 13:30 sesión vermú con Aires de Broña; 22:30 (noite) verbena con Aires de Broña & Trío 3.com. Domingo 14 de septiembre: 12:00 alborada con Son do Pote; 13:30 sesión vermú con Aires de Broña. Habrá empanada, mexillóns y orella gratis.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-cristovo-e-virxe-de-loreto-de-ces-lousame_img7286n1t0.jpg",
+  "fechaInicio": "2026-09-13",
+  "fechaFin": "2026-09-14",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "Bergondo",
+  "parroquia": "Ouces",
+  "nombre": "San Xoán de Ouces",
+  "bandas": [
+   "La Banda de Ayer",
+   "Os Sobraos",
+   "Arnela",
+   "Faragulla",
+   "Ache",
+   "DJ Sebas 21",
+   "Unión y Fuerza",
+   "DJ Pedro"
+  ],
+  "comida": [
+   "Pulpada",
+   "Carne ó caldeiro",
+   "Churrascada",
+   "Fideuá"
+  ],
+  "programaCartel": "Festas na honra a San Xoán de Ouces (Bergondo) 2026.\n\nViernes 19 de junio: 20:00h gran pulpada y carne ó caldeiro; 22:30h gran verbena con La Banda de Ayer.\n\nSábado 20 de junio: 10:00h dianas y alboradas con Os Sobraos, Arnela y Faragulla; 13:00h misa solemne con procesión en honor a San Xoán; 14:00h sesión vermú a cargo de Ache; 20:00h gran churrascada; 21:30h verbena amenizada por Ache y DJ Sebas 21.\n\nDomingo 21 de junio: 13:00h misa solemne con procesión al Santísimo; 14:00h fideuá a precios populares; sesión vermú infinita y pase de tarde con Unión y Fuerza y DJ Pedro; 16:30h fiesta infantil con fiesta de la espuma.\n\nHabrá carpa. Prohibido hacer botellón. Organiza: Comisión Festas Ouces.",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/san-xoan-de-ouces-bergondo_img4080n1t0.jpg",
+  "fechaInicio": "2026-06-19",
+  "fechaFin": "2026-06-21",
+  "notaCartel": "Cartel oficial 2026."
+ },
+ {
+  "concello": "As Somozas",
+  "parroquia": "",
+  "nombre": "Santiago Apóstol",
+  "bandas": [
+   "La Fórmula",
+   "Panorama",
+   "Tafornelos",
+   "Grupo Atenas",
+   "Panamá",
+   "Grupo Máster",
+   "Cinema",
+   "París de Noia"
+  ],
+  "comida": [],
+  "programaCartel": "Festas na honra de Santiago Apóstol en As Somozas.\n\nJueves 24 de julio: por la noche, gran verbena amenizada por La Fórmula y Panorama.\n\nViernes 25 de julio: a las 10:00, 11:00 y 12:00 misas en la capilla de San Roque; a las 13:00 misa en la iglesia parroquial; sesión vermú con Tafornelos y Grupo Atenas. Por la noche, gran verbena amenizada por Panamá y Grupo Atenas.\n\nSábado 26 de julio: a las 13:00 misa en la iglesia parroquial; sesión vermú con Grupo Máster. Por la noche, gran verbena con Cinema y París de Noia.\n\nLunes 28 de julio: desde las 17:00, Festa do Neno. (edición 2025, orientativo)",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/santiago-apostol-as-somozas_img2850n1t0.jpg",
+  "notaCartel": "Cartel 2025: bandas/gastronomía orientativas."
+ },
+ {
+  "concello": "As Pontes de García Rodríguez",
+  "parroquia": "As Pontes",
+  "nombre": "Festas do Carme e da Fraga",
+  "bandas": [
+   "Hijo de la Luna (tributo a Mecano)",
+   "Orquesta Finisterre",
+   "Orquesta Panorama City",
+   "Los Players",
+   "Los Satélites",
+   "Orquesta Origen",
+   "Olympus",
+   "Grupo Master",
+   "París de Noia",
+   "New York",
+   "Grupo La Bamba",
+   "Los Españoles",
+   "Nimbos",
+   "Ailá",
+   "The Rapants",
+   "Señora DJ",
+   "Louband",
+   "Os Festicultores"
+  ],
+  "comida": [],
+  "programaCartel": "Cartel ilustrado de las \"Festas do Carme e a Fraga\" de As Pontes. El cartel leído es la edición \"AS PONTES 2025\" (no hay cartel 2026 publicado en la ficha). No incluye fechas concretas día a día ni horarios en la imagen; solo el listado de actos y agrupaciones musicales. Secciones: Noites do Carmen (Hijo de la Luna, tributo a Mecano); Orquestras (Finisterre, Panorama City, Los Players, Los Satélites, Origen, Olympus, Grupo Master, París de Noia, New York, Grupo La Bamba, Los Españoles); Festival Internacional de Folclore; Festival A Fraga (Nimbos, Ailá, The Rapants, Señora DJ); Louband; Os Festicultores. Otros actos: pasacalles, parque activo, hinchables y juegos, festa da escuma, sesións vermú y certame de bandas. Organiza Concello das Pontes de García Rodríguez con la Deputación da Coruña (Rede Cultural). (edición 2025, orientativo)",
+  "fuenteCartel": "https://www.paxinasgalegas.es/fiestas/festas-do-carme-e-da-fraga-as-pontes-de-garcia-rodriguez_img1750n1t0.jpg",
+  "notaCartel": "Cartel 2025: bandas/gastronomía orientativas."
  }
 ]
