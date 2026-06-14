@@ -1731,6 +1731,14 @@
   "horario": "Vermú | Noche",
   "servicios": []
  },
+ "195800": {
+  "id": "195800",
+  "lat": 43.395795,
+  "lng": -7.909419,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
  "194036": {
   "id": "194036",
   "lat": 42.335745,
@@ -1955,6 +1963,14 @@
   "horario": "No disponible.",
   "servicios": []
  },
+ "195795": {
+  "id": "195795",
+  "lat": 43.600695,
+  "lng": -8.14512,
+  "terreno": "",
+  "horario": "Vermú | Noche (22:30)",
+  "servicios": []
+ },
  "189714": {
   "id": "189714",
   "lat": 43.017664,
@@ -2140,6 +2156,14 @@
   "lng": -8.003537,
   "terreno": "",
   "horario": "No disponible.",
+  "servicios": []
+ },
+ "195802": {
+  "id": "195802",
+  "lat": 43.554675,
+  "lng": -8.211299,
+  "terreno": "",
+  "horario": "Noche",
   "servicios": []
  },
  "195649": {
@@ -3853,6 +3877,14 @@
   "lat": 43.01508,
   "lng": -7.571348,
   "terreno": "Asfalto",
+  "horario": "Vermú",
+  "servicios": []
+ },
+ "195842": {
+  "id": "195842",
+  "lat": 43.114859,
+  "lng": -9.111494,
+  "terreno": "",
   "horario": "Vermú",
   "servicios": []
  },
@@ -5803,6 +5835,14 @@
   "horario": "Tarde",
   "servicios": []
  },
+ "195801": {
+  "id": "195801",
+  "lat": 43.554675,
+  "lng": -8.211299,
+  "terreno": "",
+  "horario": "Vermú | Noche",
+  "servicios": []
+ },
  "193790": {
   "id": "193790",
   "lat": 43.210492,
@@ -6540,6 +6580,16 @@
   "horario": "Vermú",
   "servicios": []
  },
+ "195806": {
+  "id": "195806",
+  "lat": 42.9336314,
+  "lng": -8.4131512,
+  "terreno": "",
+  "horario": "No disponible.",
+  "servicios": [
+   "Carpa"
+  ]
+ },
  "191660": {
   "id": "191660",
   "lat": 42.888313,
@@ -6967,6 +7017,14 @@
   "horario": "Vermú | Tarde (19:00)",
   "servicios": []
  },
+ "195794": {
+  "id": "195794",
+  "lat": 42.464172,
+  "lng": -7.89159,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
  "195694": {
   "id": "195694",
   "lat": 43.03701,
@@ -7098,6 +7156,16 @@
    "Bocateria"
   ]
  },
+ "195805": {
+  "id": "195805",
+  "lat": 43.264746,
+  "lng": -7.669758,
+  "terreno": "",
+  "horario": "Vermú | Noche",
+  "servicios": [
+   "Carpa"
+  ]
+ },
  "188660": {
   "id": "188660",
   "lat": 43.320413,
@@ -7168,6 +7236,14 @@
   "lng": -7.7065907,
   "terreno": "",
   "horario": "No disponible.",
+  "servicios": []
+ },
+ "195797": {
+  "id": "195797",
+  "lat": 43.491672,
+  "lng": -7.667388,
+  "terreno": "",
+  "horario": "Vermú | Noche",
   "servicios": []
  },
  "194213": {
@@ -7471,6 +7547,16 @@
   "horario": "Vermú",
   "servicios": []
  },
+ "195811": {
+  "id": "195811",
+  "lat": 43.483614,
+  "lng": -7.969299,
+  "terreno": "",
+  "horario": "Vermú",
+  "servicios": [
+   "Carpa"
+  ]
+ },
  "185972": {
   "id": "185972",
   "lat": 42.498802,
@@ -7582,6 +7668,16 @@
   "terreno": "",
   "horario": "Noche",
   "servicios": []
+ },
+ "195857": {
+  "id": "195857",
+  "lat": 42.543338,
+  "lng": -8.555017,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": [
+   "Carpa"
+  ]
  },
  "195458": {
   "id": "195458",
@@ -9037,6 +9133,14 @@
   "horario": "Tarde",
   "servicios": []
  },
+ "195804": {
+  "id": "195804",
+  "lat": 43.554675,
+  "lng": -8.211299,
+  "terreno": "",
+  "horario": "Noche (22:30)",
+  "servicios": []
+ },
  "190118": {
   "id": "190118",
   "lat": 43.200234,
@@ -9306,6 +9410,14 @@
   "horario": "No disponible.",
   "servicios": []
  },
+ "195863": {
+  "id": "195863",
+  "lat": 42.16205,
+  "lng": -8.263519,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
  "195550": {
   "id": "195550",
   "lat": 42.08607,
@@ -9493,6 +9605,16 @@
   "terreno": "",
   "horario": "No disponible.",
   "servicios": []
+ },
+ "195799": {
+  "id": "195799",
+  "lat": 43.317838,
+  "lng": -7.627075,
+  "terreno": "",
+  "horario": "Vermú | Noche",
+  "servicios": [
+   "Carpa"
+  ]
  },
  "187900": {
   "id": "187900",
@@ -10276,6 +10398,14 @@
   "lng": null,
   "terreno": "",
   "horario": "Vermú | Noche",
+  "servicios": []
+ },
+ "195859": {
+  "id": "195859",
+  "lat": 42.543338,
+  "lng": -8.555017,
+  "terreno": "",
+  "horario": "Vermú",
   "servicios": []
  },
  "188710": {
@@ -12492,6 +12622,14 @@
   "horario": "No disponible.",
   "servicios": []
  },
+ "195798": {
+  "id": "195798",
+  "lat": 43.491672,
+  "lng": -7.667388,
+  "terreno": "",
+  "horario": "Vermú",
+  "servicios": []
+ },
  "190682": {
   "id": "190682",
   "lat": null,
@@ -12844,6 +12982,14 @@
   "lng": -8.132478,
   "terreno": "",
   "horario": "Vermú | Tarde",
+  "servicios": []
+ },
+ "195803": {
+  "id": "195803",
+  "lat": 43.554675,
+  "lng": -8.211299,
+  "terreno": "",
+  "horario": "Vermú | Noche (22:30)",
   "servicios": []
  },
  "195641": {
@@ -14411,6 +14557,14 @@
   "lng": -8.193687,
   "terreno": "Asfalto",
   "horario": "Vermú (10:30)",
+  "servicios": []
+ },
+ "195846": {
+  "id": "195846",
+  "lat": 42.557285,
+  "lng": -8.319282,
+  "terreno": "",
+  "horario": "Vermú",
   "servicios": []
  },
  "191824": {

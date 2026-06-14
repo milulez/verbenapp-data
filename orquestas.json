@@ -349,6 +349,20 @@
   "rankingPuesto": 24
  },
  {
+  "slug": "orquesta_armonia-show",
+  "tipo": "orquesta",
+  "nombre": "Orquesta ARMONÍA SHOW",
+  "nombreNorm": "armoniashow",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id10portada.jpg?lastMod=20260510134027",
+  "anoFundacion": 1978,
+  "descripcion": "Información de Orquesta ARMONÍA SHOW en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/orquestaarmonia.show",
+   "https://www.instagram.com/armonia_show_oficial"
+  ],
+  "rankingPuesto": 25
+ },
+ {
   "slug": "orquesta_panama",
   "tipo": "orquesta",
   "nombre": "Orquesta PANAMA",
@@ -943,6 +957,19 @@
   "rankingPuesto": null
  },
  {
+  "slug": "charanga_mil9",
+  "tipo": "charanga",
+  "nombre": "Charanga MIL9",
+  "nombreNorm": "mil9",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id700portada.jpg?lastMod=20170105011421",
+  "anoFundacion": 2016,
+  "descripcion": "Información de Charanga MIL9 en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/Charanga-MIL9-224055368007209"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "charanga_nova",
   "tipo": "charanga",
   "nombre": "Charanga NOVA",
@@ -1133,6 +1160,20 @@
   "descripcion": "Información de Disco Móvil DISCOASTUR en la app Orquestas de Galicia.",
   "redes": [
    "https://www.facebook.com/discoastur"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "disco-movil_dolce-vita",
+  "tipo": "disco-movil",
+  "nombre": "Disco Móvil DOLCE VITA",
+  "nombreNorm": "movildolcevita",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id801portada.jpg?lastMod=20230307194419",
+  "anoFundacion": 2002,
+  "descripcion": "Información de Disco Móvil DOLCE VITA en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/107804455237511",
+   "https://www.instagram.com/discotecasmovilesdolcevita"
   ],
   "rankingPuesto": null
  },
@@ -1572,6 +1613,19 @@
   "rankingPuesto": null
  },
  {
+  "slug": "duo_karamba",
+  "tipo": "duo",
+  "nombre": "Dúo KARAMBA",
+  "nombreNorm": "karamba",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id186portada.jpg?lastMod=20220802170240",
+  "anoFundacion": 2010,
+  "descripcion": "Información de Dúo KARAMBA en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/268594329846121"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "duo_keima",
   "tipo": "duo",
   "nombre": "Dúo KEIMA",
@@ -1635,6 +1689,19 @@
   "anoFundacion": null,
   "descripcion": "Información de Dúo OS TRASNOS en la app Orquestas de Galicia.",
   "redes": [],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "duo_punto-zero",
+  "tipo": "duo",
+  "nombre": "Dúo PUNTO ZERO",
+  "nombreNorm": "puntozero",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id503portada.jpg?lastMod=20230216011513",
+  "anoFundacion": 1998,
+  "descripcion": "Información de Dúo PUNTO ZERO en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/100058599112242"
+  ],
   "rankingPuesto": null
  },
  {
@@ -2082,6 +2149,20 @@
   "rankingPuesto": null
  },
  {
+  "slug": "grupo_euphoria",
+  "tipo": "grupo",
+  "nombre": "Grupo EUPHORIA",
+  "nombreNorm": "euphoria",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id978portada.jpg?lastMod=20260129152400",
+  "anoFundacion": 2024,
+  "descripcion": "Información de Grupo EUPHORIA en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/61556521714832",
+   "https://www.instagram.com/grupoeuphoriaoficial"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "grupo_eureka",
   "tipo": "grupo",
   "nombre": "Grupo EUREKA",
@@ -2513,6 +2594,17 @@
   "rankingPuesto": null
  },
  {
+  "slug": "grupo_master",
+  "tipo": "grupo",
+  "nombre": "Grupo MASTER",
+  "nombreNorm": "master",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id44portada.jpg?lastMod=20250630232309",
+  "anoFundacion": 2000,
+  "descripcion": "Información de Grupo MASTER en la app Orquestas de Galicia.",
+  "redes": [],
+  "rankingPuesto": null
+ },
+ {
   "slug": "grupo_montreal",
   "tipo": "grupo",
   "nombre": "Grupo MONTREAL",
@@ -2613,6 +2705,20 @@
   "rankingPuesto": null
  },
  {
+  "slug": "grupo_pentagono",
+  "tipo": "grupo",
+  "nombre": "Grupo PENTÁGONO",
+  "nombreNorm": "pentagono",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id742portada.jpg?lastMod=20260414112013",
+  "anoFundacion": 2017,
+  "descripcion": "Información de Grupo PENTÁGONO en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/100028989472024",
+   "https://www.instagram.com/grupopentagonosl"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "grupo_pikante",
   "tipo": "grupo",
   "nombre": "Grupo PIKANTE",
@@ -2668,6 +2774,20 @@
   "redes": [
    "https://www.facebook.com/ritmobaredo",
    "https://www.instagram.com/ritmogrupo"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "grupo_rosan",
+  "tipo": "grupo",
+  "nombre": "Grupo ROSÁN",
+  "nombreNorm": "rosan",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id965portada.jpg?lastMod=20250612182528",
+  "anoFundacion": 2023,
+  "descripcion": "Información de Grupo ROSÁN en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/bocach.tiplaallen",
+   "https://www.instagram.com/grupo_rosan"
   ],
   "rankingPuesto": null
  },
@@ -2984,6 +3104,35 @@
   "rankingPuesto": null
  },
  {
+  "slug": "orquesta_stereo",
+  "tipo": "orquesta",
+  "nombre": "Orquesta STÉREO",
+  "nombreNorm": "stereo",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id179portada.jpg?lastMod=20260207152436",
+  "anoFundacion": 2007,
+  "descripcion": "Información de Orquesta STÉREO en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/182447838463295",
+   "https://www.instagram.com/orquestastereo"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "orquesta_tokio",
+  "tipo": "orquesta",
+  "nombre": "Orquesta TOKIO",
+  "nombreNorm": "tokio",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id70portada.jpg?lastMod=20260205170708",
+  "anoFundacion": 1999,
+  "descripcion": "Información de Orquesta TOKIO en la app Orquestas de Galicia.",
+  "redes": [
+   "http://twitter.com/orquestatokio",
+   "https://www.facebook.com/orquestatokio",
+   "https://www.instagram.com/orquestatokio"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "orquesta_tucan-brass",
   "tipo": "orquesta",
   "nombre": "Orquesta TUCÁN BRASS",
@@ -3252,6 +3401,19 @@
   "rankingPuesto": null
  },
  {
+  "slug": "trio_azar",
+  "tipo": "trio",
+  "nombre": "Trío AZAR",
+  "nombreNorm": "azar",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id358portada.jpg?lastMod=20200219175615",
+  "anoFundacion": 2011,
+  "descripcion": "Información de Trío AZAR en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/787501227937346"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "trio_banarama",
   "tipo": "trio",
   "nombre": "Trío BANARAMA",
@@ -3356,6 +3518,19 @@
   "redes": [
    "https://www.facebook.com/grupo.jovi.1",
    "https://www.instagram.com/mar_de_caion"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "trio_maracuya",
+  "tipo": "trio",
+  "nombre": "Trío MARACUYÁ",
+  "nombreNorm": "maracuya",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id543portada.jpg?lastMod=20171030195106",
+  "anoFundacion": 2006,
+  "descripcion": "Información de Trío MARACUYÁ en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/1801542010099828"
   ],
   "rankingPuesto": null
  },
