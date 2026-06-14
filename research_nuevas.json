@@ -2221,6 +2221,146 @@
   "provincia": "Ourense"
  },
  {
+  "parroquia": "Vilameá",
+  "nombre": "San Miguel de Vilameá",
+  "fecha2026": "2026-09-27",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta religiosa en honor a San Miguel en la parroquia de Vilameá, a finales de septiembre, con actos religiosos y actuaciones musicales.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-bande-167.html"
+  ],
+  "concello": "Bande",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Feás",
+  "nombre": "Festa do Turista en Feás",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta del Turista en Feás, hacia mediados de agosto, pensada para los visitantes y veraneantes.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "programa": null,
+  "gastronomia": [],
+  "servicios": [],
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-calvos-de-randin-177.html"
+  ],
+  "concello": "Calvos de Randín",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Entrimo",
+  "nombre": "Festa da Xuventude",
+  "fecha2026": "2026-07-12",
+  "fechaConfianza": "probable",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-entrimo-191.html"
+  ],
+  "fundacion": null,
+  "historiaCorta": "Fiesta de la juventud de Entrimo con actuaciones musicales en pleno verano.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actuaciones musicales.",
+  "fechaFin2026": null,
+  "concello": "Entrimo",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Entrimo",
+  "nombre": "Ficar - Festival Internacional de Curtametraxes e Arte",
+  "fecha2026": "2026-07-18",
+  "fechaConfianza": "probable",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/ficar-festival-internacional-de-curtametraxes-e-arte-entrimo-33241.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-entrimo-191.html"
+  ],
+  "fundacion": null,
+  "historiaCorta": "Festival internacional de cortometrajes y arte que durante un fin de semana de julio convierte Entrimo en escenario cultural y cinematográfico.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Cita cultural de interés que proyecta cortos internacionales en un entorno rural del Xurés.",
+  "programa": "Proyecciones de cortometrajes y propuestas artísticas.",
+  "fechaFin2026": "2026-07-20",
+  "concello": "Entrimo",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Entrimo",
+  "nombre": "VIII Xornadas Arraianas",
+  "fecha2026": "2026-08-08",
+  "fechaConfianza": "probable",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-entrimo-191.html"
+  ],
+  "fundacion": "VIII edición",
+  "historiaCorta": "Jornadas que celebran la identidad arraiana, la cultura de la raia (frontera) hispano-portuguesa que define a Entrimo.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": "Reivindicación de la cultura fronteriza arraiana del Xurés.",
+  "programa": "Actividades en torno a la identidad arraiana.",
+  "fechaFin2026": null,
+  "concello": "Entrimo",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Lobios (A Vila)",
+  "nombre": "San Lorenzo de A Vila",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de A Vila en honor a San Lorenzo, a mediados de agosto, con jornadas de fiesta y tradición.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos en honor a San Lorenzo y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-lobios-200.html"
+  ],
+  "concello": "Lobios",
+  "provincia": "Ourense"
+ },
+ {
+  "parroquia": "Sandiás",
+  "nombre": "Virxe do Rosario",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "no encontrada",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de la villa de Sandiás (con Coalloso) en honor a la Virxe do Rosario; cae a principios de octubre, justo al filo del verano.",
+  "historiaLarga": "La Virxe do Rosario es la fiesta grande de Sandiás, organizada junto al lugar de Coalloso a comienzos de octubre. Combina los actos litúrgicos con la fiesta popular: el viernes arranca con cena popular y verbena con disco móvil; el sábado hay campeonato de tute, juegos infantiles y verbena con dúo u orquesta; y el domingo se vive el día grande con alborada a las 10:00, misa y procesión a las 12:30, y actuación de orquesta y sorteo por la tarde. En las últimas ediciones se celebró el 6-8 de octubre (2023), el 4-6 de octubre (2024) y en torno al 3-5 de octubre (2025).",
+  "gastronomia": [
+   "Cena popular"
+  ],
+  "servicios": [
+   "Verbena con disco móvil y orquesta",
+   "Teléfono Concello: 988 465 001"
+  ],
+  "tradicion": "Día grande con alborada matinal, misa, procesión y sorteo; mezcla de liturgia y verbena típica de A Limia.",
+  "programa": "Viernes: cena popular y verbena con disco móvil. Sábado: campeonato de tute, juegos infantiles y verbena. Domingo: alborada (10:00), misa y procesión (12:30), orquesta y sorteo por la tarde.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/virxe-do-rosario-sandias-1787.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-sandias-235.html"
+  ],
+  "concello": "Sandiás",
+  "provincia": "Ourense"
+ },
+ {
   "parroquia": "Riotorto",
   "nombre": "Festa Celta",
   "fecha2026": "2026-08-03",
