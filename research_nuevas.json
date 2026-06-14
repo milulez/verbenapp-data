@@ -2607,6 +2607,330 @@
   "provincia": "Ourense"
  },
  {
+  "parroquia": "Borreiros",
+  "nombre": "Gran Sardiñada de Borreiros",
+  "fecha2026": "2026-07-19",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Sardinada popular de Borreiros amenizada con música.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardinas"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Sardinada popular con música.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-gondomar-274.html"
+  ],
+  "concello": "Gondomar",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "O Mosteiro",
+  "nombre": "Gran Sardiñada en el Mosteiro",
+  "fecha2026": "2026-07-19",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Degustación de sardinas con actuaciones musicales en O Mosteiro.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Sardinas"
+  ],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Sardinas y actuaciones musicales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-gondomar-274.html"
+  ],
+  "concello": "Gondomar",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Fornelos de Montes",
+  "nombre": "Semana Cultural",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Una semana de actividades culturales a comienzos de agosto, con comida al aire libre de pulpo y carne a la brasa y música folk.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Pulpo",
+   "Carne a la brasa"
+  ],
+  "servicios": [
+   "Comida popular al aire libre"
+  ],
+  "tradicion": "Se desarrolla durante una semana a principios de agosto.",
+  "programa": "Actividades culturales, comida al aire libre y música folclórica.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/semana-cultural-fornelos-de-montes-39122.html",
+   "https://www.paxinasgalegas.es/fiestas/fiestas-fornelos-de-montes-273.html"
+  ],
+  "concello": "Fornelos de Montes",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Regadas",
+  "nombre": "San Agustín de Regadas",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-09-05",
+  "fechaFin2026": "2026-09-06",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Agustín en Regadas, con actos religiosos por la mañana y verbena nocturna.",
+  "historiaLarga": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actos religiosos por la mañana y verbena nocturna.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-mos-286.html"
+  ],
+  "concello": "Mos",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Budiño",
+  "nombre": "Festa dos Callos de Budiño",
+  "fecha2026": "2026-06-20",
+  "fechaFin2026": "2026-06-21",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta gastronómica de la parroquia de Budiño dedicada a los callos, uno de los platos más tradicionales de la cocina gallega de cuchara.",
+  "historiaLarga": null,
+  "gastronomia": [
+   "Callos a la gallega"
+  ],
+  "servicios": [],
+  "tradicion": "Suele coincidir con la Fiesta del Motor de Budiño, que se celebra esos mismos días.",
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-porri%C3%B1o-296.html"
+  ],
+  "concello": "O Porriño",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Budiño",
+  "nombre": "Fiesta del Motor de Budiño",
+  "fecha2026": "2026-06-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Concentración de motor en la parroquia de Budiño que coincide con la Festa dos Callos.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-porri%C3%B1o-296.html"
+  ],
+  "concello": "O Porriño",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Torneiros",
+  "nombre": "San Roque de Torneiros",
+  "fecha2026": "2026-08-15",
+  "fechaFin2026": "2026-08-17",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta patronal de la parroquia de Torneiros en honor a San Roque, con orquestas que animan las verbenas.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Procesión y verbena con orquestas",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-porri%C3%B1o-296.html"
+  ],
+  "concello": "O Porriño",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "O Rosal",
+  "nombre": "Encontro Coral",
+  "fecha2026": "2026-07-13",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Encuentro de corales en la iglesia de Santa María do Rosal.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-rosal-301.html"
+  ],
+  "concello": "O Rosal",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "O Rosal",
+  "nombre": "VII Festival Xente Xida",
+  "fecha2026": "2026-07-24",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Festival celebrado en la Praza do Calvario.",
+  "historiaLarga": null,
+  "fundacion": "VII edición",
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-rosal-301.html"
+  ],
+  "concello": "O Rosal",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "O Rosal",
+  "nombre": "Amdor Fest",
+  "fecha2026": "2026-07-25",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Festival de música y gastronomía en la Praza do Calvario organizado por la asociación Amdor.",
+  "historiaLarga": null,
+  "fundacion": null,
+  "tradicion": null,
+  "gastronomia": [
+   "Gastronomía variada"
+  ],
+  "servicios": [
+   "Música en directo"
+  ],
+  "programa": "Música, gastronomía y fiesta.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-rosal-301.html"
+  ],
+  "concello": "O Rosal",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "O Rosal",
+  "nombre": "XXXIII Festival de Músicos Xoves",
+  "fecha2026": "2026-08-23",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "historiaCorta": "Festival de jóvenes músicos en la Praza do Calvario, con bandas de música y corales.",
+  "historiaLarga": null,
+  "fundacion": "XXXIII edición",
+  "tradicion": null,
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Actuaciones de bandas de música y corales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-o-rosal-301.html"
+  ],
+  "concello": "O Rosal",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Cequeril",
+  "nombre": "Fiestas de Cequeril",
+  "fecha2026": "2026-08-20",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiestas patronales de la parroquia de Cequeril, hacia el 20 de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y verbena.",
+  "fuentes": [
+   "http://turismodecuntis.gal/es-es/fiestas",
+   "https://www.orquestasdegalicia.es/fiestas/pontevedra/cequeril-cuntis"
+  ],
+  "concello": "Cuntis",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Cequeril (Sebil)",
+  "nombre": "San Roque de Sebil",
+  "fecha2026": "2026-08-21",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de San Roque en el lugar de Sebil (Cequeril), hacia el 21 de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "http://turismodecuntis.gal/es-es/fiestas"
+  ],
+  "concello": "Cuntis",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Arcos de Furco (A Anllada)",
+  "nombre": "Nosa Señora de Lourdes e San Ramón da Anllada",
+  "fecha2026": "2026-08-29",
+  "fechaFin2026": "2026-08-30",
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Fiesta de Nosa Señora de Lourdes y San Ramón en A Anllada (Arcos de Furco), el último fin de semana de agosto.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": "Actos religiosos y verbena.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cuntis-269.html",
+   "http://turismodecuntis.gal/es-es/fiestas"
+  ],
+  "concello": "Cuntis",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Cuntis (villa)",
+  "nombre": "XVI Festival Internacional de Folclore Alfonso Represas",
+  "fecha2026": null,
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Festival internacional de folclore que reúne grupos de danza y música tradicional en Cuntis, hacia mediados de julio.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [
+   "Acceso gratuito"
+  ],
+  "tradicion": "Lleva el nombre de Alfonso Represas y trae grupos folclóricos de distintos países.",
+  "programa": "Actuaciones de grupos de folclore internacionales.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-cuntis-269.html"
+  ],
+  "concello": "Cuntis",
+  "provincia": "Pontevedra"
+ },
+ {
+  "parroquia": "Rodeiro",
+  "nombre": "Festa Infantil",
+  "fecha2026": "2026-06-14",
+  "fechaFin2026": null,
+  "fechaConfianza": "probable",
+  "fundacion": null,
+  "historiaCorta": "Jornada de actividades infantiles dentro de las fiestas de San Antonio de Rodeiro.",
+  "historiaLarga": null,
+  "gastronomia": [],
+  "servicios": [],
+  "tradicion": null,
+  "programa": null,
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/fiestas-rodeiro-300.html"
+  ],
+  "concello": "Rodeiro",
+  "provincia": "Pontevedra"
+ },
+ {
   "parroquia": "Riotorto",
   "nombre": "Festa Celta",
   "fecha2026": "2026-08-03",
