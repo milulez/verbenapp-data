@@ -2949,6 +2949,17 @@
   "rankingPuesto": null
  },
  {
+  "slug": "orquesta_costa-blanca",
+  "tipo": "orquesta",
+  "nombre": "Orquesta COSTA BLANCA",
+  "nombreNorm": "costablanca",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id162portada.jpg?lastMod=20240813120919",
+  "anoFundacion": null,
+  "descripcion": "Información de Orquesta COSTA BLANCA en la app Orquestas de Galicia.",
+  "redes": [],
+  "rankingPuesto": null
+ },
+ {
   "slug": "orquesta_d´noche",
   "tipo": "orquesta",
   "nombre": "Orquesta D´NOCHE",
@@ -2973,6 +2984,21 @@
   "redes": [
    "https://www.facebook.com/61586181724615",
    "https://www.instagram.com/orquesta_embrujo_oficial"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "orquesta_genesis",
+  "tipo": "orquesta",
+  "nombre": "Orquesta GÉNESIS",
+  "nombreNorm": "genesis",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id622portada.jpg?lastMod=20250515164019",
+  "anoFundacion": 2010,
+  "descripcion": "Información de Orquesta GÉNESIS en la app Orquestas de Galicia.",
+  "redes": [
+   "http://twitter.com/espectamiguel",
+   "https://www.facebook.com/208059396045569",
+   "https://www.instagram.com/genesisorquesta"
   ],
   "rankingPuesto": null
  },
@@ -3243,6 +3269,21 @@
   "redes": [
    "https://www.facebook.com/538018569587004",
    "https://www.instagram.com/judith_cundins"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "artista_lucia-perez",
+  "tipo": "artista",
+  "nombre": "Solista LUCÍA PÉREZ",
+  "nombreNorm": "luciaperez",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id184portada.jpg?lastMod=20250628141039",
+  "anoFundacion": null,
+  "descripcion": "Información de Solista LUCÍA PÉREZ en la app Orquestas de Galicia.",
+  "redes": [
+   "http://twitter.com/LuciaPerezMusic",
+   "https://www.facebook.com/LuciaPerezOfficial",
+   "https://www.instagram.com/luciaperezmusic"
   ],
   "rankingPuesto": null
  },
