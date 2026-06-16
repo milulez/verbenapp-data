@@ -1,16 +1,5 @@
 [
  {
-  "id": "194188",
-  "fecha": "2026-06-13",
-  "tipo": "trio",
-  "formacion": "Trío LA NOCHE DO GROVE",
-  "parroquia": "Taín",
-  "concello": "A Cañiza",
-  "provincia": "Pontevedra",
-  "lugarTexto": "Taín, A Cañiza (Pontevedra)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/194188/"
- },
- {
   "id": "195863",
   "fecha": "2026-06-13",
   "tipo": "trio",
@@ -20,6 +9,17 @@
   "provincia": "Pontevedra",
   "lugarTexto": "Taín, A Cañiza (Pontevedra)",
   "url": "https://www.orquestasdegalicia.es/fiesta/195863/"
+ },
+ {
+  "id": "194188",
+  "fecha": "2026-06-13",
+  "tipo": "trio",
+  "formacion": "Trío LA NOCHE DO GROVE",
+  "parroquia": "Taín",
+  "concello": "A Cañiza",
+  "provincia": "Pontevedra",
+  "lugarTexto": "Taín, A Cañiza (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/194188/"
  },
  {
   "id": "194147",
@@ -473,17 +473,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/194281/"
  },
  {
-  "id": "187922",
-  "fecha": "2026-06-13",
-  "tipo": "artista",
-  "formacion": "Solista DIEGUIÑO",
-  "parroquia": "Reirís",
-  "concello": "Caldas de Reis",
-  "provincia": "Pontevedra",
-  "lugarTexto": "Reirís, Caldas de Reis (Pontevedra)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/187922/"
- },
- {
   "id": "193205",
   "fecha": "2026-06-13",
   "tipo": "charanga",
@@ -493,6 +482,17 @@
   "provincia": "Pontevedra",
   "lugarTexto": "Reirís, Caldas de Reis (Pontevedra)",
   "url": "https://www.orquestasdegalicia.es/fiesta/193205/"
+ },
+ {
+  "id": "187922",
+  "fecha": "2026-06-13",
+  "tipo": "artista",
+  "formacion": "Solista DIEGUIÑO",
+  "parroquia": "Reirís",
+  "concello": "Caldas de Reis",
+  "provincia": "Pontevedra",
+  "lugarTexto": "Reirís, Caldas de Reis (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/187922/"
  },
  {
   "id": "195859",
@@ -1254,15 +1254,15 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/189010/"
  },
  {
-  "id": "188886",
+  "id": "195616",
   "fecha": "2026-06-13",
-  "tipo": "disco movil",
-  "formacion": "Disco Móvil DFM",
+  "tipo": "grupo",
+  "formacion": "Grupo LA DISQUETERA",
   "parroquia": "",
   "concello": "Lugo",
   "provincia": "Lugo",
   "lugarTexto": "Lugo (Lugo)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/188886/"
+  "url": "https://www.orquestasdegalicia.es/fiesta/195616/"
  },
  {
   "id": "189712",
@@ -1276,15 +1276,15 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/189712/"
  },
  {
-  "id": "195616",
+  "id": "188886",
   "fecha": "2026-06-13",
-  "tipo": "grupo",
-  "formacion": "Grupo LA DISQUETERA",
+  "tipo": "disco movil",
+  "formacion": "Disco Móvil DFM",
   "parroquia": "",
   "concello": "Lugo",
   "provincia": "Lugo",
   "lugarTexto": "Lugo (Lugo)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/195616/"
+  "url": "https://www.orquestasdegalicia.es/fiesta/188886/"
  },
  {
   "id": "193462",
@@ -1496,17 +1496,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/193161/"
  },
  {
-  "id": "192027",
-  "fecha": "2026-06-13",
-  "tipo": "grupo",
-  "formacion": "Grupo TALISMÁN",
-  "parroquia": "Veigadaña",
-  "concello": "Mos",
-  "provincia": "Pontevedra",
-  "lugarTexto": "Veigadaña, Mos (Pontevedra)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/192027/"
- },
- {
   "id": "195871",
   "fecha": "2026-06-13",
   "tipo": "orquesta",
@@ -1516,6 +1505,17 @@
   "provincia": "Pontevedra",
   "lugarTexto": "Veigadaña, Mos (Pontevedra)",
   "url": "https://www.orquestasdegalicia.es/fiesta/195871/"
+ },
+ {
+  "id": "192027",
+  "fecha": "2026-06-13",
+  "tipo": "grupo",
+  "formacion": "Grupo TALISMÁN",
+  "parroquia": "Veigadaña",
+  "concello": "Mos",
+  "provincia": "Pontevedra",
+  "lugarTexto": "Veigadaña, Mos (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/192027/"
  },
  {
   "id": "194560",
@@ -1573,17 +1573,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/195007/"
  },
  {
-  "id": "188687",
-  "fecha": "2026-06-13",
-  "tipo": "duo",
-  "formacion": "Dúo XILO & CARLOS",
-  "parroquia": "Casadelos",
-  "concello": "Neda",
-  "provincia": "A Coruña",
-  "lugarTexto": "Casadelos, Neda (A Coruña)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/188687/"
- },
- {
   "id": "194555",
   "fecha": "2026-06-13",
   "tipo": "duo",
@@ -1593,6 +1582,17 @@
   "provincia": "A Coruña",
   "lugarTexto": "Casadelos, Neda (A Coruña)",
   "url": "https://www.orquestasdegalicia.es/fiesta/194555/"
+ },
+ {
+  "id": "188687",
+  "fecha": "2026-06-13",
+  "tipo": "duo",
+  "formacion": "Dúo XILO & CARLOS",
+  "parroquia": "Casadelos",
+  "concello": "Neda",
+  "provincia": "A Coruña",
+  "lugarTexto": "Casadelos, Neda (A Coruña)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/188687/"
  },
  {
   "id": "194344",
@@ -1793,17 +1793,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/190870/"
  },
  {
-  "id": "189409",
-  "fecha": "2026-06-13",
-  "tipo": "disco movil",
-  "formacion": "Disco Móvil PATAKIÑA",
-  "parroquia": "Candai",
-  "concello": "Outeiro de Rei",
-  "provincia": "Lugo",
-  "lugarTexto": "Candai, Outeiro de Rei (Lugo)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/189409/"
- },
- {
   "id": "195786",
   "fecha": "2026-06-13",
   "tipo": "grupo",
@@ -1813,6 +1802,17 @@
   "provincia": "Lugo",
   "lugarTexto": "Candai, Outeiro de Rei (Lugo)",
   "url": "https://www.orquestasdegalicia.es/fiesta/195786/"
+ },
+ {
+  "id": "189409",
+  "fecha": "2026-06-13",
+  "tipo": "disco movil",
+  "formacion": "Disco Móvil PATAKIÑA",
+  "parroquia": "Candai",
+  "concello": "Outeiro de Rei",
+  "provincia": "Lugo",
+  "lugarTexto": "Candai, Outeiro de Rei (Lugo)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/189409/"
  },
  {
   "id": "194612",
@@ -1826,17 +1826,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/194612/"
  },
  {
-  "id": "194101",
-  "fecha": "2026-06-13",
-  "tipo": "duo",
-  "formacion": "Dúo D´VICIO",
-  "parroquia": "Cuíña",
-  "concello": "Oza-Cesuras",
-  "provincia": "A Coruña",
-  "lugarTexto": "Cuíña, Oza-Cesuras (A Coruña)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/194101/"
- },
- {
   "id": "195714",
   "fecha": "2026-06-13",
   "tipo": "duo",
@@ -1846,6 +1835,17 @@
   "provincia": "A Coruña",
   "lugarTexto": "Cuíña, Oza-Cesuras (A Coruña)",
   "url": "https://www.orquestasdegalicia.es/fiesta/195714/"
+ },
+ {
+  "id": "194101",
+  "fecha": "2026-06-13",
+  "tipo": "duo",
+  "formacion": "Dúo D´VICIO",
+  "parroquia": "Cuíña",
+  "concello": "Oza-Cesuras",
+  "provincia": "A Coruña",
+  "lugarTexto": "Cuíña, Oza-Cesuras (A Coruña)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/194101/"
  },
  {
   "id": "195664",
@@ -3795,6 +3795,17 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/194774/"
  },
  {
+  "id": "195883",
+  "fecha": "2026-06-16",
+  "tipo": "orquesta",
+  "formacion": "Orquesta ORIGEN",
+  "parroquia": "TVG San Marcos",
+  "concello": "Santiago de Compostela",
+  "provincia": "A Coruña",
+  "lugarTexto": "TVG San Marcos, Santiago de Compostela (A Coruña)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195883/"
+ },
+ {
   "id": "194976",
   "fecha": "2026-06-16",
   "tipo": "orquesta",
@@ -4818,17 +4829,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/195379/"
  },
  {
-  "id": "194037",
-  "fecha": "2026-06-20",
-  "tipo": "grupo",
-  "formacion": "Grupo AMÉRICA DE VIGO",
-  "parroquia": "",
-  "concello": "Barro",
-  "provincia": "Pontevedra",
-  "lugarTexto": "Barro (Pontevedra)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/194037/"
- },
- {
   "id": "194149",
   "fecha": "2026-06-20",
   "tipo": "orquesta",
@@ -4838,6 +4838,17 @@
   "provincia": "Pontevedra",
   "lugarTexto": "Barro (Pontevedra)",
   "url": "https://www.orquestasdegalicia.es/fiesta/194149/"
+ },
+ {
+  "id": "194037",
+  "fecha": "2026-06-20",
+  "tipo": "grupo",
+  "formacion": "Grupo AMÉRICA DE VIGO",
+  "parroquia": "",
+  "concello": "Barro",
+  "provincia": "Pontevedra",
+  "lugarTexto": "Barro (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/194037/"
  },
  {
   "id": "192976",
@@ -5423,17 +5434,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/194549/"
  },
  {
-  "id": "194954",
-  "fecha": "2026-06-20",
-  "tipo": "charanga",
-  "formacion": "Charanga FESTICULTORES TROUPE",
-  "parroquia": "",
-  "concello": "Lalín",
-  "provincia": "Pontevedra",
-  "lugarTexto": "Lalín (Pontevedra)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/194954/"
- },
- {
   "id": "191916",
   "fecha": "2026-06-20",
   "tipo": "disco movil",
@@ -5443,6 +5443,17 @@
   "provincia": "Pontevedra",
   "lugarTexto": "Lalín (Pontevedra)",
   "url": "https://www.orquestasdegalicia.es/fiesta/191916/"
+ },
+ {
+  "id": "194954",
+  "fecha": "2026-06-20",
+  "tipo": "charanga",
+  "formacion": "Charanga FESTICULTORES TROUPE",
+  "parroquia": "",
+  "concello": "Lalín",
+  "provincia": "Pontevedra",
+  "lugarTexto": "Lalín (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/194954/"
  },
  {
   "id": "193949",
@@ -5962,17 +5973,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/195606/"
  },
  {
-  "id": "193489",
-  "fecha": "2026-06-20",
-  "tipo": "orquesta",
-  "formacion": "Orquesta TRÉBOL",
-  "parroquia": "San Xurxo de Salceda",
-  "concello": "Salceda de Caselas",
-  "provincia": "Pontevedra",
-  "lugarTexto": "San Xurxo de Salceda, Salceda de Caselas (Pontevedra)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/193489/"
- },
- {
   "id": "193490",
   "fecha": "2026-06-20",
   "tipo": "orquesta",
@@ -5982,6 +5982,17 @@
   "provincia": "Pontevedra",
   "lugarTexto": "San Xurxo de Salceda, Salceda de Caselas (Pontevedra)",
   "url": "https://www.orquestasdegalicia.es/fiesta/193490/"
+ },
+ {
+  "id": "193489",
+  "fecha": "2026-06-20",
+  "tipo": "orquesta",
+  "formacion": "Orquesta TRÉBOL",
+  "parroquia": "San Xurxo de Salceda",
+  "concello": "Salceda de Caselas",
+  "provincia": "Pontevedra",
+  "lugarTexto": "San Xurxo de Salceda, Salceda de Caselas (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/193489/"
  },
  {
   "id": "194896",
@@ -6281,17 +6292,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/190520/"
  },
  {
-  "id": "189079",
-  "fecha": "2026-06-20",
-  "tipo": "orquesta",
-  "formacion": "Orquesta ACORDES",
-  "parroquia": "Román",
-  "concello": "Vilalba",
-  "provincia": "Lugo",
-  "lugarTexto": "Román, Vilalba (Lugo)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/189079/"
- },
- {
   "id": "194163",
   "fecha": "2026-06-20",
   "tipo": "orquesta",
@@ -6301,6 +6301,17 @@
   "provincia": "Lugo",
   "lugarTexto": "Román, Vilalba (Lugo)",
   "url": "https://www.orquestasdegalicia.es/fiesta/194163/"
+ },
+ {
+  "id": "189079",
+  "fecha": "2026-06-20",
+  "tipo": "orquesta",
+  "formacion": "Orquesta ACORDES",
+  "parroquia": "Román",
+  "concello": "Vilalba",
+  "provincia": "Lugo",
+  "lugarTexto": "Román, Vilalba (Lugo)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/189079/"
  },
  {
   "id": "194501",
@@ -6631,6 +6642,17 @@
   "provincia": "Asturias",
   "lugarTexto": "La Mata, Grado (Asturias)",
   "url": "https://www.orquestasdegalicia.es/fiesta/194604/"
+ },
+ {
+  "id": "195887",
+  "fecha": "2026-06-21",
+  "tipo": "orquesta",
+  "formacion": "Orquesta ARMONÍA SHOW",
+  "parroquia": "",
+  "concello": "Gáldar",
+  "provincia": "Las Palmas",
+  "lugarTexto": "Gáldar (Las Palmas)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195887/"
  },
  {
   "id": "195288",
@@ -7150,17 +7172,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/194224/"
  },
  {
-  "id": "193493",
-  "fecha": "2026-06-22",
-  "tipo": "orquesta",
-  "formacion": "Orquesta EL COMBO DOMINICANO",
-  "parroquia": "San Xurxo de Salceda",
-  "concello": "Salceda de Caselas",
-  "provincia": "Pontevedra",
-  "lugarTexto": "San Xurxo de Salceda, Salceda de Caselas (Pontevedra)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/193493/"
- },
- {
   "id": "193494",
   "fecha": "2026-06-22",
   "tipo": "orquesta",
@@ -7170,6 +7181,17 @@
   "provincia": "Pontevedra",
   "lugarTexto": "San Xurxo de Salceda, Salceda de Caselas (Pontevedra)",
   "url": "https://www.orquestasdegalicia.es/fiesta/193494/"
+ },
+ {
+  "id": "193493",
+  "fecha": "2026-06-22",
+  "tipo": "orquesta",
+  "formacion": "Orquesta EL COMBO DOMINICANO",
+  "parroquia": "San Xurxo de Salceda",
+  "concello": "Salceda de Caselas",
+  "provincia": "Pontevedra",
+  "lugarTexto": "San Xurxo de Salceda, Salceda de Caselas (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/193493/"
  },
  {
   "id": "193718",
@@ -7414,17 +7436,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/194482/"
  },
  {
-  "id": "194001",
-  "fecha": "2026-06-23",
-  "tipo": "grupo",
-  "formacion": "Grupo FUSSION",
-  "parroquia": "Viceso",
-  "concello": "Brión",
-  "provincia": "A Coruña",
-  "lugarTexto": "Viceso, Brión (A Coruña)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/194001/"
- },
- {
   "id": "193472",
   "fecha": "2026-06-23",
   "tipo": "grupo",
@@ -7434,6 +7445,17 @@
   "provincia": "A Coruña",
   "lugarTexto": "Viceso, Brión (A Coruña)",
   "url": "https://www.orquestasdegalicia.es/fiesta/193472/"
+ },
+ {
+  "id": "194001",
+  "fecha": "2026-06-23",
+  "tipo": "grupo",
+  "formacion": "Grupo FUSSION",
+  "parroquia": "Viceso",
+  "concello": "Brión",
+  "provincia": "A Coruña",
+  "lugarTexto": "Viceso, Brión (A Coruña)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/194001/"
  },
  {
   "id": "193823",
@@ -9141,17 +9163,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/195546/"
  },
  {
-  "id": "192969",
-  "fecha": "2026-06-24",
-  "tipo": "orquesta",
-  "formacion": "Orquesta LOS SATÉLITES",
-  "parroquia": "",
-  "concello": "Sarria",
-  "provincia": "Lugo",
-  "lugarTexto": "Sarria (Lugo)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/192969/"
- },
- {
   "id": "192968",
   "fecha": "2026-06-24",
   "tipo": "orquesta",
@@ -9161,6 +9172,17 @@
   "provincia": "Lugo",
   "lugarTexto": "Sarria (Lugo)",
   "url": "https://www.orquestasdegalicia.es/fiesta/192968/"
+ },
+ {
+  "id": "192969",
+  "fecha": "2026-06-24",
+  "tipo": "orquesta",
+  "formacion": "Orquesta LOS SATÉLITES",
+  "parroquia": "",
+  "concello": "Sarria",
+  "provincia": "Lugo",
+  "lugarTexto": "Sarria (Lugo)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/192969/"
  },
  {
   "id": "194152",
@@ -9293,6 +9315,17 @@
   "provincia": "Lugo",
   "lugarTexto": "Covas, Viveiro (Lugo)",
   "url": "https://www.orquestasdegalicia.es/fiesta/190778/"
+ },
+ {
+  "id": "195888",
+  "fecha": "2026-06-24",
+  "tipo": "disco movil",
+  "formacion": "Disco Móvil DFM",
+  "parroquia": "",
+  "concello": "cafe bar siglo xx vilalba",
+  "provincia": "Lugo",
+  "lugarTexto": "cafe bar siglo xx vilalba (Lugo)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195888/"
  },
  {
   "id": "194841",
@@ -10428,6 +10461,17 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/195677/"
  },
  {
+  "id": "195881",
+  "fecha": "2026-06-26",
+  "tipo": "orquesta",
+  "formacion": "Orquesta ORIGEN",
+  "parroquia": "Plató 1000",
+  "concello": "Teo",
+  "provincia": "A Coruña",
+  "lugarTexto": "Plató 1000, Teo (A Coruña)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195881/"
+ },
+ {
   "id": "195678",
   "fecha": "2026-06-26",
   "tipo": "duo",
@@ -10901,17 +10945,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/194056/"
  },
  {
-  "id": "187137",
-  "fecha": "2026-06-27",
-  "tipo": "charanga",
-  "formacion": "Charanga FURRUXA",
-  "parroquia": "Saiar",
-  "concello": "Caldas de Reis",
-  "provincia": "Pontevedra",
-  "lugarTexto": "Saiar, Caldas de Reis (Pontevedra)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/187137/"
- },
- {
   "id": "189632",
   "fecha": "2026-06-27",
   "tipo": "artista",
@@ -10921,6 +10954,17 @@
   "provincia": "Pontevedra",
   "lugarTexto": "Saiar, Caldas de Reis (Pontevedra)",
   "url": "https://www.orquestasdegalicia.es/fiesta/189632/"
+ },
+ {
+  "id": "187137",
+  "fecha": "2026-06-27",
+  "tipo": "charanga",
+  "formacion": "Charanga FURRUXA",
+  "parroquia": "Saiar",
+  "concello": "Caldas de Reis",
+  "provincia": "Pontevedra",
+  "lugarTexto": "Saiar, Caldas de Reis (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/187137/"
  },
  {
   "id": "195038",
@@ -12342,17 +12386,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/195607/"
  },
  {
-  "id": "192752",
-  "fecha": "2026-06-27",
-  "tipo": "duo",
-  "formacion": "Dúo CALIBRE",
-  "parroquia": "Biduedo",
-  "concello": "Triacastela",
-  "provincia": "Lugo",
-  "lugarTexto": "Biduedo, Triacastela (Lugo)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/192752/"
- },
- {
   "id": "190253",
   "fecha": "2026-06-27",
   "tipo": "duo",
@@ -12362,6 +12395,17 @@
   "provincia": "Lugo",
   "lugarTexto": "Biduedo, Triacastela (Lugo)",
   "url": "https://www.orquestasdegalicia.es/fiesta/190253/"
+ },
+ {
+  "id": "192752",
+  "fecha": "2026-06-27",
+  "tipo": "duo",
+  "formacion": "Dúo CALIBRE",
+  "parroquia": "Biduedo",
+  "concello": "Triacastela",
+  "provincia": "Lugo",
+  "lugarTexto": "Biduedo, Triacastela (Lugo)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/192752/"
  },
  {
   "id": "193549",
@@ -13134,17 +13178,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/193067/"
  },
  {
-  "id": "188376",
-  "fecha": "2026-06-28",
-  "tipo": "duo",
-  "formacion": "Dúo LA HORA BRUJA",
-  "parroquia": "Tirimol",
-  "concello": "Lugo",
-  "provincia": "Lugo",
-  "lugarTexto": "Tirimol, Lugo (Lugo)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/188376/"
- },
- {
   "id": "191166",
   "fecha": "2026-06-28",
   "tipo": "artista",
@@ -13154,6 +13187,17 @@
   "provincia": "A Coruña",
   "lugarTexto": "Tirimol, Lugo (A Coruña)",
   "url": "https://www.orquestasdegalicia.es/fiesta/191166/"
+ },
+ {
+  "id": "188376",
+  "fecha": "2026-06-28",
+  "tipo": "duo",
+  "formacion": "Dúo LA HORA BRUJA",
+  "parroquia": "Tirimol",
+  "concello": "Lugo",
+  "provincia": "Lugo",
+  "lugarTexto": "Tirimol, Lugo (Lugo)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/188376/"
  },
  {
   "id": "195672",
@@ -13816,17 +13860,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/194114/"
  },
  {
-  "id": "192277",
-  "fecha": "2026-06-29",
-  "tipo": "disco movil",
-  "formacion": "Disco Móvil VERBENA",
-  "parroquia": "O Regueiro",
-  "concello": "Boborás",
-  "provincia": "Ourense",
-  "lugarTexto": "O Regueiro, Boborás (Ourense)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/192277/"
- },
- {
   "id": "194898",
   "fecha": "2026-06-29",
   "tipo": "charanga",
@@ -13836,6 +13869,17 @@
   "provincia": "Ourense",
   "lugarTexto": "O Regueiro, Boborás (Ourense)",
   "url": "https://www.orquestasdegalicia.es/fiesta/194898/"
+ },
+ {
+  "id": "192277",
+  "fecha": "2026-06-29",
+  "tipo": "disco movil",
+  "formacion": "Disco Móvil VERBENA",
+  "parroquia": "O Regueiro",
+  "concello": "Boborás",
+  "provincia": "Ourense",
+  "lugarTexto": "O Regueiro, Boborás (Ourense)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/192277/"
  },
  {
   "id": "195681",
@@ -14520,17 +14564,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/194093/"
  },
  {
-  "id": "193724",
-  "fecha": "2026-06-30",
-  "tipo": "orquesta",
-  "formacion": "Orquesta LOS SATÉLITES",
-  "parroquia": "Campañó",
-  "concello": "Pontevedra",
-  "provincia": "Pontevedra",
-  "lugarTexto": "Campañó, Pontevedra (Pontevedra)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/193724/"
- },
- {
   "id": "194783",
   "fecha": "2026-06-30",
   "tipo": "orquesta",
@@ -14540,6 +14573,17 @@
   "provincia": "Pontevedra",
   "lugarTexto": "Campañó, Pontevedra (Pontevedra)",
   "url": "https://www.orquestasdegalicia.es/fiesta/194783/"
+ },
+ {
+  "id": "193724",
+  "fecha": "2026-06-30",
+  "tipo": "orquesta",
+  "formacion": "Orquesta LOS SATÉLITES",
+  "parroquia": "Campañó",
+  "concello": "Pontevedra",
+  "provincia": "Pontevedra",
+  "lugarTexto": "Campañó, Pontevedra (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/193724/"
  },
  {
   "id": "193842",
@@ -14652,6 +14696,17 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/195126/"
  },
  {
+  "id": "195894",
+  "fecha": "2026-07-03",
+  "tipo": "grupo",
+  "formacion": "Grupo LA TREMENDA",
+  "parroquia": "Cameixa",
+  "concello": "Boborás",
+  "provincia": "Ourense",
+  "lugarTexto": "Cameixa, Boborás (Ourense)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195894/"
+ },
+ {
   "id": "191416",
   "fecha": "2026-07-03",
   "tipo": "orquesta",
@@ -14672,6 +14727,17 @@
   "provincia": "Pontevedra",
   "lugarTexto": "Caldas de Reis (Pontevedra)",
   "url": "https://www.orquestasdegalicia.es/fiesta/195771/"
+ },
+ {
+  "id": "195893",
+  "fecha": "2026-07-03",
+  "tipo": "trio",
+  "formacion": "Trío LUCES DE BOHEMIA",
+  "parroquia": "Tapería",
+  "concello": "Camiño de Santiago",
+  "provincia": "Pontevedra",
+  "lugarTexto": "Tapería, albergue, Camiño de Santiago (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195893/"
  },
  {
   "id": "192927",
@@ -15147,17 +15213,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/195693/"
  },
  {
-  "id": "195803",
-  "fecha": "2026-07-04",
-  "tipo": "trio",
-  "formacion": "Trío ANTHA",
-  "parroquia": "O Val",
-  "concello": "Narón",
-  "provincia": "A Coruña",
-  "lugarTexto": "O Val, Narón (A Coruña)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/195803/"
- },
- {
   "id": "195804",
   "fecha": "2026-07-04",
   "tipo": "duo",
@@ -15167,6 +15222,17 @@
   "provincia": "A Coruña",
   "lugarTexto": "O Val, Narón (A Coruña)",
   "url": "https://www.orquestasdegalicia.es/fiesta/195804/"
+ },
+ {
+  "id": "195803",
+  "fecha": "2026-07-04",
+  "tipo": "trio",
+  "formacion": "Trío ANTHA",
+  "parroquia": "O Val",
+  "concello": "Narón",
+  "provincia": "A Coruña",
+  "lugarTexto": "O Val, Narón (A Coruña)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195803/"
  },
  {
   "id": "191152",
@@ -15345,6 +15411,17 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/195792/"
  },
  {
+  "id": "195889",
+  "fecha": "2026-07-04",
+  "tipo": "disco movil",
+  "formacion": "Disco Móvil CHOCOLATE",
+  "parroquia": "",
+  "concello": "San Anton Caldas",
+  "provincia": "Pontevedra",
+  "lugarTexto": "San Anton Caldas (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195889/"
+ },
+ {
   "id": "193391",
   "fecha": "2026-07-04",
   "tipo": "orquesta",
@@ -15433,17 +15510,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/191683/"
  },
  {
-  "id": "193653",
-  "fecha": "2026-07-04",
-  "tipo": "grupo",
-  "formacion": "Grupo LA NAVE",
-  "parroquia": "Coia",
-  "concello": "Vigo",
-  "provincia": "Pontevedra",
-  "lugarTexto": "Coia, Vigo (Pontevedra)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/193653/"
- },
- {
   "id": "193654",
   "fecha": "2026-07-04",
   "tipo": "trio",
@@ -15453,6 +15519,17 @@
   "provincia": "Pontevedra",
   "lugarTexto": "Coia, Vigo (Pontevedra)",
   "url": "https://www.orquestasdegalicia.es/fiesta/193654/"
+ },
+ {
+  "id": "193653",
+  "fecha": "2026-07-04",
+  "tipo": "grupo",
+  "formacion": "Grupo LA NAVE",
+  "parroquia": "Coia",
+  "concello": "Vigo",
+  "provincia": "Pontevedra",
+  "lugarTexto": "Coia, Vigo (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/193653/"
  },
  {
   "id": "191760",
@@ -15510,6 +15587,17 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/193507/"
  },
  {
+  "id": "195895",
+  "fecha": "2026-07-04",
+  "tipo": "grupo",
+  "formacion": "Grupo LA TREMENDA",
+  "parroquia": "",
+  "concello": "baltar pontecandela",
+  "provincia": "Pontevedra",
+  "lugarTexto": "baltar pontecandela (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195895/"
+ },
+ {
   "id": "192754",
   "fecha": "2026-07-05",
   "tipo": "duo",
@@ -15521,17 +15609,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/192754/"
  },
  {
-  "id": "195132",
-  "fecha": "2026-07-05",
-  "tipo": "charanga",
-  "formacion": "Charanga A FELGA",
-  "parroquia": "Bóveda",
-  "concello": "Amoeiro",
-  "provincia": "Ourense",
-  "lugarTexto": "Bóveda, Amoeiro (Ourense)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/195132/"
- },
- {
   "id": "195133",
   "fecha": "2026-07-05",
   "tipo": "disco movil",
@@ -15541,6 +15618,17 @@
   "provincia": "Ourense",
   "lugarTexto": "Bóveda, Amoeiro (Ourense)",
   "url": "https://www.orquestasdegalicia.es/fiesta/195133/"
+ },
+ {
+  "id": "195132",
+  "fecha": "2026-07-05",
+  "tipo": "charanga",
+  "formacion": "Charanga A FELGA",
+  "parroquia": "Bóveda",
+  "concello": "Amoeiro",
+  "provincia": "Ourense",
+  "lugarTexto": "Bóveda, Amoeiro (Ourense)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195132/"
  },
  {
   "id": "195364",
@@ -15708,6 +15796,17 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/191640/"
  },
  {
+  "id": "195896",
+  "fecha": "2026-07-05",
+  "tipo": "grupo",
+  "formacion": "Grupo LA TREMENDA",
+  "parroquia": "Abelleira",
+  "concello": "Muros",
+  "provincia": "A Coruña",
+  "lugarTexto": "Abelleira, Muros (A Coruña)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195896/"
+ },
+ {
   "id": "195694",
   "fecha": "2026-07-05",
   "tipo": "grupo",
@@ -15739,6 +15838,17 @@
   "provincia": "A Coruña",
   "lugarTexto": "Oza-Cesuras (A Coruña)",
   "url": "https://www.orquestasdegalicia.es/fiesta/189086/"
+ },
+ {
+  "id": "195890",
+  "fecha": "2026-07-05",
+  "tipo": "disco movil",
+  "formacion": "Disco Móvil CHOCOLATE",
+  "parroquia": "",
+  "concello": "San Anton Caldas",
+  "provincia": "Pontevedra",
+  "lugarTexto": "San Anton Caldas (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195890/"
  },
  {
   "id": "195730",
@@ -16159,6 +16269,17 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/190761/"
  },
  {
+  "id": "195897",
+  "fecha": "2026-07-11",
+  "tipo": "grupo",
+  "formacion": "Grupo LA TREMENDA",
+  "parroquia": "Santa Cecilia",
+  "concello": "Foz",
+  "provincia": "Lugo",
+  "lugarTexto": "Santa Cecilia, Foz (Lugo)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195897/"
+ },
+ {
   "id": "195407",
   "fecha": "2026-07-11",
   "tipo": "disco movil",
@@ -16302,17 +16423,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/193977/"
  },
  {
-  "id": "187125",
-  "fecha": "2026-07-11",
-  "tipo": "duo",
-  "formacion": "Dúo ESTRELLAS",
-  "parroquia": "Santa Mariña",
-  "concello": "Ourol",
-  "provincia": "Lugo",
-  "lugarTexto": "Santa Mariña, Miñotos, Ourol (Lugo)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/187125/"
- },
- {
   "id": "189678",
   "fecha": "2026-07-11",
   "tipo": "duo",
@@ -16322,6 +16432,17 @@
   "provincia": "Lugo",
   "lugarTexto": "Santa Mariña, Miñotos, Ourol (Lugo)",
   "url": "https://www.orquestasdegalicia.es/fiesta/189678/"
+ },
+ {
+  "id": "187125",
+  "fecha": "2026-07-11",
+  "tipo": "duo",
+  "formacion": "Dúo ESTRELLAS",
+  "parroquia": "Santa Mariña",
+  "concello": "Ourol",
+  "provincia": "Lugo",
+  "lugarTexto": "Santa Mariña, Miñotos, Ourol (Lugo)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/187125/"
  },
  {
   "id": "195574",
@@ -16830,6 +16951,17 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/189679/"
  },
  {
+  "id": "195891",
+  "fecha": "2026-07-13",
+  "tipo": "disco movil",
+  "formacion": "Disco Móvil CHOCOLATE",
+  "parroquia": "Ces",
+  "concello": "Lousame",
+  "provincia": "A Coruña",
+  "lugarTexto": "Ces, Lousame (A Coruña)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195891/"
+ },
+ {
   "id": "193108",
   "fecha": "2026-07-14",
   "tipo": "charanga",
@@ -17334,6 +17466,17 @@
   "provincia": "Lugo",
   "lugarTexto": "san Cosme de barreiros (Lugo)",
   "url": "https://www.orquestasdegalicia.es/fiesta/188491/"
+ },
+ {
+  "id": "195898",
+  "fecha": "2026-07-17",
+  "tipo": "grupo",
+  "formacion": "Grupo LA TREMENDA",
+  "parroquia": "",
+  "concello": "trabo pontedeva",
+  "provincia": "Ourense",
+  "lugarTexto": "trabo pontedeva (Ourense)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195898/"
  },
  {
   "id": "194888",
@@ -17983,6 +18126,17 @@
   "provincia": "Lugo",
   "lugarTexto": "san Cosme de barreiros (Lugo)",
   "url": "https://www.orquestasdegalicia.es/fiesta/188492/"
+ },
+ {
+  "id": "195899",
+  "fecha": "2026-07-18",
+  "tipo": "grupo",
+  "formacion": "Grupo LA TREMENDA",
+  "parroquia": "",
+  "concello": "san xurxo ferrol",
+  "provincia": "A Coruña",
+  "lugarTexto": "san xurxo ferrol (A Coruña)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195899/"
  },
  {
   "id": "188696",
@@ -18865,6 +19019,17 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/191764/"
  },
  {
+  "id": "195900",
+  "fecha": "2026-07-25",
+  "tipo": "grupo",
+  "formacion": "Grupo LA TREMENDA",
+  "parroquia": "Santiago de Ois",
+  "concello": "Coirós",
+  "provincia": "A Coruña",
+  "lugarTexto": "Santiago de Ois, Coirós (A Coruña)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195900/"
+ },
+ {
   "id": "195636",
   "fecha": "2026-07-25",
   "tipo": "orquesta",
@@ -18887,17 +19052,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/190192/"
  },
  {
-  "id": "193764",
-  "fecha": "2026-07-25",
-  "tipo": "grupo",
-  "formacion": "Grupo LECER",
-  "parroquia": "Barallobre",
-  "concello": "Fene",
-  "provincia": "A Coruña",
-  "lugarTexto": "Barallobre, Fene (A Coruña)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/193764/"
- },
- {
   "id": "191765",
   "fecha": "2026-07-25",
   "tipo": "duo",
@@ -18907,6 +19061,17 @@
   "provincia": "A Coruña",
   "lugarTexto": "Barallobre, Fene (A Coruña)",
   "url": "https://www.orquestasdegalicia.es/fiesta/191765/"
+ },
+ {
+  "id": "193764",
+  "fecha": "2026-07-25",
+  "tipo": "grupo",
+  "formacion": "Grupo LECER",
+  "parroquia": "Barallobre",
+  "concello": "Fene",
+  "provincia": "A Coruña",
+  "lugarTexto": "Barallobre, Fene (A Coruña)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/193764/"
  },
  {
   "id": "195444",
@@ -19393,6 +19558,17 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/192758/"
  },
  {
+  "id": "195901",
+  "fecha": "2026-07-26",
+  "tipo": "grupo",
+  "formacion": "Grupo LA TREMENDA",
+  "parroquia": "",
+  "concello": "A Lama",
+  "provincia": "Pontevedra",
+  "lugarTexto": "A Lama (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195901/"
+ },
+ {
   "id": "189683",
   "fecha": "2026-07-26",
   "tipo": "duo",
@@ -19690,6 +19866,17 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/195329/"
  },
  {
+  "id": "195886",
+  "fecha": "2026-07-30",
+  "tipo": "orquesta",
+  "formacion": "Orquesta SUAVECITO",
+  "parroquia": "Pontearnelas",
+  "concello": "Vilanova de Arousa",
+  "provincia": "Pontevedra",
+  "lugarTexto": "Pontearnelas, Vilanova de Arousa (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195886/"
+ },
+ {
   "id": "195793",
   "fecha": "2026-07-30",
   "tipo": "charanga",
@@ -19776,6 +19963,17 @@
   "provincia": "Lugo",
   "lugarTexto": "Monterroso (Lugo)",
   "url": "https://www.orquestasdegalicia.es/fiesta/194352/"
+ },
+ {
+  "id": "195884",
+  "fecha": "2026-07-31",
+  "tipo": "artista",
+  "formacion": "Solista DANI PARDO",
+  "parroquia": "Ribas de Miño",
+  "concello": "O Páramo",
+  "provincia": "Lugo",
+  "lugarTexto": "Ribas de Miño, O Páramo (Lugo)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195884/"
  },
  {
   "id": "178409",
@@ -20537,6 +20735,17 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/194806/"
  },
  {
+  "id": "195892",
+  "fecha": "2026-08-02",
+  "tipo": "trio",
+  "formacion": "Trío LUCES DE BOHEMIA",
+  "parroquia": "San Clemente de Cesar",
+  "concello": "Caldas de Reis",
+  "provincia": "Pontevedra",
+  "lugarTexto": "San Clemente de Cesar, Caldas de Reis (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195892/"
+ },
+ {
   "id": "189100",
   "fecha": "2026-08-02",
   "tipo": "orquesta",
@@ -21285,17 +21494,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/190090/"
  },
  {
-  "id": "190850",
-  "fecha": "2026-08-07",
-  "tipo": "duo",
-  "formacion": "Dúo MAREMA",
-  "parroquia": "Lira",
-  "concello": "Salvaterra de Miño",
-  "provincia": "Pontevedra",
-  "lugarTexto": "Lira, Salvaterra de Miño (Pontevedra)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/190850/"
- },
- {
   "id": "190847",
   "fecha": "2026-08-07",
   "tipo": "trio",
@@ -21305,6 +21503,17 @@
   "provincia": "Pontevedra",
   "lugarTexto": "Lira, Salvaterra de Miño (Pontevedra)",
   "url": "https://www.orquestasdegalicia.es/fiesta/190847/"
+ },
+ {
+  "id": "190850",
+  "fecha": "2026-08-07",
+  "tipo": "duo",
+  "formacion": "Dúo MAREMA",
+  "parroquia": "Lira",
+  "concello": "Salvaterra de Miño",
+  "provincia": "Pontevedra",
+  "lugarTexto": "Lira, Salvaterra de Miño (Pontevedra)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/190850/"
  },
  {
   "id": "187144",
@@ -21714,17 +21923,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/188702/"
  },
  {
-  "id": "188968",
-  "fecha": "2026-08-08",
-  "tipo": "disco movil",
-  "formacion": "Disco Móvil VERBENA",
-  "parroquia": "Palmés",
-  "concello": "Ourense",
-  "provincia": "Ourense",
-  "lugarTexto": "Palmés, Ourense (Ourense)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/188968/"
- },
- {
   "id": "191951",
   "fecha": "2026-08-08",
   "tipo": "charanga",
@@ -21734,6 +21932,17 @@
   "provincia": "Ourense",
   "lugarTexto": "Palmés, Ourense (Ourense)",
   "url": "https://www.orquestasdegalicia.es/fiesta/191951/"
+ },
+ {
+  "id": "188968",
+  "fecha": "2026-08-08",
+  "tipo": "disco movil",
+  "formacion": "Disco Móvil VERBENA",
+  "parroquia": "Palmés",
+  "concello": "Ourense",
+  "provincia": "Ourense",
+  "lugarTexto": "Palmés, Ourense (Ourense)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/188968/"
  },
  {
   "id": "195465",
@@ -22671,17 +22880,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/185230/"
  },
  {
-  "id": "183563",
-  "fecha": "2026-08-14",
-  "tipo": "charanga",
-  "formacion": "Charanga BCB",
-  "parroquia": "Vilar de Ordelles",
-  "concello": "Esgos",
-  "provincia": "Ourense",
-  "lugarTexto": "Vilar de Ordelles, Esgos (Ourense)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/183563/"
- },
- {
   "id": "183660",
   "fecha": "2026-08-14",
   "tipo": "disco movil",
@@ -22691,6 +22889,17 @@
   "provincia": "Ourense",
   "lugarTexto": "Vilar de Ordelles, Esgos (Ourense)",
   "url": "https://www.orquestasdegalicia.es/fiesta/183660/"
+ },
+ {
+  "id": "183563",
+  "fecha": "2026-08-14",
+  "tipo": "charanga",
+  "formacion": "Charanga BCB",
+  "parroquia": "Vilar de Ordelles",
+  "concello": "Esgos",
+  "provincia": "Ourense",
+  "lugarTexto": "Vilar de Ordelles, Esgos (Ourense)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/183563/"
  },
  {
   "id": "189043",
@@ -25861,6 +26070,17 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/193762/"
  },
  {
+  "id": "195882",
+  "fecha": "2026-08-29",
+  "tipo": "duo",
+  "formacion": "Dúo CERBATANA SHOW",
+  "parroquia": "Viana do Bolo",
+  "concello": "San Agustin",
+  "provincia": "Ourense",
+  "lugarTexto": "Viana do Bolo, San Agustin (Ourense)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/195882/"
+ },
+ {
   "id": "191963",
   "fecha": "2026-08-29",
   "tipo": "charanga",
@@ -28116,17 +28336,6 @@
   "url": "https://www.orquestasdegalicia.es/fiesta/192474/"
  },
  {
-  "id": "191629",
-  "fecha": "2026-09-26",
-  "tipo": "charanga",
-  "formacion": "Charanga LEÑA VERDE",
-  "parroquia": "Beigondo",
-  "concello": "Santiso",
-  "provincia": "A Coruña",
-  "lugarTexto": "Beigondo, Santiso (A Coruña)",
-  "url": "https://www.orquestasdegalicia.es/fiesta/191629/"
- },
- {
   "id": "192471",
   "fecha": "2026-09-26",
   "tipo": "disco movil",
@@ -28136,6 +28345,17 @@
   "provincia": "A Coruña",
   "lugarTexto": "Beigondo, Santiso (A Coruña)",
   "url": "https://www.orquestasdegalicia.es/fiesta/192471/"
+ },
+ {
+  "id": "191629",
+  "fecha": "2026-09-26",
+  "tipo": "charanga",
+  "formacion": "Charanga LEÑA VERDE",
+  "parroquia": "Beigondo",
+  "concello": "Santiso",
+  "provincia": "A Coruña",
+  "lugarTexto": "Beigondo, Santiso (A Coruña)",
+  "url": "https://www.orquestasdegalicia.es/fiesta/191629/"
  },
  {
   "id": "189862",

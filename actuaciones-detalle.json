@@ -549,6 +549,14 @@
   "horario": "No disponible.",
   "servicios": []
  },
+ "195892": {
+  "id": "195892",
+  "lat": 42.632878,
+  "lng": -8.629982,
+  "terreno": "Hierba",
+  "horario": "Tarde | Noche",
+  "servicios": []
+ },
  "189013": {
   "id": "189013",
   "lat": 42.696461,
@@ -733,6 +741,14 @@
   "id": "191924",
   "lat": 43.299059,
   "lng": -8.473366,
+  "terreno": "",
+  "horario": "Vermú | Noche",
+  "servicios": []
+ },
+ "195896": {
+  "id": "195896",
+  "lat": 42.801117,
+  "lng": -9.026477,
   "terreno": "",
   "horario": "Vermú | Noche",
   "servicios": []
@@ -1069,6 +1085,14 @@
   "lng": -8.629982,
   "terreno": "",
   "horario": "Tarde | Noche",
+  "servicios": []
+ },
+ "195886": {
+  "id": "195886",
+  "lat": null,
+  "lng": null,
+  "terreno": "",
+  "horario": "Noche",
   "servicios": []
  },
  "190635": {
@@ -1533,6 +1557,14 @@
   "lng": -9.184593,
   "terreno": "",
   "horario": "Noche",
+  "servicios": []
+ },
+ "195900": {
+  "id": "195900",
+  "lat": 43.241844,
+  "lng": -8.123819,
+  "terreno": "",
+  "horario": "Vermú | Noche",
   "servicios": []
  },
  "186956": {
@@ -3140,6 +3172,14 @@
   "horario": "No disponible.",
   "servicios": []
  },
+ "195894": {
+  "id": "195894",
+  "lat": 42.420556,
+  "lng": -8.15707,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
  "193599": {
   "id": "193599",
   "lat": 43.739755,
@@ -3806,6 +3846,14 @@
   "lng": -7.178004,
   "terreno": "",
   "horario": "Vermú | Noche",
+  "servicios": []
+ },
+ "195884": {
+  "id": "195884",
+  "lat": 42.811137,
+  "lng": -7.58225,
+  "terreno": "",
+  "horario": "Noche",
   "servicios": []
  },
  "195747": {
@@ -5080,6 +5128,14 @@
   "horario": "Noche",
   "servicios": []
  },
+ "195901": {
+  "id": "195901",
+  "lat": 42.397752,
+  "lng": -8.44188,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
  "195263": {
   "id": "195263",
   "lat": 41.903437,
@@ -5473,6 +5529,14 @@
   "horario": "Vermú (14:15) | Tarde (21:30) | Noche",
   "servicios": []
  },
+ "195893": {
+  "id": "195893",
+  "lat": null,
+  "lng": null,
+  "terreno": "Cemento",
+  "horario": "Vermú | Tarde",
+  "servicios": []
+ },
  "190467": {
   "id": "190467",
   "lat": 42.582397,
@@ -5770,6 +5834,14 @@
   "id": "194340",
   "lat": 42.699084,
   "lng": -8.245127,
+  "terreno": "",
+  "horario": "No disponible.",
+  "servicios": []
+ },
+ "195891": {
+  "id": "195891",
+  "lat": 42.743985,
+  "lng": -8.844535,
   "terreno": "",
   "horario": "No disponible.",
   "servicios": []
@@ -6660,6 +6732,14 @@
   "lng": null,
   "terreno": "",
   "horario": "Vermú",
+  "servicios": []
+ },
+ "195899": {
+  "id": "195899",
+  "lat": null,
+  "lng": null,
+  "terreno": "",
+  "horario": "Vermú | Noche",
   "servicios": []
  },
  "195084": {
@@ -8284,6 +8364,14 @@
   "horario": "Vermú | Noche",
   "servicios": []
  },
+ "195898": {
+  "id": "195898",
+  "lat": null,
+  "lng": null,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
  "190528": {
   "id": "190528",
   "lat": 42.754613,
@@ -9126,6 +9214,14 @@
   "id": "188656",
   "lat": 43.596978,
   "lng": -8.18799,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
+ "195897": {
+  "id": "195897",
+  "lat": 43.545882,
+  "lng": -7.346155,
   "terreno": "",
   "horario": "Noche",
   "servicios": []
@@ -10003,6 +10099,14 @@
   "horario": "Vermú | Noche",
   "servicios": []
  },
+ "195882": {
+  "id": "195882",
+  "lat": null,
+  "lng": null,
+  "terreno": "Cemento",
+  "horario": "Tarde (21:30) | Noche (23:30)",
+  "servicios": []
+ },
  "193731": {
   "id": "193731",
   "lat": 43.120908,
@@ -10109,6 +10213,14 @@
   "id": "194581",
   "lat": 42.850742,
   "lng": -8.927894,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
+ "195881": {
+  "id": "195881",
+  "lat": 42.837481,
+  "lng": -8.546196,
   "terreno": "",
   "horario": "Noche",
   "servicios": []
@@ -10683,6 +10795,14 @@
   "id": "195036",
   "lat": 42.281853,
   "lng": -8.60917,
+  "terreno": "",
+  "horario": "No disponible.",
+  "servicios": []
+ },
+ "195890": {
+  "id": "195890",
+  "lat": null,
+  "lng": null,
   "terreno": "",
   "horario": "No disponible.",
   "servicios": []
@@ -12193,6 +12313,14 @@
   "horario": "Noche",
   "servicios": []
  },
+ "195883": {
+  "id": "195883",
+  "lat": 42.89295,
+  "lng": -8.471024,
+  "terreno": "",
+  "horario": "No disponible.",
+  "servicios": []
+ },
  "188713": {
   "id": "188713",
   "lat": 43.281056,
@@ -12846,6 +12974,14 @@
   "lng": -7.726875,
   "terreno": "",
   "horario": "Noche",
+  "servicios": []
+ },
+ "195889": {
+  "id": "195889",
+  "lat": null,
+  "lng": null,
+  "terreno": "",
+  "horario": "No disponible.",
   "servicios": []
  },
  "185974": {
@@ -14828,6 +14964,17 @@
   "horario": "Tarde (20:00)",
   "servicios": []
  },
+ "195888": {
+  "id": "195888",
+  "lat": null,
+  "lng": null,
+  "terreno": "Asfalto",
+  "horario": "Tarde",
+  "servicios": [
+   "Aparcamiento",
+   "Bocateria"
+  ]
+ },
  "194103": {
   "id": "194103",
   "lat": 43.2740308,
@@ -15812,6 +15959,14 @@
    "Aparcamiento",
    "Bocateria"
   ]
+ },
+ "195895": {
+  "id": "195895",
+  "lat": null,
+  "lng": null,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
  },
  "194634": {
   "id": "194634",
