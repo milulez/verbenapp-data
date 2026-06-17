@@ -1178,6 +1178,19 @@
   "rankingPuesto": null
  },
  {
+  "slug": "disco-movil_euphoria-disco-show",
+  "tipo": "disco-movil",
+  "nombre": "Disco Móvil EUPHORIA DISCO SHOW",
+  "nombreNorm": "movileuphoriadiscoshow",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id779portada.jpg?lastMod=20190107204806",
+  "anoFundacion": 2017,
+  "descripcion": "Información de Disco Móvil EUPHORIA DISCO SHOW en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/DiscoMovilEuphoria"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "disco-movil_fabrik",
   "tipo": "disco-movil",
   "nombre": "Disco Móvil FABRIK",
@@ -3442,6 +3455,20 @@
   "rankingPuesto": null
  },
  {
+  "slug": "trio_azabache",
+  "tipo": "trio",
+  "nombre": "Trío AZABACHE",
+  "nombreNorm": "azabache",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id671portada.jpg?lastMod=20250512123440",
+  "anoFundacion": 2000,
+  "descripcion": "Información de Trío AZABACHE en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/grupomusicalazabache",
+   "https://www.instagram.com/grupo_azabache_poio"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "trio_azar",
   "tipo": "trio",
   "nombre": "Trío AZAR",
@@ -3641,6 +3668,20 @@
   "redes": [
    "https://www.facebook.com/762385490556550",
    "https://www.instagram.com/tapyokafusion"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "trio_tic-tac",
+  "tipo": "trio",
+  "nombre": "Trío TIC TAC",
+  "nombreNorm": "tictac",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id948portada.jpg?lastMod=20260102135731",
+  "anoFundacion": 2021,
+  "descripcion": "Información de Trío TIC TAC en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/trio.tic.tac",
+   "https://www.instagram.com/triotictac"
   ],
   "rankingPuesto": null
  },
