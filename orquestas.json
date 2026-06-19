@@ -1357,6 +1357,19 @@
   "rankingPuesto": null
  },
  {
+  "slug": "disco-movil_vas-bailar",
+  "tipo": "disco-movil",
+  "nombre": "Disco Móvil VAS BAILAR",
+  "nombreNorm": "movilvasbailar",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id1047portada.jpg?lastMod=20251010174230",
+  "anoFundacion": null,
+  "descripcion": "Información de Disco Móvil VAS BAILAR en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/DJGrandDeFiesta"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "disco-movil_verbena",
   "tipo": "disco-movil",
   "nombre": "Disco Móvil VERBENA",
@@ -1987,6 +2000,19 @@
    "https://instagram.com/grupo.arizona",
    "https://www.facebook.com/ArizonaGrupo",
    "https://www.instagram.com/grupo.arizona"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "grupo_aroma",
+  "tipo": "grupo",
+  "nombre": "Grupo AROMA",
+  "nombreNorm": "aroma",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id233portada.jpg?lastMod=20181119004916",
+  "anoFundacion": 2001,
+  "descripcion": "Información de Grupo AROMA en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/Aroma.Grupo"
   ],
   "rankingPuesto": null
  },
@@ -2819,6 +2845,20 @@
   "rankingPuesto": null
  },
  {
+  "slug": "grupo_sensacion",
+  "tipo": "grupo",
+  "nombre": "Grupo SENSACIÓN",
+  "nombreNorm": "sensacion",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id1038portada.jpg?lastMod=20260116225827",
+  "anoFundacion": null,
+  "descripcion": "Información de Grupo SENSACIÓN en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/SensacionGrupoOficial",
+   "https://www.instagram.com/gruposensacion__"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "grupo_talisman",
   "tipo": "grupo",
   "nombre": "Grupo TALISMÁN",
@@ -3258,6 +3298,20 @@
   "rankingPuesto": null
  },
  {
+  "slug": "artista_fatima-pego",
+  "tipo": "artista",
+  "nombre": "Solista FÁTIMA PEGO",
+  "nombreNorm": "fatimapego",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id1039portada.jpg?lastMod=20250808150724",
+  "anoFundacion": null,
+  "descripcion": "Información de Solista FÁTIMA PEGO en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/fatima.pego.5",
+   "https://www.instagram.com/fatima_pego"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "artista_jj-compota",
   "tipo": "artista",
   "nombre": "Solista JJ COMPOTA",
@@ -3492,6 +3546,21 @@
   "redes": [
    "https://www.facebook.com/102124252474761",
    "https://www.instagram.com/triobanarama"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "trio_costa-norte",
+  "tipo": "trio",
+  "nombre": "Trío COSTA NORTE",
+  "nombreNorm": "costanorte",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id435portada.jpg?lastMod=20220906182008",
+  "anoFundacion": 2009,
+  "descripcion": "Información de Trío COSTA NORTE en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/costanorte.grupo",
+   "https://www.facebook.com/costanorteg",
+   "https://www.instagram.com/costanortegrupo"
   ],
   "rankingPuesto": null
  },

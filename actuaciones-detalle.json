@@ -1658,6 +1658,14 @@
   "horario": "Vermú | Noche",
   "servicios": []
  },
+ "195974": {
+  "id": "195974",
+  "lat": 43.290056,
+  "lng": -8.146078,
+  "terreno": "",
+  "horario": "Vermú | Noche",
+  "servicios": []
+ },
  "184595": {
   "id": "184595",
   "lat": 43.041016,
@@ -2642,6 +2650,14 @@
   "horario": "Noche",
   "servicios": []
  },
+ "195971": {
+  "id": "195971",
+  "lat": 42.659869,
+  "lng": -8.113704,
+  "terreno": "",
+  "horario": "Tarde",
+  "servicios": []
+ },
  "195125": {
   "id": "195125",
   "lat": 42.408344,
@@ -3278,6 +3294,14 @@
   "id": "193599",
   "lat": 43.739755,
   "lng": -7.870392,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
+ "196007": {
+  "id": "196007",
+  "lat": 42.664588,
+  "lng": -8.483587,
   "terreno": "",
   "horario": "Noche",
   "servicios": []
@@ -4013,6 +4037,18 @@
   "terreno": "",
   "horario": "No disponible.",
   "servicios": []
+ },
+ "196012": {
+  "id": "196012",
+  "lat": 42.525275,
+  "lng": -8.638963,
+  "terreno": "Tierra",
+  "horario": "Noche (22:30)",
+  "servicios": [
+   "Aparcamiento",
+   "Bocateria",
+   "Atracciones"
+  ]
  },
  "194552": {
   "id": "194552",
@@ -6382,6 +6418,14 @@
   "horario": "Tarde",
   "servicios": []
  },
+ "196008": {
+  "id": "196008",
+  "lat": 42.647344,
+  "lng": -8.882839,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
  "194748": {
   "id": "194748",
   "lat": 42.881138,
@@ -7211,6 +7255,14 @@
   "lng": -8.117296,
   "terreno": "",
   "horario": "Noche",
+  "servicios": []
+ },
+ "195981": {
+  "id": "195981",
+  "lat": 42.822972,
+  "lng": -7.312783,
+  "terreno": "",
+  "horario": "Vermú | Noche",
   "servicios": []
  },
  "187061": {
@@ -8127,6 +8179,14 @@
   "horario": "No disponible.",
   "servicios": []
  },
+ "195970": {
+  "id": "195970",
+  "lat": 43.615954,
+  "lng": -7.643989,
+  "terreno": "",
+  "horario": "Noche (23:00)",
+  "servicios": []
+ },
  "194465": {
   "id": "194465",
   "lat": 43.32713,
@@ -8832,6 +8892,14 @@
   "horario": "No disponible.",
   "servicios": []
  },
+ "195986": {
+  "id": "195986",
+  "lat": null,
+  "lng": null,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
  "194626": {
   "id": "194626",
   "lat": 43.079859,
@@ -8894,6 +8962,14 @@
   "lng": -7.595585,
   "terreno": "",
   "horario": "Vermú | Noche",
+  "servicios": []
+ },
+ "196005": {
+  "id": "196005",
+  "lat": null,
+  "lng": null,
+  "terreno": "",
+  "horario": "Noche",
   "servicios": []
  },
  "191817": {
@@ -11013,6 +11089,14 @@
   "horario": "No disponible.",
   "servicios": []
  },
+ "195965": {
+  "id": "195965",
+  "lat": 42.415019,
+  "lng": -7.062374,
+  "terreno": "",
+  "horario": "Tarde | Noche",
+  "servicios": []
+ },
  "194828": {
   "id": "194828",
   "lat": 43.36827,
@@ -11992,6 +12076,14 @@
   "horario": "No disponible.",
   "servicios": []
  },
+ "196004": {
+  "id": "196004",
+  "lat": 41.975128,
+  "lng": -7.512454,
+  "terreno": "",
+  "horario": "Vermú",
+  "servicios": []
+ },
  "195370": {
   "id": "195370",
   "lat": 43.663646,
@@ -12045,6 +12137,14 @@
    "Atracciones"
   ]
  },
+ "195984": {
+  "id": "195984",
+  "lat": null,
+  "lng": null,
+  "terreno": "",
+  "horario": "Vermú | Noche",
+  "servicios": []
+ },
  "191431": {
   "id": "191431",
   "lat": 43.739755,
@@ -12067,6 +12167,14 @@
   "lng": -7.543111,
   "terreno": "",
   "horario": "Noche",
+  "servicios": []
+ },
+ "196003": {
+  "id": "196003",
+  "lat": 42.913705,
+  "lng": -8.013695,
+  "terreno": "",
+  "horario": "No disponible.",
   "servicios": []
  },
  "194472": {
@@ -14100,6 +14208,14 @@
   "horario": "No disponible.",
   "servicios": []
  },
+ "195985": {
+  "id": "195985",
+  "lat": null,
+  "lng": null,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
  "193054": {
   "id": "193054",
   "lat": 42.273216,
@@ -14138,6 +14254,14 @@
   "lng": -8.013695,
   "terreno": "",
   "horario": "Noche",
+  "servicios": []
+ },
+ "195973": {
+  "id": "195973",
+  "lat": 43.1514,
+  "lng": -7.6914933,
+  "terreno": "",
+  "horario": "No disponible.",
   "servicios": []
  },
  "193193": {
@@ -16010,6 +16134,18 @@
   "horario": "Noche",
   "servicios": []
  },
+ "196014": {
+  "id": "196014",
+  "lat": 42.525275,
+  "lng": -8.638963,
+  "terreno": "Tierra",
+  "horario": "Tarde (20:00)",
+  "servicios": [
+   "Aparcamiento",
+   "Bocateria",
+   "Atracciones"
+  ]
+ },
  "192442": {
   "id": "192442",
   "lat": 42.432415,
@@ -17597,6 +17733,14 @@
   "lng": -8.738792,
   "terreno": "",
   "horario": "No disponible.",
+  "servicios": []
+ },
+ "195978": {
+  "id": "195978",
+  "lat": 43.44848,
+  "lng": -7.298793,
+  "terreno": "",
+  "horario": "Vermú (14:30) | Noche (22:00)",
   "servicios": []
  },
  "195322": {
