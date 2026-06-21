@@ -563,6 +563,21 @@
   "rankingPuesto": 40
  },
  {
+  "slug": "orquesta_marsella",
+  "tipo": "orquesta",
+  "nombre": "Orquesta MARSELLA",
+  "nombreNorm": "marsella",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id738portada.jpg?lastMod=20251009030536",
+  "anoFundacion": 2017,
+  "descripcion": "Información de Orquesta MARSELLA en la app Orquestas de Galicia.",
+  "redes": [
+   "http://twitter.com/orq_marsella",
+   "https://www.facebook.com/orquestamarsella",
+   "https://www.instagram.com/orquestamarsella"
+  ],
+  "rankingPuesto": 41
+ },
+ {
   "slug": "orquesta_escaparate",
   "tipo": "orquesta",
   "nombre": "Orquesta ESCAPARATE",
@@ -1191,6 +1206,17 @@
   "rankingPuesto": null
  },
  {
+  "slug": "disco-movil_eventec",
+  "tipo": "disco-movil",
+  "nombre": "Disco Móvil EVENTEC",
+  "nombreNorm": "movileventec",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/portada_no_disponible.png",
+  "anoFundacion": null,
+  "descripcion": "Información de Disco Móvil EVENTEC en la app Orquestas de Galicia.",
+  "redes": [],
+  "rankingPuesto": null
+ },
+ {
   "slug": "disco-movil_fabrik",
   "tipo": "disco-movil",
   "nombre": "Disco Móvil FABRIK",
@@ -1526,6 +1552,19 @@
   "rankingPuesto": null
  },
  {
+  "slug": "duo_de-festa",
+  "tipo": "duo",
+  "nombre": "Dúo DE FESTA",
+  "nombreNorm": "defesta",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id292portada.jpg?lastMod=20240723202306",
+  "anoFundacion": 2012,
+  "descripcion": "Información de Dúo DE FESTA en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/DuoDeFesta"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "duo_deluxe",
   "tipo": "duo",
   "nombre": "Dúo DELUXE",
@@ -1578,6 +1617,20 @@
    "http://twitter.com/DuoEclipse",
    "https://www.facebook.com/859155160804351",
    "https://www.instagram.com/duo.eclipse"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "duo_en-clave-de-ti",
+  "tipo": "duo",
+  "nombre": "Dúo EN CLAVE DE TI",
+  "nombreNorm": "enclavedeti",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id808portada.jpg?lastMod=20260611040220",
+  "anoFundacion": null,
+  "descripcion": "Información de Dúo EN CLAVE DE TI en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/grupoenclavedeti",
+   "https://www.instagram.com/duoenclavedeti"
   ],
   "rankingPuesto": null
  },
@@ -1694,6 +1747,19 @@
   "rankingPuesto": null
  },
  {
+  "slug": "duo_matices",
+  "tipo": "duo",
+  "nombre": "Dúo MATICES",
+  "nombreNorm": "matices",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id975portada.jpg?lastMod=20240423165659",
+  "anoFundacion": null,
+  "descripcion": "Información de Dúo MATICES en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.instagram.com/duo_matices"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "duo_musical-aires-de-broña",
   "tipo": "duo",
   "nombre": "Dúo MUSICAL AIRES DE BROÑA",
@@ -1715,6 +1781,19 @@
   "anoFundacion": null,
   "descripcion": "Información de Dúo OS TRASNOS en la app Orquestas de Galicia.",
   "redes": [],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "duo_platino",
+  "tipo": "duo",
+  "nombre": "Dúo PLATINO",
+  "nombreNorm": "platino",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id611portada.jpg?lastMod=20240906123852",
+  "anoFundacion": 1994,
+  "descripcion": "Información de Dúo PLATINO en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/duoplatino"
+  ],
   "rankingPuesto": null
  },
  {
@@ -1834,6 +1913,19 @@
   "descripcion": "Información de Dúo XILO & CARLOS en la app Orquestas de Galicia.",
   "redes": [
    "https://www.facebook.com/100009834576890"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "duo_elite",
+  "tipo": "duo",
+  "nombre": "Dúo ÉLITE",
+  "nombreNorm": "elite",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id465portada.jpg?lastMod=20260320152920",
+  "anoFundacion": 2006,
+  "descripcion": "Información de Dúo ÉLITE en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.instagram.com/duo_elite_"
   ],
   "rankingPuesto": null
  },
@@ -2115,6 +2207,20 @@
    "http://twitter.com/claxxongrupo",
    "https://www.facebook.com/claxxon",
    "https://www.instagram.com/grupoclaxxon"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "grupo_da-silva",
+  "tipo": "grupo",
+  "nombre": "Grupo DA SILVA",
+  "nombreNorm": "dasilva",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id944portada.jpg?lastMod=20240629202610",
+  "anoFundacion": 2001,
+  "descripcion": "Información de Grupo DA SILVA en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/100057097314891",
+   "https://www.instagram.com/grupodasilvaoficial"
   ],
   "rankingPuesto": null
  },
@@ -2633,6 +2739,20 @@
   "rankingPuesto": null
  },
  {
+  "slug": "grupo_mar-d´arousa",
+  "tipo": "grupo",
+  "nombre": "Grupo MAR D´AROUSA",
+  "nombreNorm": "mardarousa",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id885portada.jpg?lastMod=20260126204306",
+  "anoFundacion": 2015,
+  "descripcion": "Información de Grupo MAR D´AROUSA en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/100063725281160",
+   "https://www.instagram.com/grupomardearousa"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "grupo_master",
   "tipo": "grupo",
   "nombre": "Grupo MASTER",
@@ -2740,6 +2860,20 @@
   "redes": [
    "https://www.facebook.com/grupopasion.naron",
    "https://www.instagram.com/grupo_pasion_naron"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "grupo_pekados",
+  "tipo": "grupo",
+  "nombre": "Grupo PEKADOS",
+  "nombreNorm": "pekados",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id183portada.jpg?lastMod=20260129155454",
+  "anoFundacion": 2009,
+  "descripcion": "Información de Grupo PEKADOS en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/61553919601599",
+   "https://www.instagram.com/grupopekados"
   ],
   "rankingPuesto": null
  },
@@ -3010,6 +3144,19 @@
   "anoFundacion": null,
   "descripcion": "Información de Orquesta COSTA BLANCA en la app Orquestas de Galicia.",
   "redes": [],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "orquesta_costa-norte",
+  "tipo": "orquesta",
+  "nombre": "Orquesta COSTA NORTE",
+  "nombreNorm": "costanorte",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id440portada.jpg?lastMod=20170303205514",
+  "anoFundacion": 2013,
+  "descripcion": "Información de Orquesta COSTA NORTE en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/1637111626515646"
+  ],
   "rankingPuesto": null
  },
  {

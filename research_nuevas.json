@@ -3883,6 +3883,25 @@
  },
  {
   "parroquia": "O Valadouro",
+  "nombre": "Valadouro Rock",
+  "fechaConfianza": "probable",
+  "fecha2026": "2026-06-22",
+  "fechaFin2026": null,
+  "fundacion": null,
+  "historiaCorta": "Festival de música rock del concello, con conciertos en directo.",
+  "historiaLarga": null,
+  "tradicion": "Festival musical de verano.",
+  "gastronomia": [],
+  "servicios": [],
+  "programa": "Conciertos de rock en directo.",
+  "fuentes": [
+   "https://www.paxinasgalegas.es/fiestas/valadouro-rock-37781.html"
+  ],
+  "concello": "O Valadouro",
+  "provincia": "Lugo"
+ },
+ {
+  "parroquia": "O Valadouro",
   "nombre": "Mostra Folclórica",
   "fechaConfianza": "probable",
   "fecha2026": "2026-08-31",
