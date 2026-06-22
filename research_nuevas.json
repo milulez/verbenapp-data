@@ -3703,28 +3703,6 @@
   "provincia": "Lugo"
  },
  {
-  "parroquia": "Pantón",
-  "nombre": "Santa Isabel de Bazal",
-  "fecha2026": null,
-  "fechaFin2026": null,
-  "fechaConfianza": "probable",
-  "fechasPrevias": {
-   "recurrente": "primeros de julio (4-6)"
-  },
-  "fundacion": null,
-  "historiaCorta": "Fiesta religiosa en honor a Santa Isabel en el lugar de Bazal, a comienzos de julio. Romería de aldea con misa y procesión.",
-  "historiaLarga": null,
-  "gastronomia": [],
-  "servicios": [],
-  "tradicion": null,
-  "programa": null,
-  "fuentes": [
-   "https://www.paxinasgalegas.es/fiestas/fiestas-panton-134.html"
-  ],
-  "concello": "Pantón",
-  "provincia": "Lugo"
- },
- {
   "parroquia": "San Román de Acedre",
   "nombre": "Festas Patronais de San Román de Acedre",
   "fecha2026": null,
@@ -5786,25 +5764,6 @@
    "https://www.paxinasgalegas.es/fiestas/fiestas-toques-84.html"
   ],
   "concello": "Toques",
-  "provincia": "A Coruña"
- },
- {
-  "parroquia": "Marcelle",
-  "nombre": "Festas de Marcelle",
-  "fecha2026": "2026-08-30",
-  "fechaFin2026": "2026-09-01",
-  "fechaConfianza": "probable",
-  "fundacion": null,
-  "historiaCorta": "Fiestas de Marcelle en honor al Santísimo Sacramento, la Inmaculada Concepción, la Virgen de los Dolores y San Roque.",
-  "historiaLarga": null,
-  "gastronomia": [],
-  "servicios": [],
-  "tradicion": null,
-  "programa": "Actuaciones musicales y variados actos religiosos durante tres días.",
-  "fuentes": [
-   "https://www.paxinasgalegas.es/fiestas/fiestas-a-ba%C3%B1a-7.html"
-  ],
-  "concello": "A Baña",
   "provincia": "A Coruña"
  },
  {

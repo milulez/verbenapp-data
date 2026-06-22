@@ -919,6 +919,19 @@
   "rankingPuesto": null
  },
  {
+  "slug": "charanga_los-santos",
+  "tipo": "charanga",
+  "nombre": "Charanga LOS SANTOS",
+  "nombreNorm": "lossantos",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id1066portada.jpg?lastMod=20260621125713",
+  "anoFundacion": 2026,
+  "descripcion": "Información de Charanga LOS SANTOS en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.instagram.com/charangalossantos"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "charanga_los-tamega",
   "tipo": "charanga",
   "nombre": "Charanga LOS TÁMEGA",
@@ -3270,6 +3283,20 @@
   "redes": [
    "https://www.facebook.com/malibuu.show",
    "https://www.instagram.com/orquestamalibushow"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "orquesta_maremagnum",
+  "tipo": "orquesta",
+  "nombre": "Orquesta MAREMAGNUM",
+  "nombreNorm": "maremagnum",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id783portada.jpg?lastMod=20250826073855",
+  "anoFundacion": 2017,
+  "descripcion": "Información de Orquesta MAREMAGNUM en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/MaremagnumOrquestaShow",
+   "https://www.instagram.com/maremagnumorquestashow"
   ],
   "rankingPuesto": null
  },
