@@ -1026,6 +1026,33 @@
   "rankingPuesto": null
  },
  {
+  "slug": "charanga_os-celtas",
+  "tipo": "charanga",
+  "nombre": "Charanga OS CELTAS",
+  "nombreNorm": "osceltas",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id472portada.jpg?lastMod=20150822003656",
+  "anoFundacion": 1992,
+  "descripcion": "Información de Charanga OS CELTAS en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/100007131877690"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "charanga_os-kokakolas",
+  "tipo": "charanga",
+  "nombre": "Charanga OS KOKAKOLAS",
+  "nombreNorm": "oskokakolas",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id1020portada.jpg?lastMod=20250413122200",
+  "anoFundacion": 2023,
+  "descripcion": "Información de Charanga OS KOKAKOLAS en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/61554155221454",
+   "https://www.instagram.com/charanga_os_kokakolas"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "charanga_os-pendellos",
   "tipo": "charanga",
   "nombre": "Charanga OS PENDELLOS",
@@ -2653,6 +2680,20 @@
   "rankingPuesto": null
  },
  {
+  "slug": "grupo_los-adrianos",
+  "tipo": "grupo",
+  "nombre": "Grupo LOS ADRIANOS",
+  "nombreNorm": "losadrianos",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id887portada.jpg?lastMod=20260116100658",
+  "anoFundacion": 1988,
+  "descripcion": "Información de Grupo LOS ADRIANOS en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/61560553644331",
+   "https://www.instagram.com/grupolosadrianos"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "grupo_los-coleguitas",
   "tipo": "grupo",
   "nombre": "Grupo LOS COLEGUITAS",
@@ -3486,6 +3527,20 @@
   "rankingPuesto": null
  },
  {
+  "slug": "artista_iria-gonzalez",
+  "tipo": "artista",
+  "nombre": "Solista IRIA GONZÁLEZ",
+  "nombreNorm": "iriagonzalez",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id1064portada.jpg?lastMod=20260609185117",
+  "anoFundacion": 2026,
+  "descripcion": "Información de Solista IRIA GONZÁLEZ en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/iria.gonzalez.1238",
+   "https://www.instagram.com/iria_musica"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "artista_jj-compota",
   "tipo": "artista",
   "nombre": "Solista JJ COMPOTA",
@@ -3624,6 +3679,20 @@
   "redes": [
    "https://www.facebook.com/100078229611962",
    "https://www.instagram.com/xilocoruna"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "trio_3.com",
+  "tipo": "trio",
+  "nombre": "Trío 3.COM",
+  "nombreNorm": "3com",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id626portada.jpg?lastMod=20180116223714",
+  "anoFundacion": 1992,
+  "descripcion": "Información de Trío 3.COM en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/311609085537736",
+   "https://www.instagram.com/com_galicia"
   ],
   "rankingPuesto": null
  },
