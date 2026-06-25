@@ -2628,6 +2628,14 @@
   "horario": "Noche (22:00)",
   "servicios": []
  },
+ "196431": {
+  "id": "196431",
+  "lat": 42.438603,
+  "lng": -8.690669,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
  "194514": {
   "id": "194514",
   "lat": 42.145985,
@@ -2754,6 +2762,18 @@
   "terreno": "",
   "horario": "Noche",
   "servicios": []
+ },
+ "196430": {
+  "id": "196430",
+  "lat": 42.825163,
+  "lng": -8.593451,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": [
+   "Aparcamiento",
+   "Bocateria",
+   "Atracciones"
+  ]
  },
  "195879": {
   "id": "195879",
@@ -4740,6 +4760,14 @@
   "horario": "No disponible.",
   "servicios": []
  },
+ "196458": {
+  "id": "196458",
+  "lat": 42.848987,
+  "lng": -8.636153,
+  "terreno": "",
+  "horario": "Tarde | Noche",
+  "servicios": []
+ },
  "192239": {
   "id": "192239",
   "lat": 43.446045,
@@ -5100,6 +5128,14 @@
   "id": "186036",
   "lat": 43.334312,
   "lng": -7.278238,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
+ "196473": {
+  "id": "196473",
+  "lat": 42.761177,
+  "lng": -9.086207,
   "terreno": "",
   "horario": "Noche",
   "servicios": []
@@ -6044,6 +6080,14 @@
   "lng": -8.496124,
   "terreno": "",
   "horario": "No disponible.",
+  "servicios": []
+ },
+ "196471": {
+  "id": "196471",
+  "lat": 43.225744,
+  "lng": -8.821981,
+  "terreno": "",
+  "horario": "Vermú | Noche",
   "servicios": []
  },
  "196318": {
@@ -8103,6 +8147,14 @@
   "horario": "Vermú | Noche",
   "servicios": []
  },
+ "196429": {
+  "id": "196429",
+  "lat": 43.386606,
+  "lng": -8.193936,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
  "187061": {
   "id": "187061",
   "lat": 42.307571,
@@ -8349,6 +8401,14 @@
   "lng": -8.706165,
   "terreno": "",
   "horario": "Noche",
+  "servicios": []
+ },
+ "196465": {
+  "id": "196465",
+  "lat": 43.56393,
+  "lng": -7.64216,
+  "terreno": "",
+  "horario": "Vermú | Noche",
   "servicios": []
  },
  "195643": {
@@ -9280,6 +9340,16 @@
   "terreno": "Asfalto",
   "horario": "Vermú | Tarde",
   "servicios": []
+ },
+ "196463": {
+  "id": "196463",
+  "lat": 43.303792,
+  "lng": -8.077998,
+  "terreno": "",
+  "horario": "Vermú (14:00)",
+  "servicios": [
+   "Carpa"
+  ]
  },
  "189997": {
   "id": "189997",
@@ -10856,6 +10926,14 @@
   "horario": "Vermú | Tarde",
   "servicios": []
  },
+ "196424": {
+  "id": "196424",
+  "lat": 43.165951,
+  "lng": -8.263986,
+  "terreno": "",
+  "horario": "Vermú",
+  "servicios": []
+ },
  "190538": {
   "id": "190538",
   "lat": 43.258286,
@@ -11691,6 +11769,14 @@
   "horario": "Vermú | Noche",
   "servicios": []
  },
+ "196467": {
+  "id": "196467",
+  "lat": 43.281054,
+  "lng": -8.424267,
+  "terreno": "",
+  "horario": "Vermú | Noche",
+  "servicios": []
+ },
  "193459": {
   "id": "193459",
   "lat": 42.259716,
@@ -12122,6 +12208,14 @@
   "lng": -8.862218,
   "terreno": "",
   "horario": "Vermú",
+  "servicios": []
+ },
+ "196425": {
+  "id": "196425",
+  "lat": 42.061023,
+  "lng": -7.72727,
+  "terreno": "",
+  "horario": "Tarde | Noche",
   "servicios": []
  },
  "193696": {
@@ -13013,6 +13107,14 @@
   "horario": "Vermú | Noche",
   "servicios": []
  },
+ "196428": {
+  "id": "196428",
+  "lat": 43.386606,
+  "lng": -8.193936,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
  "192046": {
   "id": "192046",
   "lat": 42.371145,
@@ -13440,6 +13542,14 @@
   "id": "193940",
   "lat": 43.34483,
   "lng": -7.543111,
+  "terreno": "",
+  "horario": "Noche",
+  "servicios": []
+ },
+ "196468": {
+  "id": "196468",
+  "lat": null,
+  "lng": null,
   "terreno": "",
   "horario": "Noche",
   "servicios": []
@@ -14301,6 +14411,14 @@
   "lng": -7.5056453,
   "terreno": "",
   "horario": "Vermú",
+  "servicios": []
+ },
+ "196470": {
+  "id": "196470",
+  "lat": 42.652302,
+  "lng": -8.818522,
+  "terreno": "",
+  "horario": "No disponible.",
   "servicios": []
  },
  "189368": {
@@ -17348,6 +17466,14 @@
   "lng": -8.235541,
   "terreno": "",
   "horario": "Vermú",
+  "servicios": []
+ },
+ "196452": {
+  "id": "196452",
+  "lat": null,
+  "lng": null,
+  "terreno": "",
+  "horario": "Vermú | Noche",
   "servicios": []
  },
  "196056": {

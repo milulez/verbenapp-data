@@ -2221,6 +2221,20 @@
   "rankingPuesto": null
  },
  {
+  "slug": "grupo_cayenna",
+  "tipo": "grupo",
+  "nombre": "Grupo CAYENNA",
+  "nombreNorm": "cayenna",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id1042portada.jpg?lastMod=20260429021433",
+  "anoFundacion": 2016,
+  "descripcion": "Información de Grupo CAYENNA en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/grupocayenna",
+   "https://www.instagram.com/cayennagrupo"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "grupo_cañon",
   "tipo": "grupo",
   "nombre": "Grupo CAÑÓN",
@@ -2987,6 +3001,21 @@
   "redes": [
    "https://www.facebook.com/100063464953841",
    "https://www.instagram.com/punto_clave_grupo_musical"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "grupo_radar",
+  "tipo": "grupo",
+  "nombre": "Grupo RADAR",
+  "nombreNorm": "radar",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id273portada.jpg?lastMod=20220803175952",
+  "anoFundacion": null,
+  "descripcion": "Información de Grupo RADAR en la app Orquestas de Galicia.",
+  "redes": [
+   "https://instagram.com/grupo_radar_oficial",
+   "https://www.facebook.com/819957114761945",
+   "https://www.instagram.com/grupo_radar_oficial"
   ],
   "rankingPuesto": null
  },
