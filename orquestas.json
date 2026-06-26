@@ -1026,6 +1026,21 @@
   "rankingPuesto": null
  },
  {
+  "slug": "charanga_os-caliqueños",
+  "tipo": "charanga",
+  "nombre": "Charanga OS CALIQUEÑOS",
+  "nombreNorm": "oscaliquenos",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id618portada.jpg?lastMod=20240630173703",
+  "anoFundacion": 2014,
+  "descripcion": "Información de Charanga OS CALIQUEÑOS en la app Orquestas de Galicia.",
+  "redes": [
+   "http://twitter.com/oscaliquenos",
+   "https://www.facebook.com/oscaliquenos.charanga",
+   "https://www.instagram.com/caliquenos_charanga"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "charanga_os-celtas",
   "tipo": "charanga",
   "nombre": "Charanga OS CELTAS",
@@ -1473,6 +1488,20 @@
   "descripcion": "Información de Dúo ARCOIRIS en la app Orquestas de Galicia.",
   "redes": [
    "https://www.instagram.com/duo_arcolibi"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "duo_begoña-mazaira",
+  "tipo": "duo",
+  "nombre": "Dúo BEGOÑA MAZAIRA",
+  "nombreNorm": "begonamazaira",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id881portada.jpg?lastMod=20251003180303",
+  "anoFundacion": 2022,
+  "descripcion": "Información de Dúo BEGOÑA MAZAIRA en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/begona.mazairagomez",
+   "https://www.instagram.com/begonamazaira"
   ],
   "rankingPuesto": null
  },
