@@ -1137,6 +1137,19 @@
   "rankingPuesto": null
  },
  {
+  "slug": "disco-movil_apocalipsis",
+  "tipo": "disco-movil",
+  "nombre": "Disco Móvil APOCALIPSIS",
+  "nombreNorm": "movilapocalipsis",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id1037portada.jpg?lastMod=20250805162451",
+  "anoFundacion": 2020,
+  "descripcion": "Información de Disco Móvil APOCALIPSIS en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.instagram.com/apocalipsis_on_tour"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "disco-movil_boa-festa",
   "tipo": "disco-movil",
   "nombre": "Disco Móvil BOA FESTA",
@@ -1338,6 +1351,19 @@
   "descripcion": "Información de Disco Móvil MODEL MUSIC en la app Orquestas de Galicia.",
   "redes": [
    "https://www.instagram.com/djbla_s"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "disco-movil_mvp-music",
+  "tipo": "disco-movil",
+  "nombre": "Disco Móvil MVP MUSIC",
+  "nombreNorm": "movilmvpmusic",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id916portada.jpg?lastMod=20230520195552",
+  "anoFundacion": 2023,
+  "descripcion": "Información de Disco Móvil MVP MUSIC en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.instagram.com/mvpmusicdiscomovil"
   ],
   "rankingPuesto": null
  },
@@ -1602,6 +1628,20 @@
   "redes": [
    "https://www.facebook.com/duo.charada",
    "https://www.instagram.com/duocharada"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "duo_ciclon",
+  "tipo": "duo",
+  "nombre": "Dúo CICLÓN",
+  "nombreNorm": "ciclon",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id450portada.jpg?lastMod=20230707192311",
+  "anoFundacion": 2001,
+  "descripcion": "Información de Dúo CICLÓN en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/100077091472904",
+   "https://www.instagram.com/duo_ciclon"
   ],
   "rankingPuesto": null
  },
@@ -3764,6 +3804,20 @@
   "descripcion": "Información de Trío ALBA en la app Orquestas de Galicia.",
   "redes": [
    "https://www.facebook.com/Trio-Alba-1590894821170073"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "trio_alborada",
+  "tipo": "trio",
+  "nombre": "Trío ALBORADA",
+  "nombreNorm": "alborada",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id578portada.jpg?lastMod=20250607154951",
+  "anoFundacion": 2005,
+  "descripcion": "Información de Trío ALBORADA en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/250116405101694",
+   "https://www.instagram.com/alboradatriomusical"
   ],
   "rankingPuesto": null
  },
