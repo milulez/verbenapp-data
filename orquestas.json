@@ -1081,6 +1081,21 @@
   "rankingPuesto": null
  },
  {
+  "slug": "charanga_ot",
+  "tipo": "charanga",
+  "nombre": "Charanga OT",
+  "nombreNorm": "ot",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id486portada.jpg?lastMod=20250507192412",
+  "anoFundacion": 1999,
+  "descripcion": "Información de Charanga OT en la app Orquestas de Galicia.",
+  "redes": [
+   "http://twitter.com/Charangaot1999",
+   "https://www.facebook.com/CharangaOT",
+   "https://www.instagram.com/charangaot1999"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "charanga_sghae",
   "tipo": "charanga",
   "nombre": "Charanga SGHAE",
@@ -1487,6 +1502,19 @@
   "redes": [
    "https://www.facebook.com/verbenadiscomovil",
    "https://www.instagram.com/verbenadiscomovil"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "duo_acheriza2",
+  "tipo": "duo",
+  "nombre": "Dúo ACHERIZA2",
+  "nombreNorm": "acheriza2",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id818portada.jpg?lastMod=20191027214933",
+  "anoFundacion": 2019,
+  "descripcion": "Información de Dúo ACHERIZA2 en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/orquesta.ache"
   ],
   "rankingPuesto": null
  },
@@ -2022,6 +2050,20 @@
   "descripcion": "Información de Dúo XILO & CARLOS en la app Orquestas de Galicia.",
   "redes": [
    "https://www.facebook.com/100009834576890"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "duo_angel-america",
+  "tipo": "duo",
+  "nombre": "Dúo ÁNGEL AMÉRICA",
+  "nombreNorm": "angelamerica",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id988portada.jpg?lastMod=20240810120535",
+  "anoFundacion": 2015,
+  "descripcion": "Información de Dúo ÁNGEL AMÉRICA en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/cantanteangelamerica",
+   "https://www.instagram.com/angelamericad"
   ],
   "rankingPuesto": null
  },
@@ -3970,6 +4012,17 @@
   "redes": [
    "https://www.facebook.com/lanochedogrove"
   ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "trio_los-amigos-del-ritmo",
+  "tipo": "trio",
+  "nombre": "Trío LOS AMIGOS DEL RITMO",
+  "nombreNorm": "losamigosdelritmo",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id549portada.jpg?lastMod=20150227153919",
+  "anoFundacion": 2005,
+  "descripcion": "Información de Trío LOS AMIGOS DEL RITMO en la app Orquestas de Galicia.",
+  "redes": [],
   "rankingPuesto": null
  },
  {
