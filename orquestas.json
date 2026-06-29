@@ -905,6 +905,20 @@
   "rankingPuesto": null
  },
  {
+  "slug": "charanga_imperiais",
+  "tipo": "charanga",
+  "nombre": "Charanga IMPERIAIS",
+  "nombreNorm": "imperiais",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id868portada.jpg?lastMod=20250525143009",
+  "anoFundacion": 2014,
+  "descripcion": "Información de Charanga IMPERIAIS en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/imperiaistaboexa",
+   "https://www.instagram.com/imperiais_charanga"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "charanga_leña-verde",
   "tipo": "charanga",
   "nombre": "Charanga LEÑA VERDE",
