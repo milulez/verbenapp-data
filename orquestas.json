@@ -1290,6 +1290,21 @@
   "rankingPuesto": null
  },
  {
+  "slug": "disco-movil_eme-music",
+  "tipo": "disco-movil",
+  "nombre": "Disco Móvil EME MUSIC",
+  "nombreNorm": "movilememusic",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id208portada.jpg?lastMod=20240305202751",
+  "anoFundacion": 2010,
+  "descripcion": "Información de Disco Móvil EME MUSIC en la app Orquestas de Galicia.",
+  "redes": [
+   "http://twitter.com/ememusic_dmovil",
+   "https://www.facebook.com/EMeMusicDiscotecaMovil",
+   "https://www.instagram.com/eme__music"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "disco-movil_euphoria-disco-show",
   "tipo": "disco-movil",
   "nombre": "Disco Móvil EUPHORIA DISCO SHOW",
@@ -2691,6 +2706,21 @@
   "redes": [
    "https://www.facebook.com/100075850970369",
    "https://www.instagram.com/ladisqueteramusic"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "grupo_la-decada-prodigiosa",
+  "tipo": "grupo",
+  "nombre": "Grupo LA DÉCADA PRODIGIOSA",
+  "nombreNorm": "ladecadaprodigiosa",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id853portada.jpg?lastMod=20260417125645",
+  "anoFundacion": 1985,
+  "descripcion": "Información de Grupo LA DÉCADA PRODIGIOSA en la app Orquestas de Galicia.",
+  "redes": [
+   "http://twitter.com/la_decada",
+   "https://www.facebook.com/ladecadaprodigiosaofl",
+   "https://www.instagram.com/ladecadaprodigiosa_oficial"
   ],
   "rankingPuesto": null
  },
