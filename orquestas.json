@@ -29,20 +29,6 @@
   "rankingPuesto": 2
  },
  {
-  "slug": "orquesta_los-satelites",
-  "tipo": "orquesta",
-  "nombre": "Orquesta LOS SATÉLITES",
-  "nombreNorm": "lossatelites",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id78portada.jpg?lastMod=20251218221615",
-  "anoFundacion": 1938,
-  "descripcion": "Información de Orquesta LOS SATÉLITES en la app Orquestas de Galicia.",
-  "redes": [
-   "https://www.facebook.com/214553955265629",
-   "https://www.instagram.com/orquesta_lossatelites"
-  ],
-  "rankingPuesto": 3
- },
- {
   "slug": "orquesta_el-combo-dominicano",
   "tipo": "orquesta",
   "nombre": "Orquesta EL COMBO DOMINICANO",
@@ -54,6 +40,20 @@
    "http://twitter.com/ComboDominicano",
    "https://www.facebook.com/ElComboDominicano",
    "https://www.instagram.com/elcombodominicano"
+  ],
+  "rankingPuesto": 3
+ },
+ {
+  "slug": "orquesta_los-satelites",
+  "tipo": "orquesta",
+  "nombre": "Orquesta LOS SATÉLITES",
+  "nombreNorm": "lossatelites",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id78portada.jpg?lastMod=20251218221615",
+  "anoFundacion": 1938,
+  "descripcion": "Información de Orquesta LOS SATÉLITES en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/214553955265629",
+   "https://www.instagram.com/orquesta_lossatelites"
   ],
   "rankingPuesto": 4
  },
@@ -73,6 +73,20 @@
   "rankingPuesto": 5
  },
  {
+  "slug": "orquesta_panorama-city",
+  "tipo": "orquesta",
+  "nombre": "Orquesta PANORAMA CITY",
+  "nombreNorm": "panoramacity",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id999portada.jpg?lastMod=20260401214121",
+  "anoFundacion": 2025,
+  "descripcion": "Información de Orquesta PANORAMA CITY en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/61565125004447",
+   "https://www.instagram.com/panoramacity_oficial"
+  ],
+  "rankingPuesto": 6
+ },
+ {
   "slug": "orquesta_cinema",
   "tipo": "orquesta",
   "nombre": "Orquesta CINEMA",
@@ -85,7 +99,7 @@
    "https://www.facebook.com/459705434136708",
    "https://www.instagram.com/cinemateam_oficial"
   ],
-  "rankingPuesto": 6
+  "rankingPuesto": 7
  },
  {
   "slug": "orquesta_la-formula",
@@ -100,35 +114,7 @@
    "https://www.facebook.com/376330419198007",
    "https://www.instagram.com/orquestalaformula"
   ],
-  "rankingPuesto": 7
- },
- {
-  "slug": "orquesta_panorama-city",
-  "tipo": "orquesta",
-  "nombre": "Orquesta PANORAMA CITY",
-  "nombreNorm": "panoramacity",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id999portada.jpg?lastMod=20260401214121",
-  "anoFundacion": 2025,
-  "descripcion": "Información de Orquesta PANORAMA CITY en la app Orquestas de Galicia.",
-  "redes": [
-   "https://www.facebook.com/61565125004447",
-   "https://www.instagram.com/panoramacity_oficial"
-  ],
   "rankingPuesto": 8
- },
- {
-  "slug": "orquesta_capitol",
-  "tipo": "orquesta",
-  "nombre": "Orquesta CAPITOL",
-  "nombreNorm": "capitol",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id80portada.jpg?lastMod=20260202164426",
-  "anoFundacion": 1986,
-  "descripcion": "Información de Orquesta CAPITOL en la app Orquestas de Galicia.",
-  "redes": [
-   "https://www.facebook.com/orquesta.capitol",
-   "https://www.instagram.com/orquestacapitol"
-  ],
-  "rankingPuesto": 9
  },
  {
   "slug": "orquesta_marbella",
@@ -143,7 +129,35 @@
    "https://www.facebook.com/orquestamarbellaoficial",
    "https://www.instagram.com/orquestamarbella"
   ],
+  "rankingPuesto": 9
+ },
+ {
+  "slug": "orquesta_capitol",
+  "tipo": "orquesta",
+  "nombre": "Orquesta CAPITOL",
+  "nombreNorm": "capitol",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id80portada.jpg?lastMod=20260202164426",
+  "anoFundacion": 1986,
+  "descripcion": "Información de Orquesta CAPITOL en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/orquesta.capitol",
+   "https://www.instagram.com/orquestacapitol"
+  ],
   "rankingPuesto": 10
+ },
+ {
+  "slug": "orquesta_la-mision",
+  "tipo": "orquesta",
+  "nombre": "Orquesta LA MISIÓN",
+  "nombreNorm": "lamision",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id766portada.jpg?lastMod=20260507123636",
+  "anoFundacion": 2012,
+  "descripcion": "Información de Orquesta LA MISIÓN en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/lamision2021",
+   "https://www.instagram.com/la_mision_oficial"
+  ],
+  "rankingPuesto": 11
  },
  {
   "slug": "orquesta_new-york",
@@ -158,36 +172,7 @@
    "https://www.facebook.com/orquestanewyork",
    "https://www.instagram.com/newyork_orquestra"
   ],
-  "rankingPuesto": 11
- },
- {
-  "slug": "orquesta_la-mision",
-  "tipo": "orquesta",
-  "nombre": "Orquesta LA MISIÓN",
-  "nombreNorm": "lamision",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id766portada.jpg?lastMod=20260507123636",
-  "anoFundacion": 2012,
-  "descripcion": "Información de Orquesta LA MISIÓN en la app Orquestas de Galicia.",
-  "redes": [
-   "https://www.facebook.com/lamision2021",
-   "https://www.instagram.com/la_mision_oficial"
-  ],
   "rankingPuesto": 12
- },
- {
-  "slug": "orquesta_kubo",
-  "tipo": "orquesta",
-  "nombre": "Orquesta KUBO",
-  "nombreNorm": "kubo",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id710portada.jpg?lastMod=20260612192604",
-  "anoFundacion": 2016,
-  "descripcion": "Información de Orquesta KUBO en la app Orquestas de Galicia.",
-  "redes": [
-   "http://twitter.com/kubo_oficial",
-   "https://www.facebook.com/kubo.soy",
-   "https://www.instagram.com/kubo_soy"
-  ],
-  "rankingPuesto": 13
  },
  {
   "slug": "orquesta_gran-parada",
@@ -203,7 +188,36 @@
    "https://www.facebook.com/100091331414161",
    "https://www.instagram.com/orquestagranparada"
   ],
+  "rankingPuesto": 13
+ },
+ {
+  "slug": "orquesta_kubo",
+  "tipo": "orquesta",
+  "nombre": "Orquesta KUBO",
+  "nombreNorm": "kubo",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id710portada.jpg?lastMod=20260612192604",
+  "anoFundacion": 2016,
+  "descripcion": "Información de Orquesta KUBO en la app Orquestas de Galicia.",
+  "redes": [
+   "http://twitter.com/kubo_oficial",
+   "https://www.facebook.com/kubo.soy",
+   "https://www.instagram.com/kubo_soy"
+  ],
   "rankingPuesto": 14
+ },
+ {
+  "slug": "orquesta_origen",
+  "tipo": "orquesta",
+  "nombre": "Orquesta ORIGEN",
+  "nombreNorm": "origen",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id879portada.jpg?lastMod=20260402215924",
+  "anoFundacion": 2022,
+  "descripcion": "Información de Orquesta ORIGEN en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/grupoorigen.oficial2023",
+   "https://www.instagram.com/somosorigen.oficial"
+  ],
+  "rankingPuesto": 15
  },
  {
   "slug": "orquesta_fania-blanco-show",
@@ -218,7 +232,7 @@
    "https://www.facebook.com/869494933098549",
    "https://www.instagram.com/faniablancoshow"
   ],
-  "rankingPuesto": 15
+  "rankingPuesto": 16
  },
  {
   "slug": "orquesta_charleston-big-band",
@@ -232,21 +246,6 @@
    "http://twitter.com/BigBCharleston",
    "https://www.facebook.com/1006584632748495",
    "https://www.instagram.com/orquestacharleston"
-  ],
-  "rankingPuesto": 16
- },
- {
-  "slug": "orquesta_miramar",
-  "tipo": "orquesta",
-  "nombre": "Orquesta MIRAMAR",
-  "nombreNorm": "miramar",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id49portada.jpg?lastMod=20260508140952",
-  "anoFundacion": 1999,
-  "descripcion": "Información de Orquesta MIRAMAR en la app Orquestas de Galicia.",
-  "redes": [
-   "http://twitter.com/MiramarOrquesta",
-   "https://www.facebook.com/1405815819704324",
-   "https://www.instagram.com/miramarorquesta"
   ],
   "rankingPuesto": 17
  },
@@ -265,20 +264,6 @@
   "rankingPuesto": 18
  },
  {
-  "slug": "orquesta_origen",
-  "tipo": "orquesta",
-  "nombre": "Orquesta ORIGEN",
-  "nombreNorm": "origen",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id879portada.jpg?lastMod=20260402215924",
-  "anoFundacion": 2022,
-  "descripcion": "Información de Orquesta ORIGEN en la app Orquestas de Galicia.",
-  "redes": [
-   "https://www.facebook.com/grupoorigen.oficial2023",
-   "https://www.instagram.com/somosorigen.oficial"
-  ],
-  "rankingPuesto": 19
- },
- {
   "slug": "orquesta_saudade",
   "tipo": "orquesta",
   "nombre": "Orquesta SAUDADE",
@@ -290,19 +275,34 @@
    "https://www.facebook.com/orquesta.saudade",
    "https://www.instagram.com/orquestasaudade_oficial"
   ],
+  "rankingPuesto": 19
+ },
+ {
+  "slug": "orquesta_solara",
+  "tipo": "orquesta",
+  "nombre": "Orquesta SOLARA",
+  "nombreNorm": "solara",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id84portada.jpg?lastMod=20260611193432",
+  "anoFundacion": 1978,
+  "descripcion": "Información de Orquesta SOLARA en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/203461289241",
+   "https://www.instagram.com/orquestasolaradevigo"
+  ],
   "rankingPuesto": 20
  },
  {
-  "slug": "orquesta_trebol",
+  "slug": "orquesta_miramar",
   "tipo": "orquesta",
-  "nombre": "Orquesta TRÉBOL",
-  "nombreNorm": "trebol",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id91portada.jpg?lastMod=20240708092051",
-  "anoFundacion": 1948,
-  "descripcion": "Información de Orquesta TRÉBOL en la app Orquestas de Galicia.",
+  "nombre": "Orquesta MIRAMAR",
+  "nombreNorm": "miramar",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id49portada.jpg?lastMod=20260508140952",
+  "anoFundacion": 1999,
+  "descripcion": "Información de Orquesta MIRAMAR en la app Orquestas de Galicia.",
   "redes": [
-   "https://www.facebook.com/61557004437860",
-   "https://www.instagram.com/deverbenacoatrebol"
+   "http://twitter.com/MiramarOrquesta",
+   "https://www.facebook.com/1405815819704324",
+   "https://www.instagram.com/miramarorquesta"
   ],
   "rankingPuesto": 21
  },
@@ -321,46 +321,32 @@
   "rankingPuesto": 22
  },
  {
-  "slug": "orquesta_solara",
+  "slug": "orquesta_pontevedra",
   "tipo": "orquesta",
-  "nombre": "Orquesta SOLARA",
-  "nombreNorm": "solara",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id84portada.jpg?lastMod=20260611193432",
-  "anoFundacion": 1978,
-  "descripcion": "Información de Orquesta SOLARA en la app Orquestas de Galicia.",
+  "nombre": "Orquesta PONTEVEDRA",
+  "nombreNorm": "pontevedra",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id61portada.jpg?lastMod=20260403164935",
+  "anoFundacion": 1988,
+  "descripcion": "Información de Orquesta PONTEVEDRA en la app Orquestas de Galicia.",
   "redes": [
-   "https://www.facebook.com/203461289241",
-   "https://www.instagram.com/orquestasolaradevigo"
+   "https://www.facebook.com/61557068404133",
+   "https://www.instagram.com/orquestapontevedra_oficial"
   ],
   "rankingPuesto": 23
  },
  {
-  "slug": "orquesta_acordes",
+  "slug": "orquesta_trebol",
   "tipo": "orquesta",
-  "nombre": "Orquesta ACORDES",
-  "nombreNorm": "acordes",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id139portada.jpg?lastMod=20260529111127",
-  "anoFundacion": 1988,
-  "descripcion": "Información de Orquesta ACORDES en la app Orquestas de Galicia.",
+  "nombre": "Orquesta TRÉBOL",
+  "nombreNorm": "trebol",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id91portada.jpg?lastMod=20240708092051",
+  "anoFundacion": 1948,
+  "descripcion": "Información de Orquesta TRÉBOL en la app Orquestas de Galicia.",
   "redes": [
-   "https://www.facebook.com/1583141845267768",
-   "https://www.instagram.com/orquestaacordes"
+   "https://www.facebook.com/61557004437860",
+   "https://www.instagram.com/deverbenacoatrebol"
   ],
   "rankingPuesto": 24
- },
- {
-  "slug": "orquesta_armonia-show",
-  "tipo": "orquesta",
-  "nombre": "Orquesta ARMONÍA SHOW",
-  "nombreNorm": "armoniashow",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id10portada.jpg?lastMod=20260510134027",
-  "anoFundacion": 1978,
-  "descripcion": "Información de Orquesta ARMONÍA SHOW en la app Orquestas de Galicia.",
-  "redes": [
-   "https://www.facebook.com/orquestaarmonia.show",
-   "https://www.instagram.com/armonia_show_oficial"
-  ],
-  "rankingPuesto": 25
  },
  {
   "slug": "orquesta_panama",
@@ -375,21 +361,7 @@
    "https://www.facebook.com/239487086175372",
    "https://www.instagram.com/orquestapanama_oficial"
   ],
-  "rankingPuesto": 26
- },
- {
-  "slug": "orquesta_compostela",
-  "tipo": "orquesta",
-  "nombre": "Orquesta COMPOSTELA",
-  "nombreNorm": "compostela",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id83portada.jpg?lastMod=20260402192656",
-  "anoFundacion": 1919,
-  "descripcion": "Información de Orquesta COMPOSTELA en la app Orquestas de Galicia.",
-  "redes": [
-   "https://www.facebook.com/100087638101688",
-   "https://www.instagram.com/orquestacompostela_oficial"
-  ],
-  "rankingPuesto": 27
+  "rankingPuesto": 25
  },
  {
   "slug": "orquesta_tango",
@@ -403,7 +375,21 @@
    "https://www.facebook.com/orquestatango",
    "https://www.instagram.com/orquestatango"
   ],
-  "rankingPuesto": 28
+  "rankingPuesto": 26
+ },
+ {
+  "slug": "orquesta_acordes",
+  "tipo": "orquesta",
+  "nombre": "Orquesta ACORDES",
+  "nombreNorm": "acordes",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id139portada.jpg?lastMod=20260529111127",
+  "anoFundacion": 1988,
+  "descripcion": "Información de Orquesta ACORDES en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/1583141845267768",
+   "https://www.instagram.com/orquestaacordes"
+  ],
+  "rankingPuesto": 27
  },
  {
   "slug": "orquesta_principal",
@@ -416,6 +402,20 @@
   "redes": [
    "https://www.facebook.com/280596262123611",
    "https://www.instagram.com/orquestraprincipal"
+  ],
+  "rankingPuesto": 28
+ },
+ {
+  "slug": "orquesta_ritmo-joven",
+  "tipo": "orquesta",
+  "nombre": "Orquesta RITMO JOVEN",
+  "nombreNorm": "ritmojoven",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id82portada.jpg?lastMod=20240425215852",
+  "anoFundacion": 1986,
+  "descripcion": "Información de Orquesta RITMO JOVEN en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/1707808022806683",
+   "https://www.instagram.com/orquestaritmojoven"
   ],
   "rankingPuesto": 29
  },
@@ -434,32 +434,88 @@
   "rankingPuesto": 30
  },
  {
-  "slug": "orquesta_ritmo-joven",
+  "slug": "orquesta_compostela",
   "tipo": "orquesta",
-  "nombre": "Orquesta RITMO JOVEN",
-  "nombreNorm": "ritmojoven",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id82portada.jpg?lastMod=20240425215852",
-  "anoFundacion": 1986,
-  "descripcion": "Información de Orquesta RITMO JOVEN en la app Orquestas de Galicia.",
+  "nombre": "Orquesta COMPOSTELA",
+  "nombreNorm": "compostela",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id83portada.jpg?lastMod=20260402192656",
+  "anoFundacion": 1919,
+  "descripcion": "Información de Orquesta COMPOSTELA en la app Orquestas de Galicia.",
   "redes": [
-   "https://www.facebook.com/1707808022806683",
-   "https://www.instagram.com/orquestaritmojoven"
+   "https://www.facebook.com/100087638101688",
+   "https://www.instagram.com/orquestacompostela_oficial"
   ],
   "rankingPuesto": 31
  },
  {
-  "slug": "orquesta_nuevo-tango",
+  "slug": "orquesta_salsarena",
   "tipo": "orquesta",
-  "nombre": "Orquesta NUEVO TANGO",
-  "nombreNorm": "nuevotango",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id1048portada.jpg?lastMod=20260518142155",
-  "anoFundacion": 2025,
-  "descripcion": "Información de Orquesta NUEVO TANGO en la app Orquestas de Galicia.",
+  "nombre": "Orquesta SALSARENA",
+  "nombreNorm": "salsarena",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id559portada.jpg?lastMod=20260529111544",
+  "anoFundacion": 2015,
+  "descripcion": "Información de Orquesta SALSARENA en la app Orquestas de Galicia.",
   "redes": [
-   "https://www.facebook.com/61580750501119",
-   "https://www.instagram.com/orquestanuevotango"
+   "https://www.facebook.com/938761199475973",
+   "https://www.instagram.com/orquestasalsarena"
   ],
   "rankingPuesto": 32
+ },
+ {
+  "slug": "orquesta_armonia-show",
+  "tipo": "orquesta",
+  "nombre": "Orquesta ARMONÍA SHOW",
+  "nombreNorm": "armoniashow",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id10portada.jpg?lastMod=20260510134027",
+  "anoFundacion": 1978,
+  "descripcion": "Información de Orquesta ARMONÍA SHOW en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/orquestaarmonia.show",
+   "https://www.instagram.com/armonia_show_oficial"
+  ],
+  "rankingPuesto": 33
+ },
+ {
+  "slug": "orquesta_fuego",
+  "tipo": "orquesta",
+  "nombre": "Orquesta FUEGO",
+  "nombreNorm": "fuego",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id826portada.jpg?lastMod=20260301120729",
+  "anoFundacion": 2020,
+  "descripcion": "Información de Orquesta FUEGO en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/110740288319651",
+   "https://www.instagram.com/orquestafuegogalicia"
+  ],
+  "rankingPuesto": 34
+ },
+ {
+  "slug": "orquesta_suavecito",
+  "tipo": "orquesta",
+  "nombre": "Orquesta SUAVECITO",
+  "nombreNorm": "suavecito",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id92portada.jpg?lastMod=20250630235724",
+  "anoFundacion": 1978,
+  "descripcion": "Información de Orquesta SUAVECITO en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/suavecito.orquesta",
+   "https://www.instagram.com/orquestasuavecitooficial"
+  ],
+  "rankingPuesto": 35
+ },
+ {
+  "slug": "orquesta_cuarta-calle",
+  "tipo": "orquesta",
+  "nombre": "Orquesta CUARTA CALLE",
+  "nombreNorm": "cuartacalle",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id406portada.jpg?lastMod=20260327004331",
+  "anoFundacion": 2011,
+  "descripcion": "Información de Orquesta CUARTA CALLE en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/orquestacuartacalle2022",
+   "https://www.instagram.com/orquestacuartacalle"
+  ],
+  "rankingPuesto": 36
  },
  {
   "slug": "orquesta_la-ocaband",
@@ -474,7 +530,35 @@
    "https://www.facebook.com/orquestalaocaband",
    "https://www.instagram.com/orquestalaocaband"
   ],
-  "rankingPuesto": 33
+  "rankingPuesto": 38
+ },
+ {
+  "slug": "orquesta_nuevo-tango",
+  "tipo": "orquesta",
+  "nombre": "Orquesta NUEVO TANGO",
+  "nombreNorm": "nuevotango",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id1048portada.jpg?lastMod=20260518142155",
+  "anoFundacion": 2025,
+  "descripcion": "Información de Orquesta NUEVO TANGO en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/61580750501119",
+   "https://www.instagram.com/orquestanuevotango"
+  ],
+  "rankingPuesto": 39
+ },
+ {
+  "slug": "orquesta_escaparate",
+  "tipo": "orquesta",
+  "nombre": "Orquesta ESCAPARATE",
+  "nombreNorm": "escaparate",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id172portada.jpg?lastMod=20250820212931",
+  "anoFundacion": 2010,
+  "descripcion": "Información de Orquesta ESCAPARATE en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/OrquestaEscaparateoficial",
+   "https://www.instagram.com/orquestaescaparate"
+  ],
+  "rankingPuesto": 40
  },
  {
   "slug": "orquesta_galilea",
@@ -489,49 +573,7 @@
    "https://www.facebook.com/1075517919141194",
    "https://www.instagram.com/orquestagalilea"
   ],
-  "rankingPuesto": 34
- },
- {
-  "slug": "orquesta_salsarena",
-  "tipo": "orquesta",
-  "nombre": "Orquesta SALSARENA",
-  "nombreNorm": "salsarena",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id559portada.jpg?lastMod=20260529111544",
-  "anoFundacion": 2015,
-  "descripcion": "Información de Orquesta SALSARENA en la app Orquestas de Galicia.",
-  "redes": [
-   "https://www.facebook.com/938761199475973",
-   "https://www.instagram.com/orquestasalsarena"
-  ],
-  "rankingPuesto": 35
- },
- {
-  "slug": "orquesta_pontevedra",
-  "tipo": "orquesta",
-  "nombre": "Orquesta PONTEVEDRA",
-  "nombreNorm": "pontevedra",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id61portada.jpg?lastMod=20260403164935",
-  "anoFundacion": 1988,
-  "descripcion": "Información de Orquesta PONTEVEDRA en la app Orquestas de Galicia.",
-  "redes": [
-   "https://www.facebook.com/61557068404133",
-   "https://www.instagram.com/orquestapontevedra_oficial"
-  ],
-  "rankingPuesto": 36
- },
- {
-  "slug": "orquesta_suavecito",
-  "tipo": "orquesta",
-  "nombre": "Orquesta SUAVECITO",
-  "nombreNorm": "suavecito",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id92portada.jpg?lastMod=20250630235724",
-  "anoFundacion": 1978,
-  "descripcion": "Información de Orquesta SUAVECITO en la app Orquestas de Galicia.",
-  "redes": [
-   "https://www.facebook.com/suavecito.orquesta",
-   "https://www.instagram.com/orquestasuavecitooficial"
-  ],
-  "rankingPuesto": 38
+  "rankingPuesto": 41
  },
  {
   "slug": "orquesta_magos",
@@ -544,50 +586,6 @@
   "redes": [
    "https://www.facebook.com/OrquestaMagosOficial",
    "https://www.instagram.com/orquestamagos"
-  ],
-  "rankingPuesto": 39
- },
- {
-  "slug": "orquesta_waykas",
-  "tipo": "orquesta",
-  "nombre": "Orquesta WAYKAS",
-  "nombreNorm": "waykas",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id379portada.jpg?lastMod=20251201102917",
-  "anoFundacion": 1961,
-  "descripcion": "Información de Orquesta WAYKAS en la app Orquestas de Galicia.",
-  "redes": [
-   "http://twitter.com/waykasfamily",
-   "https://www.facebook.com/waykasfamily.orquesta",
-   "https://www.instagram.com/waykas_oficial"
-  ],
-  "rankingPuesto": 40
- },
- {
-  "slug": "orquesta_marsella",
-  "tipo": "orquesta",
-  "nombre": "Orquesta MARSELLA",
-  "nombreNorm": "marsella",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id738portada.jpg?lastMod=20251009030536",
-  "anoFundacion": 2017,
-  "descripcion": "Información de Orquesta MARSELLA en la app Orquestas de Galicia.",
-  "redes": [
-   "http://twitter.com/orq_marsella",
-   "https://www.facebook.com/orquestamarsella",
-   "https://www.instagram.com/orquestamarsella"
-  ],
-  "rankingPuesto": 41
- },
- {
-  "slug": "orquesta_escaparate",
-  "tipo": "orquesta",
-  "nombre": "Orquesta ESCAPARATE",
-  "nombreNorm": "escaparate",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id172portada.jpg?lastMod=20250820212931",
-  "anoFundacion": 2010,
-  "descripcion": "Información de Orquesta ESCAPARATE en la app Orquestas de Galicia.",
-  "redes": [
-   "https://www.facebook.com/OrquestaEscaparateoficial",
-   "https://www.instagram.com/orquestaescaparate"
   ],
   "rankingPuesto": 42
  },
@@ -606,16 +604,17 @@
   "rankingPuesto": 43
  },
  {
-  "slug": "orquesta_fuego",
+  "slug": "orquesta_waykas",
   "tipo": "orquesta",
-  "nombre": "Orquesta FUEGO",
-  "nombreNorm": "fuego",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id826portada.jpg?lastMod=20260301120729",
-  "anoFundacion": 2020,
-  "descripcion": "Información de Orquesta FUEGO en la app Orquestas de Galicia.",
+  "nombre": "Orquesta WAYKAS",
+  "nombreNorm": "waykas",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id379portada.jpg?lastMod=20251201102917",
+  "anoFundacion": 1961,
+  "descripcion": "Información de Orquesta WAYKAS en la app Orquestas de Galicia.",
   "redes": [
-   "https://www.facebook.com/110740288319651",
-   "https://www.instagram.com/orquestafuegogalicia"
+   "http://twitter.com/waykasfamily",
+   "https://www.facebook.com/waykasfamily.orquesta",
+   "https://www.instagram.com/waykas_oficial"
   ],
   "rankingPuesto": 44
  },
@@ -634,20 +633,6 @@
   "rankingPuesto": 45
  },
  {
-  "slug": "orquesta_cuarta-calle",
-  "tipo": "orquesta",
-  "nombre": "Orquesta CUARTA CALLE",
-  "nombreNorm": "cuartacalle",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id406portada.jpg?lastMod=20260327004331",
-  "anoFundacion": 2011,
-  "descripcion": "Información de Orquesta CUARTA CALLE en la app Orquestas de Galicia.",
-  "redes": [
-   "https://www.facebook.com/orquestacuartacalle2022",
-   "https://www.instagram.com/orquestacuartacalle"
-  ],
-  "rankingPuesto": 46
- },
- {
   "slug": "orquesta_alabama",
   "tipo": "orquesta",
   "nombre": "Orquesta ALABAMA",
@@ -659,20 +644,34 @@
    "https://www.facebook.com/alabama.show.7",
    "https://www.instagram.com/orquestalabama"
   ],
+  "rankingPuesto": 46
+ },
+ {
+  "slug": "orquesta_marsella",
+  "tipo": "orquesta",
+  "nombre": "Orquesta MARSELLA",
+  "nombreNorm": "marsella",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id738portada.jpg?lastMod=20251009030536",
+  "anoFundacion": 2017,
+  "descripcion": "Información de Orquesta MARSELLA en la app Orquestas de Galicia.",
+  "redes": [
+   "http://twitter.com/orq_marsella",
+   "https://www.facebook.com/orquestamarsella",
+   "https://www.instagram.com/orquestamarsella"
+  ],
   "rankingPuesto": 47
  },
  {
-  "slug": "orquesta_triunfo",
+  "slug": "orquesta_alianza",
   "tipo": "orquesta",
-  "nombre": "Orquesta TRIUNFO",
-  "nombreNorm": "triunfo",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id71portada.jpg?lastMod=20260202212613",
-  "anoFundacion": 2002,
-  "descripcion": "Información de Orquesta TRIUNFO en la app Orquestas de Galicia.",
+  "nombre": "Orquesta ALIANZA",
+  "nombreNorm": "alianza",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id142portada.jpg?lastMod=20260429010605",
+  "anoFundacion": 2012,
+  "descripcion": "Información de Orquesta ALIANZA en la app Orquestas de Galicia.",
   "redes": [
-   "http://twitter.com/TriunfoGrupo1",
-   "https://www.facebook.com/orquestatriunfo",
-   "https://www.instagram.com/orquestatriunfooficial"
+   "https://www.facebook.com/orquesta.alianza",
+   "https://www.instagram.com/alianzaorquesta"
   ],
   "rankingPuesto": 48
  },
@@ -687,20 +686,6 @@
   "redes": [
    "https://www.facebook.com/OrquestaSuperTop",
    "https://www.instagram.com/supertop.orquesta"
-  ],
-  "rankingPuesto": 49
- },
- {
-  "slug": "orquesta_alianza",
-  "tipo": "orquesta",
-  "nombre": "Orquesta ALIANZA",
-  "nombreNorm": "alianza",
-  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id142portada.jpg?lastMod=20260429010605",
-  "anoFundacion": 2012,
-  "descripcion": "Información de Orquesta ALIANZA en la app Orquestas de Galicia.",
-  "redes": [
-   "https://www.facebook.com/orquesta.alianza",
-   "https://www.instagram.com/alianzaorquesta"
   ],
   "rankingPuesto": 50
  },
@@ -3611,6 +3596,21 @@
   "rankingPuesto": null
  },
  {
+  "slug": "orquesta_triunfo",
+  "tipo": "orquesta",
+  "nombre": "Orquesta TRIUNFO",
+  "nombreNorm": "triunfo",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id71portada.jpg?lastMod=20260202212613",
+  "anoFundacion": 2002,
+  "descripcion": "Información de Orquesta TRIUNFO en la app Orquestas de Galicia.",
+  "redes": [
+   "http://twitter.com/TriunfoGrupo1",
+   "https://www.facebook.com/orquestatriunfo",
+   "https://www.instagram.com/orquestatriunfooficial"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "orquesta_tucan-brass",
   "tipo": "orquesta",
   "nombre": "Orquesta TUCÁN BRASS",
@@ -3666,6 +3666,20 @@
    "http://twitter.com/BegoGarPe",
    "https://www.facebook.com/begona.garcia.106",
    "https://www.instagram.com/vocalbego"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "artista_carlos-mariano",
+  "tipo": "artista",
+  "nombre": "Solista CARLOS MARIANO",
+  "nombreNorm": "carlosmariano",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id956portada.jpg?lastMod=20240101135832",
+  "anoFundacion": 1953,
+  "descripcion": "Información de Solista CARLOS MARIANO en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/mariano.decastrosantiago",
+   "https://www.instagram.com/carlosmarianodecastro"
   ],
   "rankingPuesto": null
  },
