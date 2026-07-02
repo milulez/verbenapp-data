@@ -776,6 +776,20 @@
   "rankingPuesto": null
  },
  {
+  "slug": "charanga_charandonga",
+  "tipo": "charanga",
+  "nombre": "Charanga CHARANDONGA",
+  "nombreNorm": "charandonga",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id266portada.jpg?lastMod=20260308124228",
+  "anoFundacion": 2007,
+  "descripcion": "Información de Charanga CHARANDONGA en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/100003872126431",
+   "https://www.instagram.com/charangacharandonga"
+  ],
+  "rankingPuesto": null
+ },
+ {
   "slug": "charanga_chamalle-x",
   "tipo": "charanga",
   "nombre": "Charanga CHÁMALLE X",
@@ -3407,6 +3421,20 @@
   "redes": [
    "https://www.facebook.com/61586181724615",
    "https://www.instagram.com/orquesta_embrujo_oficial"
+  ],
+  "rankingPuesto": null
+ },
+ {
+  "slug": "orquesta_furia-joven",
+  "tipo": "orquesta",
+  "nombre": "Orquesta FURIA JOVEN",
+  "nombreNorm": "furiajoven",
+  "foto": "https://www.orquestasdegalicia.es/img/portada/orquestas/id741portada.jpg?lastMod=20260220131301",
+  "anoFundacion": 2002,
+  "descripcion": "Información de Orquesta FURIA JOVEN en la app Orquestas de Galicia.",
+  "redes": [
+   "https://www.facebook.com/100075924043551",
+   "https://www.instagram.com/orquestafuriajoven"
   ],
   "rankingPuesto": null
  },
